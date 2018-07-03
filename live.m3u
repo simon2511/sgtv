@@ -1,6 +1,6 @@
 # sgtv
 live.m3u
-#EXTINF:-1,UK@ BBC Entertainment
+#EXTINF:-1,UK@ sg BBC Entertainment
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/32935.ts
 #EXTINF:-1,UK@ BBC ONE HD London
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/31970.ts
