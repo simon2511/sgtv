@@ -1,5 +1,5 @@
 # sgtv
-live.m3u
+list1.m3u
 #EXTINF:- SGTV
 #EXTINF:-1,UK@  BBC Entertainment
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/32935.ts
