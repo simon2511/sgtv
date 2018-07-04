@@ -1,0 +1,45 @@
+# sgtv
+live.m3u
+
+#EXTINF:-1,UK@ .Sky Sports Premier League HD
+http://izgemma.ddns.net:8000/live/pedro/pedro/17554.ts
+#EXTINF:-1,UK@ ,Sky Sports Football HD
+http://izgemma.ddns.net:8000/live/pedro/pedro/17555.ts
+#EXTINF:-1,UK@ .Sky Sports Cricket HD
+http://izgemma.ddns.net:8000/live/pedro/pedro/17556.ts
+#EXTINF:-1,UK@ .Sky Sports Golf HD
+http://izgemma.ddns.net:8000/live/pedro/pedro/17147.ts
+#EXTINF:-1,UK@ .Sky Sports F1 HD
+http://izgemma.ddns.net:8000/live/pedro/pedro/17558.ts
+#EXTINF:-1,UK@ .Sky Sports Action HD
+http://izgemma.ddns.net:8000/live/pedro/pedro/17559.ts
+#EXTINF:-1,UK@ .Sky Sports Arena HD
+http://izgemma.ddns.net:8000/live/pedro/pedro/17560.ts
+#EXTINF:-1,UK@ .Sky Sports News HQ
+http://izgemma.ddns.net:8000/live/pedro/pedro/17561.ts
+#EXTINF:-1,UK@ .Eurosport 1 HD
+http://izgemma.ddns.net:8000/live/pedro/pedro/17562.ts
+#EXTINF:-1,UK@ .Eurosport 2 HD
+http://izgemma.ddns.net:8000/live/pedro/pedro/17563.ts
+#EXTINF:-1,UK@ .BT Sport 1 HD
+http://izgemma.ddns.net:8000/live/pedro/pedro/17570.ts
+#EXTINF:-1,UK@ .BT Sport 2 HD
+http://izgemma.ddns.net:8000/live/pedro/pedro/17571.ts
+#EXTINF:-1,UK@ .BT Sport 3 HD
+http://izgemma.ddns.net:8000/live/pedro/pedro/17572.ts
+#EXTINF:-1,UK@ .BT Sport Espn HD
+http://izgemma.ddns.net:8000/live/pedro/pedro/17573.ts
+#EXTINF:-1,UK@ .Premier Sports HD
+http://izgemma.ddns.net:8000/live/pedro/pedro/17574.ts
+#EXTINF:-1,UK@ .MUTV HD
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/26034.ts
+#EXTINF:-1,UK@ .Premiere Sport HD
+http://izgemma.ddns.net:8000/live/pedro/pedro/17220.ts
+#EXTINF:-1,UK@ .Racing UK HD
+http://izgemma.ddns.net:8000/live/pedro/pedro/17575.ts
+#EXTINF:-1,UK@ .BoxNation HD
+http://izgemma.ddns.net:8000/live/pedro/pedro/17576.ts
+#EXTINF:-1,UK@ .Motorsports TV HD
+http://izgemma.ddns.net:8000/live/pedro/pedro/17577.ts
+#EXTINF:-1,UK@ .Eir Sports 1 HD
+http://izgemma.ddns.net:8000/live/pedro/pedro/17578.ts
