@@ -1,510 +1,2540 @@
 # sgtv
 guide.xml
 
-<channel update="i" site="tv.sky.com" site_id="2002" xmltv_id="BBC One Lon">BBC One Lon</channel>
-    <channel update="i" site="tv.sky.com" site_id="2075" xmltv_id="BBC Two HD">BBC Two HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="6000" xmltv_id="ITV">ITV</channel>
-    <channel update="i" site="tv.sky.com" site_id="1621" xmltv_id="Channel 4">Channel 4</channel>
-    <channel update="i" site="tv.sky.com" site_id="1800" xmltv_id="Channel 5">Channel 5</channel>
-    <channel update="i" site="tv.sky.com" site_id="4061" xmltv_id="Sky1 HD">Sky1 HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4066" xmltv_id="Sky Living HD">Sky Living HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4053" xmltv_id="Sky Atlantic HD">Sky Atlantic HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="3810" xmltv_id="W HD">W HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="2304" xmltv_id="GOLD">GOLD</channel>
-    <channel update="i" site="tv.sky.com" site_id="3809" xmltv_id="Dave HD">Dave HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4056" xmltv_id="ComedyCentHD">ComedyCentHD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4080" xmltv_id="Universal HD">Universal HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4074" xmltv_id="Syfy HD">Syfy HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="2076" xmltv_id="BBC One HD">BBC One HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="2086" xmltv_id="BBC Four HD">BBC Four HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="5090" xmltv_id="London Live">London Live</channel>
-    <channel update="i" site="tv.sky.com" site_id="6532" xmltv_id="ITV2 HD">ITV2 HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="6533" xmltv_id="ITV3 HD">ITV3 HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="6534" xmltv_id="ITV4 HD">ITV4 HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4063" xmltv_id="Sky Arts HD">Sky Arts HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="2205" xmltv_id="Sky Living+1">Sky Living+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="6506" xmltv_id="ITV Encore HD">ITV Encore HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4023" xmltv_id="FOX HD">FOX HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="3812" xmltv_id="TLC HD">TLC HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="3831" xmltv_id="MTV HD">MTV HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="3802" xmltv_id="ComedyCent+1">ComedyCent+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="1813" xmltv_id="ComedyXtra">ComedyXtra</channel>
-    <channel update="i" site="tv.sky.com" site_id="1833" xmltv_id="Sky2">Sky2</channel>
-    <channel update="i" site="tv.sky.com" site_id="1403" xmltv_id="Sky1 +1">Sky1 +1</channel>
-    <channel update="i" site="tv.sky.com" site_id="6155" xmltv_id="ITV +1">ITV +1</channel>
-    <channel update="i" site="tv.sky.com" site_id="3825" xmltv_id="alibi HD">alibi HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4067" xmltv_id="Good Food HD">Good Food HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="5701" xmltv_id="S4C">S4C</channel>
-    <channel update="i" site="tv.sky.com" site_id="1670" xmltv_id="Channel 4 +1">Channel 4 +1</channel>
-    <channel update="i" site="tv.sky.com" site_id="4076" xmltv_id="E4 HD">E4 HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="3300" xmltv_id="E4+1">E4+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="4043" xmltv_id="More4 HD">More4 HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="3310" xmltv_id="More4 +1">More4 +1</channel>
-    <channel update="i" site="tv.sky.com" site_id="3150" xmltv_id="4seven">4seven</channel>
-    <channel update="i" site="tv.sky.com" site_id="2006" xmltv_id="BBC Two Eng">BBC Two Eng</channel>
-    <channel update="i" site="tv.sky.com" site_id="2012" xmltv_id="BBC ALBA">BBC ALBA</channel>
-    <channel update="i" site="tv.sky.com" site_id="2018" xmltv_id="BBC Four">BBC Four</channel>
-    <channel update="i" site="tv.sky.com" site_id="6761" xmltv_id="QUEST">QUEST</channel>
-    <channel update="i" site="tv.sky.com" site_id="2202" xmltv_id="Challenge">Challenge</channel>
-    <channel update="i" site="tv.sky.com" site_id="3352" xmltv_id="CBS Reality">CBS Reality</channel>
-    <channel update="i" site="tv.sky.com" site_id="3602" xmltv_id="CBS Reality+1">CBS Reality+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="4610" xmltv_id="CBS Action">CBS Action</channel>
-    <channel update="i" site="tv.sky.com" site_id="3617" xmltv_id="CBS Drama">CBS Drama</channel>
-    <channel update="i" site="tv.sky.com" site_id="3207" xmltv_id="Universal+1">Universal+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="4028" xmltv_id="E! HD">E! HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="1832" xmltv_id="Pick">Pick</channel>
-    <channel update="i" site="tv.sky.com" site_id="1836" xmltv_id="Pick+1">Pick+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="5451" xmltv_id="TLC+1">TLC+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="2325" xmltv_id="Really">Really</channel>
-    <channel update="i" site="tv.sky.com" site_id="3920" xmltv_id="Lifetime HD">Lifetime HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="3358" xmltv_id="Sony Channel">Sony Channel</channel>
-    <channel update="i" site="tv.sky.com" site_id="2612" xmltv_id="Drama">Drama</channel>
-    <channel update="i" site="tv.sky.com" site_id="3607" xmltv_id="ComedyXtra+1">ComedyXtra+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="1032" xmltv_id="Spike">Spike</channel>
-    <channel update="i" site="tv.sky.com" site_id="4332" xmltv_id="Challenge+1">Challenge+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="1791" xmltv_id="FOX+">FOX+</channel>
-    <channel update="i" site="tv.sky.com" site_id="2703" xmltv_id="GOLD +1">GOLD +1</channel>
-    <channel update="i" site="tv.sky.com" site_id="3618" xmltv_id="DMAX">DMAX</channel>
-    <channel update="i" site="tv.sky.com" site_id="1413" xmltv_id="Sky Atlantic+1">Sky Atlantic+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="4058" xmltv_id="Channel 5HD">Channel 5HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="2207" xmltv_id="Real Lives">Real Lives</channel>
-    <channel update="i" site="tv.sky.com" site_id="4330" xmltv_id="Real Lives+1">Real Lives+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="3022" xmltv_id="5 USA">5 USA</channel>
-    <channel update="i" site="tv.sky.com" site_id="3028" xmltv_id="Channel 5+24">Channel 5+24</channel>
-    <channel update="i" site="tv.sky.com" site_id="3023" xmltv_id="5STAR">5STAR</channel>
-    <channel update="i" site="tv.sky.com" site_id="1839" xmltv_id="Channel 5+1">Channel 5+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="6504" xmltv_id="ITV HD">ITV HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="6508" xmltv_id="ITVBe">ITVBe</channel>
-    <channel update="i" site="tv.sky.com" site_id="6241" xmltv_id="ITV2+1">ITV2+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="3216" xmltv_id="Sony Chnl +1">Sony Chnl +1</channel>
-    <channel update="i" site="tv.sky.com" site_id="3208" xmltv_id="BEN">BEN</channel>
-    <channel update="i" site="tv.sky.com" site_id="5338" xmltv_id="True Drama">True Drama</channel>
-    <channel update="i" site="tv.sky.com" site_id="4266" xmltv_id="True Ent">True Ent</channel>
-    <channel update="i" site="tv.sky.com" site_id="1048" xmltv_id="True Crime">True Crime</channel>
-    <channel update="i" site="tv.sky.com" site_id="4205" xmltv_id="True Crime +1">True Crime +1</channel>
-    <channel update="i" site="tv.sky.com" site_id="3719" xmltv_id="BET:BlackEntTv">BET:BlackEntTv</channel>
-    <channel update="i" site="tv.sky.com" site_id="1305" xmltv_id="FOX">FOX</channel>
-    <channel update="i" site="tv.sky.com" site_id="4350" xmltv_id="propeller">propeller</channel>
-    <channel update="i" site="tv.sky.com" site_id="3024" xmltv_id="5STAR +1">5STAR +1</channel>
-    <channel update="i" site="tv.sky.com" site_id="6758" xmltv_id="Irish TV">Irish TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="5036" xmltv_id="AMC from BT">AMC from BT</channel>
-    <channel update="i" site="tv.sky.com" site_id="6261" xmltv_id="ITV3+1">ITV3+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="2513" xmltv_id="Syfy +1">Syfy +1</channel>
-    <channel update="i" site="tv.sky.com" site_id="3621" xmltv_id="QUEST+1">QUEST+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="2301" xmltv_id="Home">Home</channel>
-    <channel update="i" site="tv.sky.com" site_id="5535" xmltv_id="Lifetime+1">Lifetime+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="5414" xmltv_id="tru TV">tru TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="5254" xmltv_id="YourTV">YourTV</channel>
-    <channel update="i" site="tv.sky.com" site_id="5245" xmltv_id="TLC+2">TLC+2</channel>
-    <channel update="i" site="tv.sky.com" site_id="2505" xmltv_id="Syfy">Syfy</channel>
-    <channel update="i" site="tv.sky.com" site_id="1628" xmltv_id="E4">E4</channel>
-    <channel update="i" site="tv.sky.com" site_id="3731" xmltv_id="My Channel">My Channel</channel>
-    <channel update="i" site="tv.sky.com" site_id="1842" xmltv_id="Universal">Universal</channel>
-    <channel update="i" site="tv.sky.com" site_id="2510" xmltv_id="ComedyCentral">ComedyCentral</channel>
-    <channel update="i" site="tv.sky.com" site_id="6274" xmltv_id="ITV4+1">ITV4+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="1014" xmltv_id="ITVBe+1">ITVBe+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="1007" xmltv_id="ITV Encore+1">ITV Encore+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="5358" xmltv_id="Showcase">Showcase</channel>
-    <channel update="i" site="tv.sky.com" site_id="2616" xmltv_id="W +1">W +1</channel>
-    <channel update="i" site="tv.sky.com" site_id="2320" xmltv_id="Dave ja vu">Dave ja vu</channel>
-    <channel update="i" site="tv.sky.com" site_id="1402" xmltv_id="Sky1">Sky1</channel>
-    <channel update="i" site="tv.sky.com" site_id="3108" xmltv_id="Vox Africa">Vox Africa</channel>
-    <channel update="i" site="tv.sky.com" site_id="3027" xmltv_id="5 USA +1">5 USA +1</channel>
-    <channel update="i" site="tv.sky.com" site_id="2501" xmltv_id="MTV">MTV</channel>
-    <channel update="i" site="tv.sky.com" site_id="2201" xmltv_id="Sky Living">Sky Living</channel>
-    <channel update="i" site="tv.sky.com" site_id="1412" xmltv_id="Sky Atlantic">Sky Atlantic</channel>
-    <channel update="i" site="tv.sky.com" site_id="1752" xmltv_id="Sky Arts">Sky Arts</channel>
-    <channel update="i" site="tv.sky.com" site_id="6240" xmltv_id="ITV2">ITV2</channel>
-    <channel update="i" site="tv.sky.com" site_id="2630" xmltv_id="alibi +1">alibi +1</channel>
-    <channel update="i" site="tv.sky.com" site_id="4075" xmltv_id="Channel 4 HD">Channel 4 HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="5327" xmltv_id="E! +1">E! +1</channel>
-    <channel update="i" site="tv.sky.com" site_id="3340" xmltv_id="More4">More4</channel>
-    <channel update="i" site="tv.sky.com" site_id="3406" xmltv_id="AIT Int'l">AIT Int'l</channel>
-    <channel update="i" site="tv.sky.com" site_id="1865" xmltv_id="DMAX+1">DMAX+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="5450" xmltv_id="TLC">TLC</channel>
-    <channel update="i" site="tv.sky.com" site_id="3411" xmltv_id="ABN TV">ABN TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="4320" xmltv_id="Lifetime">Lifetime</channel>
-    <channel update="i" site="tv.sky.com" site_id="5297" xmltv_id="Property Show">Property Show</channel>
-    <channel update="i" site="tv.sky.com" site_id="1360" xmltv_id="E!">E!</channel>
-    <channel update="i" site="tv.sky.com" site_id="2408" xmltv_id="Home &amp; Health">Home &amp; Health</channel>
-    <channel update="i" site="tv.sky.com" site_id="2410" xmltv_id="Home&amp;Health+">Home&amp;Health+</channel>
-    <channel update="i" site="tv.sky.com" site_id="4548" xmltv_id="Discovery Shed">Discovery Shed</channel>
-    <channel update="i" site="tv.sky.com" site_id="2326" xmltv_id="Good Food +1">Good Food +1</channel>
-    <channel update="i" site="tv.sky.com" site_id="2309" xmltv_id="Home+1">Home+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="2617" xmltv_id="W">W</channel>
-    <channel update="i" site="tv.sky.com" site_id="2306" xmltv_id="Dave">Dave</channel>
-    <channel update="i" site="tv.sky.com" site_id="2303" xmltv_id="alibi">alibi</channel>
-    <channel update="i" site="tv.sky.com" site_id="3590" xmltv_id="Food Network">Food Network</channel>
-    <channel update="i" site="tv.sky.com" site_id="5607" xmltv_id="Travel Channel">Travel Channel</channel>
-    <channel update="i" site="tv.sky.com" site_id="3592" xmltv_id="Food Netwrk+1">Food Netwrk+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="5617" xmltv_id="Travel Ch +1">Travel Ch +1</channel>
-    <channel update="i" site="tv.sky.com" site_id="1046" xmltv_id="Wellbeing">Wellbeing</channel>
-    <channel update="i" site="tv.sky.com" site_id="3001" xmltv_id="Horse &amp; Country">Horse &amp; Country</channel>
-    <channel update="i" site="tv.sky.com" site_id="2308" xmltv_id="Good Food">Good Food</channel>
-    <channel update="i" site="tv.sky.com" site_id="3583" xmltv_id="holiday+cruise">holiday+cruise</channel>
-    <channel update="i" site="tv.sky.com" site_id="5539" xmltv_id="Fashion One">Fashion One</channel>
-    <channel update="i" site="tv.sky.com" site_id="3206" xmltv_id="Showcase 3">Showcase 3</channel>
-    <channel update="i" site="tv.sky.com" site_id="6260" xmltv_id="ITV3">ITV3</channel>
-    <channel update="i" site="tv.sky.com" site_id="5415" xmltv_id="Forces TV">Forces TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="5308" xmltv_id="ShowBiz TV">ShowBiz TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="6272" xmltv_id="ITV4">ITV4</channel>
-    <channel update="i" site="tv.sky.com" site_id="6507" xmltv_id="ITV Encore">ITV Encore</channel>
-    <channel update="i" site="tv.sky.com" site_id="2515" xmltv_id="MTV+1">MTV+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="5253" xmltv_id="tru TV+1">tru TV+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="5037" xmltv_id="AMC from BTHD">AMC from BTHD</channel>
-    <channel update="i" site="tv.sky.com" site_id="1047" xmltv_id="Insight HD">Insight HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="2296" xmltv_id="S4C HD">S4C HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="1409" xmltv_id="Sky Premiere">Sky Premiere</channel>
-    <channel update="i" site="tv.sky.com" site_id="1823" xmltv_id="Sky Prem+1">Sky Prem+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="1814" xmltv_id="Sky Showcase">Sky Showcase</channel>
-    <channel update="i" site="tv.sky.com" site_id="1815" xmltv_id="Sky Superheroes">Sky Superheroes</channel>
-    <channel update="i" site="tv.sky.com" site_id="1838" xmltv_id="Sky Disney">Sky Disney</channel>
-    <channel update="i" site="tv.sky.com" site_id="1808" xmltv_id="Sky Family">Sky Family</channel>
-    <channel update="i" site="tv.sky.com" site_id="1001" xmltv_id="Sky Action">Sky Action</channel>
-    <channel update="i" site="tv.sky.com" site_id="1002" xmltv_id="Sky Comedy">Sky Comedy</channel>
-    <channel update="i" site="tv.sky.com" site_id="1818" xmltv_id="Sky Thriller">Sky Thriller</channel>
-    <channel update="i" site="tv.sky.com" site_id="1816" xmltv_id="SkyDramaRom">SkyDramaRom</channel>
-    <channel update="i" site="tv.sky.com" site_id="1807" xmltv_id="Sky ScFi/Horror">Sky ScFi/Horror</channel>
-    <channel update="i" site="tv.sky.com" site_id="1811" xmltv_id="Sky Select">Sky Select</channel>
-    <channel update="i" site="tv.sky.com" site_id="4021" xmltv_id="SkyPremiereHD">SkyPremiereHD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4044" xmltv_id="Film4 HD">Film4 HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="1629" xmltv_id="Film4 +1">Film4 +1</channel>
-    <channel update="i" site="tv.sky.com" site_id="3811" xmltv_id="TCM HD">TCM HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="5275" xmltv_id="TCM+1">TCM+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="3605" xmltv_id="horror channel">horror channel</channel>
-    <channel update="i" site="tv.sky.com" site_id="4502" xmltv_id="horror ch+1">horror ch+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="3643" xmltv_id="True Movies 1">True Movies 1</channel>
-    <channel update="i" site="tv.sky.com" site_id="3751" xmltv_id="True Movies 2">True Movies 2</channel>
-    <channel update="i" site="tv.sky.com" site_id="3709" xmltv_id="Sony Movies">Sony Movies</channel>
-    <channel update="i" site="tv.sky.com" site_id="3771" xmltv_id="Sony Movies+1">Sony Movies+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="3708" xmltv_id="movies4men">movies4men</channel>
-    <channel update="i" site="tv.sky.com" site_id="3721" xmltv_id="mov4men+1">mov4men+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="4420" xmltv_id="Movies 24">Movies 24</channel>
-    <channel update="i" site="tv.sky.com" site_id="4421" xmltv_id="Movies 24+">Movies 24+</channel>
-    <channel update="i" site="tv.sky.com" site_id="3510" xmltv_id="Nollywood">Nollywood</channel>
-    <channel update="i" site="tv.sky.com" site_id="4033" xmltv_id="Sky ShowcseHD">Sky ShowcseHD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4015" xmltv_id="SkySuprheroHD">SkySuprheroHD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4013" xmltv_id="Sky Disney HD">Sky Disney HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4018" xmltv_id="Sky Family HD">Sky Family HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4014" xmltv_id="Sky Action HD">Sky Action HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4019" xmltv_id="Sky Comedy HD">Sky Comedy HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4062" xmltv_id="Sky Thriller HD">Sky Thriller HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4016" xmltv_id="Sky DraRomHD">Sky DraRomHD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4017" xmltv_id="Sky ScFi/HorHD">Sky ScFi/HorHD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4020" xmltv_id="Sky Select HD">Sky Select HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="5605" xmltv_id="TCM">TCM</channel>
-    <channel update="i" site="tv.sky.com" site_id="1627" xmltv_id="Film4">Film4</channel>
-    <channel update="i" site="tv.sky.com" site_id="5252" xmltv_id="TalkingPictures">TalkingPictures</channel>
-    <channel update="i" site="tv.sky.com" site_id="2512" xmltv_id="MTV MUSIC">MTV MUSIC</channel>
-    <channel update="i" site="tv.sky.com" site_id="2508" xmltv_id="MTV BASE">MTV BASE</channel>
-    <channel update="i" site="tv.sky.com" site_id="2506" xmltv_id="MTV HITS">MTV HITS</channel>
-    <channel update="i" site="tv.sky.com" site_id="2511" xmltv_id="VIVA">VIVA</channel>
-    <channel update="i" site="tv.sky.com" site_id="2507" xmltv_id="MTV DANCE">MTV DANCE</channel>
-    <channel update="i" site="tv.sky.com" site_id="2503" xmltv_id="MTV ROCKS">MTV ROCKS</channel>
-    <channel update="i" site="tv.sky.com" site_id="2509" xmltv_id="MTV 90s">MTV 90s</channel>
-    <channel update="i" site="tv.sky.com" site_id="2502" xmltv_id="VH1">VH1</channel>
-    <channel update="i" site="tv.sky.com" site_id="3508" xmltv_id="MTV Music +1">MTV Music +1</channel>
-    <channel update="i" site="tv.sky.com" site_id="1874" xmltv_id="Box Upfront">Box Upfront</channel>
-    <channel update="i" site="tv.sky.com" site_id="1802" xmltv_id="The Box">The Box</channel>
-    <channel update="i" site="tv.sky.com" site_id="1350" xmltv_id="Box Hits">Box Hits</channel>
-    <channel update="i" site="tv.sky.com" site_id="1758" xmltv_id="4Music">4Music</channel>
-    <channel update="i" site="tv.sky.com" site_id="1858" xmltv_id="KISS">KISS</channel>
-    <channel update="i" site="tv.sky.com" site_id="1877" xmltv_id="Magic">Magic</channel>
-    <channel update="i" site="tv.sky.com" site_id="3505" xmltv_id="Chart Show TV">Chart Show TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="3935" xmltv_id="The Vault">The Vault</channel>
-    <channel update="i" site="tv.sky.com" site_id="4210" xmltv_id="Scuzz">Scuzz</channel>
-    <channel update="i" site="tv.sky.com" site_id="1853" xmltv_id="Kerrang!">Kerrang!</channel>
-    <channel update="i" site="tv.sky.com" site_id="3531" xmltv_id="Vintage TV">Vintage TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="3682" xmltv_id="Chilled TV">Chilled TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="3603" xmltv_id="Starz TV">Starz TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="4215" xmltv_id="Chartshw Dnce">Chartshw Dnce</channel>
-    <channel update="i" site="tv.sky.com" site_id="3781" xmltv_id="Flava">Flava</channel>
-    <channel update="i" site="tv.sky.com" site_id="4541" xmltv_id="NOW Music">NOW Music</channel>
-    <channel update="i" site="tv.sky.com" site_id="4505" xmltv_id="Clubland TV">Clubland TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="3403" xmltv_id="Channel AKA">Channel AKA</channel>
-    <channel update="i" site="tv.sky.com" site_id="4006" xmltv_id="MTV Live HD">MTV Live HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="3830" xmltv_id="Heart TV">Heart TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="2552" xmltv_id="CAPITAL TV">CAPITAL TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="4933" xmltv_id="Keep It Country">Keep It Country</channel>
-    <channel update="i" site="tv.sky.com" site_id="4049" xmltv_id="Sky SpN HQ HD">Sky SpN HQ HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4002" xmltv_id="Sky Sports 1 HD">Sky Sports 1 HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4081" xmltv_id="Sky Sports 2 HD">Sky Sports 2 HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4022" xmltv_id="Sky Sports 3 HD">Sky Sports 3 HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4026" xmltv_id="Sky Sports 4 HD">Sky Sports 4 HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4010" xmltv_id="Sky Sports 5 HD">Sky Sports 5 HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="3835" xmltv_id="Sky Spts F1 HD">Sky Spts F1 HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="1314" xmltv_id="Sky Sp NewsHQ">Sky Sp NewsHQ</channel>
-    <channel update="i" site="tv.sky.com" site_id="1301" xmltv_id="Sky Sports 1">Sky Sports 1</channel>
-    <channel update="i" site="tv.sky.com" site_id="4004" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4009" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="1726" xmltv_id="Eurosport 1">Eurosport 1</channel>
-    <channel update="i" site="tv.sky.com" site_id="3661" xmltv_id="BT Sport 1">BT Sport 1</channel>
-    <channel update="i" site="tv.sky.com" site_id="5032" xmltv_id="BT Sport Europe">BT Sport Europe</channel>
-    <channel update="i" site="tv.sky.com" site_id="1354" xmltv_id="At The Races">At The Races</channel>
-    <channel update="i" site="tv.sky.com" site_id="3663" xmltv_id="BT Sport 2">BT Sport 2</channel>
-    <channel update="i" site="tv.sky.com" site_id="1003" xmltv_id="MUTV HD">MUTV HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4038" xmltv_id="Chelsea TV HD">Chelsea TV HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="1757" xmltv_id="Chelsea TV">Chelsea TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="3141" xmltv_id="BT Sport//ESPN">BT Sport//ESPN</channel>
-    <channel update="i" site="tv.sky.com" site_id="3625" xmltv_id="BT Sport 1 HD">BT Sport 1 HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="5311" xmltv_id="Premier Sports">Premier Sports</channel>
-    <channel update="i" site="tv.sky.com" site_id="3845" xmltv_id="LFCTV HD">LFCTV HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="3636" xmltv_id="Racing UK">Racing UK</channel>
-    <channel update="i" site="tv.sky.com" site_id="3629" xmltv_id="BT Sport EurHD">BT Sport EurHD</channel>
-    <channel update="i" site="tv.sky.com" site_id="1302" xmltv_id="Sky Sports 2">Sky Sports 2</channel>
-    <channel update="i" site="tv.sky.com" site_id="1333" xmltv_id="Sky Sports 3">Sky Sports 3</channel>
-    <channel update="i" site="tv.sky.com" site_id="3417" xmltv_id="BoxNation">BoxNation</channel>
-    <channel update="i" site="tv.sky.com" site_id="1322" xmltv_id="Sky Sports 4">Sky Sports 4</channel>
-    <channel update="i" site="tv.sky.com" site_id="1303" xmltv_id="Sky Sports 5">Sky Sports 5</channel>
-    <channel update="i" site="tv.sky.com" site_id="1841" xmltv_id="Eurosport 2">Eurosport 2</channel>
-    <channel update="i" site="tv.sky.com" site_id="3735" xmltv_id="MOTORS TV UK">MOTORS TV UK</channel>
-    <channel update="i" site="tv.sky.com" site_id="1306" xmltv_id="Sky Sports F1">Sky Sports F1</channel>
-    <channel update="i" site="tv.sky.com" site_id="1834" xmltv_id="MUTV">MUTV</channel>
-    <channel update="i" site="tv.sky.com" site_id="3732" xmltv_id="LFCTV">LFCTV</channel>
-    <channel update="i" site="tv.sky.com" site_id="3627" xmltv_id="BT Sport 2 HD">BT Sport 2 HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4040" xmltv_id="BTSpt//ESPNHD">BTSpt//ESPNHD</channel>
-    <channel update="i" site="tv.sky.com" site_id="5153" xmltv_id="Premier HD">Premier HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="5229" xmltv_id="Bike">Bike</channel>
-    <channel update="i" site="tv.sky.com" site_id="5272" xmltv_id="Racing UK HD">Racing UK HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="3641" xmltv_id="FrontRunner">FrontRunner</channel>
-    <channel update="i" site="tv.sky.com" site_id="5039" xmltv_id="BoxNation HD">BoxNation HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="1034" xmltv_id="SkySpBoxOff">SkySpBoxOff</channel>
-    <channel update="i" site="tv.sky.com" site_id="1035" xmltv_id="SkySpBoxOffHD">SkySpBoxOffHD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4050" xmltv_id="Sky News HD">Sky News HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="3260" xmltv_id="Bloomberg">Bloomberg</channel>
-    <channel update="i" site="tv.sky.com" site_id="2085" xmltv_id="BBC NEWS HD">BBC NEWS HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="2072" xmltv_id="BBC Parliament">BBC Parliament</channel>
-    <channel update="i" site="tv.sky.com" site_id="3611" xmltv_id="CNBC">CNBC</channel>
-    <channel update="i" site="tv.sky.com" site_id="5602" xmltv_id="CNN">CNN</channel>
-    <channel update="i" site="tv.sky.com" site_id="3147" xmltv_id="NHK World HD">NHK World HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4604" xmltv_id="Euronews">Euronews</channel>
-    <channel update="i" site="tv.sky.com" site_id="1357" xmltv_id="FOX News">FOX News</channel>
-    <channel update="i" site="tv.sky.com" site_id="3211" xmltv_id="CCTV News">CCTV News</channel>
-    <channel update="i" site="tv.sky.com" site_id="1821" xmltv_id="NDTV 24x7">NDTV 24x7</channel>
-    <channel update="i" site="tv.sky.com" site_id="5314" xmltv_id="RT HD">RT HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4560" xmltv_id="FRANCE Eng">FRANCE Eng</channel>
-    <channel update="i" site="tv.sky.com" site_id="3107" xmltv_id="Al Jazeera Eng">Al Jazeera Eng</channel>
-    <channel update="i" site="tv.sky.com" site_id="5337" xmltv_id="CNC World">CNC World</channel>
-    <channel update="i" site="tv.sky.com" site_id="1404" xmltv_id="Sky News">Sky News</channel>
-    <channel update="i" site="tv.sky.com" site_id="5882" xmltv_id="TVC News">TVC News</channel>
-    <channel update="i" site="tv.sky.com" site_id="3213" xmltv_id="RT">RT</channel>
-    <channel update="i" site="tv.sky.com" site_id="4003" xmltv_id="Discovery HD">Discovery HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="2404" xmltv_id="Discovery+1">Discovery+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="2413" xmltv_id="ID">ID</channel>
-    <channel update="i" site="tv.sky.com" site_id="3813" xmltv_id="AnimalPlnt HD">AnimalPlnt HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="2409" xmltv_id="Disc.Turbo">Disc.Turbo</channel>
-    <channel update="i" site="tv.sky.com" site_id="2406" xmltv_id="Disc.Science">Disc.Science</channel>
-    <channel update="i" site="tv.sky.com" site_id="4031" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="1822" xmltv_id="Nat Geo+1hr">Nat Geo+1hr</channel>
-    <channel update="i" site="tv.sky.com" site_id="4025" xmltv_id="NatGeoWild HD">NatGeoWild HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4086" xmltv_id="History HD">History HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="1891" xmltv_id="History +1 hour">History +1 hour</channel>
-    <channel update="i" site="tv.sky.com" site_id="1879" xmltv_id="H2">H2</channel>
-    <channel update="i" site="tv.sky.com" site_id="4068" xmltv_id="Eden HD">Eden HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="2307" xmltv_id="Eden+1">Eden+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="5500" xmltv_id="PBS America">PBS America</channel>
-    <channel update="i" site="tv.sky.com" site_id="2407" xmltv_id="Disc.History">Disc.History</channel>
-    <channel update="i" site="tv.sky.com" site_id="3760" xmltv_id="Disc.History+1">Disc.History+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="2305" xmltv_id="YESTERDAY">YESTERDAY</channel>
-    <channel update="i" site="tv.sky.com" site_id="2615" xmltv_id="YESTERDAY+1">YESTERDAY+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="1872" xmltv_id="Community">Community</channel>
-    <channel update="i" site="tv.sky.com" site_id="1806" xmltv_id="Nat Geo">Nat Geo</channel>
-    <channel update="i" site="tv.sky.com" site_id="1847" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
-    <channel update="i" site="tv.sky.com" site_id="1875" xmltv_id="History">History</channel>
-    <channel update="i" site="tv.sky.com" site_id="1352" xmltv_id="Animal Plnt+1">Animal Plnt+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="5452" xmltv_id="ID+1">ID+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="4088" xmltv_id="Crime+Inv HD">Crime+Inv HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="3620" xmltv_id="Crime+Inv +1">Crime+Inv +1</channel>
-    <channel update="i" site="tv.sky.com" site_id="1448" xmltv_id="Crime+Inv">Crime+Inv</channel>
-    <channel update="i" site="tv.sky.com" site_id="1351" xmltv_id="Disc.Sci+1">Disc.Sci+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="2401" xmltv_id="Discovery">Discovery</channel>
-    <channel update="i" site="tv.sky.com" site_id="2402" xmltv_id="Animal Planet">Animal Planet</channel>
-    <channel update="i" site="tv.sky.com" site_id="2302" xmltv_id="Eden">Eden</channel>
-    <channel update="i" site="tv.sky.com" site_id="2011" xmltv_id="BBC NEWS">BBC NEWS</channel>
-    <channel update="i" site="tv.sky.com" site_id="5530" xmltv_id="BON TV">BON TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="5881" xmltv_id="TVC News +1">TVC News +1</channel>
-    <channel update="i" site="tv.sky.com" site_id="5520" xmltv_id="Channels 24">Channels 24</channel>
-    <channel update="i" site="tv.sky.com" site_id="5040" xmltv_id="Times Now">Times Now</channel>
-    <channel update="i" site="tv.sky.com" site_id="5521" xmltv_id="News18">News18</channel>
-    <channel update="i" site="tv.sky.com" site_id="3105" xmltv_id="GOD Channel">GOD Channel</channel>
-    <channel update="i" site="tv.sky.com" site_id="3116" xmltv_id="revelation">revelation</channel>
-    <channel update="i" site="tv.sky.com" site_id="3109" xmltv_id="TBN UK">TBN UK</channel>
-    <channel update="i" site="tv.sky.com" site_id="5541" xmltv_id="DAYSTAR HD">DAYSTAR HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="3219" xmltv_id="Inspiration">Inspiration</channel>
-    <channel update="i" site="tv.sky.com" site_id="4245" xmltv_id="LOVEWORLD TV">LOVEWORLD TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="6548" xmltv_id="Gospel Channel">Gospel Channel</channel>
-    <channel update="i" site="tv.sky.com" site_id="3205" xmltv_id="Word Network">Word Network</channel>
-    <channel update="i" site="tv.sky.com" site_id="3117" xmltv_id="EWTN Catholic">EWTN Catholic</channel>
-    <channel update="i" site="tv.sky.com" site_id="4404" xmltv_id="Faith World TV">Faith World TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="3776" xmltv_id="KICC TV">KICC TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="3648" xmltv_id="Believe TV">Believe TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="3604" xmltv_id="Olive TV">Olive TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="3392" xmltv_id="SonLife">SonLife</channel>
-    <channel update="i" site="tv.sky.com" site_id="5354" xmltv_id="Flow TV">Flow TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="1004" xmltv_id="Hillsong">Hillsong</channel>
-    <channel update="i" site="tv.sky.com" site_id="4077" xmltv_id="Cartoon Net HD">Cartoon Net HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="5610" xmltv_id="CN+1">CN+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="4030" xmltv_id="Boomerang HD">Boomerang HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="4069" xmltv_id="NickelodeonHD">NickelodeonHD</channel>
-    <channel update="i" site="tv.sky.com" site_id="1845" xmltv_id="Nickelodeon+1">Nickelodeon+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="1849" xmltv_id="Nicktoons">Nicktoons</channel>
-    <channel update="i" site="tv.sky.com" site_id="4070" xmltv_id="Disney XD HD">Disney XD HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="1844" xmltv_id="Disney XD+1">Disney XD+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="4071" xmltv_id="Disney Chnl HD">Disney Chnl HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="1882" xmltv_id="Disney Chnl+1">Disney Chnl+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="4073" xmltv_id="Disney Jnr HD">Disney Jnr HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="1890" xmltv_id="Disney Junior+">Disney Junior+</channel>
-    <channel update="i" site="tv.sky.com" site_id="2078" xmltv_id="CBBC HD">CBBC HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="2088" xmltv_id="CBeebies HD">CBeebies HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="1857" xmltv_id="Nick Jr.">Nick Jr.</channel>
-    <channel update="i" site="tv.sky.com" site_id="3750" xmltv_id="POP">POP</channel>
-    <channel update="i" site="tv.sky.com" site_id="3780" xmltv_id="Tiny Pop">Tiny Pop</channel>
-    <channel update="i" site="tv.sky.com" site_id="5603" xmltv_id="Boomerang +1">Boomerang +1</channel>
-    <channel update="i" site="tv.sky.com" site_id="1371" xmltv_id="Cartoonito">Cartoonito</channel>
-    <channel update="i" site="tv.sky.com" site_id="4340" xmltv_id="Nick Jr Too">Nick Jr Too</channel>
-    <channel update="i" site="tv.sky.com" site_id="6273" xmltv_id="CITV">CITV</channel>
-    <channel update="i" site="tv.sky.com" site_id="1843" xmltv_id="Disney XD">Disney XD</channel>
-    <channel update="i" site="tv.sky.com" site_id="3645" xmltv_id="BabyTV">BabyTV</channel>
-    <channel update="i" site="tv.sky.com" site_id="2019" xmltv_id="CBeebies">CBeebies</channel>
-    <channel update="i" site="tv.sky.com" site_id="4261" xmltv_id="Tiny Pop +1">Tiny Pop +1</channel>
-    <channel update="i" site="tv.sky.com" site_id="4216" xmltv_id="POP+1">POP+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="4262" xmltv_id="Kix">Kix</channel>
-    <channel update="i" site="tv.sky.com" site_id="1884" xmltv_id="Disney Junior">Disney Junior</channel>
-    <channel update="i" site="tv.sky.com" site_id="4263" xmltv_id="Kix+1">Kix+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="5089" xmltv_id="Nick Jr+1">Nick Jr+1</channel>
-    <channel update="i" site="tv.sky.com" site_id="1881" xmltv_id="Disney Chnl">Disney Chnl</channel>
-    <channel update="i" site="tv.sky.com" site_id="1846" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel update="i" site="tv.sky.com" site_id="2020" xmltv_id="CBBC">CBBC</channel>
-    <channel update="i" site="tv.sky.com" site_id="5601" xmltv_id="Cartoon Netwrk">Cartoon Netwrk</channel>
-    <channel update="i" site="tv.sky.com" site_id="5609" xmltv_id="Boomerang">Boomerang</channel>
-    <channel update="i" site="tv.sky.com" site_id="5907" xmltv_id="QVC">QVC</channel>
-    <channel update="i" site="tv.sky.com" site_id="5761" xmltv_id="JML Direct">JML Direct</channel>
-    <channel update="i" site="tv.sky.com" site_id="1033" xmltv_id="TJC">TJC</channel>
-    <channel update="i" site="tv.sky.com" site_id="3351" xmltv_id="GR SHOP">GR SHOP</channel>
-    <channel update="i" site="tv.sky.com" site_id="5900" xmltv_id="Ideal World">Ideal World</channel>
-    <channel update="i" site="tv.sky.com" site_id="3010" xmltv_id="Gems TV">Gems TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="3580" xmltv_id="Tristar">Tristar</channel>
-    <channel update="i" site="tv.sky.com" site_id="5608" xmltv_id="Retail TV">Retail TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="5706" xmltv_id="High Street TV">High Street TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="4100" xmltv_id="Best Direct">Best Direct</channel>
-    <channel update="i" site="tv.sky.com" site_id="5707" xmltv_id="TJC Choice">TJC Choice</channel>
-    <channel update="i" site="tv.sky.com" site_id="5740" xmltv_id="Ideal Extra">Ideal Extra</channel>
-    <channel update="i" site="tv.sky.com" site_id="5212" xmltv_id="High Street TV 2">High Street TV 2</channel>
-    <channel update="i" site="tv.sky.com" site_id="3357" xmltv_id="Hochanda">Hochanda</channel>
-    <channel update="i" site="tv.sky.com" site_id="3354" xmltv_id="Jewelry Maker">Jewelry Maker</channel>
-    <channel update="i" site="tv.sky.com" site_id="3404" xmltv_id="High Street TV 3">High Street TV 3</channel>
-    <channel update="i" site="tv.sky.com" site_id="3632" xmltv_id="TV Warehouse">TV Warehouse</channel>
-    <channel update="i" site="tv.sky.com" site_id="4105" xmltv_id="QVC Beauty">QVC Beauty</channel>
-    <channel update="i" site="tv.sky.com" site_id="3800" xmltv_id="PaversShoes.tv">PaversShoes.tv</channel>
-    <channel update="i" site="tv.sky.com" site_id="3805" xmltv_id="Thane">Thane</channel>
-    <channel update="i" site="tv.sky.com" site_id="4360" xmltv_id="V Channel">V Channel</channel>
-    <channel update="i" site="tv.sky.com" site_id="3353" xmltv_id="Rocks &amp; Co 1">Rocks &amp; Co 1</channel>
-    <channel update="i" site="tv.sky.com" site_id="3359" xmltv_id="QVC Extra">QVC Extra</channel>
-    <channel update="i" site="tv.sky.com" site_id="5741" xmltv_id="Create &amp; Craft">Create &amp; Craft</channel>
-    <channel update="i" site="tv.sky.com" site_id="3012" xmltv_id="Craft Extra">Craft Extra</channel>
-    <channel update="i" site="tv.sky.com" site_id="3525" xmltv_id="The Dept Store">The Dept Store</channel>
-    <channel update="i" site="tv.sky.com" site_id="3585" xmltv_id="The Mall">The Mall</channel>
-    <channel update="i" site="tv.sky.com" site_id="4410" xmltv_id="QVC Style">QVC Style</channel>
-    <channel update="i" site="tv.sky.com" site_id="5296" xmltv_id="Craft Channel">Craft Channel</channel>
-    <channel update="i" site="tv.sky.com" site_id="5703" xmltv_id="B4U Movies">B4U Movies</channel>
-    <channel update="i" site="tv.sky.com" site_id="5708" xmltv_id="B4U Music">B4U Music</channel>
-    <channel update="i" site="tv.sky.com" site_id="2601" xmltv_id="SONY TV Asia">SONY TV Asia</channel>
-    <channel update="i" site="tv.sky.com" site_id="3608" xmltv_id="Star Life OK">Star Life OK</channel>
-    <channel update="i" site="tv.sky.com" site_id="5300" xmltv_id="Star Plus HD">Star Plus HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="3258" xmltv_id="PCNE Chinese">PCNE Chinese</channel>
-    <channel update="i" site="tv.sky.com" site_id="3714" xmltv_id="COLORS">COLORS</channel>
-    <channel update="i" site="tv.sky.com" site_id="3201" xmltv_id="mta-muslim tv">mta-muslim tv</channel>
-    <channel update="i" site="tv.sky.com" site_id="2607" xmltv_id="Zee TV">Zee TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="2606" xmltv_id="Zing">Zing</channel>
-    <channel update="i" site="tv.sky.com" site_id="2608" xmltv_id="Zee Cinema">Zee Cinema</channel>
-    <channel update="i" site="tv.sky.com" site_id="4753" xmltv_id="ARY Digital">ARY Digital</channel>
-    <channel update="i" site="tv.sky.com" site_id="3000" xmltv_id="PTV Prime">PTV Prime</channel>
-    <channel update="i" site="tv.sky.com" site_id="3401" xmltv_id="MATV National">MATV National</channel>
-    <channel update="i" site="tv.sky.com" site_id="3209" xmltv_id="Abu Dhabi TV">Abu Dhabi TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="5050" xmltv_id="&amp;tv HD">&amp;tv HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="1805" xmltv_id="TV5 MONDE">TV5 MONDE</channel>
-    <channel update="i" site="tv.sky.com" site_id="3251" xmltv_id="UMP Movies">UMP Movies</channel>
-    <channel update="i" site="tv.sky.com" site_id="2603" xmltv_id="SONY MAX">SONY MAX</channel>
-    <channel update="i" site="tv.sky.com" site_id="3609" xmltv_id="DM Plus TV">DM Plus TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="4549" xmltv_id="Hidayat TV">Hidayat TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="3412" xmltv_id="TV Record">TV Record</channel>
-    <channel update="i" site="tv.sky.com" site_id="3806" xmltv_id="ARY News">ARY News</channel>
-    <channel update="i" site="tv.sky.com" site_id="3646" xmltv_id="PTV Global">PTV Global</channel>
-    <channel update="i" site="tv.sky.com" site_id="4265" xmltv_id="ARY QTV">ARY QTV</channel>
-    <channel update="i" site="tv.sky.com" site_id="3720" xmltv_id="Venus TV">Venus TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="3214" xmltv_id="Islam Channel">Islam Channel</channel>
-    <channel update="i" site="tv.sky.com" site_id="4110" xmltv_id="GEO TV">GEO TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="3612" xmltv_id="Star Jalsha">Star Jalsha</channel>
-    <channel update="i" site="tv.sky.com" site_id="3613" xmltv_id="Star GOLD">Star GOLD</channel>
-    <channel update="i" site="tv.sky.com" site_id="3631" xmltv_id="SONY SAB">SONY SAB</channel>
-    <channel update="i" site="tv.sky.com" site_id="5416" xmltv_id="ABP News">ABP News</channel>
-    <channel update="i" site="tv.sky.com" site_id="3715" xmltv_id="Noor TV">Noor TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="3704" xmltv_id="Peace TV">Peace TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="3815" xmltv_id="CHSTV">CHSTV</channel>
-    <channel update="i" site="tv.sky.com" site_id="5715" xmltv_id="PTC PUNJABI">PTC PUNJABI</channel>
-    <channel update="i" site="tv.sky.com" site_id="4402" xmltv_id="GEO TEZ">GEO TEZ</channel>
-    <channel update="i" site="tv.sky.com" site_id="4407" xmltv_id="GEO News">GEO News</channel>
-    <channel update="i" site="tv.sky.com" site_id="3255" xmltv_id="AAJ TAK">AAJ TAK</channel>
-    <channel update="i" site="tv.sky.com" site_id="6754" xmltv_id="IQRA TV">IQRA TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="4504" xmltv_id="Ummah CH">Ummah CH</channel>
-    <channel update="i" site="tv.sky.com" site_id="3820" xmltv_id="Bangla TV">Bangla TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="3916" xmltv_id="Rishtey">Rishtey</channel>
-    <channel update="i" site="tv.sky.com" site_id="4403" xmltv_id="Glory TV">Glory TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="3653" xmltv_id="Brit Asia TV">Brit Asia TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="3914" xmltv_id="IQRA BANGLA">IQRA BANGLA</channel>
-    <channel update="i" site="tv.sky.com" site_id="6765" xmltv_id="Ahlebait TV">Ahlebait TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="6753" xmltv_id="ATN Bangla UK">ATN Bangla UK</channel>
-    <channel update="i" site="tv.sky.com" site_id="4460" xmltv_id="Madani Chnl">Madani Chnl</channel>
-    <channel update="i" site="tv.sky.com" site_id="3650" xmltv_id="Sikh Channel">Sikh Channel</channel>
-    <channel update="i" site="tv.sky.com" site_id="3224" xmltv_id="Peace TV Urdu">Peace TV Urdu</channel>
-    <channel update="i" site="tv.sky.com" site_id="3701" xmltv_id="Ahlulbayt TV">Ahlulbayt TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="3722" xmltv_id="Samaa">Samaa</channel>
-    <channel update="i" site="tv.sky.com" site_id="4102" xmltv_id="Channel i">Channel i</channel>
-    <channel update="i" site="tv.sky.com" site_id="4408" xmltv_id="Takbeer TV">Takbeer TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="2602" xmltv_id="Zee Punjabi">Zee Punjabi</channel>
-    <channel update="i" site="tv.sky.com" site_id="3355" xmltv_id="Sangat">Sangat</channel>
-    <channel update="i" site="tv.sky.com" site_id="3594" xmltv_id="Aastha">Aastha</channel>
-    <channel update="i" site="tv.sky.com" site_id="4540" xmltv_id="NTV">NTV</channel>
-    <channel update="i" site="tv.sky.com" site_id="1771" xmltv_id="Star Plus">Star Plus</channel>
-    <channel update="i" site="tv.sky.com" site_id="4645" xmltv_id="SkyNws Arabia">SkyNws Arabia</channel>
-    <channel update="i" site="tv.sky.com" site_id="5285" xmltv_id="TV 99">TV 99</channel>
-    <channel update="i" site="tv.sky.com" site_id="5087" xmltv_id="Akaal Channel">Akaal Channel</channel>
-    <channel update="i" site="tv.sky.com" site_id="5205" xmltv_id="HUM EUROPE">HUM EUROPE</channel>
-    <channel update="i" site="tv.sky.com" site_id="5417" xmltv_id="British Muslim">British Muslim</channel>
-    <channel update="i" site="tv.sky.com" site_id="5217" xmltv_id="Safeer TV">Safeer TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="5426" xmltv_id="TV One">TV One</channel>
-    <channel update="i" site="tv.sky.com" site_id="1038" xmltv_id="Dunya News">Dunya News</channel>
-    <channel update="i" site="tv.sky.com" site_id="5211" xmltv_id="Islam Ch Urdu">Islam Ch Urdu</channel>
-    <channel update="i" site="tv.sky.com" site_id="2609" xmltv_id="&amp;TV">&amp;TV</channel>
-    <channel update="i" site="tv.sky.com" site_id="5359" xmltv_id="Muslim Ummah">Muslim Ummah</channel>
-    <channel update="i" site="tv.sky.com" site_id="5228" xmltv_id="Al Arabiya">Al Arabiya</channel>
-    <channel update="i" site="tv.sky.com" site_id="3414" xmltv_id="TV Record HD">TV Record HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="3111" xmltv_id="Eman Channel">Eman Channel</channel>
-    <channel update="i" site="tv.sky.com" site_id="3606" xmltv_id="Gay Network">Gay Network</channel>
-    <channel update="i" site="tv.sky.com" site_id="3407" xmltv_id="Chat Box">Chat Box</channel>
-    <channel update="i" site="tv.sky.com" site_id="3415" xmltv_id="Psychic Today">Psychic Today</channel>
-    <channel update="i" site="tv.sky.com" site_id="4101" xmltv_id="Sky Insider HD">Sky Insider HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="2082" xmltv_id="BBC One ScotHD">BBC One ScotHD</channel>
-    <channel update="i" site="tv.sky.com" site_id="2083" xmltv_id="BBC One Wal HD">BBC One Wal HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="2081" xmltv_id="BBC One NI HD">BBC One NI HD</channel>
-    <channel update="i" site="tv.sky.com" site_id="2155" xmltv_id="BBC One NE&amp;C">BBC One NE&amp;C</channel>
-    <channel update="i" site="tv.sky.com" site_id="2104" xmltv_id="BBC One Yorks">BBC One Yorks</channel>
-    <channel update="i" site="tv.sky.com" site_id="2103" xmltv_id="BBC One Yk&amp;Li">BBC One Yk&amp;Li</channel>
-    <channel update="i" site="tv.sky.com" site_id="2102" xmltv_id="BBC One N West">BBC One N West</channel>
-    <channel update="i" site="tv.sky.com" site_id="2101" xmltv_id="BBC One W Mid">BBC One W Mid</channel>
-    <channel update="i" site="tv.sky.com" site_id="2105" xmltv_id="BBC One E Mid">BBC One E Mid</channel>
-    <channel update="i" site="tv.sky.com" site_id="2106" xmltv_id="BBC One East E">BBC One East E</channel>
-    <channel update="i" site="tv.sky.com" site_id="2073" xmltv_id="BBC One East W">BBC One East W</channel>
-    <channel update="i" site="tv.sky.com" site_id="2152" xmltv_id="BBC One S East">BBC One S East</channel>
-    <channel update="i" site="tv.sky.com" site_id="2153" xmltv_id="BBC One South">BBC One South</channel>
-    <channel update="i" site="tv.sky.com" site_id="2156" xmltv_id="BBC One Oxford">BBC One Oxford</channel>
-    <channel update="i" site="tv.sky.com" site_id="2151" xmltv_id="BBC One West">BBC One West</channel>
-    <channel update="i" site="tv.sky.com" site_id="2154" xmltv_id="BBC One S West">BBC One S West</channel>
-    <channel update="i" site="tv.sky.com" site_id="2074" xmltv_id="BBC One CI">BBC One CI</channel>
-    <channel update="i" site="tv.sky.com" site_id="2016" xmltv_id="BBC Two Scot">BBC Two Scot</channel>
-    <channel update="i" site="tv.sky.com" site_id="2015" xmltv_id="BBC Two Wales">BBC Two Wales</channel>
-    <channel update="i" site="tv.sky.com" site_id="2017" xmltv_id="BBC Two NI">BBC Two NI</channel>
-    <channel update="i" site="tv.sky.com" site_id="2004" xmltv_id="BBC One Scot">BBC One Scot</channel>
-    <channel update="i" site="tv.sky.com" site_id="2003" xmltv_id="BBC One Wales">BBC One Wales</channel>
-    <channel update="i" site="tv.sky.com" site_id="2005" xmltv_id="BBC One NI">BBC One NI</channel>
-    <channel update="i" site="tv.sky.com" site_id="2051" xmltv_id="BBC RB 1">BBC RB 1</channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="BBC One Lon">
+    <display-name lang="en">BBC One Lon</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2002.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC Two HD">
+    <display-name lang="en">BBC Two HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2075.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ITV">
+    <display-name lang="en">ITV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb6000.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Channel 4">
+    <display-name lang="en">Channel 4</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1621.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Channel 5">
+    <display-name lang="en">Channel 5</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1800.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky1 HD">
+    <display-name lang="en">Sky1 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4061.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Living HD">
+    <display-name lang="en">Sky Living HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4066.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Atlantic HD">
+    <display-name lang="en">Sky Atlantic HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4053.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="W HD">
+    <display-name lang="en">W HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3810.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="GOLD">
+    <display-name lang="en">GOLD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2304.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Dave HD">
+    <display-name lang="en">Dave HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3809.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ComedyCentHD">
+    <display-name lang="en">ComedyCentHD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4056.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Universal HD">
+    <display-name lang="en">Universal HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4080.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Syfy HD">
+    <display-name lang="en">Syfy HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4074.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC One HD">
+    <display-name lang="en">BBC One HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2076.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC Four HD">
+    <display-name lang="en">BBC Four HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2086.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="London Live">
+    <display-name lang="en">London Live</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5090.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ITV2 HD">
+    <display-name lang="en">ITV2 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb6532.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ITV3 HD">
+    <display-name lang="en">ITV3 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb6533.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ITV4 HD">
+    <display-name lang="en">ITV4 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb6534.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Arts HD">
+    <display-name lang="en">Sky Arts HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4063.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Living+1">
+    <display-name lang="en">Sky Living+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2205.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ITV Encore HD">
+    <display-name lang="en">ITV Encore HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb6506.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="en">FOX HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4023.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="TLC HD">
+    <display-name lang="en">TLC HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3812.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="MTV HD">
+    <display-name lang="en">MTV HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3831.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ComedyCent+1">
+    <display-name lang="en">ComedyCent+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3802.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ComedyXtra">
+    <display-name lang="en">ComedyXtra</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1813.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky2">
+    <display-name lang="en">Sky2</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1833.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky1 +1">
+    <display-name lang="en">Sky1 +1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1403.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ITV +1">
+    <display-name lang="en">ITV +1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb6155.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="alibi HD">
+    <display-name lang="en">alibi HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3825.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Good Food HD">
+    <display-name lang="en">Good Food HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4067.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="S4C">
+    <display-name lang="en">S4C</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5701.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Channel 4 +1">
+    <display-name lang="en">Channel 4 +1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1670.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="E4 HD">
+    <display-name lang="en">E4 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4076.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="E4+1">
+    <display-name lang="en">E4+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3300.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="More4 HD">
+    <display-name lang="en">More4 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4043.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="More4 +1">
+    <display-name lang="en">More4 +1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3310.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="4seven">
+    <display-name lang="en">4seven</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3150.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC Two Eng">
+    <display-name lang="en">BBC Two Eng</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2006.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC ALBA">
+    <display-name lang="en">BBC ALBA</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2012.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC Four">
+    <display-name lang="en">BBC Four</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2018.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="QUEST">
+    <display-name lang="en">QUEST</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb6761.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Challenge">
+    <display-name lang="en">Challenge</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2202.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="CBS Reality">
+    <display-name lang="en">CBS Reality</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3352.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="CBS Reality+1">
+    <display-name lang="en">CBS Reality+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3602.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="CBS Action">
+    <display-name lang="en">CBS Action</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4610.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="CBS Drama">
+    <display-name lang="en">CBS Drama</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3617.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Universal+1">
+    <display-name lang="en">Universal+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3207.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="E! HD">
+    <display-name lang="en">E! HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4028.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Pick">
+    <display-name lang="en">Pick</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1832.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Pick+1">
+    <display-name lang="en">Pick+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1836.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="TLC+1">
+    <display-name lang="en">TLC+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5451.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Really">
+    <display-name lang="en">Really</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2325.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Lifetime HD">
+    <display-name lang="en">Lifetime HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3920.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sony Channel">
+    <display-name lang="en">Sony Channel</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3358.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Drama">
+    <display-name lang="en">Drama</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2612.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ComedyXtra+1">
+    <display-name lang="en">ComedyXtra+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3607.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Spike">
+    <display-name lang="en">Spike</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1032.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Challenge+1">
+    <display-name lang="en">Challenge+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4332.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="FOX+">
+    <display-name lang="en">FOX+</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1791.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="GOLD +1">
+    <display-name lang="en">GOLD +1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2703.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="DMAX">
+    <display-name lang="en">DMAX</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3618.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Atlantic+1">
+    <display-name lang="en">Sky Atlantic+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1413.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Channel 5HD">
+    <display-name lang="en">Channel 5HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4058.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Real Lives">
+    <display-name lang="en">Real Lives</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2207.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Real Lives+1">
+    <display-name lang="en">Real Lives+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4330.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="5 USA">
+    <display-name lang="en">5 USA</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3022.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Channel 5+24">
+    <display-name lang="en">Channel 5+24</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3028.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="5STAR">
+    <display-name lang="en">5STAR</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3023.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Channel 5+1">
+    <display-name lang="en">Channel 5+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1839.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ITV HD">
+    <display-name lang="en">ITV HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb6504.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ITVBe">
+    <display-name lang="en">ITVBe</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb6508.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ITV2+1">
+    <display-name lang="en">ITV2+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb6241.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sony Chnl +1">
+    <display-name lang="en">Sony Chnl +1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3216.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BEN">
+    <display-name lang="en">BEN</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3208.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="True Drama">
+    <display-name lang="en">True Drama</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5338.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="True Ent">
+    <display-name lang="en">True Ent</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4266.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="True Crime">
+    <display-name lang="en">True Crime</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1048.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="True Crime +1">
+    <display-name lang="en">True Crime +1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4205.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BET:BlackEntTv">
+    <display-name lang="en">BET:BlackEntTv</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3719.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="en">FOX</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1305.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="propeller">
+    <display-name lang="en">propeller</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4350.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="5STAR +1">
+    <display-name lang="en">5STAR +1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3024.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Irish TV">
+    <display-name lang="en">Irish TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb6758.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="AMC from BT">
+    <display-name lang="en">AMC from BT</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5036.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ITV3+1">
+    <display-name lang="en">ITV3+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb6261.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Syfy +1">
+    <display-name lang="en">Syfy +1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2513.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="QUEST+1">
+    <display-name lang="en">QUEST+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3621.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Home">
+    <display-name lang="en">Home</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2301.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Lifetime+1">
+    <display-name lang="en">Lifetime+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5535.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="tru TV">
+    <display-name lang="en">tru TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5414.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="YourTV">
+    <display-name lang="en">YourTV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5254.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="TLC+2">
+    <display-name lang="en">TLC+2</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5245.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Syfy">
+    <display-name lang="en">Syfy</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2505.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="E4">
+    <display-name lang="en">E4</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1628.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="My Channel">
+    <display-name lang="en">My Channel</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3731.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Universal">
+    <display-name lang="en">Universal</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1842.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ComedyCentral">
+    <display-name lang="en">ComedyCentral</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2510.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ITV4+1">
+    <display-name lang="en">ITV4+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb6274.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ITVBe+1">
+    <display-name lang="en">ITVBe+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1014.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ITV Encore+1">
+    <display-name lang="en">ITV Encore+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1007.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Showcase">
+    <display-name lang="en">Showcase</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5358.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="W +1">
+    <display-name lang="en">W +1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2616.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Dave ja vu">
+    <display-name lang="en">Dave ja vu</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2320.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky1">
+    <display-name lang="en">Sky1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1402.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Vox Africa">
+    <display-name lang="en">Vox Africa</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3108.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="5 USA +1">
+    <display-name lang="en">5 USA +1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3027.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="en">MTV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2501.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Living">
+    <display-name lang="en">Sky Living</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2201.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Atlantic">
+    <display-name lang="en">Sky Atlantic</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1412.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Arts">
+    <display-name lang="en">Sky Arts</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1752.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ITV2">
+    <display-name lang="en">ITV2</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb6240.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="alibi +1">
+    <display-name lang="en">alibi +1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2630.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Channel 4 HD">
+    <display-name lang="en">Channel 4 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4075.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="E! +1">
+    <display-name lang="en">E! +1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5327.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="More4">
+    <display-name lang="en">More4</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3340.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="AIT Int'l">
+    <display-name lang="en">AIT Int'l</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="DMAX+1">
+    <display-name lang="en">DMAX+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1865.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="en">TLC</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5450.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ABN TV">
+    <display-name lang="en">ABN TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3411.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Lifetime">
+    <display-name lang="en">Lifetime</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4320.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Property Show">
+    <display-name lang="en">Property Show</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5297.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="E!">
+    <display-name lang="en">E!</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1360.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Home &amp; Health">
+    <display-name lang="en">Home &amp; Health</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2408.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Home&amp;Health+">
+    <display-name lang="en">Home&amp;Health+</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2410.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Discovery Shed">
+    <display-name lang="en">Discovery Shed</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4548.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Good Food +1">
+    <display-name lang="en">Good Food +1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2326.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Home+1">
+    <display-name lang="en">Home+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2309.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="W">
+    <display-name lang="en">W</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2617.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Dave">
+    <display-name lang="en">Dave</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2306.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="alibi">
+    <display-name lang="en">alibi</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2303.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Food Network">
+    <display-name lang="en">Food Network</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3590.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Travel Channel">
+    <display-name lang="en">Travel Channel</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5607.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Food Netwrk+1">
+    <display-name lang="en">Food Netwrk+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3592.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Travel Ch +1">
+    <display-name lang="en">Travel Ch +1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5617.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Wellbeing">
+    <display-name lang="en">Wellbeing</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1046.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Horse &amp; Country">
+    <display-name lang="en">Horse &amp; Country</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3001.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Good Food">
+    <display-name lang="en">Good Food</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2308.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="holiday+cruise">
+    <display-name lang="en">holiday+cruise</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3583.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Fashion One">
+    <display-name lang="en">Fashion One</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5539.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Showcase 3">
+    <display-name lang="en">Showcase 3</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3206.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ITV3">
+    <display-name lang="en">ITV3</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb6260.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Forces TV">
+    <display-name lang="en">Forces TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5415.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ShowBiz TV">
+    <display-name lang="en">ShowBiz TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5308.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ITV4">
+    <display-name lang="en">ITV4</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb6272.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ITV Encore">
+    <display-name lang="en">ITV Encore</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb6507.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="MTV+1">
+    <display-name lang="en">MTV+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2515.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="tru TV+1">
+    <display-name lang="en">tru TV+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5253.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="AMC from BTHD">
+    <display-name lang="en">AMC from BTHD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5037.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Insight HD">
+    <display-name lang="en">Insight HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1047.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="S4C HD">
+    <display-name lang="en">S4C HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2296.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Premiere">
+    <display-name lang="en">Sky Premiere</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1409.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Prem+1">
+    <display-name lang="en">Sky Prem+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1823.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Showcase">
+    <display-name lang="en">Sky Showcase</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1814.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Superheroes">
+    <display-name lang="en">Sky Superheroes</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1815.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Disney">
+    <display-name lang="en">Sky Disney</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1838.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Family">
+    <display-name lang="en">Sky Family</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1808.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Action">
+    <display-name lang="en">Sky Action</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1001.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Comedy">
+    <display-name lang="en">Sky Comedy</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1002.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Thriller">
+    <display-name lang="en">Sky Thriller</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1818.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkyDramaRom">
+    <display-name lang="en">SkyDramaRom</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1816.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky ScFi/Horror">
+    <display-name lang="en">Sky ScFi/Horror</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1807.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Select">
+    <display-name lang="en">Sky Select</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1811.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkyPremiereHD">
+    <display-name lang="en">SkyPremiereHD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4021.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Film4 HD">
+    <display-name lang="en">Film4 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4044.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Film4 +1">
+    <display-name lang="en">Film4 +1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1629.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="TCM HD">
+    <display-name lang="en">TCM HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3811.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="TCM+1">
+    <display-name lang="en">TCM+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5275.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="horror channel">
+    <display-name lang="en">horror channel</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3605.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="horror ch+1">
+    <display-name lang="en">horror ch+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4502.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="True Movies 1">
+    <display-name lang="en">True Movies 1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3643.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="True Movies 2">
+    <display-name lang="en">True Movies 2</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3751.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sony Movies">
+    <display-name lang="en">Sony Movies</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3709.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sony Movies+1">
+    <display-name lang="en">Sony Movies+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3771.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="movies4men">
+    <display-name lang="en">movies4men</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3708.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="mov4men+1">
+    <display-name lang="en">mov4men+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3721.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Movies 24">
+    <display-name lang="en">Movies 24</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4420.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Movies 24+">
+    <display-name lang="en">Movies 24+</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4421.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Nollywood">
+    <display-name lang="en">Nollywood</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3510.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky ShowcseHD">
+    <display-name lang="en">Sky ShowcseHD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4033.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkySuprheroHD">
+    <display-name lang="en">SkySuprheroHD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4015.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Disney HD">
+    <display-name lang="en">Sky Disney HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4013.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Family HD">
+    <display-name lang="en">Sky Family HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4018.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Action HD">
+    <display-name lang="en">Sky Action HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4014.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Comedy HD">
+    <display-name lang="en">Sky Comedy HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4019.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Thriller HD">
+    <display-name lang="en">Sky Thriller HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4062.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky DraRomHD">
+    <display-name lang="en">Sky DraRomHD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4016.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky ScFi/HorHD">
+    <display-name lang="en">Sky ScFi/HorHD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4017.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Select HD">
+    <display-name lang="en">Sky Select HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4020.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="en">TCM</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5605.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Film4">
+    <display-name lang="en">Film4</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1627.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="TalkingPictures">
+    <display-name lang="en">TalkingPictures</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5252.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="MTV MUSIC">
+    <display-name lang="en">MTV MUSIC</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2512.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="MTV BASE">
+    <display-name lang="en">MTV BASE</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2508.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="MTV HITS">
+    <display-name lang="en">MTV HITS</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2506.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="VIVA">
+    <display-name lang="en">VIVA</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2511.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="MTV DANCE">
+    <display-name lang="en">MTV DANCE</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2507.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="MTV ROCKS">
+    <display-name lang="en">MTV ROCKS</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2503.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="MTV 90s">
+    <display-name lang="en">MTV 90s</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2509.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="VH1">
+    <display-name lang="en">VH1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2502.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="MTV Music +1">
+    <display-name lang="en">MTV Music +1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3508.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Box Upfront">
+    <display-name lang="en">Box Upfront</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1874.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="The Box">
+    <display-name lang="en">The Box</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1802.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Box Hits">
+    <display-name lang="en">Box Hits</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1350.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="4Music">
+    <display-name lang="en">4Music</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1758.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="KISS">
+    <display-name lang="en">KISS</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1858.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Magic">
+    <display-name lang="en">Magic</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1877.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Chart Show TV">
+    <display-name lang="en">Chart Show TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3505.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="The Vault">
+    <display-name lang="en">The Vault</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3935.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Scuzz">
+    <display-name lang="en">Scuzz</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4210.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Kerrang!">
+    <display-name lang="en">Kerrang!</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1853.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Vintage TV">
+    <display-name lang="en">Vintage TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3531.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Chilled TV">
+    <display-name lang="en">Chilled TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3682.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Starz TV">
+    <display-name lang="en">Starz TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3603.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Chartshw Dnce">
+    <display-name lang="en">Chartshw Dnce</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4215.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Flava">
+    <display-name lang="en">Flava</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3781.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="NOW Music">
+    <display-name lang="en">NOW Music</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4541.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Clubland TV">
+    <display-name lang="en">Clubland TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4505.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Channel AKA">
+    <display-name lang="en">Channel AKA</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3403.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="MTV Live HD">
+    <display-name lang="en">MTV Live HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4006.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Heart TV">
+    <display-name lang="en">Heart TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3830.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="CAPITAL TV">
+    <display-name lang="en">CAPITAL TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2552.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Keep It Country">
+    <display-name lang="en">Keep It Country</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4933.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky SpN HQ HD">
+    <display-name lang="en">Sky SpN HQ HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4049.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Sports 1 HD">
+    <display-name lang="en">Sky Sports 1 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4002.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Sports 2 HD">
+    <display-name lang="en">Sky Sports 2 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4081.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Sports 3 HD">
+    <display-name lang="en">Sky Sports 3 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4022.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Sports 4 HD">
+    <display-name lang="en">Sky Sports 4 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4026.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Sports 5 HD">
+    <display-name lang="en">Sky Sports 5 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4010.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Spts F1 HD">
+    <display-name lang="en">Sky Spts F1 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3835.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Sp NewsHQ">
+    <display-name lang="en">Sky Sp NewsHQ</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1314.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Sports 1">
+    <display-name lang="en">Sky Sports 1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1301.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Eurosport 1 HD">
+    <display-name lang="en">Eurosport 1 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4004.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Eurosport 2 HD">
+    <display-name lang="en">Eurosport 2 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4009.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Eurosport 1">
+    <display-name lang="en">Eurosport 1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1726.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BT Sport 1">
+    <display-name lang="en">BT Sport 1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3661.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BT Sport Europe">
+    <display-name lang="en">BT Sport Europe</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5032.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="At The Races">
+    <display-name lang="en">At The Races</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1354.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BT Sport 2">
+    <display-name lang="en">BT Sport 2</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3663.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="MUTV HD">
+    <display-name lang="en">MUTV HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1003.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Chelsea TV HD">
+    <display-name lang="en">Chelsea TV HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4038.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Chelsea TV">
+    <display-name lang="en">Chelsea TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1757.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BT Sport//ESPN">
+    <display-name lang="en">BT Sport//ESPN</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3141.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BT Sport 1 HD">
+    <display-name lang="en">BT Sport 1 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3625.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Premier Sports">
+    <display-name lang="en">Premier Sports</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5311.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="LFCTV HD">
+    <display-name lang="en">LFCTV HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3845.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Racing UK">
+    <display-name lang="en">Racing UK</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3636.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BT Sport EurHD">
+    <display-name lang="en">BT Sport EurHD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3629.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Sports 2">
+    <display-name lang="en">Sky Sports 2</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1302.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Sports 3">
+    <display-name lang="en">Sky Sports 3</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1333.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BoxNation">
+    <display-name lang="en">BoxNation</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3417.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Sports 4">
+    <display-name lang="en">Sky Sports 4</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1322.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Sports 5">
+    <display-name lang="en">Sky Sports 5</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1303.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="en">Eurosport 2</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1841.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="MOTORS TV UK">
+    <display-name lang="en">MOTORS TV UK</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3735.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Sports F1">
+    <display-name lang="en">Sky Sports F1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1306.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="MUTV">
+    <display-name lang="en">MUTV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1834.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="LFCTV">
+    <display-name lang="en">LFCTV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3732.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BT Sport 2 HD">
+    <display-name lang="en">BT Sport 2 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3627.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BTSpt//ESPNHD">
+    <display-name lang="en">BTSpt//ESPNHD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4040.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Premier HD">
+    <display-name lang="en">Premier HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5153.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Bike">
+    <display-name lang="en">Bike</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5229.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Racing UK HD">
+    <display-name lang="en">Racing UK HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5272.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="FrontRunner">
+    <display-name lang="en">FrontRunner</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3641.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BoxNation HD">
+    <display-name lang="en">BoxNation HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5039.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkySpBoxOff">
+    <display-name lang="en">SkySpBoxOff</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1034.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkySpBoxOffHD">
+    <display-name lang="en">SkySpBoxOffHD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1035.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky News HD">
+    <display-name lang="en">Sky News HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4050.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Bloomberg">
+    <display-name lang="en">Bloomberg</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3260.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC NEWS HD">
+    <display-name lang="en">BBC NEWS HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2085.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC Parliament">
+    <display-name lang="en">BBC Parliament</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2072.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="CNBC">
+    <display-name lang="en">CNBC</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3611.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="en">CNN</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5602.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="NHK World HD">
+    <display-name lang="en">NHK World HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3147.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Euronews">
+    <display-name lang="en">Euronews</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4604.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="FOX News">
+    <display-name lang="en">FOX News</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1357.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="CCTV News">
+    <display-name lang="en">CCTV News</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3211.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="NDTV 24x7">
+    <display-name lang="en">NDTV 24x7</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1821.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="RT HD">
+    <display-name lang="en">RT HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5314.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="FRANCE Eng">
+    <display-name lang="en">FRANCE Eng</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4560.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Al Jazeera Eng">
+    <display-name lang="en">Al Jazeera Eng</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3107.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="CNC World">
+    <display-name lang="en">CNC World</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5337.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky News">
+    <display-name lang="en">Sky News</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1404.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="TVC News">
+    <display-name lang="en">TVC News</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5882.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="RT">
+    <display-name lang="en">RT</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3213.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Discovery HD">
+    <display-name lang="en">Discovery HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4003.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Discovery+1">
+    <display-name lang="en">Discovery+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2404.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ID">
+    <display-name lang="en">ID</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2413.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="AnimalPlnt HD">
+    <display-name lang="en">AnimalPlnt HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3813.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Disc.Turbo">
+    <display-name lang="en">Disc.Turbo</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2409.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Disc.Science">
+    <display-name lang="en">Disc.Science</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2406.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Nat Geo HD">
+    <display-name lang="en">Nat Geo HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4031.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Nat Geo+1hr">
+    <display-name lang="en">Nat Geo+1hr</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1822.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="NatGeoWild HD">
+    <display-name lang="en">NatGeoWild HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4025.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="History HD">
+    <display-name lang="en">History HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4086.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="History +1 hour">
+    <display-name lang="en">History +1 hour</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1891.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="H2">
+    <display-name lang="en">H2</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1879.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Eden HD">
+    <display-name lang="en">Eden HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4068.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Eden+1">
+    <display-name lang="en">Eden+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2307.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="PBS America">
+    <display-name lang="en">PBS America</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5500.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Disc.History">
+    <display-name lang="en">Disc.History</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2407.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Disc.History+1">
+    <display-name lang="en">Disc.History+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3760.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="YESTERDAY">
+    <display-name lang="en">YESTERDAY</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2305.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="YESTERDAY+1">
+    <display-name lang="en">YESTERDAY+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2615.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Community">
+    <display-name lang="en">Community</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1872.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Nat Geo">
+    <display-name lang="en">Nat Geo</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1806.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Nat Geo Wild">
+    <display-name lang="en">Nat Geo Wild</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1847.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="History">
+    <display-name lang="en">History</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1875.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Animal Plnt+1">
+    <display-name lang="en">Animal Plnt+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1352.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ID+1">
+    <display-name lang="en">ID+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5452.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Crime+Inv HD">
+    <display-name lang="en">Crime+Inv HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4088.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Crime+Inv +1">
+    <display-name lang="en">Crime+Inv +1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3620.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Crime+Inv">
+    <display-name lang="en">Crime+Inv</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1448.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Disc.Sci+1">
+    <display-name lang="en">Disc.Sci+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1351.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Discovery">
+    <display-name lang="en">Discovery</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2401.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="en">Animal Planet</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2402.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Eden">
+    <display-name lang="en">Eden</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2302.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC NEWS">
+    <display-name lang="en">BBC NEWS</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2011.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BON TV">
+    <display-name lang="en">BON TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5530.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="TVC News +1">
+    <display-name lang="en">TVC News +1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5881.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Channels 24">
+    <display-name lang="en">Channels 24</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5520.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Times Now">
+    <display-name lang="en">Times Now</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5040.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="News18">
+    <display-name lang="en">News18</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5521.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="GOD Channel">
+    <display-name lang="en">GOD Channel</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3105.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="revelation">
+    <display-name lang="en">revelation</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3116.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="TBN UK">
+    <display-name lang="en">TBN UK</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3109.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="DAYSTAR HD">
+    <display-name lang="en">DAYSTAR HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5541.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Inspiration">
+    <display-name lang="en">Inspiration</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3219.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="LOVEWORLD TV">
+    <display-name lang="en">LOVEWORLD TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4245.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Gospel Channel">
+    <display-name lang="en">Gospel Channel</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb6548.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Word Network">
+    <display-name lang="en">Word Network</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3205.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="EWTN Catholic">
+    <display-name lang="en">EWTN Catholic</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3117.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Faith World TV">
+    <display-name lang="en">Faith World TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4404.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="KICC TV">
+    <display-name lang="en">KICC TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3776.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Believe TV">
+    <display-name lang="en">Believe TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3648.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Olive TV">
+    <display-name lang="en">Olive TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3604.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SonLife">
+    <display-name lang="en">SonLife</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3392.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Flow TV">
+    <display-name lang="en">Flow TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5354.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Hillsong">
+    <display-name lang="en">Hillsong</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1004.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Cartoon Net HD">
+    <display-name lang="en">Cartoon Net HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4077.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="CN+1">
+    <display-name lang="en">CN+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5610.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Boomerang HD">
+    <display-name lang="en">Boomerang HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4030.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="NickelodeonHD">
+    <display-name lang="en">NickelodeonHD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4069.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Nickelodeon+1">
+    <display-name lang="en">Nickelodeon+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1845.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Nicktoons">
+    <display-name lang="en">Nicktoons</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1849.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Disney XD HD">
+    <display-name lang="en">Disney XD HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4070.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Disney XD+1">
+    <display-name lang="en">Disney XD+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1844.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Disney Chnl HD">
+    <display-name lang="en">Disney Chnl HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4071.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Disney Chnl+1">
+    <display-name lang="en">Disney Chnl+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1882.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Disney Jnr HD">
+    <display-name lang="en">Disney Jnr HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4073.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Disney Junior+">
+    <display-name lang="en">Disney Junior+</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1890.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="CBBC HD">
+    <display-name lang="en">CBBC HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2078.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="CBeebies HD">
+    <display-name lang="en">CBeebies HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2088.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Nick Jr.">
+    <display-name lang="en">Nick Jr.</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1857.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="POP">
+    <display-name lang="en">POP</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3750.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Tiny Pop">
+    <display-name lang="en">Tiny Pop</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3780.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Boomerang +1">
+    <display-name lang="en">Boomerang +1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5603.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Cartoonito">
+    <display-name lang="en">Cartoonito</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1371.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Nick Jr Too">
+    <display-name lang="en">Nick Jr Too</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4340.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="CITV">
+    <display-name lang="en">CITV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb6273.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="en">Disney XD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1843.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BabyTV">
+    <display-name lang="en">BabyTV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3645.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="CBeebies">
+    <display-name lang="en">CBeebies</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2019.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Tiny Pop +1">
+    <display-name lang="en">Tiny Pop +1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4261.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="POP+1">
+    <display-name lang="en">POP+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4216.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Kix">
+    <display-name lang="en">Kix</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4262.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="en">Disney Junior</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1884.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Kix+1">
+    <display-name lang="en">Kix+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4263.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Nick Jr+1">
+    <display-name lang="en">Nick Jr+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5089.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Disney Chnl">
+    <display-name lang="en">Disney Chnl</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1881.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="en">Nickelodeon</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1846.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="CBBC">
+    <display-name lang="en">CBBC</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2020.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Cartoon Netwrk">
+    <display-name lang="en">Cartoon Netwrk</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5601.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="en">Boomerang</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5609.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="QVC">
+    <display-name lang="en">QVC</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5907.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="JML Direct">
+    <display-name lang="en">JML Direct</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5761.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="TJC">
+    <display-name lang="en">TJC</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1033.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="GR SHOP">
+    <display-name lang="en">GR SHOP</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3351.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Ideal World">
+    <display-name lang="en">Ideal World</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5900.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Gems TV">
+    <display-name lang="en">Gems TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3010.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Tristar">
+    <display-name lang="en">Tristar</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3580.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Retail TV">
+    <display-name lang="en">Retail TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5608.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="High Street TV">
+    <display-name lang="en">High Street TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5706.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Best Direct">
+    <display-name lang="en">Best Direct</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4100.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="TJC Choice">
+    <display-name lang="en">TJC Choice</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5707.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Ideal Extra">
+    <display-name lang="en">Ideal Extra</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5740.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="High Street TV 2">
+    <display-name lang="en">High Street TV 2</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5212.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Hochanda">
+    <display-name lang="en">Hochanda</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3357.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Jewelry Maker">
+    <display-name lang="en">Jewelry Maker</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3354.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="High Street TV 3">
+    <display-name lang="en">High Street TV 3</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3404.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="TV Warehouse">
+    <display-name lang="en">TV Warehouse</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3632.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="QVC Beauty">
+    <display-name lang="en">QVC Beauty</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4105.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="PaversShoes.tv">
+    <display-name lang="en">PaversShoes.tv</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3800.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Thane">
+    <display-name lang="en">Thane</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3805.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="V Channel">
+    <display-name lang="en">V Channel</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4360.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Rocks &amp; Co 1">
+    <display-name lang="en">Rocks &amp; Co 1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3353.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="QVC Extra">
+    <display-name lang="en">QVC Extra</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3359.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Create &amp; Craft">
+    <display-name lang="en">Create &amp; Craft</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5741.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Craft Extra">
+    <display-name lang="en">Craft Extra</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3012.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="The Dept Store">
+    <display-name lang="en">The Dept Store</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3525.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="The Mall">
+    <display-name lang="en">The Mall</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3585.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="QVC Style">
+    <display-name lang="en">QVC Style</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4410.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Craft Channel">
+    <display-name lang="en">Craft Channel</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5296.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="B4U Movies">
+    <display-name lang="en">B4U Movies</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5703.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="B4U Music">
+    <display-name lang="en">B4U Music</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5708.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SONY TV Asia">
+    <display-name lang="en">SONY TV Asia</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2601.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Star Life OK">
+    <display-name lang="en">Star Life OK</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3608.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Star Plus HD">
+    <display-name lang="en">Star Plus HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5300.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="PCNE Chinese">
+    <display-name lang="en">PCNE Chinese</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3258.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="COLORS">
+    <display-name lang="en">COLORS</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3714.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="mta-muslim tv">
+    <display-name lang="en">mta-muslim tv</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3201.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Zee TV">
+    <display-name lang="en">Zee TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2607.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Zing">
+    <display-name lang="en">Zing</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2606.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Zee Cinema">
+    <display-name lang="en">Zee Cinema</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2608.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ARY Digital">
+    <display-name lang="en">ARY Digital</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4753.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="PTV Prime">
+    <display-name lang="en">PTV Prime</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3000.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="MATV National">
+    <display-name lang="en">MATV National</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3401.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Abu Dhabi TV">
+    <display-name lang="en">Abu Dhabi TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3209.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="&amp;tv HD">
+    <display-name lang="en">&amp;tv HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5050.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="TV5 MONDE">
+    <display-name lang="en">TV5 MONDE</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1805.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="UMP Movies">
+    <display-name lang="en">UMP Movies</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3251.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SONY MAX">
+    <display-name lang="en">SONY MAX</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2603.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="DM Plus TV">
+    <display-name lang="en">DM Plus TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3609.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Hidayat TV">
+    <display-name lang="en">Hidayat TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4549.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="TV Record">
+    <display-name lang="en">TV Record</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3412.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ARY News">
+    <display-name lang="en">ARY News</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3806.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="PTV Global">
+    <display-name lang="en">PTV Global</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3646.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ARY QTV">
+    <display-name lang="en">ARY QTV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4265.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Venus TV">
+    <display-name lang="en">Venus TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3720.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Islam Channel">
+    <display-name lang="en">Islam Channel</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3214.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="GEO TV">
+    <display-name lang="en">GEO TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4110.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Star Jalsha">
+    <display-name lang="en">Star Jalsha</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3612.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Star GOLD">
+    <display-name lang="en">Star GOLD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3613.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SONY SAB">
+    <display-name lang="en">SONY SAB</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3631.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ABP News">
+    <display-name lang="en">ABP News</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5416.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Noor TV">
+    <display-name lang="en">Noor TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3715.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Peace TV">
+    <display-name lang="en">Peace TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3704.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="CHSTV">
+    <display-name lang="en">CHSTV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3815.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="PTC PUNJABI">
+    <display-name lang="en">PTC PUNJABI</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5715.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="GEO TEZ">
+    <display-name lang="en">GEO TEZ</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4402.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="GEO News">
+    <display-name lang="en">GEO News</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4407.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="AAJ TAK">
+    <display-name lang="en">AAJ TAK</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3255.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="IQRA TV">
+    <display-name lang="en">IQRA TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb6754.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Ummah CH">
+    <display-name lang="en">Ummah CH</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4504.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Bangla TV">
+    <display-name lang="en">Bangla TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3820.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Rishtey">
+    <display-name lang="en">Rishtey</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3916.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Glory TV">
+    <display-name lang="en">Glory TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4403.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Brit Asia TV">
+    <display-name lang="en">Brit Asia TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3653.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="IQRA BANGLA">
+    <display-name lang="en">IQRA BANGLA</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3914.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Ahlebait TV">
+    <display-name lang="en">Ahlebait TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb6765.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ATN Bangla UK">
+    <display-name lang="en">ATN Bangla UK</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb6753.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Madani Chnl">
+    <display-name lang="en">Madani Chnl</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4460.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sikh Channel">
+    <display-name lang="en">Sikh Channel</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3650.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Peace TV Urdu">
+    <display-name lang="en">Peace TV Urdu</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3224.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Ahlulbayt TV">
+    <display-name lang="en">Ahlulbayt TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3701.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Samaa">
+    <display-name lang="en">Samaa</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3722.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Channel i">
+    <display-name lang="en">Channel i</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4102.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Takbeer TV">
+    <display-name lang="en">Takbeer TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4408.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Zee Punjabi">
+    <display-name lang="en">Zee Punjabi</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2602.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sangat">
+    <display-name lang="en">Sangat</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3355.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Aastha">
+    <display-name lang="en">Aastha</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3594.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="NTV">
+    <display-name lang="en">NTV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4540.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Star Plus">
+    <display-name lang="en">Star Plus</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1771.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkyNws Arabia">
+    <display-name lang="en">SkyNws Arabia</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4645.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="TV 99">
+    <display-name lang="en">TV 99</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5285.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Akaal Channel">
+    <display-name lang="en">Akaal Channel</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5087.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="HUM EUROPE">
+    <display-name lang="en">HUM EUROPE</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5205.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="British Muslim">
+    <display-name lang="en">British Muslim</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5417.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Safeer TV">
+    <display-name lang="en">Safeer TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5217.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="TV One">
+    <display-name lang="en">TV One</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5426.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Dunya News">
+    <display-name lang="en">Dunya News</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1038.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Islam Ch Urdu">
+    <display-name lang="en">Islam Ch Urdu</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5211.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="&amp;TV">
+    <display-name lang="en">&amp;TV</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2609.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Muslim Ummah">
+    <display-name lang="en">Muslim Ummah</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5359.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Al Arabiya">
+    <display-name lang="en">Al Arabiya</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5228.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="TV Record HD">
+    <display-name lang="en">TV Record HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3414.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Eman Channel">
+    <display-name lang="en">Eman Channel</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3111.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Gay Network">
+    <display-name lang="en">Gay Network</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3606.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Chat Box">
+    <display-name lang="en">Chat Box</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3407.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Psychic Today">
+    <display-name lang="en">Psychic Today</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3415.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Insider HD">
+    <display-name lang="en">Sky Insider HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4101.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC One ScotHD">
+    <display-name lang="en">BBC One ScotHD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2082.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC One Wal HD">
+    <display-name lang="en">BBC One Wal HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2083.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC One NI HD">
+    <display-name lang="en">BBC One NI HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2081.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC One NE&amp;C">
+    <display-name lang="en">BBC One NE&amp;C</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2155.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC One Yorks">
+    <display-name lang="en">BBC One Yorks</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2104.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC One Yk&amp;Li">
+    <display-name lang="en">BBC One Yk&amp;Li</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2103.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC One N West">
+    <display-name lang="en">BBC One N West</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2102.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC One W Mid">
+    <display-name lang="en">BBC One W Mid</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2101.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC One E Mid">
+    <display-name lang="en">BBC One E Mid</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2105.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC One East E">
+    <display-name lang="en">BBC One East E</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2106.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC One East W">
+    <display-name lang="en">BBC One East W</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2073.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC One S East">
+    <display-name lang="en">BBC One S East</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2152.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC One South">
+    <display-name lang="en">BBC One South</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2153.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC One Oxford">
+    <display-name lang="en">BBC One Oxford</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2156.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC One West">
+    <display-name lang="en">BBC One West</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2151.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC One S West">
+    <display-name lang="en">BBC One S West</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2154.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC One CI">
+    <display-name lang="en">BBC One CI</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2074.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC Two Scot">
+    <display-name lang="en">BBC Two Scot</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2016.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC Two Wales">
+    <display-name lang="en">BBC Two Wales</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2015.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC Two NI">
+    <display-name lang="en">BBC Two NI</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2017.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC One Scot">
+    <display-name lang="en">BBC One Scot</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2004.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC One Wales">
+    <display-name lang="en">BBC One Wales</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2003.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC One NI">
+    <display-name lang="en">BBC One NI</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2005.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBC RB 1">
+    <display-name lang="en">BBC RB 1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb2051.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+</tv>
