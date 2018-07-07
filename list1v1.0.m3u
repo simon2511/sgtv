@@ -1,153 +1,147 @@
 # sgtv
 list1v1.0.m3u
 #EXTINF:- SGTV
-#EXTINF:-1,UK@  BBC Entertainment
+#EXTINF:BBC Entertainment
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/32935.ts
-#EXTINF:-1,UK@ BBC ONE HD London
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/31970.ts
-#EXTINF:-1,UK@ BBC ONE West Midlands
+#EXTINF:-BBC ONE 
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37460.ts
-#EXTINF:-1,UK@ BBC ONE (Backup)
+#EXTINF:-BBC ONE (Backup)
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/36497.ts
-#EXTINF:-1,UK@ BBC Two HD
+#EXTINF:-BBC Two HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/31971.ts
-#EXTINF:-1,UK@ BBC Two (Backup)
+#EXTINF:-BBC Two (Backup)
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/27023.ts
-#EXTINF:-1,UK@ ITV HD
+#EXTINF:-ITV HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/26573.ts
-#EXTINF:-1,UK@ ITV Central HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/35123.ts
-#EXTINF:-1,UK@ ITV Granada HD
+#EXTINF:-ITV Central HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/36958.ts
-#EXTINF:-1,UK@ Channel 4 HD
+#EXTINF:- Channel 4 HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/33270.ts
-#EXTINF:-1,UK@ Channel 4 (Backup)
+#EXTINF:-Channel 4 (Backup)
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37413.ts
-#EXTINF:-1,UK@ Channel 5 HD
+#EXTINF:-Channel 5 HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/31973.ts
-#EXTINF:-1,UK@ Channel 5 (Backup)
+#EXTINF:-Channel 5 (Backup)
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/29192.ts
-#EXTINF:-1,UK@ Sky One HD
+#EXTINF:-1,Sky One HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/11349.ts
-#EXTINF:-1,UK@ Sky 1 (Backup)
+#EXTINF:- Sky 1 (Backup)
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/27675.ts
-#EXTINF:-1,UK@ Sky Living HD
+#EXTINF:-Sky Living HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8143.ts
-#EXTINF:-1,UK@ Sky Living (Backup)
+#EXTINF:-Sky Living (Backup)
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37337.ts
-#EXTINF:-1,UK@ Fine Living
+#EXTINF:-Fine Living
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37338.ts
-#EXTINF:-1,UK@ Sky Atlantic HD
+#EXTINF:-Sky Atlantic HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8144.ts
-#EXTINF:-1,UK@ Sky Atlantic (Backup)
+#EXTINF:-Sky Atlantic (Backup)
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/27098.ts
-#EXTINF:-1,UK@ W HD.
+#EXTINF:-W HD.
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8145.ts
-#EXTINF:-1,UK@ Gold
+#EXTINF:-Gold
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/36517.ts
-#EXTINF:-1,UK@ Gold (Backup)
+#EXTINF:-Gold (Backup)
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/27674.ts
-#EXTINF:-1,UK@ Dave HD
+#EXTINF:-Dave HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/31974.ts
-#EXTINF:-1,UK@ Dave (Backup)
+#EXTINF:-Dave (Backup)
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37383.ts
-#EXTINF:-1,UK@ Comedy Central HD
+#EXTINF:-Comedy Central HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8148.ts
-#EXTINF:-1,UK@ MTV HD
+#EXTINF:- MTV HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8161.ts
-#EXTINF:-1,UK@ MTV (Backup)
+#EXTINF:-MTV (Backup)
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/27679.ts
-#EXTINF:-1,UK@ Comedy Central (Backup)
+#EXTINF:-Comedy Central (Backup)
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/29483.ts
-#EXTINF:-1,UK@ Universal HD
+#EXTINF:- Universal HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37160.ts
-#EXTINF:-1,UK@ Universal (Backup)
+#EXTINF:-Universal (Backup)
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/29476.ts
-#EXTINF:-1,UK@ Alibi HD
+#EXTINF:-Alibi HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37167.ts
-#EXTINF:-1,UK@ Alibi (Backup)
+#EXTINF:-Alibi (Backup)
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37384.ts
-#EXTINF:-1,UK@ Syfy HD
+#EXTINF:-Syfy HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8150.ts
-#EXTINF:-1,UK@ Syfy (Backup)
+#EXTINF:- Syfy (Backup)
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37390.ts
-#EXTINF:-1,UK@ ITV2 HD
+#EXTINF:-ITV2 HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8153.ts
-#EXTINF:-1,UK@ ITV 2 (Backup)
+#EXTINF:- ITV 2 (Backup)
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37340.ts
-#EXTINF:-1,UK@ ITV3 HD
+#EXTINF:-ITV3 HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8154.ts
-#EXTINF:-1,UK@ ITV 3 HD
+#EXTINF:- ITV 3 HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37345.ts
-#EXTINF:-1,UK@ ITV 3 (backup)
+#EXTINF:-ITV 3 (backup)
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37341.ts
-#EXTINF:-1,UK@ ITV 4 HD
+#EXTINF:-ITV 4 HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8155.ts
-#EXTINF:-1,UK@ ITV 4
+#EXTINF:-ITV 4
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/11346.ts
-#EXTINF:-1,UK@ ITV 4 (Backup)
+#EXTINF:-ITV 4 (Backup)
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37342.ts
-#EXTINF:-1,UK@ Sky Arts HD
+#EXTINF:-Sky Arts HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8156.ts
-#EXTINF:-1,UK@ Sky Arts (Backup)
+#EXTINF:-Sky Arts (Backup)
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37392.ts
-#EXTINF:-1,UK@ ITV Be HD
+#EXTINF:-ITV Be HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37412.ts
-#EXTINF:-1,UK@ FOX HD
+#EXTINF:- FOX HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/19632.ts
-#EXTINF:-1,UK@ FOX (Backup)
+#EXTINF:-FOX (Backup)
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37399.ts
-#EXTINF:-1,UK@ TLC HD
+#EXTINF:-TLC HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8160.ts
-#EXTINF:-1,UK@ TLC (BaCKUP)
+#EXTINF:-TLC (BaCKUP)
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37404.ts
-#EXTINF:-1,UK@ Good Food.
+#EXTINF:-Good Food.
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8168.ts
-#EXTINF:-1,UK@ E4 HD.
+#EXTINF:- E4 HD.
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8170.ts
-#EXTINF:-1,UK@ E4 HD
+#EXTINF:-E4 HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/27704.ts
-#EXTINF:-1,UK@ BBC Four HD
+#EXTINF:-BBC Four HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8152.ts
-#EXTINF:-1,UK@ Challenge
+#EXTINF:-Challenge
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/21112.ts
-#EXTINF:-1,UK@ CBS Reality
+#EXTINF:-CBS Reality
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/9004.ts
-#EXTINF:-1,UK@ CBS Reality (Backup)
+#EXTINF:-CBS Reality (Backup)
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/29512.ts
-#EXTINF:-1,UK@ CBS Action
+#EXTINF:-CBS Action
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/9225.ts
-#EXTINF:-1,UK@ CBS Action (Backup)
+#EXTINF:-CBS Action (Backup)
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/29513.ts
-#EXTINF:-1,UK@ CBS Drama
+#EXTINF:-CBS Drama
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/9226.ts
-#EXTINF:-1,UK@ CBS Drama (Backup)
+#EXTINF:-CBS Drama (Backup)
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/29511.ts
-#EXTINF:-1,UK@ 4 SEVEN HD
+#EXTINF:- 4 SEVEN HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37163.ts
-#EXTINF:-1,UK@ EI HD
+#EXTINF:- EI HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/9228.ts
-#EXTINF:-1,UK@ DMAX
+#EXTINF:- DMAX
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/33890.ts
-#EXTINF:-1,UK@ PicK tv
+#EXTINF:-PicK tv
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/9229.ts
-#EXTINF:-1,UK@ PicK tv (Backup)
+#EXTINF:- PicK tv (Backup)
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/29514.ts
-#EXTINF:-1,UK@ Really
+#EXTINF:-Really
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/9232.ts
-#EXTINF:-1,UK@ Lifetime HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/9233.ts
-#EXTINF:-1,UK@ Really (Backup)
+#EXTINF:-Lifetime HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37422.ts
-#EXTINF:-1,UK@ Sony Channel
+#EXTINF:-Sony Channel
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/9234.ts
-#EXTINF:-1,UK@ Drama
+#EXTINF:-Drama
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/9235.ts
-#EXTINF:-1,UK@ 5 USA
+#EXTINF:-USA
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37156.ts
-#EXTINF:-1,UK@ 5Spike
+#EXTINF:-5Spike
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/9237.ts
-#EXTINF:-1,UK@ 5 Spike (Backup)
+#EXTINF:-5 Spike (Backup)
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37420.ts
-#EXTINF:-1,UK@ Discovery Shed
+#EXTINF:-Discovery Shed
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/9238.ts
