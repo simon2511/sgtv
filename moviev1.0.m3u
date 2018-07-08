@@ -1,41 +1,41 @@
 # sgtv
 moviev1.0.m3u
 
-#EXTINF:-1,UK@ Sky Cinema Premiere HD
-http://izgemma.ddns.net:8000/live/pedro/pedro/32855.ts
-#EXTINF:-1,UK@ Sky Cinema Premier  (Backup)
-http://izgemma.ddns.net:8000/live/pedro/pedro/27090.ts
-#EXTINF:-1,UK@ Sky Cinema Drama HD
-http://izgemma.ddns.net:8000/live/pedro/pedro/21865.ts
-#EXTINF:-1,UK@ Sky Cinema Disney HD
-http://izgemma.ddns.net:8000/live/pedro/pedro/11378.ts
-#EXTINF:-1,UK@ Sky Cinema Disney  (Backup)
-http://izgemma.ddns.net:8000/live/pedro/pedro/27092.ts
-#EXTINF:-1,UK@ Sky Cinema Family HD
-http://izgemma.ddns.net:8000/live/pedro/pedro/11377.ts
-#EXTINF:-1,UK@ Sky Cinema Family  (Backup)
-http://izgemma.ddns.net:8000/live/pedro/pedro/27093.ts
-#EXTINF:-1,UK@ Sky Cinema Action HD
-http://izgemma.ddns.net:8000/live/pedro/pedro/32784.ts
-#EXTINF:-1,UK@ Sky Cinema Action  (Backup)
-http://izgemma.ddns.net:8000/live/pedro/pedro/27094.ts
-#EXTINF:-1,UK@ Sky Cinema Comedy HD
-http://izgemma.ddns.net:8000/live/pedro/pedro/11376.ts
-#EXTINF:-1,UK@ Sky Cinema Comedy (Backup)
-http://izgemma.ddns.net:8000/live/pedro/pedro/27095.ts
-#EXTINF:-1,UK@ Sky Cinema Thriller HD
-http://izgemma.ddns.net:8000/live/pedro/pedro/23804.ts
-#EXTINF:-1,UK@ Sky Cinema Thriller (Backup)
-http://izgemma.ddns.net:8000/live/pedro/pedro/27096.ts
-#EXTINF:-1,UK@ Sky Cinema Select HD
-http://izgemma.ddns.net:8000/live/pedro/pedro/32667.ts
-#EXTINF:-1,UK@ Sky Cinema Select (Backup)
-http://izgemma.ddns.net:8000/live/pedro/pedro/27097.ts
-#EXTINF:-1,UK@ Sky Cinema Sci-Fi / Horror HD
-http://izgemma.ddns.net:8000/live/pedro/pedro/13626.ts
-#EXTINF:-1,UK@ Sky Cinema Hits HD
-http://izgemma.ddns.net:8000/live/pedro/pedro/37157.ts
-#EXTINF:-1,UK@ Sky Cinema Showcase HD
-http://izgemma.ddns.net:8000/live/pedro/pedro/37274.ts
-#EXTINF:-1,UK@ Sky Cinema ScFi / Horror HD
-http://izgemma.ddns.net:8000/live/pedro/pedro/11878.ts
+#EXTINF:0 group-title="(UK) United Kingdom",B4U MOVIES | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/283.ts
+
+#EXTINF:0 group-title="(UK) United Kingdom",MOVIES 24 | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/26571.ts
+
+#EXTINF:0 group-title="(UK) United Kingdom",RETRO MOVIES | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37411.ts
+
+#EXTINF:0 group-title="(UK) United Kingdom",RISHTEY CINE PLEX | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/3603.ts
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA COMEDY | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/27095.ts
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA FAMILY | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/11377.ts
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA FAMILY | SD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/27093.ts
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA SCFI / HORROR | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/11878.ts
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA SELECT | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/32667.ts
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA SHOWCASE | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37274.ts
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA THRILLER | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/23804.ts
+
+#EXTINF:0 group-title="(UK) United Kingdom",SKY CINEMA THRILLER | SD (UK)
+http://izgemma.ddns.net:8000/live/shaun/shaun/27096.ts
+
+#EXTINF:0 group-title="(UK) United Kingdom",ZEE CINEMA | HD (UK)
+http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/11310.ts
