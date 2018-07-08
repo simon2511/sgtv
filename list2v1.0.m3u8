@@ -2,23 +2,23 @@
 list2v1.0.m3u8
 
 #EXTM3U
-#EXTINF:-1,4Music-FV
+#EXTINF:-1,4Music
 http://31.132.0.66:8000/play/a05v/index.m3u8
-#EXTINF:-1,4seven-FV
+#EXTINF:-1,4seven
 http://31.132.0.66:8000/play/a061/index.m3u8
-#EXTINF:-1,5 USA-FV
+#EXTINF:-1,5 USA
 http://31.132.0.66:8000/play/a06d/index.m3u8
-#EXTINF:-1,5 USA-FV
+#EXTINF:-1,5 USA
 http://31.132.0.66:8000/play/a05e/index.m3u8
-#EXTINF:-1,5SELECT-FV
+#EXTINF:-1,5SELECT
 http://31.132.0.66:8000/play/a06p/index.m3u8
-#EXTINF:-1,5SELECT-FV
+#EXTINF:-1,5SELECT
 http://31.132.0.66:8000/play/a05n/index.m3u8
-#EXTINF:-1,5STAR-FV
+#EXTINF:-1,5STAR
 http://31.132.0.66:8000/play/a06c/index.m3u8
-#EXTINF:-1,5STAR-FV
+#EXTINF:-1,5STAR
 http://31.132.0.66:8000/play/a05d/index.m3u8
-#EXTINF:-1,5Spike-FV
+#EXTINF:-1,5Spike
 http://31.132.0.66:8000/play/a05x/index.m3u8
 #EXTINF:-1,AMC from BT
 http://31.132.0.66:8000/play/a0e1/index.m3u8
@@ -34,43 +34,43 @@ http://31.132.0.66:8000/play/a0ax/index.m3u8
 http://31.132.0.66:8000/play/a0hi/index.m3u8
 #EXTINF:-1,B4U Music
 http://31.132.0.66:8000/play/a0hc/index.m3u8
-#EXTINF:-1,BBC Four FHD
+#EXTINF:-1,BBC Four 
 http://31.132.0.66:8000/play/a0dr/index.m3u8
-#EXTINF:-1,BBC Four FHD BU
+#EXTINF:-1,BBC Four 
 http://31.132.0.66:8000/play/a0ds/index.m3u8
-#EXTINF:-1,BBC NEWS FHD
+#EXTINF:-1,BBC NEWS
 http://31.132.0.66:8000/play/a091/index.m3u8
-#EXTINF:-1,BBC NEWS-FV
+#EXTINF:-1,BBC NEWS
 http://31.132.0.66:8000/play/a06t/index.m3u8
-#EXTINF:-1,BBC ONE HD-FV
+#EXTINF:-1,BBC ONE HD
 http://31.132.0.66:8000/play/a07r/index.m3u8
-#EXTINF:-1,BBC ONE W Mid-FV
+#EXTINF:-1,BBC ONE W Mid
 http://31.132.0.66:8000/play/a06r/index.m3u8
-#EXTINF:-1,BBC One Scot FHD
+#EXTINF:-1,BBC One Scot 
 http://31.132.0.66:8000/play/a08z/index.m3u8
 #EXTINF:-1,BBC One Wal HD
 http://31.132.0.66:8000/play/a090/index.m3u8
-#EXTINF:-1,BBC Parliament-FV
+#EXTINF:-1,BBC Parliament
 http://31.132.0.66:8000/play/a06w/index.m3u8
-#EXTINF:-1,BBC TWO HD-FV
+#EXTINF:-1,BBC TWO HD
 http://31.132.0.66:8000/play/a07q/index.m3u8
-#EXTINF:-1,BBC TWO-FV
+#EXTINF:-1,BBC TWO
 http://31.132.0.66:8000/play/a06s/index.m3u8
 #EXTINF:-1,BET:BlackEntTv
 http://31.132.0.66:8000/play/a0jw/index.m3u8
 #EXTINF:-1,BT Sport 1
 http://31.132.0.66:8000/play/a0ea/index.m3u8
-#EXTINF:-1,BT Sport 1 BU
+#EXTINF:-1,BT Sport 1
 http://31.132.0.66:8000/play/a0e0/index.m3u8
-#EXTINF:-1,BT Sport 2 SD
+#EXTINF:-1,BT Sport 2
 http://31.132.0.66:8000/play/a0b5/index.m3u8
-#EXTINF:-1,BT Sport 2 SD BU
+#EXTINF:-1,BT Sport 2 SD
 http://31.132.0.66:8000/play/a0b4/index.m3u8
 #EXTINF:-1,BT Sport 3
 http://31.132.0.66:8000/play/a0eb/index.m3u8
-#EXTINF:-1,BT Sport 3 BU
+#EXTINF:-1,BT Sport 3 
 http://31.132.0.66:8000/play/a0e3/index.m3u8
-#EXTINF:-1,BT Sport ESPN SD
+#EXTINF:-1,BT Sport ESPN 
 http://31.132.0.66:8000/play/a0b6/index.m3u8
 #EXTINF:-1,BT Sport Extra 1
 http://31.132.0.66:8000/play/a0e6/index.m3u8
@@ -86,27 +86,27 @@ http://31.132.0.66:8000/play/a0b2/index.m3u8
 http://31.132.0.66:8000/play/a0b3/index.m3u8
 #EXTINF:-1,BT Sport Mosaic 1
 http://31.132.0.66:8000/play/a0b8/index.m3u8
-#EXTINF:-1,BT Sport//ESPN SD BU
+#EXTINF:-1,BT Sport//ESPN 
 http://31.132.0.66:8000/play/a0b7/index.m3u8
 #EXTINF:-1,Babenation
 http://31.132.0.66:8000/play/a0ab/index.m3u8
 #EXTINF:-1,Believe TV
 http://31.132.0.66:8000/play/a0fk/index.m3u8
-#EXTINF:-1,Blaze-FV
+#EXTINF:-1,Blaze
 http://31.132.0.66:8000/play/a06g/index.m3u8
-#EXTINF:-1,Blaze-FV
+#EXTINF:-1,Blaze
 http://31.132.0.66:8000/play/a05h/index.m3u8
 #EXTINF:-1,BoxNation
 http://31.132.0.66:8000/play/a0aw/index.m3u8
 #EXTINF:-1,Brit Asia TV
 http://31.132.0.66:8000/play/a0fj/index.m3u8
-#EXTINF:-1,CBBC HD-FV
+#EXTINF:-1,CBBC HD
 http://31.132.0.66:8000/play/a07v/index.m3u8
-#EXTINF:-1,CBBC-FV
+#EXTINF:-1,CBBC
 http://31.132.0.66:8000/play/a06u/index.m3u8
 #EXTINF:-1,CBS Action
 http://31.132.0.66:8000/play/a0e2/index.m3u8
-#EXTINF:-1,CBS Action-FV
+#EXTINF:-1,CBS Action
 http://31.132.0.66:8000/play/a065/index.m3u8
 #EXTINF:-1,CBS Drama
 http://31.132.0.66:8000/play/a0dx/index.m3u8
@@ -116,29 +116,29 @@ http://31.132.0.66:8000/play/a0e5/index.m3u8
 http://31.132.0.66:8000/play/a06i/index.m3u8
 #EXTINF:-1,CBS Reality+1
 http://31.132.0.66:8000/play/a0e7/index.m3u8
-#EXTINF:-1,CBS Reality-FV
+#EXTINF:-1,CBS Reality
 http://31.132.0.66:8000/play/a05j/index.m3u8
 #EXTINF:-1,CBeebies HD
 http://31.132.0.66:8000/play/a092/index.m3u8
-#EXTINF:-1,CBeebies HD BU
+#EXTINF:-1,CBeebies HD
 http://31.132.0.66:8000/play/a093/index.m3u8
 #EXTINF:-1,CNBC
 http://31.132.0.66:8000/play/a0h5/index.m3u8
 #EXTINF:-1,COLORS
 http://31.132.0.66:8000/play/a0a5/index.m3u8
-#EXTINF:-1,Channel 4 HD-FV
+#EXTINF:-1,Channel 4 HD
 http://31.132.0.66:8000/play/a07t/index.m3u8
-#EXTINF:-1,Channel 4+1-FV
+#EXTINF:-1,Channel 4+1
 http://31.132.0.66:8000/play/a07n/index.m3u8
-#EXTINF:-1,Channel 4-FV
+#EXTINF:-1,Channel 4
 http://31.132.0.66:8000/play/a07j/index.m3u8
-#EXTINF:-1,Channel 5 HD-FV
+#EXTINF:-1,Channel 5 HD
 http://31.132.0.66:8000/play/a07u/index.m3u8
-#EXTINF:-1,Channel 5+1-FV
+#EXTINF:-1,Channel 5+1
 http://31.132.0.66:8000/play/a06e/index.m3u8
-#EXTINF:-1,Channel 5+1-FV
+#EXTINF:-1,Channel 5+1
 http://31.132.0.66:8000/play/a05f/index.m3u8
-#EXTINF:-1,Channel 5-FV
+#EXTINF:-1,Channel 5
 http://31.132.0.66:8000/play/a07p/index.m3u8
 #EXTINF:-1,Channel i
 http://31.132.0.66:8000/play/a0hd/index.m3u8
@@ -160,13 +160,13 @@ http://31.132.0.66:8000/play/a09c/index.m3u8
 http://31.132.0.66:8000/play/a0ek/index.m3u8
 #EXTINF:-1,Dave
 http://31.132.0.66:8000/play/a0an/index.m3u8
-#EXTINF:-1,Dave BU
+#EXTINF:-1,Dave 
 http://31.132.0.66:8000/play/a0iz/index.m3u8
 #EXTINF:-1,Dave ja vu
 http://31.132.0.66:8000/play/a0ao/index.m3u8
-#EXTINF:-1,Dave ja vu-FV
+#EXTINF:-1,Dave ja vu
 http://31.132.0.66:8000/play/a069/index.m3u8
-#EXTINF:-1,Dave-FV
+#EXTINF:-1,Dave
 http://31.132.0.66:8000/play/a070/index.m3u8
 #EXTINF:-1,Disc.History
 http://31.132.0.66:8000/play/a09q/index.m3u8
@@ -182,7 +182,7 @@ http://31.132.0.66:8000/play/a09s/index.m3u8
 http://31.132.0.66:8000/play/a09j/index.m3u8
 #EXTINF:-1,Discovery
 http://31.132.0.66:8000/play/a09l/index.m3u8
-#EXTINF:-1,Discovery BU
+#EXTINF:-1,Discovery
 http://31.132.0.66:8000/play/a09t/index.m3u8
 #EXTINF:-1,Discovery Shed
 http://31.132.0.66:8000/play/a09g/index.m3u8
@@ -190,21 +190,21 @@ http://31.132.0.66:8000/play/a09g/index.m3u8
 http://31.132.0.66:8000/play/a09n/index.m3u8
 #EXTINF:-1,Drama
 http://31.132.0.66:8000/play/a0j3/index.m3u8
-#EXTINF:-1,Drama BU
+#EXTINF:-1,Drama
 http://31.132.0.66:8000/play/a0j5/index.m3u8
-#EXTINF:-1,Drama-FV
+#EXTINF:-1,Drama
 http://31.132.0.66:8000/play/a05o/index.m3u8
-#EXTINF:-1,Drama-FV
+#EXTINF:-1,Drama
 http://31.132.0.66:8000/play/a06q/index.m3u8
 #EXTINF:-1,Dunya News
 http://31.132.0.66:8000/play/a0fo/index.m3u8
 #EXTINF:-1,E!
 http://31.132.0.66:8000/play/a0g7/index.m3u8
-#EXTINF:-1,E! BU
+#EXTINF:-1,E!
 http://31.132.0.66:8000/play/a0g8/index.m3u8
-#EXTINF:-1,E4+1-FV
+#EXTINF:-1,E4+1
 http://31.132.0.66:8000/play/a071/index.m3u8
-#EXTINF:-1,E4-FV
+#EXTINF:-1,E4
 http://31.132.0.66:8000/play/a07m/index.m3u8
 #EXTINF:-1,Eden
 http://31.132.0.66:8000/play/a0iw/index.m3u8
@@ -214,11 +214,11 @@ http://31.132.0.66:8000/play/a0al/index.m3u8
 http://31.132.0.66:8000/play/a0ad/index.m3u8
 #EXTINF:-1,Faith UK
 http://31.132.0.66:8000/play/a0fh/index.m3u8
-#EXTINF:-1,Film4+1-FV
+#EXTINF:-1,Film4+1
 http://31.132.0.66:8000/play/a07w/index.m3u8
-#EXTINF:-1,Film4-FV
+#EXTINF:-1,Film4
 http://31.132.0.66:8000/play/a07k/index.m3u8
-#EXTINF:-1,Food Network-FV
+#EXTINF:-1,Food Network
 http://31.132.0.66:8000/play/a073/index.m3u8
 #EXTINF:-1,FrontRunner
 http://31.132.0.66:8000/play/a0aa/index.m3u8
@@ -226,7 +226,7 @@ http://31.132.0.66:8000/play/a0aa/index.m3u8
 http://31.132.0.66:8000/play/a0f9/index.m3u8
 #EXTINF:-1,GOLD
 http://31.132.0.66:8000/play/a0as/index.m3u8
-#EXTINF:-1,GOLD BU
+#EXTINF:-1,GOLD 
 http://31.132.0.66:8000/play/a0ix/index.m3u8
 #EXTINF:-1,GOLD+1
 http://31.132.0.66:8000/play/a0ak/index.m3u8
@@ -250,13 +250,13 @@ http://31.132.0.66:8000/play/a0aj/index.m3u8
 http://31.132.0.66:8000/play/a068/index.m3u8
 #EXTINF:-1,HomeHealth+1
 http://31.132.0.66:8000/play/a09i/index.m3u8
-#EXTINF:-1,Horror Channel-FV
+#EXTINF:-1,Horror Channel
 http://31.132.0.66:8000/play/a05k/index.m3u8
-#EXTINF:-1,Horror Channel-FV
+#EXTINF:-1,Horror Channel
 http://31.132.0.66:8000/play/a06j/index.m3u8
 #EXTINF:-1,ID
 http://31.132.0.66:8000/play/a099/index.m3u8
-#EXTINF:-1,ID BU
+#EXTINF:-1,ID 
 http://31.132.0.66:8000/play/a0jf/index.m3u8
 #EXTINF:-1,ID+1
 http://31.132.0.66:8000/play/a09e/index.m3u8
@@ -264,7 +264,7 @@ http://31.132.0.66:8000/play/a09e/index.m3u8
 http://31.132.0.66:8000/play/a0h9/index.m3u8
 #EXTINF:-1,IQRA TV
 http://31.132.0.66:8000/play/a0hf/index.m3u8
-#EXTINF:-1,ITV +1-FV
+#EXTINF:-1,ITV +1
 http://31.132.0.66:8000/play/a07i/index.m3u8
 #EXTINF:-1,ITV 1 Central West HD
 http://31.132.0.66:8000/play/a095/index.m3u8
@@ -328,7 +328,7 @@ http://31.132.0.66:8000/play/a0k7/index.m3u8
 http://31.132.0.66:8000/play/a0ha/index.m3u8
 #EXTINF:-1,Massive R&B
 http://31.132.0.66:8000/play/a0a7/index.m3u8
-#EXTINF:-1,More 4-FV
+#EXTINF:-1,More 4
 http://31.132.0.66:8000/play/a07l/index.m3u8
 #EXTINF:-1,Motorsport TV
 http://31.132.0.66:8000/play/a0gf/index.m3u8
@@ -342,7 +342,7 @@ http://31.132.0.66:8000/play/a0fq/index.m3u8
 http://31.132.0.66:8000/play/a0fi/index.m3u8
 #EXTINF:-1,Nick Jr Too
 http://31.132.0.66:8000/play/a0k3/index.m3u8
-#EXTINF:-1,Nick Jr Too BU
+#EXTINF:-1,Nick Jr Too 
 http://31.132.0.66:8000/play/a0k6/index.m3u8
 #EXTINF:-1,Nick Jr+1
 http://31.132.0.66:8000/play/a0k4/index.m3u8
@@ -362,11 +362,11 @@ http://31.132.0.66:8000/play/a0gs/index.m3u8
 http://31.132.0.66:8000/play/a0gu/index.m3u8
 #EXTINF:-1,POP+1
 http://31.132.0.66:8000/play/a0gw/index.m3u8
-#EXTINF:-1,POP-FV
+#EXTINF:-1,POP
 http://31.132.0.66:8000/play/a062/index.m3u8
 #EXTINF:-1,PTV Global
 http://31.132.0.66:8000/play/a0h6/index.m3u8
-#EXTINF:-1,Pick-FV
+#EXTINF:-1,Pick
 http://31.132.0.66:8000/play/a06y/index.m3u8
 #EXTINF:-1,Property Show
 http://31.132.0.66:8000/play/a0a9/index.m3u8
@@ -376,27 +376,27 @@ http://31.132.0.66:8000/play/a0e9/index.m3u8
 http://31.132.0.66:8000/play/a09w/index.m3u8
 #EXTINF:-1,QUEST+1
 http://31.132.0.66:8000/play/a09y/index.m3u8
-#EXTINF:-1,QUEST-FV
+#EXTINF:-1,QUEST
 http://31.132.0.66:8000/play/a06k/index.m3u8
-#EXTINF:-1,QUEST-FV
+#EXTINF:-1,QUEST
 http://31.132.0.66:8000/play/a05l/index.m3u8
-#EXTINF:-1,QVC-FV
+#EXTINF:-1,QVC
 http://31.132.0.66:8000/play/a06f/index.m3u8
-#EXTINF:-1,QVC-FV
+#EXTINF:-1,QVC
 http://31.132.0.66:8000/play/a05g/index.m3u8
 #EXTINF:-1,Quest Red
 http://31.132.0.66:8000/play/a09x/index.m3u8
 #EXTINF:-1,Quest Red+1
 http://31.132.0.66:8000/play/a09u/index.m3u8
-#EXTINF:-1,Quest Red-FV
+#EXTINF:-1,Quest Red
 http://31.132.0.66:8000/play/a078/index.m3u8
-#EXTINF:-1,RT-FV
+#EXTINF:-1,RT
 http://31.132.0.66:8000/play/a063/index.m3u8
 #EXTINF:-1,Really
 http://31.132.0.66:8000/play/a0j4/index.m3u8
 #EXTINF:-1,Really
 http://31.132.0.66:8000/play/a0j6/index.m3u8
-#EXTINF:-1,Really-FV
+#EXTINF:-1,Really
 http://31.132.0.66:8000/play/a077/index.m3u8
 #EXTINF:-1,Rishtey
 http://31.132.0.66:8000/play/a0a3/index.m3u8
@@ -424,19 +424,19 @@ http://31.132.0.66:8000/play/a0fe/index.m3u8
 http://31.132.0.66:8000/play/a0fm/index.m3u8
 #EXTINF:-1,Scuzz
 http://31.132.0.66:8000/play/a0gk/index.m3u8
-#EXTINF:-1,Sewing Quarter-FV
+#EXTINF:-1,Sewing Quarter
 http://31.132.0.66:8000/play/a07o/index.m3u8
-#EXTINF:-1,Sky News-FV
+#EXTINF:-1,Sky News
 http://31.132.0.66:8000/play/a06x/index.m3u8
 #EXTINF:-1,Sony Crime
 http://31.132.0.66:8000/play/a0gz/index.m3u8
 #EXTINF:-1,Sony Crime 2
 http://31.132.0.66:8000/play/a0h1/index.m3u8
-#EXTINF:-1,Sony Crime Channel-FV
+#EXTINF:-1,Sony Crime Channel
 http://31.132.0.66:8000/play/a079/index.m3u8
 #EXTINF:-1,Sony Crime+1
 http://31.132.0.66:8000/play/a0h0/index.m3u8
-#EXTINF:-1,Sony Movie Ch-FV
+#EXTINF:-1,Sony Movie Ch
 http://31.132.0.66:8000/play/a07b/index.m3u8
 #EXTINF:-1,Star Bharat
 http://31.132.0.66:8000/play/a0ah/index.m3u8
@@ -454,15 +454,15 @@ http://31.132.0.66:8000/play/a0ff/index.m3u8
 http://31.132.0.66:8000/play/a0fg/index.m3u8
 #EXTINF:-1,Summer Hits
 http://31.132.0.66:8000/play/a0gl/index.m3u8
-#EXTINF:-1,TBN UK-FV
+#EXTINF:-1,TBN UK
 http://31.132.0.66:8000/play/a075/index.m3u8
 #EXTINF:-1,TCM+1
 http://31.132.0.66:8000/play/a0af/index.m3u8
-#EXTINF:-1,TJC-FV
+#EXTINF:-1,TJC
 http://31.132.0.66:8000/play/a074/index.m3u8
 #EXTINF:-1,TLC
 http://31.132.0.66:8000/play/a09o/index.m3u8
-#EXTINF:-1,TLC BU
+#EXTINF:-1,TLC 
 http://31.132.0.66:8000/play/a09z/index.m3u8
 #EXTINF:-1,TLC+1
 http://31.132.0.66:8000/play/a09h/index.m3u8
@@ -480,19 +480,19 @@ http://31.132.0.66:8000/play/a0f8/index.m3u8
 http://31.132.0.66:8000/play/a0go/index.m3u8
 #EXTINF:-1,Tiny Pop+1
 http://31.132.0.66:8000/play/a0gr/index.m3u8
-#EXTINF:-1,Travel Channel-FV
+#EXTINF:-1,Travel Channel
 http://31.132.0.66:8000/play/a064/index.m3u8
 #EXTINF:-1,True Ent
 http://31.132.0.66:8000/play/a0gx/index.m3u8
 #EXTINF:-1,True Ent+1
 http://31.132.0.66:8000/play/a0gy/index.m3u8
-#EXTINF:-1,True Entertainment-FV
+#EXTINF:-1,True Entertainment
 http://31.132.0.66:8000/play/a06l/index.m3u8
-#EXTINF:-1,True Movies BU
+#EXTINF:-1,True Movies 
 http://31.132.0.66:8000/play/a0gm/index.m3u8
 #EXTINF:-1,True Movies+1
 http://31.132.0.66:8000/play/a0gn/index.m3u8
-#EXTINF:-1,True Movies-FV
+#EXTINF:-1,True Movies
 http://31.132.0.66:8000/play/a067/index.m3u8
 #EXTINF:-1,UTV HD
 http://31.132.0.66:8000/play/a084/index.m3u8
@@ -514,7 +514,7 @@ http://31.132.0.66:8000/play/a0h7/index.m3u8
 http://31.132.0.66:8000/play/a0hb/index.m3u8
 #EXTINF:-1,W
 http://31.132.0.66:8000/play/a0au/index.m3u8
-#EXTINF:-1,W BU
+#EXTINF:-1,W 
 http://31.132.0.66:8000/play/a0j1/index.m3u8
 #EXTINF:-1,W+1
 http://31.132.0.66:8000/play/a0am/index.m3u8
@@ -522,15 +522,15 @@ http://31.132.0.66:8000/play/a0am/index.m3u8
 http://31.132.0.66:8000/play/a0iy/index.m3u8
 #EXTINF:-1,YESTERDAY+1
 http://31.132.0.66:8000/play/a0ar/index.m3u8
-#EXTINF:-1,Yesterday-FV
+#EXTINF:-1,Yesterday
 http://31.132.0.66:8000/play/a05w/index.m3u8
 #EXTINF:-1,YourTV
 http://31.132.0.66:8000/play/a0ec/index.m3u8
-#EXTINF:-1,YourTV-FV
+#EXTINF:-1,YourTV
 http://31.132.0.66:8000/play/a076/index.m3u8
 #EXTINF:-1,alibi
 http://31.132.0.66:8000/play/2093/index.m3u8
-#EXTINF:-1,alibi BU
+#EXTINF:-1,alibi 
 http://31.132.0.66:8000/play/a0j2/index.m3u8
 #EXTINF:-1,alibi+1
 http://31.132.0.66:8000/play/a0aq/index.m3u8
@@ -540,7 +540,7 @@ http://31.132.0.66:8000/play/a0h3/index.m3u8
 http://31.132.0.66:8000/play/a0e8/index.m3u8
 #EXTINF:-1,horror channel
 http://31.132.0.66:8000/play/a0dy/index.m3u8
-#EXTINF:-1,movies4men-FV
+#EXTINF:-1,movies4men
 http://31.132.0.66:8000/play/a07a/index.m3u8
 #EXTINF:-1,propeller
 http://31.132.0.66:8000/play/a0a2/index.m3u8
