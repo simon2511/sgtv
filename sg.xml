@@ -1,7 +1,14 @@
 <item>
 <title>UK LIST ONE </title>
 <link>http://ignorame</link> 
-<externallink>LINK TO M3U <externallink>
+<externallink>https://raw.githubusercontent.com/simon2511/sgtv/master/list1v2.0.m3u <externallink>
 <thumbnail>LINK TO AN IMAGE FOR ICON </thumbnail>  
 <fanart>LINK TO AN IMAGE FOR BACKGROUND</fanart>
 </item>
+
+ <item>
+<title>UK LIST TWO </title>
+<link>LINK TO THE .M3U8 STREAM</link>
+<thumbnail>LINK TO THE ICON (.PNG OR .JPG) </thumbnail>
+<fanart>LINK TO THE BACKGROUND (JPG )</fanart>
+</item> 
