@@ -1,38 +1,38 @@
 # sgtv
 sportv1.0.m3u
 
-#EXTINF:-1,UK@ ,Sky Sports Football HD
+#EXTINF:-1,Sky Sports Football HD
 http://izgemma.ddns.net:8000/live/pedro/pedro/17555.ts
-#EXTINF:-1,UK@ .Sky Sports Cricket HD
+#EXTINF:-1,Sky Sports Cricket HD
 http://izgemma.ddns.net:8000/live/pedro/pedro/17556.ts
-#EXTINF:-1,UK@ .Sky Sports F1 HD
+#EXTINF:-1,Sky Sports F1 HD
 http://izgemma.ddns.net:8000/live/pedro/pedro/17558.ts
-#EXTINF:-1,UK@ .Sky Sports Arena HD
+#EXTINF:-1,Sky Sports Arena HD
 http://izgemma.ddns.net:8000/live/pedro/pedro/17560.ts
-#EXTINF:-1,UK@ .Sky Sports News HQ
+#EXTINF:-1,Sky Sports News HQ
 http://izgemma.ddns.net:8000/live/pedro/pedro/17561.ts
-#EXTINF:-1,UK@ .Eurosport 1 HD
+#EXTINF:-1,Eurosport 1 HD
 http://izgemma.ddns.net:8000/live/pedro/pedro/17562.ts
-#EXTINF:-1,UK@ .Eurosport 2 HD
+#EXTINF:-1,Eurosport 2 HD
 http://izgemma.ddns.net:8000/live/pedro/pedro/17563.ts
-#EXTINF:-1,UK@ .MUTV HD
+#EXTINF:-1,MUTV HD
 http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/26034.ts
-#EXTINF:-1,UK@ .Racing UK HD
+#EXTINF:-1,Racing UK HD
 http://izgemma.ddns.net:8000/live/pedro/pedro/17575.ts
-#EXTINF:-1,UK@ .Motorsports TV HD
+#EXTINF:-1,Motorsports TV HD
 http://izgemma.ddns.net:8000/live/pedro/pedro/17577.ts
-#EXTINF:-1,MY@ Astro Sports
+#EXTINF:-1,Astro Sports
 http://izgemma.ddns.net:8000/live/pedro/pedro/35154.ts
-#EXTINF:-1,MY@ SkyNet Sports 1
+#EXTINF:-1,SkyNet Sports 1
 http://izgemma.ddns.net:8000/live/pedro/pedro/19910.ts
-#EXTINF:-1,MY@ SkyNet Sports 2
+#EXTINF:-1,SkyNet Sports 2
 http://izgemma.ddns.net:8000/live/pedro/pedro/19911.ts
-#EXTINF:-1,MY@ SkyNet Sports 3
+#EXTINF:-1,SkyNet Sports 3
 http://izgemma.ddns.net:8000/live/pedro/pedro/19912.ts
-#EXTINF:-1,MY@ SkyNet Sports 4
+#EXTINF:-1,SkyNet Sports 4
 http://izgemma.ddns.net:8000/live/pedro/pedro/19913.ts
-#EXTINF:-1,MY@ SkyNet Sports 5
+#EXTINF:-1,SkyNet Sports 5
 http://izgemma.ddns.net:8000/live/pedro/pedro/19914.ts
-#EXTINF:-1,MY@ SkyNet Sports 6
-http://izgemma.ddns.net:8000/live/pedro/pedro/19915.ts#EXTINF:-1,BT Sport 1
-http://31.132.0.66:8000/play/a0ea/index.m3u8
+#EXTINF:-1,SkyNet Sports 6
+http://izgemma.ddns.net:8000/live/pedro/pedro/19915.ts
+
