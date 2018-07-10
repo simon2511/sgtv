@@ -27,7 +27,15 @@
 </item>
 
  <item>
-<title>UK sport </title>
+<title>UK SPORT </title>
+<link>http://ignorame</link> 
+<externallink>https://raw.githubusercontent.com/simon2511/sgtv/master/sportv1.1.m3u <externallink>
+<thumbnail>LINK TO AN IMAGE FOR ICON </thumbnail>  
+<fanart>LINK TO AN IMAGE FOR BACKGROUND</fanart>
+</item>
+
+  <item>
+<title>UK SPORT TWO </title>
 <link>http://ignorame</link> 
 <externallink>https://raw.githubusercontent.com/simon2511/sgtv/master/sportv1.1.m3u <externallink>
 <thumbnail>LINK TO AN IMAGE FOR ICON </thumbnail>  
