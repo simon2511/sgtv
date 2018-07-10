@@ -36,33 +36,3 @@ http://izgemma.ddns.net:8000/live/pedro/pedro/19914.ts
 #EXTINF:-1,MY@ SkyNet Sports 6
 http://izgemma.ddns.net:8000/live/pedro/pedro/19915.ts#EXTINF:-1,BT Sport 1
 http://31.132.0.66:8000/play/a0ea/index.m3u8
-#EXTINF:-1,BT Sport 1
-http://31.132.0.66:8000/play/a0e0/index.m3u8
-#EXTINF:-1,BT Sport 2
-http://31.132.0.66:8000/play/a0b5/index.m3u8
-#EXTINF:-1,BT Sport 2 SD
-http://31.132.0.66:8000/play/a0b4/index.m3u8
-#EXTINF:-1,BT Sport 3
-http://31.132.0.66:8000/play/a0eb/index.m3u8
-#EXTINF:-1,BT Sport 3 
-http://31.132.0.66:8000/play/a0e3/index.m3u8
-#EXTINF:-1,BT Sport ESPN 
-http://31.132.0.66:8000/play/a0b6/index.m3u8
-#EXTINF:-1,BT Sport Extra 1
-http://31.132.0.66:8000/play/a0e6/index.m3u8
-#EXTINF:-1,BT Sport Extra 2
-http://31.132.0.66:8000/play/a0az/index.m3u8
-#EXTINF:-1,BT Sport Extra 3
-http://31.132.0.66:8000/play/a0b0/index.m3u8
-#EXTINF:-1,BT Sport Extra 4
-http://31.132.0.66:8000/play/a0b1/index.m3u8
-#EXTINF:-1,BT Sport Extra 5
-http://31.132.0.66:8000/play/a0b2/index.m3u8
-#EXTINF:-1,BT Sport Extra 6
-http://31.132.0.66:8000/play/a0b3/index.m3u8
-#EXTINF:-1,BT Sport Mosaic 1
-http://31.132.0.66:8000/play/a0b8/index.m3u8
-#EXTINF:-1,BT Sport//ESPN 
-http://31.132.0.66:8000/play/a0b7/index.m3u8
-#EXTINF:-1,BoxNation
-http://31.132.0.66:8000/play/a0aw/index.m3u8
