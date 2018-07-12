@@ -1,0 +1,142 @@
+# sgtv
+UKLIST3.m3u
+
+#EXTM3U
+#EXTINF:-1 tvg-id="BBC North West-BBC One" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC1 HD" tvg-logo="" group-title="Entertainment Channels",BBC1 HD - BBC1 HD
+http://62.210.93.115:80/live?channelId=1&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="BBC North West-BBC One" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC One" tvg-logo="" group-title="Entertainment Channels",BBC One - BBC One
+http://62.210.99.158:80/live?channelId=2&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="BBC East-BBC Two" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC2 HD" tvg-logo="" group-title="Entertainment Channels",BBC2 HD - BBC2 HD
+http://62.210.93.115:80/live?channelId=3&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="BBC East-BBC Two" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="BBC TWO" tvg-logo="" group-title="Entertainment Channels",BBC TWO - BBC TWO
+http://62.210.93.115:80/live?channelId=4&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="ITV Central-ITV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV HD" tvg-logo="" group-title="Entertainment Channels",ITV HD - ITV HD
+http://62.210.93.115:80/live?channelId=5&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="ITV Central-ITV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV" tvg-logo="" group-title="Entertainment Channels",ITV - ITV
+http://62.210.93.115:80/live?channelId=6&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="ITV Central +1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV plus1" tvg-logo="" group-title="Entertainment Channels",ITV plus1 - ITV plus1
+http://62.210.93.115:80/live?channelId=7&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Channel 4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 4 HD" tvg-logo="" group-title="Entertainment Channels",Channel 4 HD - Channel 4 HD
+http://62.210.93.115:80/live?channelId=8&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Channel 4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 4" tvg-logo="" group-title="Entertainment Channels",Channel 4 - Channel 4
+http://62.210.93.115:80/live?channelId=9&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Channel 4 + 1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 4 plus1" tvg-logo="" group-title="Entertainment Channels",Channel 4 plus1 - Channel 4 plus1
+http://62.210.93.115:80/live?channelId=10&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Channel 5" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 5 HD" tvg-logo="" group-title="Entertainment Channels",Channel 5 HD - Channel 5 HD
+http://62.210.93.115:80/live?channelId=11&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Channel 5" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 5" tvg-logo="" group-title="Entertainment Channels",Channel 5 - Channel 5
+http://62.210.93.115:80/live?channelId=12&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Channel 5 +1" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Channel 5 plus1" tvg-logo="" group-title="Entertainment Channels",Channel 5 plus1 - Channel 5 plus1
+http://62.210.93.115:80/live?channelId=13&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="ITV2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV2" tvg-logo="" group-title="Entertainment Channels",ITV2 - ITV2
+http://62.210.93.115:80/live?channelId=14&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="ITV3" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV3" tvg-logo="" group-title="Entertainment Channels",ITV3 - ITV3
+http://62.210.93.115:80/live?channelId=15&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="ITV4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITV4" tvg-logo="" group-title="Entertainment Channels",ITV4 - ITV4
+http://62.210.93.115:80/live?channelId=16&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="ITVBe" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ITVBe" tvg-logo="" group-title="Entertainment Channels",ITVBe - ITVBe
+http://62.210.93.115:80/live?channelId=17&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="4seven" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="4seven" tvg-logo="" group-title="Entertainment Channels",4seven - 4seven
+http://62.210.93.115:80/live?channelId=18&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="E4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="E4" tvg-logo="" group-title="Entertainment Channels",E4 - E4
+http://62.210.93.115:80/live?channelId=19&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="More4" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="More4" tvg-logo="" group-title="Entertainment Channels",More4 - More4
+http://62.210.93.115:80/live?channelId=20&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="5USA" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="5 USA" tvg-logo="" group-title="Entertainment Channels",5 USA - 5 USA
+http://62.210.93.115:80/live?channelId=21&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="5STAR" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="5STAR" tvg-logo="" group-title="Entertainment Channels",5STAR - 5STAR
+http://62.210.93.115:80/live?channelId=22&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="My5" tvg-link="" tvg-name="My5" tvg-logo="" group-title="Entertainment Channels",My5 - My5
+http://62.210.93.115:80/live?channelId=23&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="AMC" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="AMC from BT" tvg-logo="" group-title="Entertainment Channels",AMC from BT - AMC from BT
+http://62.210.93.115:80/live?channelId=24&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Sky1 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky1 HD" tvg-logo="" group-title="Entertainment Channels",Sky1 HD - Sky1 HD
+http://62.210.93.115:80/live?channelId=25&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Sky1 HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky1" tvg-logo="" group-title="Entertainment Channels",Sky1 - Sky1
+http://62.210.93.115:80/live?channelId=26&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Sky 2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky2" tvg-logo="" group-title="Entertainment Channels",Sky2 - Sky2
+http://62.210.93.115:80/live?channelId=27&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Sky Living" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Living" tvg-logo="" group-title="Entertainment Channels",Sky Living - Sky Living
+http://62.210.93.115:80/live?channelId=28&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Sky Atlantic" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Atlantic HD" tvg-logo="" group-title="Entertainment Channels",Sky Atlantic HD - Sky Atlantic HD
+http://62.210.93.115:80/live?channelId=29&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Sky Atlantic" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Atlantic" tvg-logo="" group-title="Entertainment Channels",Sky Atlantic - Sky Atlantic
+http://62.210.93.115:80/live?channelId=30&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Sky Arts HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Sky Arts" tvg-logo="" group-title="Entertainment Channels",Sky Arts - Sky Arts
+http://62.210.93.115:80/live?channelId=31&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Discovery" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Discovery" tvg-logo="" group-title="Entertainment Channels",Discovery - Discovery
+http://62.210.93.115:80/live?channelId=32&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Discovery History" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disc.History" tvg-logo="" group-title="Entertainment Channels",Disc.History - Disc.History
+http://62.210.93.115:80/live?channelId=33&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Discovery Science" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disc.Science" tvg-logo="" group-title="Entertainment Channels",Disc.Science - Disc.Science
+http://62.210.93.115:80/live?channelId=34&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Disc.Turbo" tvg-logo="" group-title="Entertainment Channels",Disc.Turbo - Disc.Turbo
+http://62.210.93.115:80/live?channelId=35&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Discovery Shed" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Discovery Shed" tvg-logo="" group-title="Entertainment Channels",Discovery Shed - Discovery Shed
+http://62.210.93.115:80/live?channelId=36&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="DMAX" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="DMAX" tvg-logo="" group-title="Entertainment Channels",DMAX - DMAX
+http://62.210.93.115:80/live?channelId=37&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="BLAZE" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Blaze" tvg-logo="" group-title="Entertainment Channels",Blaze - Blaze
+http://62.210.93.115:80/live?channelId=38&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Comedy Central" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ComedyCentral" tvg-logo="" group-title="Entertainment Channels",ComedyCentral - ComedyCentral
+http://62.210.93.115:80/live?channelId=39&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Comedy Central Extra" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ComedyXtra" tvg-logo="" group-title="Entertainment Channels",ComedyXtra - ComedyXtra
+http://62.210.93.115:80/live?channelId=40&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="CI HD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Crime and Investigation" tvg-logo="" group-title="Entertainment Channels",Crime and Investigation - Crime and Investigation
+http://62.210.93.115:80/live?channelId=41&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Animal Planet" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Animal Planet" tvg-logo="" group-title="Entertainment Channels",Animal Planet - Animal Planet
+http://62.210.93.115:80/live?channelId=42&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="HISTORY" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="HISTORY" tvg-logo="" group-title="Entertainment Channels",HISTORY - HISTORY
+http://62.210.93.115:80/live?channelId=43&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="H2" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="H2" tvg-logo="" group-title="Entertainment Channels",H2 - H2
+http://62.210.93.115:80/live?channelId=44&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="National Geo Wild" tvg-logo="" group-title="Entertainment Channels",National Geo Wild - National Geo Wild
+http://62.210.93.115:80/live?channelId=45&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="National Geographic" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="National Geographic" tvg-logo="" group-title="Entertainment Channels",National Geographic - National Geographic
+http://62.210.93.115:80/live?channelId=46&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="TLC" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="TLC" tvg-logo="" group-title="Entertainment Channels",TLC - TLC
+http://62.210.93.115:80/live?channelId=47&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Syfy" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Syfy" tvg-logo="" group-title="Entertainment Channels",Syfy - Syfy
+http://62.210.93.115:80/live?channelId=48&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Lifetime" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Lifetime" tvg-logo="" group-title="Entertainment Channels",Lifetime - Lifetime
+http://62.210.93.115:80/live?channelId=49&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="MTV" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="MTV" tvg-logo="" group-title="Entertainment Channels",MTV - MTV
+http://62.210.93.115:80/live?channelId=50&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Dave" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Dave" tvg-logo="" group-title="Entertainment Channels",Dave - Dave
+http://62.210.93.115:80/live?channelId=51&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Dave ja vu" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Dave ja vu" tvg-logo="" group-title="Entertainment Channels",Dave ja vu - Dave ja vu
+http://62.210.93.115:80/live?channelId=52&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="FOX" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="FOX" tvg-logo="" group-title="Entertainment Channels",FOX - FOX
+http://62.210.93.115:80/live?channelId=53&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="horror channel" tvg-link="" tvg-name="horror channel" tvg-logo="" group-title="Entertainment Channels",horror channel - horror channel
+http://62.210.93.115:80/live?channelId=54&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Investigation Discovery" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="ID" tvg-logo="" group-title="Entertainment Channels",ID - ID
+http://62.210.93.115:80/live?channelId=55&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Good Food" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Good Food" tvg-logo="" group-title="Entertainment Channels",Good Food - Good Food
+http://62.210.93.115:80/live?channelId=56&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Home" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Home" tvg-logo="" group-title="Entertainment Channels",Home - Home
+http://62.210.93.115:80/live?channelId=57&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Food Network" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Food Network" tvg-logo="" group-title="Entertainment Channels",Food Network - Food Network
+http://62.210.93.115:80/live?channelId=58&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Alibi" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="alibi" tvg-logo="" group-title="Entertainment Channels",alibi - alibi
+http://62.210.93.115:80/live?channelId=59&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Drama" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Drama" tvg-logo="" group-title="Entertainment Channels",Drama - Drama
+http://62.210.93.115:80/live?channelId=60&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="E!" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="E!" tvg-logo="" group-title="Entertainment Channels",E! - E!
+http://62.210.93.115:80/live?channelId=61&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Eden" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Eden" tvg-logo="" group-title="Entertainment Channels",Eden - Eden
+http://62.210.93.115:80/live?channelId=62&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="GOLD" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="GOLD" tvg-logo="" group-title="Entertainment Channels",GOLD - GOLD
+http://62.210.93.115:80/live?channelId=63&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Pick" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Pick" tvg-logo="" group-title="Entertainment Channels",Pick - Pick
+http://62.210.93.115:80/live?channelId=64&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Really" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Really" tvg-logo="" group-title="Entertainment Channels",Really - Really
+http://62.210.93.115:80/live?channelId=65&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="YESTERDAY" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Yesterday" tvg-logo="" group-title="Entertainment Channels",Yesterday - Yesterday
+http://62.210.93.115:80/live?channelId=66&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="W" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="W" tvg-logo="" group-title="Entertainment Channels",W - W
+http://62.210.93.115:80/live?channelId=67&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="Universal Channel" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="Universal" tvg-logo="" group-title="Entertainment Channels",Universal - Universal
+http://62.210.93.115:80/live?channelId=68&deviceMac=00:1A:79:2F:2F:D4&uid=1464
+#EXTINF:-1 tvg-id="QUEST" tvg-link="http://epg.koditvepg.com/GB/guide.xml.gz" tvg-name="QUEST" tvg-logo="" group-title="Entertainment Channels",QUEST - QUEST
+http://62.210.93.115:80/live?channelId=69&deviceMac=00:1A:79:2F:2F:D4&uid=1464
