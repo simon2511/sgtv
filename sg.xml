@@ -24,14 +24,6 @@
 <fanart>LINK TO AN IMAGE FOR BACKGROUND</fanart>
 </item>
 
- <item>
-<title>LIST THREE </title>
-<link>http://ignorame</link> 
-<externallink>https://raw.githubusercontent.com/simon2511/sgtv/master/list2v2.0.m3u8 <externallink>
-<thumbnail>LINK TO AN IMAGE FOR ICON </thumbnail>  
-<fanart>LINK TO AN IMAGE FOR BACKGROUND</fanart>
-</item>
- 
  
  <item>
 <title>LIST TWO </title>
@@ -40,6 +32,16 @@
 <thumbnail>LINK TO AN IMAGE FOR ICON </thumbnail>  
 <fanart>LINK TO AN IMAGE FOR BACKGROUND</fanart>
 </item>
+ 
+ 
+  <item>
+<title>LIST THREE </title>
+<link>http://ignorame</link> 
+<externallink>https://raw.githubusercontent.com/simon2511/sgtv/master/list2v2.0.m3u8 <externallink>
+<thumbnail>LINK TO AN IMAGE FOR ICON </thumbnail>  
+<fanart>LINK TO AN IMAGE FOR BACKGROUND</fanart>
+</item>
+
 
   <item>
 <title>UK MOVIES </title>
