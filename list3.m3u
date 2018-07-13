@@ -1,127 +1,92 @@
 # sgtv
 list3.m3u
 
-#EXTM3U
-
-#EXTINF:-1, BBC ONE 
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37460.ts
-
-#EXTINF:-1, BBC Two HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/31971.ts
-
-#EXTINF:-1, ITV HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/26573.ts
-
-#EXTINF:- 1,Channel 4 HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/33270.ts
-
-#EXTINF:-1, Channel 5 HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/31973.ts
-
-#EXTINF:-1,ITV2 HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8153.ts
-
-#EXTINF:-1,ITV3 HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8154.ts
-
-#EXTINF:-1,ITV 4 HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8155.ts
-
-#EXTINF:-1,ITV Be HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37412.ts
-
-#EXTINF:-1,E4 HD.
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8170.ts
-
-#EXTINF:-1,BBC Four HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8152.ts
-
-#EXTINF:-1,Sky One HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/11349.ts
-
-#EXTINF:-1,Sky Living HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8143.ts
-
-#EXTINF:-1,Sky Atlantic HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8144.ts
-
-#EXTINF:-1,Gold
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/36517.ts
-
-#EXTINF:-1,Dave HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/31974.ts
-
-#EXTINF:-1,Comedy Central HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8148.ts
-
-#EXTINF:-1, MTV HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8161.ts
-
-#EXTINF:- 1,Universal HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37160.ts
-
-#EXTINF:-1,Alibi HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37167.ts
-
-#EXTINF:-1,Syfy HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8150.ts
-
-#EXTINF:-1,Sky Arts HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8156.ts
-
-#EXTINF:-1,FOX HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/19632.ts
-
-#EXTINF:-1,TLC HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8160.ts
-
-#EXTINF:-1,Good Food.
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/8168.ts
-
-#EXTINF:-1,Challenge
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/21112.ts
-
-#EXTINF:-1,CBS Reality
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/9004.ts
-
-#EXTINF:-1,CBS Action
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/9225.ts
-
-#EXTINF:-1,CBS Drama
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/9226.ts
-
-#EXTINF:-1,4 SEVEN HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37163.ts
-
-#EXTINF:-1,EI HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/9228.ts
-
-#EXTINF:-1,DMAX
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/33890.ts
-
-#EXTINF:-1,PicK tv
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/9229.ts
-
-#EXTINF:-1,Really
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/9232.ts
-
-#EXTINF:-1,Lifetime HD
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37422.ts
-
-#EXTINF:-1,Sony Channel
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/9234.ts
-
-#EXTINF:-1,Drama
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/9235.ts
-
-#EXTINF:-1,USA
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/37156.ts
-
-#EXTINF:-1,5Spike
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/9237.ts
-
-#EXTINF:-1,Discovery Shed
-http://izgemma.ddns.net:8000/live/feedhd/dkftycvohfsbvbfegheh/9238.ts
+#EXTINF:-1,Box Nation HD (UK)
+http://144.217.74.96:826/live/paul1/paul1/1380.ts
+#EXTINF:-1,SKY SPORTS ACTION
+http://144.217.74.96:826/live/paul1/paul1/1590.ts
+#EXTINF:-1,SKY SPORTS ARENA
+http://144.217.74.96:826/live/paul1/paul1/27173.ts
+#EXTINF:-1,Sky Sports Box Office(Matches only)
+http://144.217.74.96:826/live/paul1/paul1/37051.ts
+#EXTINF:-1,SKY SPORTS F1
+http://144.217.74.96:826/live/paul1/paul1/1532.ts
+#EXTINF:-1,SKY SPORTS FOOTBALL
+http://144.217.74.96:826/live/paul1/paul1/1591.ts
+#EXTINF:-1,SKY SPORTS GOLF
+http://144.217.74.96:826/live/paul1/paul1/1592.ts
+#EXTINF:-1,SKY SPORTS MAIN EVENT
+http://144.217.74.96:826/live/paul1/paul1/27209.ts
+#EXTINF:-1,SKY SPORTS NEWS
+http://144.217.74.96:826/live/paul1/paul1/2405.ts
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
+http://144.217.74.96:826/live/paul1/paul1/1650.ts
+#EXTINF:-1,BT SPORT 1
+http://144.217.74.96:826/live/paul1/paul1/1526.ts
+#EXTINF:-1,BT SPORT 2
+http://144.217.74.96:826/live/paul1/paul1/1527.ts
+#EXTINF:-1,BT SPORT 3
+http://144.217.74.96:826/live/paul1/paul1/1528.ts
+#EXTINF:-1,BT SPORT ESPN
+http://144.217.74.96:826/live/paul1/paul1/28249.ts
+#EXTINF:-1,EUROSPORT 1
+http://144.217.74.96:826/live/paul1/paul1/31459.ts
+#EXTINF:-1,EUROSPORT 2
+http://144.217.74.96:826/live/paul1/paul1/31460.ts
+#EXTINF:-1,Liverpool FC TV (UK)
+http://144.217.74.96:826/live/paul1/paul1/28013.ts
+#EXTINF:-1,TSN 1
+http://144.217.74.96:826/live/paul1/paul1/1621.ts
+#EXTINF:-1,TSN 2
+http://144.217.74.96:826/live/paul1/paul1/1622.ts
+#EXTINF:-1,TSN 3
+http://144.217.74.96:826/live/paul1/paul1/1623.ts
+#EXTINF:-1,TSN 4
+http://144.217.74.96:826/live/paul1/paul1/1624.ts
+#EXTINF:-1,TSN 5
+http://144.217.74.96:826/live/paul1/paul1/1625.ts
+#EXTINF:-1,SPORTSNET WORLD
+http://144.217.74.96:826/live/paul1/paul1/1619.ts
+#EXTINF:-1,SPORTNET ONTARIO
+http://144.217.74.96:826/live/paul1/paul1/25999.ts
+#EXTINF:-1,SPORTSNET 360
+http://144.217.74.96:826/live/paul1/paul1/26000.ts
+#EXTINF:-1,SPORTSNET ONE
+http://144.217.74.96:826/live/paul1/paul1/26001.ts
+#EXTINF:-1,SPORTSNET PACIFIC
+http://144.217.74.96:826/live/paul1/paul1/26002.ts
+#EXTINF:-1, SPORTS USA
+http://144.217.74.96:826/live/paul1/paul1/1501.ts
+#EXTINF:-1, SPORTS ESP (US)
+http://144.217.74.96:826/live/paul1/paul1/27685.ts
+#EXTINF:-1, SPORT LALIGA esp
+http://144.217.74.96:826/live/paul1/paul1/28014.ts
+#EXTINF:-1, SPORT esp
+http://144.217.74.96:826/live/paul1/paul1/36412.ts
+#EXTINF:-1, SPORTS 1
+http://144.217.74.96:826/live/paul1/paul1/1770.ts
+#EXTINF:-1, SPORTS 2
+http://144.217.74.96:826/live/paul1/paul1/1493.ts
+#EXTINF:-1, SPORTS 3
+http://144.217.74.96:826/live/paul1/paul1/1494.ts
+#EXTINF:-1, SPORTS 4
+http://144.217.74.96:826/live/paul1/paul1/1495.ts
+#EXTINF:-1, SPORTS 5
+http://144.217.74.96:826/live/paul1/paul1/1496.ts
+#EXTINF:-1, SPORTS 6
+http://144.217.74.96:826/live/paul1/paul1/1497.ts
+#EXTINF:-1, SPORTS 7
+http://144.217.74.96:826/live/paul1/paul1/1498.ts
+#EXTINF:-1, SPORTS 8
+http://144.217.74.96:826/live/paul1/paul1/1499.ts
+#EXTINF:-1, SPORTS 9
+http://144.217.74.96:826/live/paul1/paul1/1500.ts
+#EXTINF:-1, SPORTS 10
+http://144.217.74.96:826/live/paul1/paul1/1490.ts
+#EXTINF:-1, SPORTS 11
+http://144.217.74.96:826/live/paul1/paul1/1491.ts
+#EXTINF:-1, SPORTS 12
+http://144.217.74.96:826/live/paul1/paul1/1492.ts
 
 
 
