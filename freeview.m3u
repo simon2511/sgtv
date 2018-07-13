@@ -1,0 +1,79 @@
+# sgtv
+freeview.m3u
+
+#EXTM3U
+#EXTINF:-1,BBC TWO
+http://109.149.204.194:9981/stream/channelid/1212106910
+#EXTINF:-1,ITV
+http://109.149.204.194:9981/stream/channelid/954278822
+#EXTINF:-1,Channel 4
+http://109.149.204.194:9981/stream/channelid/121042692
+#EXTINF:-1,Channel 5
+http://109.149.204.194:9981/stream/channelid/256643728
+#EXTINF:-1,ITV2
+http://109.149.204.194:9981/stream/channelid/2116124760
+#EXTINF:-1,BBC FOUR
+http://109.149.204.194:9981/stream/channelid/727483599
+#EXTINF:-1,ITV3
+http://109.149.204.194:9981/stream/channelid/2110816577
+#EXTINF:-1,Dave
+http://109.149.204.194:9981/stream/channelid/1648136499
+#EXTINF:-1,Film4
+http://109.149.204.194:9981/stream/channelid/1288107350
+#EXTINF:-1,QVC
+http://109.149.204.194:9981/stream/channelid/145152712
+#EXTINF:-1,Really
+http://109.149.204.194:9981/stream/channelid/1679286713
+#EXTINF:-1,4Music
+http://109.149.204.194:9981/stream/channelid/1239603104
+#EXTINF:-1,Drama
+http://109.149.204.194:9981/stream/channelid/1465911773
+#EXTINF:-1,ITV4
+http://109.149.204.194:9981/stream/channelid/1988570787
+#EXTINF:-1,Home
+http://109.149.204.194:9981/stream/channelid/1416318959
+#EXTINF:-1,E4
+http://109.149.204.194:9981/stream/channelid/560110094
+#EXTINF:-1,5STAR
+http://109.149.204.194:9981/stream/channelid/1607166023
+#EXTINF:-1,5Spike
+http://109.149.204.194:9981/stream/channelid/1695721269
+#EXTINF:-1,ITV +1
+http://109.149.204.194:9981/stream/channelid/615730670
+#EXTINF:-1,ITV3+1
+http://109.149.204.194:9981/stream/channelid/1621009754
+#EXTINF:-1,QVC Style
+http://109.149.204.194:9981/stream/channelid/968287192
+#EXTINF:-1,QUEST
+http://109.149.204.194:9981/stream/channelid/1404639762
+#EXTINF:-1,Sony Crime Channel
+http://109.149.204.194:9981/stream/channelid/1403449449
+#EXTINF:-1,Food Network
+http://109.149.204.194:9981/stream/channelid/452572050
+#EXTINF:-1,Travel Channel
+http://109.149.204.194:9981/stream/channelid/607143058
+#EXTINF:-1,Challenge
+http://109.149.204.194:9981/stream/channelid/829369638
+#EXTINF:-1,4seven
+http://109.149.204.194:9981/stream/channelid/2074495348
+#EXTINF:-1,movies4men
+http://109.149.204.194:9981/stream/channelid/1717663094
+#EXTINF:-1,5SELECT
+http://109.149.204.194:9981/stream/channelid/842612351
+#EXTINF:-1,True Entertainment
+http://109.149.204.194:9981/stream/channelid/277010791
+#EXTINF:-1,True Movies
+http://109.149.204.194:9981/stream/channelid/718575708
+#EXTINF:-1,Blaze
+http://109.149.204.194:9981/stream/channelid/1441268114
+#EXTINF:-1,The Store
+http://109.149.204.194:9981/stream/channelid/984759427
+#EXTINF:-1,TBN UK
+http://109.149.204.194:9981/stream/channelid/593053586
+#EXTINF:-1,CBS Reality
+http://109.149.204.194:9981/stream/channelid/55838610
+#EXTINF:-1,Horror Channel
+http://109.149.204.194:9981/stream/channelid/2106954465
+#EXTINF:-1,Sewing Quarter
+http://109.149.204.194:9981/stream/channelid/1005294703
+#EXTINF:-1,Dave ja vu
