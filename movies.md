@@ -71,5 +71,61 @@ movies.md
 <fanart></fanart>                       
 </item>
 
+<item>
+<title>THE NUN HORROR </title>                        
+<utube>5RqcttZBZMw</utube>             
+<thumbnail></thumbnail>                 
+<fanart></fanart>                       
+</item>
+
+<item>
+<title>TRUTH OR DARE HORROR </title>                        
+<utube>2BfV_JNzQMo</utube>             
+<thumbnail></thumbnail>                 
+<fanart></fanart>                       
+</item>
+
+<item>
+<title>THE POOR GUYS </title>                        
+<utube>tFpVgGLqxXk</utube>             
+<thumbnail></thumbnail>                 
+<fanart></fanart>                       
+</item>
+
+<item>
+<title>EMPIRE OF THE SHARKS </title>                        
+<utube>PHWs4PMFw7Y</utube>             
+<thumbnail></thumbnail>                 
+<fanart></fanart>                       
+</item>
+
+<item>
+<title>TRAINING DAY </title>                        
+<utube>8bRLLWmxss8</utube>             
+<thumbnail></thumbnail>                 
+<fanart></fanart>                       
+</item>
+
+<item>
+<title>MR & MRS SMITH </title>                        
+<utube>6a9WEc3TyGI</utube>             
+<thumbnail></thumbnail>                 
+<fanart></fanart>                       
+</item>
+
+<item>
+<title>ENEMY OF THE STATE </title>                        
+<utube>QMhTIs_fPCM</utube>             
+<thumbnail></thumbnail>                 
+<fanart></fanart>                       
+</item>
+
+<item>
+<title>HEAT </title>                        
+<utube>WP7iB71fDO4</utube>             
+<thumbnail></thumbnail>                 
+<fanart></fanart>                       
+</item>
+
                       
 
