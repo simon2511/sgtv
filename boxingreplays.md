@@ -1,5 +1,5 @@
 # sgtv
-boxingreplays.m3u
+boxingreplays.md
 
 <item>
 <title>HUNTER VS KILADZE </title>                         
