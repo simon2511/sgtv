@@ -1,667 +1,143 @@
 # sgtv
 backup.m3u
 
-#EXTINF:-1,BBC NEWS LIVE
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/7641.ts
-#EXTINF:-1,CNN News
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/698.ts
-#EXTINF:-1,Universal
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/7686.ts
-#EXTINF:-1,Blaze
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/26883.ts
-#EXTINF:-1,AMC from BT
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/26880.ts
-#EXTINF:-1,5STAR
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/26879.ts
-#EXTINF:-1,Dave ja vu
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/26878.ts
-#EXTINF:-1,5Spike
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/26876.ts
-#EXTINF:-1,DMAX
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/26872.ts
-#EXTINF:-1,Drama
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/26871.ts
-#EXTINF:-1,4seven
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/26870.ts
-#EXTINF:-1,History
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/299.ts
-#EXTINF:-1,24/7 Family Guy
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35420.ts
-#EXTINF:-1,Discovery History
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/175.ts
-#EXTINF:-1,24/7 Ben and Holly
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35425.ts
-#EXTINF:-1,H2
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/181.ts
-#EXTINF:-1,24/7 Friends
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35419.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/193.ts
-#EXTINF:-1,24/7 Disney Movies
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35422.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/194.ts
-#EXTINF:-1,24/7 Doc Mcstuffins
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35421.ts
-#EXTINF:-1,ID
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/176.ts
-#EXTINF:-1,24/7 Only Fools And Horses
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35417.ts
-#EXTINF:-1,Discovery
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/174.ts
-#EXTINF:-1,Discovery Turbo
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/178.ts
-#EXTINF:-1,Discovery Shed
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/204.ts
-#EXTINF:-1,Discovery Science
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/177.ts
-#EXTINF:-1,Crime & Investigiation
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/173.ts
-#EXTINF:-1,24/7 The Inbetweeners
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35415.ts
-#EXTINF:-1,Animal Planet
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/171.ts
-#EXTINF:-1,24/7 Bobs Burgers
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35423.ts
-#EXTINF:-1,24/7 In The Night Garden
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35418.ts
-#EXTINF:-1,Disney Channel
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/231.ts
-#EXTINF:-1,Cartoon Network
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/230.ts
-#EXTINF:-1,Nickelodeon
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/235.ts
-#EXTINF:-1,Nick JNR
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/300.ts
-#EXTINF:-1,Nick Toons
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/234.ts
-#EXTINF:-1,Disney Jr
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/232.ts
-#EXTINF:-1,N/A
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/238.ts
-#EXTINF:-1,Cbeeies
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/241.ts
-#EXTINF:-1,Tiny POP
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/239.ts
-#EXTINF:-1,Disney XD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/233.ts
-#EXTINF:-1,baby tv
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/236.ts
-#EXTINF:-1,MTV Rocks
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/701.ts
-#EXTINF:-1,MTV Music
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/702.ts
-#EXTINF:-1,MTV Hits
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/703.ts
-#EXTINF:-1,MTV Dance
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/704.ts
-#EXTINF:-1,MTV Classic
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/705.ts
-#EXTINF:-1,MTV Base
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/706.ts
-#EXTINF:-1,MTV
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/250.ts
-#EXTINF:-1,VH1
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/7660.ts
-#EXTINF:-1,UK: SKY CINEMA PREMIER FHD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35479.ts
-#EXTINF:-1,UK: SKY CINEMA PREMIER PLUS 1 (main)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35477.ts
-#EXTINF:-1,UK: SKY CINEMA ACTION FHD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35466.ts
-#EXTINF:-1,UK: SKY CINEMA COMEDY FHD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35464.ts
-#EXTINF:-1,UK: SKY CINEMA DISNEY FHD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35470.ts
-#EXTINF:-1,UK: SKY CINEMA DRAMA (VALENTINE) FHD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35476.ts
-#EXTINF:-1,UK: SKY CINEMA FAMILY FHD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35468.ts
-#EXTINF:-1,UK: SKY CINEMA GREATS (PIRATES) FHD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35472.ts
-#EXTINF:-1,UK: SKY CINEMA HITS FHD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35474.ts
-#EXTINF:-1,UK: SKY CINEMA SCIFI & HORROR FHD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35460.ts
-#EXTINF:-1,UK: SKY CINEMA SELECT FHD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35458.ts
-#EXTINF:-1,UK: SKY CINEMA THRILLER FHD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35462.ts
-#EXTINF:-1,Sky Movies Premiere
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/258.ts
-#EXTINF:-1,SKY CINEMA PREMIERE HD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/24479.ts
-#EXTINF:-1,Sky Movies Select
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/255.ts
-#EXTINF:-1,SKY CINEMA SELECT HD *
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/24484.ts
-#EXTINF:-1,Sky Cinema
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/270.ts
-#EXTINF:-1,Sky Movies Action & Adventure
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/254.ts
-#EXTINF:-1,SKY CINEMA ACTION & ADVENTURE HD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/24483.ts
-#EXTINF:-1,Sky Movies Comedy
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/260.ts
-#EXTINF:-1,SKY SKY CINEMA COMEDY HD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/24477.ts
-#EXTINF:-1,Sky Movies Thriller
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/251.ts
-#EXTINF:-1,SKY CINEMA THRILLER HD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/24478.ts
-#EXTINF:-1,Sky Movies Disney
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/253.ts
-#EXTINF:-1,SKY CINEMA DISNEY HD *
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/24487.ts
-#EXTINF:-1,Sky Movies Drama & Romance
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/259.ts
-#EXTINF:-1,SKY CINEMA DRAMA AND ROMANCE HD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/24482.ts
-#EXTINF:-1,Sky Movies Family
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/252.ts
-#EXTINF:-1,SKY CINEMA FAMILY HD *
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/24486.ts
-#EXTINF:-1,Sky Movies Modern Greats
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/257.ts
-#EXTINF:-1,SKY CINEMA MODERN GREATS HD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/24480.ts
-#EXTINF:-1,Sky Movies Sci-Fi & Horror
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/256.ts
-#EXTINF:-1,SKY CINEMA SCI-FI & HORROR HD *
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/24485.ts
-#EXTINF:-1,PDC DARTS (LIVE FOR EVENTS)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81641.ts
-#EXTINF:-1,UK; PADDY POWER
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35496.ts
-#EXTINF:-1,UK: Paddy Power 3
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/38599.ts
-#EXTINF:-1,UK: BETFRED
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35499.ts
-#EXTINF:-1,UK: Coral TV
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35498.ts
-#EXTINF:-1,UK: Coral TV 2
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/38600.ts
-#EXTINF:-1,UK: Ladbrokes TV
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35497.ts
-#EXTINF:-1,UK: SIS Europe
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35495.ts
-#EXTINF:-1,UK: SIS One
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/38598.ts
-#EXTINF:-1,UK: SIS Two
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/38597.ts
-#EXTINF:-1,UK: VIRTUAL BETTING CHANNEL
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35494.ts
-#EXTINF:-1,UK: William Hill TV
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35493.ts
-#EXTINF:-1,William Hill TV (2)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81642.ts
-#EXTINF:-1,Racing UK
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/275.ts
-#EXTINF:-1,Racing UK (2)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/276.ts
-#EXTINF:-1,Racing UK (3)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/16302.ts
-#EXTINF:-1,Racing UK (4)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/19304.ts
-#EXTINF:-1,At The Races
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/273.ts
-#EXTINF:-1,At The Races (2)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/274.ts
-#EXTINF:-1,At The Races (3)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/16303.ts
-#EXTINF:-1,Premier Sports (1)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/271.ts
-#EXTINF:-1,Premiere Sport (2)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/272.ts
-#EXTINF:-1,Premier Sports (3)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/15722.ts
-#EXTINF:-1,EuroSports 1
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/304.ts
-#EXTINF:-1,Eurosport 1 Back Up
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/3846.ts
-#EXTINF:-1,Eurosport 2
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/305.ts
-#EXTINF:-1,Eurosport 2 Back Up
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/3847.ts
-#EXTINF:-1,MOTOGP LIVE 1
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/26271.ts
-#EXTINF:-1,MOTOGP LIVE 2
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/26270.ts
-#EXTINF:-1,MOTOGP LIVE 3
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/26269.ts
-#EXTINF:-1,eir sport 1
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/279.ts
-#EXTINF:-1,Eir Sport 2
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/19298.ts
-#EXTINF:-1,LFC TV (1)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/282.ts
-#EXTINF:-1,MUTV (1)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/281.ts
-#EXTINF:-1,CHELSEA TV
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/283.ts
-#EXTINF:-1,Box Nation
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/277.ts
-#EXTINF:-1,Box Nation (2)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/278.ts
-#EXTINF:-1,Box Nation (3)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/24937.ts
-#EXTINF:-1, Sports EPL 1 ENGLISH
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/3774.ts
-#EXTINF:-1,Live IN HOUSE SKY SPORTS MAIN EVENT
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/312.ts
-#EXTINF:-1,Live IN HOUSE 2 SKY SPORTS MAIN EVENT
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/313.ts
-#EXTINF:-1,Live IN HOUSE SKY SPORTS FOOTBALL
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/314.ts
-#EXTINF:-1,Live IN HOUSE 2 SKY SPORTS FOOTBALL
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/37099.ts
-#EXTINF:-1,Motors TV
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/24910.ts
-#EXTINF:-1,Sky Sports Mix
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/15721.ts
-#EXTINF:-1,Sky Sports Mix (2)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/16263.ts
-#EXTINF:-1,Sky Sports Mix (3)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/16262.ts
-#EXTINF:-1,Sky Sports Mix (4)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/19269.ts
-#EXTINF:-1,Sky Sports Mix (5)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/24461.ts
-#EXTINF:-1,Sky Sports News HD/SD (1)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/112.ts
-#EXTINF:-1,Sky Sports News HD/SD (2)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/113.ts
-#EXTINF:-1,Sky Sports News HD/SD (3)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/114.ts
-#EXTINF:-1,Sky Sports News HD/SD (4)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/3832.ts
-#EXTINF:-1,Sky Sports News HD/SD (5)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/3833.ts
-#EXTINF:-1,Sky Sports News (SD/HD) (6)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/19268.ts
-#EXTINF:-1,Sky sports MAIN EVENT (1)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/3830.ts
-#EXTINF:-1,Sky sports MAIN EVENT (2)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/3831.ts
-#EXTINF:-1,Sky sports MAIN EVENT (3)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/90.ts
-#EXTINF:-1,Sky sports MAIN EVENT (4)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/91.ts
-#EXTINF:-1,Sky sports MAIN EVENT (5)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/16266.ts
-#EXTINF:-1,Sky sports MAIN EVENT (6)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/19282.ts
-#EXTINF:-1,Sky Sports CRICKET (1)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/3836.ts
-#EXTINF:-1,Sky Sports CRICKET (2)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/93.ts
-#EXTINF:-1,Sky Sports CRICKET (3)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/94.ts
-#EXTINF:-1,Sky Sports CRICKET (4)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/95.ts
-#EXTINF:-1,Sky Sports CRICKET (5)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/19285.ts
-#EXTINF:-1,Sky Sports ACTION (1)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/3835.ts
-#EXTINF:-1,Sky Sports ACTION (2)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/3834.ts
-#EXTINF:-1,Sky Sports ACTION (3)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/98.ts
-#EXTINF:-1,Sky Sports ACTION (4)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/99.ts
-#EXTINF:-1,Sky Sports ACTION (5)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/19286.ts
-#EXTINF:-1,Sky Sports ACTION (6)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/19278.ts
-#EXTINF:-1,Sky Sports GOLF (1)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/3837.ts
-#EXTINF:-1,Sky Sports GOLF (2)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/3838.ts
-#EXTINF:-1,Sky Sports GOLF (3)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/102.ts
-#EXTINF:-1,Sky Sports GOLF (4)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/19277.ts
-#EXTINF:-1,Sky Sports GOLF (5)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/19275.ts
-#EXTINF:-1,Sky Sports PREMIER LEAGUE (1)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/3840.ts
-#EXTINF:-1,Sky Sports PREMIER LEAGUE (2)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/3841.ts
-#EXTINF:-1,Sky Sports PREMIER LEAGUE (3)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/106.ts
-#EXTINF:-1,Sky Sports PREMIER LEAGUE (4)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/107.ts
-#EXTINF:-1,Sky Sports PREMIER LEAGUE (5)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/19272.ts
-#EXTINF:-1,Sky Sports PREMIER LEAGUE (6)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/24459.ts
-#EXTINF:-1,Sky Sport Arena SD/HD (1)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/16015.ts
-#EXTINF:-1,Sky Sport Arena SD/HD (2)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/16014.ts
-#EXTINF:-1,Sky Sport Arena SD/HD (3)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/16013.ts
-#EXTINF:-1,Sky Sport Arena SD/HD (4)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/16082.ts
-#EXTINF:-1,Sky Sport Arena SD/HD (5)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/19287.ts
-#EXTINF:-1,Sky Sport Football SD/HD (1)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/16018.ts
-#EXTINF:-1,Sky Sport Football SD/HD (2)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/16017.ts
-#EXTINF:-1,Sky Sport Football SD/HD (3)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/16016.ts
-#EXTINF:-1,Sky Sport Football SD/HD (4)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/16081.ts
-#EXTINF:-1,Sky Sport Football SD/HD (5)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/24464.ts
-#EXTINF:-1,Sky Sports F1 HD/SD (1)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/110.ts
-#EXTINF:-1,Sky Sports F1 HD/SD (2)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/111.ts
-#EXTINF:-1,Sky Sports F1 HD/SD (3)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/3842.ts
-#EXTINF:-1,Sky Sports F1 HD/SD (4)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/3843.ts
-#EXTINF:-1,Sky Sports F1 HD/SD (5)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/19271.ts
-#EXTINF:-1,Live IN HOUSE 1 BT 1
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/34291.ts
-#EXTINF:-1,Live IN HOUSE 2 BT 1
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/34292.ts
-#EXTINF:-1,Live IN HOUSE 3 BT 2 OR 3
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/34293.ts
-#EXTINF:-1,Live IN HOUSE 4 BT 2 OR 3
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/36268.ts
-#EXTINF:-1,BT Sports ESPN
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/398.ts
-#EXTINF:-1,BT Sports ESPN (1)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/399.ts
-#EXTINF:-1,BT Sport ESPN (2)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/16280.ts
-#EXTINF:-1,BT Sports ESPN SD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81583.ts
-#EXTINF:-1,BT Sports ESPN SD BU
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81582.ts
-#EXTINF:-1,BT Sports 1 HD/SD (1)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/3829.ts
-#EXTINF:-1,BT Sports 1 HD/SD (2)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/116.ts
-#EXTINF:-1,BT Sports 1 HD/SD (3)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/3826.ts
-#EXTINF:-1,BT Sports 1 HD/SD (4)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/16096.ts
-#EXTINF:-1,BT Sports 1 HD/SD (5)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/19265.ts
-#EXTINF:-1,BT Sports 1 HD/SD (6)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/24512.ts
-#EXTINF:-1,BT Sports 1 SD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81589.ts
-#EXTINF:-1,BT Sports 1 SD BU
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81588.ts
-#EXTINF:-1,BT Sports 2 HD/SD (1)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/119.ts
-#EXTINF:-1,BT Sports 2 HD/SD (2)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/120.ts
-#EXTINF:-1,BT Sports 2 HD/SD (3)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/3828.ts
-#EXTINF:-1,BT Sports 2 HD/SD (4)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/19263.ts
-#EXTINF:-1,BT Sports 2 SD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81587.ts
-#EXTINF:-1,BT Sports 2 SD BU
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81586.ts
-#EXTINF:-1,BT Sports 3 HD/SD (1)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/123.ts
-#EXTINF:-1,BT Sports 3 HD/SD (2)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/124.ts
-#EXTINF:-1,BT Sports 3 HD/SD (3)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/3827.ts
-#EXTINF:-1,BT Sports 3 HD/SD (4)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/16094.ts
-#EXTINF:-1,BT Sports 3 HD/SD (5)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/19261.ts
-#EXTINF:-1,BT Sports 3 SD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81585.ts
-#EXTINF:-1,BT Sports 3 SD BU
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81584.ts
-#EXTINF:-1,CELTIC TV IN HOUSE STREAM
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/34673.ts
-#EXTINF:-1,Rangers TV IN HOUSE STREAM
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/34672.ts
-#EXTINF:-1,CELTIC TV (1)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/378.ts
-#EXTINF:-1,CELTIC TV (2)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/380.ts
-#EXTINF:-1,CELTIC TV (3)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/19301.ts
-#EXTINF:-1,Rangers TV (1)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/379.ts
-#EXTINF:-1,Rangers TV (2)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/381.ts
-#EXTINF:-1,Rangers TV (3)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/16305.ts
-#EXTINF:-1,Aberdeen TV
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/34621.ts
-#EXTINF:-1,Aberdeen TV (2)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/34623.ts
-#EXTINF:-1,RED TV (live for games only)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/16160.ts
-#EXTINF:-1,HIBS TV (live for games only)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/16159.ts
-#EXTINF:-1,HIBS TV (2)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/34620.ts
-#EXTINF:-1,HEARTS TV (live for games only)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/16158.ts
-#EXTINF:-1,Hearts TV (2)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/34619.ts
-#EXTINF:-1,Dundee TV
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/34622.ts
-#EXTINF:-1,Fox Sport 1
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/24916.ts
-#EXTINF:-1,Fox Sport 2
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/24915.ts
-#EXTINF:-1,FOX SPORTS 1 E
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/137.ts
-#EXTINF:-1,FOX SPORTS 2 E
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/138.ts
-#EXTINF:-1,SRB: Arena Sports 1
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35621.ts
-#EXTINF:-1,SRB: Arena Sports 2
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35620.ts
-#EXTINF:-1,SRB: Arena Sports 3
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35619.ts
-#EXTINF:-1,SRB: Arena Sports 4
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35618.ts
-#EXTINF:-1,SRB: Arena Sports 5
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/35617.ts
-#EXTINF:-1,Sport Klub 1
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/36305.ts
-#EXTINF:-1,Sport Klub 2
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/36304.ts
-#EXTINF:-1,Sport Klub 3
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/36303.ts
-#EXTINF:-1,Sport Klub 4
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/36302.ts
-#EXTINF:-1,Sport Klub 5
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/36301.ts
-#EXTINF:-1,Sport Klub 6
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/36300.ts
-#EXTINF:-1,BBC 1 HD*
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/16164.ts
-#EXTINF:-1,BBC 1*
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/153.ts
-#EXTINF:-1,BBC 1 HD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/215.ts
-#EXTINF:-1,BBC One Scotland
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81603.ts
-#EXTINF:-1,BBC One W Mid
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81602.ts
-#EXTINF:-1,BBC One Wales
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81601.ts
-#EXTINF:-1,BBC 2 HD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/216.ts
-#EXTINF:-1,BBC 2
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/154.ts
-#EXTINF:-1,BBC 2 HD*
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/16163.ts
-#EXTINF:-1,ITV 1 HD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/219.ts
-#EXTINF:-1,ITV 1*
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/16162.ts
-#EXTINF:-1,ITV HD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/16161.ts
-#EXTINF:-1,ITV 1
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/157.ts
-#EXTINF:-1,ITV plus 1
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81542.ts
-#EXTINF:-1,ITV 1 Central West
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81600.ts
-#EXTINF:-1,ITV 1 London
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81599.ts
-#EXTINF:-1,ITV 1 Meridian South
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81598.ts
-#EXTINF:-1,ITV Anglia E
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81597.ts
-#EXTINF:-1,ITV Border England
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81596.ts
-#EXTINF:-1,ITV Granada
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81595.ts
-#EXTINF:-1,ITV South West
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81594.ts
-#EXTINF:-1,ITV Tyne Tees
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81593.ts
-#EXTINF:-1,ITV Wales
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81592.ts
-#EXTINF:-1,ITV West
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81591.ts
-#EXTINF:-1,ITV Yorks W
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81590.ts
-#EXTINF:-1,STV
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/3845.ts
-#EXTINF:-1,TV3
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/36116.ts
-#EXTINF:-1,Channel 4 HD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/222.ts
-#EXTINF:-1,Channel 4
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/161.ts
-#EXTINF:-1,Channel 4 plus1
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/26882.ts
-#EXTINF:-1,Channel 4 +1
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81549.ts
-#EXTINF:-1,Channel 5 HD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/223.ts
-#EXTINF:-1,Channel 5
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/165.ts
-#EXTINF:-1,Channel 5 plus1
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/26881.ts
-#EXTINF:-1,Channel 5 plus 1
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81548.ts
-#EXTINF:-1,Sky One
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/187.ts
-#EXTINF:-1,Sky1
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/26873.ts
-#EXTINF:-1,Sky Two
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/188.ts
-#EXTINF:-1,Sky Living
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/189.ts
-#EXTINF:-1,Sky Atlantic
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/190.ts
-#EXTINF:-1,Sky Atlantic (2)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/8157.ts
-#EXTINF:-1,Sky Atlantic (3)
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/24039.ts
-#EXTINF:-1,FOX
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/186.ts
-#EXTINF:-1,Sy-Fy
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/185.ts
-#EXTINF:-1,Spike uk
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/208.ts
-#EXTINF:-1,Yesterday
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/183.ts
-#EXTINF:-1,E4
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/163.ts
-#EXTINF:-1,E4 plus1
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81546.ts
-#EXTINF:-1,FOX plus1
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81545.ts
-#EXTINF:-1,More4 plus1
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81537.ts
-#EXTINF:-1,5 USA +1
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81550.ts
-#EXTINF:-1,W
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/224.ts
-#EXTINF:-1,Gold
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/180.ts
-#EXTINF:-1,5 USA
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/167.ts
-#EXTINF:-1,ITV 2 HD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/220.ts
-#EXTINF:-1,ITV 2
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/158.ts
-#EXTINF:-1,ITV2 plus1
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81541.ts
-#EXTINF:-1,ITV 3
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/159.ts
-#EXTINF:-1,ITV3 plus1
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81540.ts
-#EXTINF:-1,ITV 4
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/160.ts
-#EXTINF:-1,ITV4 plus1
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81539.ts
-#EXTINF:-1,ITVBE HD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/221.ts
-#EXTINF:-1,ITVbe
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/199.ts
-#EXTINF:-1,ITVBe plus1
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81538.ts
-#EXTINF:-1,Dave
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/166.ts
-#EXTINF:-1,Comedy Central
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/172.ts
-#EXTINF:-1,ComedyCent plus1
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/81547.ts
-#EXTINF:-1,More 4
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/164.ts
-#EXTINF:-1,Pick TV
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/182.ts
-#EXTINF:-1,RTE 1 HD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/26875.ts
-#EXTINF:-1,RTE 2 HD
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/26874.ts
-#EXTINF:-1,TG4
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/34224.ts
-#EXTINF:-1,Quest
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/192.ts
-#EXTINF:-1,TLC
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/184.ts
-#EXTINF:-1,Sky Arts
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/191.ts
-#EXTINF:-1,Really
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/213.ts
-#EXTINF:-1,Real Lives
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/202.ts
-#EXTINF:-1,Lifetime
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/201.ts
-#EXTINF:-1,Horror Channel
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/212.ts
-#EXTINF:-1,Good Food
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/225.ts
-#EXTINF:-1,Film 4
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/162.ts
-#EXTINF:-1,Eden
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/214.ts
-#EXTINF:-1,E!
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/179.ts
-#EXTINF:-1,CHALLENGE
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/210.ts
-#EXTINF:-1,CBBC.
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/155.ts
-#EXTINF:-1,Boomerang
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/226.ts
-#EXTINF:-1,Alibi
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/197.ts
-#EXTINF:-1,BBC News
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/700.ts
-#EXTINF:-1,Sky News
-http://37.187.136.57:25461/live/xtreameditor/stanleyblade/7639.ts
+#EXTM3U
+
+#EXTINF:-1,UK:  BBC WORLD NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11606.ts
+#EXTINF:-1,UK: CATHOLIC TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7781.ts
+#EXTINF:-1,UK: FRANCE 24
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/13599.ts
+#EXTINF:-1,UK: HEART TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/13600.ts
+#EXTINF:-1,UK: DW
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14231.ts
+#EXTINF:-1,UK: ITV 2
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14303.ts
+#EXTINF:-1,UK: M. HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/13605.ts
+#EXTINF:-1,UK: SKYNEWS UK
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18420.ts
+#EXTINF:-1,UK: BBC 2
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14847.ts
+#EXTINF:-1,UK: BBC 1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/14846.ts
+#EXTINF:-1,UK: HD Fashion
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18118.ts
+#EXTINF:-1,UK: aljezira news ENG
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18841.ts
+#EXTINF:-1,UK: BLOOMBERGH
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18855.ts
+#EXTINF:-1,UK: CAPILATL TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18848.ts
+#EXTINF:-1,UK: CBSN
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18903.ts
+#EXTINF:-1,UK: LONDEN LIVE
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18849.ts
+#EXTINF:-1,UK: HIT MUSIC
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16934.ts
+#EXTINF:-1,UK: Sky News
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16976.ts
+#EXTINF:-1,UK: SYFY
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19218.ts
+#EXTINF:-1,UK: Sky One
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19293.ts
+#EXTINF:-1,UK: DiscScience
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19290.ts
+#EXTINF:-1,UK: RTE 1 HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19334.ts
+#EXTINF:-1,UK: MOVIE 4 MEN
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19333.ts
+#EXTINF:-1,UK: CBS DRAMA
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19270.ts
+#EXTINF:-1,UK: Sky Movies Select HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19291.ts
+#EXTINF:-1,UK: ComedyXtra
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19247.ts
+#EXTINF:-1,UK: CRIME & INVERSTIGATION
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19238.ts
+#EXTINF:-1,UK: MOVIES ACTION HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19327.ts
+#EXTINF:-1,UK: TG4
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19325.ts
+#EXTINF:-1,UK: TLC
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19324.ts
+#EXTINF:-1,UK: NICK JUNIOR
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19192.ts
+#EXTINF:-1,UK: DISCCOVERY TURBO
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19235.ts
+#EXTINF:-1,UK: True Movies 2 HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19234.ts
+#EXTINF:-1,UK: CHANNEL 5
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19262.ts
+#EXTINF:-1,UK: 5 Star
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19357.ts
+#EXTINF:-1,UK: 5 USA
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19358.ts
+#EXTINF:-1,UK: Alibi
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19359.ts
+#EXTINF:-1,UK: BBC 3
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19356.ts
+#EXTINF:-1,UK: BBC News
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19354.ts
+#EXTINF:-1,UK: SKY MOVIES FAMILY HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19226.ts
+#EXTINF:-1,UK: MOVIES DISNEY HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19301.ts
+#EXTINF:-1,UK: Animal Planet
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19283.ts
+#EXTINF:-1,UK: SKY MOVIES DRAMA HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19224.ts
+#EXTINF:-1,UK: CHANNEL 4
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19350.ts
+#EXTINF:-1,UK: TCM
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19220.ts
+#EXTINF:-1,UK: E !
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19345.ts
+#EXTINF:-1,UK: ITV 3
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19339.ts
+#EXTINF:-1,UK: ITV Be
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19337.ts
+#EXTINF:-1,UK: RTE 2 HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19336.ts
+#EXTINF:-1,UK: ITV4
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19338.ts
+#EXTINF:-1,UK: More 4
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19332.ts
+#EXTINF:-1,UK: Sky Two HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19294.ts
+#EXTINF:-1,UK: Sky Movies Comedy
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19330.ts
+#EXTINF:-1,UK: DAVE
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19236.ts
+#EXTINF:-1,UK: Disney XD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19191.ts
+#EXTINF:-1,UK: DISNEY CHANNEL HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19190.ts
+#EXTINF:-1,UK: NICKTOONS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19188.ts
+#EXTINF:-1,UK: ITV 1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19187.ts
+#EXTINF:-1,UK: BT SPORT EXTRA 1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19186.ts
+#EXTINF:-1,UK: CBS ACTION
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19274.ts
+#EXTINF:-1,UK: Comedy Central
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19251.ts
+#EXTINF:-1,UK: CBS NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7786.ts
+#EXTINF:-1,UK: ABC NEWS 24
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20374.ts
+#EXTINF:-1,UK: Arise News
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20371.ts
+#EXTINF:-1,UK: RT
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20372.ts
+#EXTINF:-1,UK: RTE NEWS
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20373.ts
+#EXTINF:-1,UK: CTV 8
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20375.ts
+#EXTINF:-1,UK: Wairarapa TV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20376.ts
+#EXTINF:-1,UK: DISCOVERY
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9206.ts
