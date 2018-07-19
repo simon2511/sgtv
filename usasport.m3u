@@ -1,0 +1,100 @@
+# sgtv
+usasport.m3u
+
+#EXTM3U
+#EXTINF:-1,TNT
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/51.ts
+#EXTINF:-1,NBA TV
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/25.ts
+#EXTINF:-1,MLB Network
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/48.ts
+#EXTINF:-1,NFL Network
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/13.ts
+#EXTINF:-1,NFL Redzone
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/12.ts
+#EXTINF:-1,NESN
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/8.ts
+#EXTINF:-1,NESN Plus
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/31.ts
+#EXTINF:-1,NESN Boston
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/34.ts
+#EXTINF:-1,NBC-CSN Washington
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/17.ts
+#EXTINF:-1,NBC-CSN North West
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/50.ts
+#EXTINF:-1,NBC-CSN Boston
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/49.ts
+#EXTINF:-1,NBC-CSN Philadelphia
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/18.ts
+#EXTINF:-1,NBC-CSN Washington Plus
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/29.ts
+#EXTINF:-1,NBC-CSN Chicago
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/15.ts
+#EXTINF:-1,NBC-CSN Chicago Plus
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/19.ts
+#EXTINF:-1,NBC-CSN California
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/21.ts
+#EXTINF:-1,NBC-CSN California Plus
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/27.ts
+#EXTINF:-1,NBC-CSN Bayarea
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/28.ts
+#EXTINF:-1,NBC-CSN Bayarea Plus
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/22.ts
+#EXTINF:-1,NBC Sports Network
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/20.ts
+#EXTINF:-1,fox sports 1
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/1.ts
+#EXTINF:-1,fox sports 2
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/2.ts
+#EXTINF:-1,Fox YES
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/11.ts
+#EXTINF:-1,Fox Sports Wisconsin
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/47.ts
+#EXTINF:-1,Fox Sports West
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/42.ts
+#EXTINF:-1,Fox Sports Time Ohio
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/46.ts
+#EXTINF:-1,Fox Sports Sun
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/43.ts
+#EXTINF:-1,Fox Sports South West
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/44.ts
+#EXTINF:-1,Fox Sports South
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/35.ts
+#EXTINF:-1,Fox Sports San Diego
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/45.ts
+#EXTINF:-1,Fox Sports Prime Ticket
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/16.ts
+#EXTINF:-1,Fox Sports South East
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/52.ts
+#EXTINF:-1,Fox Sports Mid West
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/53.ts
+#EXTINF:-1,Fox Sports Ohio
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/36.ts
+#EXTINF:-1,Fox Sports North
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/38.ts
+#EXTINF:-1,Fox Sports Florida
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/41.ts
+#EXTINF:-1,Fox Sports Detroit
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/40.ts
+#EXTINF:-1,Fox Sports Arizona
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/39.ts
+#EXTINF:-1,Fox Soccer Plus
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/24.ts
+#EXTINF:-1,Fox Deportes
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/37.ts
+#EXTINF:-1,ESPN
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/33.ts
+#EXTINF:-1,ESPN 2
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/10.ts
+#EXTINF:-1,ESPN U
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/32.ts
+#EXTINF:-1,SEC ESPN
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/7.ts
+#EXTINF:-1,ESPN Deportes
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/9.ts
+#EXTINF:-1,ESPN Longhorn Netwowk
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/26.ts
+#EXTINF:-1,ESPN News
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/30.ts
+#EXTINF:-1,ESPN blgl
+http://velocitystreams.club:2086/live/trial/9NI6uvQWhw/14.ts
