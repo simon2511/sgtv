@@ -1,582 +1,264 @@
 # sgtv
 list1.m3u
 
-#EXTM3U
-#EXTINF:-1,SKY NAT GEO
-http://ok2.se:8000/live/17812/17812/1755.ts
-#EXTINF:-1,SKY NAT GEO WILD
-http://ok2.se:8000/live/17812/17812/1756.ts
-#EXTINF:-1,SKY TCM
-http://ok2.se:8000/live/17812/17812/1785.ts
-#EXTINF:-1,SKY TLC
-http://ok2.se:8000/live/17812/17812/1790.ts
-#EXTINF:-1,SKY HISTORY
-http://ok2.se:8000/live/17812/17812/1758.ts
-#EXTINF:-1,SKY H2
-http://ok2.se:8000/live/17812/17812/1754.ts
-#EXTINF:-1,SKY REALLY
-http://ok2.se:8000/live/17812/17812/1757.ts
-#EXTINF:-1,SKY ARTS
-http://ok2.se:8000/live/17812/17812/2196.ts
-#EXTINF:-1,SKY QUEST
-http://ok2.se:8000/live/17812/17812/1768.ts
-#EXTINF:-1,SKY TRU TV
-http://ok2.se:8000/live/17812/17812/1723.ts
-#EXTINF:-1,SKY TBN
-http://ok2.se:8000/live/17812/17812/1722.ts
-#EXTINF:-1,SKY FOOD NETWORK
-http://ok2.se:8000/live/17812/17812/1788.ts
-#EXTINF:-1,SKY GOOD FOOD
-http://ok2.se:8000/live/17812/17812/1787.ts
-#EXTINF:-1,SKY LIVING
-http://ok2.se:8000/live/17812/17812/1739.ts
-#EXTINF:-1,SKY HOME
-http://ok2.se:8000/live/17812/17812/1718.ts
-#EXTINF:-1,SKY FOX
-http://ok2.se:8000/live/17812/17812/1741.ts
-#EXTINF:-1,SKY EDEN
-http://ok2.se:8000/live/17812/17812/1789.ts
-#EXTINF:-1,SKY DISCOVERY TURBO
-http://ok2.se:8000/live/17812/17812/1767.ts
-#EXTINF:-1,SKY DISCOVERY SHED
-http://ok2.se:8000/live/17812/17812/1761.ts
-#EXTINF:-1,SKY DISCOVERY SCIENCE
-http://ok2.se:8000/live/17812/17812/1766.ts
-#EXTINF:-1,SKY DISCOVERY HISTORY
-http://ok2.se:8000/live/17812/17812/1765.ts
-#EXTINF:-1,SKY DISCOVERY
-http://ok2.se:8000/live/17812/17812/1764.ts
-#EXTINF:-1,SKY DAVE
-http://ok2.se:8000/live/17812/17812/1775.ts
-#EXTINF:-1,SKY COMEDY CENTRAL
-http://ok2.se:8000/live/17812/17812/1748.ts
-#EXTINF:-1,SKY BBC 1
-http://ok2.se:8000/live/17812/17812/1783.ts
-#EXTINF:-1,SKY BBC 2
-http://ok2.se:8000/live/17812/17812/1784.ts
-#EXTINF:-1,SKY BBC 4
-http://ok2.se:8000/live/17812/17812/4848.ts
-#EXTINF:-1,SKY ITV 1
-http://ok2.se:8000/live/17812/17812/4865.ts
-#EXTINF:-1,SKY ITV 2
-http://ok2.se:8000/live/17812/17812/4864.ts
-#EXTINF:-1,SKY ITV 3
-http://ok2.se:8000/live/17812/17812/4863.ts
-#EXTINF:-1,SKY ITV 4
-http://ok2.se:8000/live/17812/17812/4862.ts
-#EXTINF:-1,SKY ITV BE
-http://ok2.se:8000/live/17812/17812/4860.ts
-#EXTINF:-1,SKY RTE 1
-http://ok2.se:8000/live/17812/17812/4859.ts
-#EXTINF:-1,SKY RTE 2
-http://ok2.se:8000/live/17812/17812/4858.ts
-#EXTINF:-1,SKY ATLANTIC
-http://ok2.se:8000/live/17812/17812/1740.ts
-#EXTINF:-1,SKY ANIMAL PLANET
-http://ok2.se:8000/live/17812/17812/1760.ts
-#EXTINF:-1,SKY ALIBI
-http://ok2.se:8000/live/17812/17812/1774.ts
-#EXTINF:-1,SKY 2
-http://ok2.se:8000/live/17812/17812/1749.ts
-#EXTINF:-1,CBS ACTION
-http://ok2.se:8000/live/17812/17812/7184.ts
-#EXTINF:-1,CBS DRAMA
-http://ok2.se:8000/live/17812/17812/7186.ts
-#EXTINF:-1,CBS REALITY
-http://ok2.se:8000/live/17812/17812/7187.ts
-#EXTINF:-1,SKY MORE4
-http://ok2.se:8000/live/17812/17812/7177.ts
-#EXTINF:-1,SKY 5 STAR
-http://ok2.se:8000/live/17812/17812/7181.ts
-#EXTINF:-1,SKY CHANNEL 4
-http://ok2.se:8000/live/17812/17812/7175.ts
-#EXTINF:-1,SKY CHANNEL 5
-http://ok2.se:8000/live/17812/17812/7176.ts
-#EXTINF:-1,SKY CRIME AND INVESTIGATION
-http://ok2.se:8000/live/17812/17812/7190.ts
-#EXTINF:-1,SKY E4
-http://ok2.se:8000/live/17812/17812/7178.ts
-#EXTINF:-1,SKY FILM4
-http://ok2.se:8000/live/17812/17812/7189.ts
-#EXTINF:-1,SKY HORROR
-http://ok2.se:8000/live/17812/17812/7179.ts
-#EXTINF:-1,SKY NEWS
-http://ok2.se:8000/live/17812/17812/7173.ts
-#EXTINF:-1,SKY ONE
-http://ok2.se:8000/live/17812/17812/7172.ts
-#EXTINF:-1,SKY E!
-http://ok2.se:8000/live/17812/17812/7192.ts
-#EXTINF:-1,SKY SYFY
-http://ok2.se:8000/live/17812/17812/7174.ts
-#EXTINF:-1,*NBC SPORTS
-http://ok2.se:8000/live/17812/17812/170.ts
-#EXTINF:-1,*CBS SPORTS HD
-http://ok2.se:8000/live/17812/17812/169.ts
-#EXTINF:-1,*TSN 1 HD
-http://ok2.se:8000/live/17812/17812/138.ts
-#EXTINF:-1,*TSN 2 HD
-http://ok2.se:8000/live/17812/17812/139.ts
-#EXTINF:-1,*TSN 3 HD
-http://ok2.se:8000/live/17812/17812/140.ts
-#EXTINF:-1,*TSN 4 HD
-http://ok2.se:8000/live/17812/17812/141.ts
-#EXTINF:-1,*TSN 5 HD
-http://ok2.se:8000/live/17812/17812/142.ts
-#EXTINF:-1,DUDE PERFECT 24x7 (SPORTS)
-http://ok2.se:8000/live/17812/17812/5871.ts
-#EXTINF:-1,CT FLETCHER 24X7 (SPORTS)
-http://ok2.se:8000/live/17812/17812/6132.ts
-#EXTINF:-1,BRO SCIENCE 24X7 (SPORT)
-http://ok2.se:8000/live/17812/17812/6587.ts
-#EXTINF:-1,*ESPN HD
-http://ok2.se:8000/live/17812/17812/143.ts
-#EXTINF:-1,ESPN 2 HD
-http://ok2.se:8000/live/17812/17812/144.ts
-#EXTINF:-1,ESPN U HD
-http://ok2.se:8000/live/17812/17812/4064.ts
-#EXTINF:-1,BIG 10 HD
-http://ok2.se:8000/live/17812/17812/3950.ts
-#EXTINF:-1,PAC 12 ARIZONA
-http://ok2.se:8000/live/17812/17812/9691.ts
-#EXTINF:-1,PAC 12 BAY AREA
-http://ok2.se:8000/live/17812/17812/9690.ts
-#EXTINF:-1,PAC 12 LOS ANGELES
-http://ok2.se:8000/live/17812/17812/9692.ts
-#EXTINF:-1,PAC 12 MOUNTAIN
-http://ok2.se:8000/live/17812/17812/9689.ts
-#EXTINF:-1,PAC 12 NETWORK
-http://ok2.se:8000/live/17812/17812/9687.ts
-#EXTINF:-1,PAC 12 OREGON
-http://ok2.se:8000/live/17812/17812/9688.ts
-#EXTINF:-1,*FOX SPORTS 1 HD
-http://ok2.se:8000/live/17812/17812/145.ts
-#EXTINF:-1,*FOX SPORTS 2 HD
-http://ok2.se:8000/live/17812/17812/146.ts
-#EXTINF:-1,*SPORTSNET ONT HD
-http://ok2.se:8000/live/17812/17812/148.ts
-#EXTINF:-1,*SPORTSNET ONE HD
-http://ok2.se:8000/live/17812/17812/149.ts
-#EXTINF:-1,*SPORTSNET PACIFIC HD
-http://ok2.se:8000/live/17812/17812/2434.ts
-#EXTINF:-1,SPORTSNET WEST HD
-http://ok2.se:8000/live/17812/17812/8890.ts
-#EXTINF:-1,*SPORTSNET 360 HD
-http://ok2.se:8000/live/17812/17812/147.ts
-#EXTINF:-1,*SPORTSNET WORLD HD
-http://ok2.se:8000/live/17812/17812/150.ts
-#EXTINF:-1,*NFL NETWORK HD
-http://ok2.se:8000/live/17812/17812/157.ts
-#EXTINF:-1,*NHL NETWORK HD
-http://ok2.se:8000/live/17812/17812/156.ts
-#EXTINF:-1,*NBA HD
-http://ok2.se:8000/live/17812/17812/165.ts
-#EXTINF:-1,GOLF HD
-http://ok2.se:8000/live/17812/17812/166.ts
-#EXTINF:-1,WWE HD
-http://ok2.se:8000/live/17812/17812/168.ts
-#EXTINF:-1,TENNIS HD
-http://ok2.se:8000/live/17812/17812/167.ts
-#EXTINF:-1,STAR SPORTS 2 HD
-http://ok2.se:8000/live/17812/17812/202.ts
-#EXTINF:-1,NEO SPORTS
-http://ok2.se:8000/live/17812/17812/4192.ts
-#EXTINF:-1,NEO PRIME
-http://ok2.se:8000/live/17812/17812/4649.ts
-#EXTINF:-1,TEN 1
-http://ok2.se:8000/live/17812/17812/4193.ts
-#EXTINF:-1,TEN 2
-http://ok2.se:8000/live/17812/17812/4194.ts
-#EXTINF:-1,TEN 3
-http://ok2.se:8000/live/17812/17812/4195.ts
-#EXTINF:-1,SKY BOX NATION
-http://ok2.se:8000/live/17812/17812/209.ts
-#EXTINF:-1,EURO SPORT 1 HD
-http://ok2.se:8000/live/17812/17812/211.ts
-#EXTINF:-1,EURO SPORT 2 HD
-http://ok2.se:8000/live/17812/17812/212.ts
-#EXTINF:-1,SKY SPORTS NEWS
-http://ok2.se:8000/live/17812/17812/203.ts
-#EXTINF:-1,SKY SPORTS MAIN EVENT
-http://ok2.se:8000/live/17812/17812/204.ts
-#EXTINF:-1,SKY SPORTS CRICKET
-http://ok2.se:8000/live/17812/17812/205.ts
-#EXTINF:-1,SKY SPORTS ACTION
-http://ok2.se:8000/live/17812/17812/206.ts
-#EXTINF:-1,SKY SPORTS ARENA
-http://ok2.se:8000/live/17812/17812/207.ts
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
-http://ok2.se:8000/live/17812/17812/208.ts
-#EXTINF:-1,SKY AT THE RACES
-http://ok2.se:8000/live/17812/17812/2197.ts
-#EXTINF:-1,SKY SPORTS F1 HD
-http://ok2.se:8000/live/17812/17812/210.ts
-#EXTINF:-1,LFC TV HD
-http://ok2.se:8000/live/17812/17812/221.ts
-#EXTINF:-1,JIO SPORTS HD
-http://ok2.se:8000/live/17812/17812/222.ts
-#EXTINF:-1,SKY SPORTS MIX
-http://ok2.se:8000/live/17812/17812/194.ts
-#EXTINF:-1,BT SPORTS 1 HD
-http://ok2.se:8000/live/17812/17812/225.ts
-#EXTINF:-1,BT SPORTS 2 HD
-http://ok2.se:8000/live/17812/17812/226.ts
-#EXTINF:-1,BT SPORTS ESPN
-http://ok2.se:8000/live/17812/17812/233.ts
-#EXTINF:-1,BT SPORTS 3 HD
-http://ok2.se:8000/live/17812/17812/232.ts
-#EXTINF:-1,EIR SPORTS 1 HD
-http://ok2.se:8000/live/17812/17812/234.ts
-#EXTINF:-1,FX HD
-http://ok2.se:8000/live/17812/17812/314.ts
-#EXTINF:-1,FXX HD
-http://ok2.se:8000/live/17812/17812/315.ts
-#EXTINF:-1,COMEDY NETWORK HD
-http://ok2.se:8000/live/17812/17812/316.ts
-#EXTINF:-1,PARAMOUNT NETWORK HD
-http://ok2.se:8000/live/17812/17812/318.ts
-#EXTINF:-1,*DISCOVERY HD (CDN)
-http://ok2.se:8000/live/17812/17812/319.ts
-#EXTINF:-1,DISCOVERY HD (USA) - NEW
-http://ok2.se:8000/live/17812/17812/12266.ts
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://ok2.se:8000/live/17812/17812/320.ts
-#EXTINF:-1,MAN VS WILD 24X7 - NEW
-http://ok2.se:8000/live/17812/17812/8091.ts
-#EXTINF:-1,LOVE NATURE HD
-http://ok2.se:8000/live/17812/17812/1258.ts
-#EXTINF:-1,*HALLMARK HD
-http://ok2.se:8000/live/17812/17812/321.ts
-#EXTINF:-1,*HALLMARK MOVIES MYSTERY HD
-http://ok2.se:8000/live/17812/17812/4599.ts
-#EXTINF:-1,*HISTORY HD
-http://ok2.se:8000/live/17812/17812/322.ts
-#EXTINF:-1,HISTORY 2 - NEW
-http://ok2.se:8000/live/17812/17812/46714.ts
-#EXTINF:-1,CRIME AND INVESTIGATION - NEW
-http://ok2.se:8000/live/17812/17812/46723.ts
-#EXTINF:-1,*ID HD
-http://ok2.se:8000/live/17812/17812/324.ts
-#EXTINF:-1,LIFE HD
-http://ok2.se:8000/live/17812/17812/325.ts
-#EXTINF:-1,*LIFETIME MOVIES HD
-http://ok2.se:8000/live/17812/17812/326.ts
-#EXTINF:-1,IFC HD
-http://ok2.se:8000/live/17812/17812/327.ts
-#EXTINF:-1,*TLC HD
-http://ok2.se:8000/live/17812/17812/328.ts
-#EXTINF:-1,DIY HD
-http://ok2.se:8000/live/17812/17812/329.ts
-#EXTINF:-1,NAT GEO HD
-http://ok2.se:8000/live/17812/17812/330.ts
-#EXTINF:-1,*NAT GEO WILD HD
-http://ok2.se:8000/live/17812/17812/331.ts
-#EXTINF:-1,BBC EARTH HD
-http://ok2.se:8000/live/17812/17812/32180.ts
-#EXTINF:-1,ANIMAL PLANET HD
-http://ok2.se:8000/live/17812/17812/332.ts
-#EXTINF:-1,FOOD HD
-http://ok2.se:8000/live/17812/17812/333.ts
-#EXTINF:-1,VICELAND HD
-http://ok2.se:8000/live/17812/17812/323.ts
-#EXTINF:-1,AMC HD
-http://ok2.se:8000/live/17812/17812/334.ts
-#EXTINF:-1,HGTV HD (CDN)
-http://ok2.se:8000/live/17812/17812/42685.ts
-#EXTINF:-1,*HGTV HD
-http://ok2.se:8000/live/17812/17812/335.ts
-#EXTINF:-1,PEACHTREE HD
-http://ok2.se:8000/live/17812/17812/337.ts
-#EXTINF:-1,WGN HD - NEW
-http://ok2.se:8000/live/17812/17812/9163.ts
-#EXTINF:-1,WGN NEWS HD
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1,E! HD
-http://ok2.se:8000/live/17812/17812/338.ts
-#EXTINF:-1,COSMO - NEW
-http://ok2.se:8000/live/17812/17812/46717.ts
-#EXTINF:-1,HEROES AND ICONS - NEW
-http://ok2.se:8000/live/17812/17812/46718.ts
-#EXTINF:-1,SYFY HD
-http://ok2.se:8000/live/17812/17812/339.ts
-#EXTINF:-1,SPACE HD - NEW
-http://ok2.se:8000/live/17812/17812/8110.ts
-#EXTINF:-1,TRU TV HD
-http://ok2.se:8000/live/17812/17812/340.ts
-#EXTINF:-1,TNT HD
-http://ok2.se:8000/live/17812/17812/341.ts
-#EXTINF:-1,TRAVEL HD
-http://ok2.se:8000/live/17812/17812/349.ts
-#EXTINF:-1,DESTINATION AMERICA HD
-http://ok2.se:8000/live/17812/17812/7482.ts
-#EXTINF:-1,MTV HD
-http://ok2.se:8000/live/17812/17812/350.ts
-#EXTINF:-1,BET HD
-http://ok2.se:8000/live/17812/17812/351.ts
-#EXTINF:-1,BRAVO HD
-http://ok2.se:8000/live/17812/17812/353.ts
-#EXTINF:-1,*VH1 HD
-http://ok2.se:8000/live/17812/17812/354.ts
-#EXTINF:-1,BBC AMERICA HD
-http://ok2.se:8000/live/17812/17812/357.ts
-#EXTINF:-1,*CNN HD
-http://ok2.se:8000/live/17812/17812/360.ts
-#EXTINF:-1,CBC NEWS HD
-http://ok2.se:8000/live/17812/17812/361.ts
-#EXTINF:-1,CTV NEWS NETWORK HD
-http://ok2.se:8000/live/17812/17812/2423.ts
-#EXTINF:-1,HLN HD
-http://ok2.se:8000/live/17812/17812/362.ts
-#EXTINF:-1,*FOX NEWS HD
-http://ok2.se:8000/live/17812/17812/363.ts
-#EXTINF:-1,CBS NEWS HD
-http://ok2.se:8000/live/17812/17812/3078.ts
-#EXTINF:-1,ABC NEWS HD
-http://ok2.se:8000/live/17812/17812/3077.ts
-#EXTINF:-1,CNBC HD
-http://ok2.se:8000/live/17812/17812/364.ts
-#EXTINF:-1,FOX NEWS BUSINESS
-http://ok2.se:8000/live/17812/17812/4600.ts
-#EXTINF:-1,BLOOMBERG
-http://ok2.se:8000/live/17812/17812/1662.ts
-#EXTINF:-1,ALJAZEERA ENGLISH
-http://ok2.se:8000/live/17812/17812/1661.ts
-#EXTINF:-1,CCTV NEWS
-http://ok2.se:8000/live/17812/17812/3965.ts
-#EXTINF:-1,FRANCE 24
-http://ok2.se:8000/live/17812/17812/4796.ts
-#EXTINF:-1,BBC WORLD NEWS
-http://ok2.se:8000/live/17812/17812/9546.ts
-#EXTINF:-1,RTE NEWS NOW
-http://ok2.se:8000/live/17812/17812/7191.ts
-#EXTINF:-1,RT NEWS ENGLISH
-http://ok2.se:8000/live/17812/17812/512.ts
-#EXTINF:-1,RT DOCUMENTARY
-http://ok2.se:8000/live/17812/17812/3075.ts
-#EXTINF:-1,VELOCITY HD
-http://ok2.se:8000/live/17812/17812/367.ts
-#EXTINF:-1,TCM HD
-http://ok2.se:8000/live/17812/17812/368.ts
-#EXTINF:-1,MOVIE TIME HD
-http://ok2.se:8000/live/17812/17812/369.ts
-#EXTINF:-1,ACTION HD
-http://ok2.se:8000/live/17812/17812/370.ts
-#EXTINF:-1,007 4 LIFE HD - NEW
-http://ok2.se:8000/live/17812/17812/7493.ts
-#EXTINF:-1,80'S ACTION HITZ HD - NEW
-http://ok2.se:8000/live/17812/17812/7497.ts
-#EXTINF:-1,80'S COMEDY HITZ HD - NEW
-http://ok2.se:8000/live/17812/17812/7496.ts
-#EXTINF:-1,80'S DRAMA HITZ HD
-http://ok2.se:8000/live/17812/17812/7495.ts
-#EXTINF:-1,80'S HORROR HITZ HD - NEW
-http://ok2.se:8000/live/17812/17812/7494.ts
-#EXTINF:-1,TREEHOUSE HD
-http://ok2.se:8000/live/17812/17812/393.ts
-#EXTINF:-1,PEPPA PIG 24x7
-http://ok2.se:8000/live/17812/17812/9737.ts
-#EXTINF:-1,PAW PATROL 24x7
-http://ok2.se:8000/live/17812/17812/9736.ts
-#EXTINF:-1,NICKELODEON HD
-http://ok2.se:8000/live/17812/17812/394.ts
-#EXTINF:-1,CARTOON NETWORK HD
-http://ok2.se:8000/live/17812/17812/395.ts
-#EXTINF:-1,FAMILY HD
-http://ok2.se:8000/live/17812/17812/396.ts
-#EXTINF:-1,DISNEY XD HD
-http://ok2.se:8000/live/17812/17812/397.ts
-#EXTINF:-1,DISNEY ALL DAY 24X7
-http://ok2.se:8000/live/17812/17812/7804.ts
-#EXTINF:-1,DUCK TALES 24X7
-http://ok2.se:8000/live/17812/17812/7498.ts
-#EXTINF:-1,SPIDERMAN 24x7 (NEW)
-http://ok2.se:8000/live/17812/17812/9976.ts
-#EXTINF:-1,BATMAN THE ANIMATED SERIES 24x7
-http://ok2.se:8000/live/17812/17812/7499.ts
-#EXTINF:-1,STAR WARS CLONE WARS 24X7
-http://ok2.se:8000/live/17812/17812/7835.ts
-#EXTINF:-1,STAR WARS REBELS 24x7
-http://ok2.se:8000/live/17812/17812/8090.ts
-#EXTINF:-1,SKY DISNEY CHANNEL
-http://ok2.se:8000/live/17812/17812/1745.ts
-#EXTINF:-1,SKY DISNEY JR
-http://ok2.se:8000/live/17812/17812/1746.ts
-#EXTINF:-1,SKY DISNEY XD
-http://ok2.se:8000/live/17812/17812/1747.ts
-#EXTINF:-1,SKY CARTOON NETWORK
-http://ok2.se:8000/live/17812/17812/1773.ts
-#EXTINF:-1,SKY NICKTOONS
-http://ok2.se:8000/live/17812/17812/1729.ts
-#EXTINF:-1,SKY NICK JR
-http://ok2.se:8000/live/17812/17812/1716.ts
-#EXTINF:-1,SKY RTE JR
-http://ok2.se:8000/live/17812/17812/9625.ts
-#EXTINF:-1,SKY BOOMERANG
-http://ok2.se:8000/live/17812/17812/9626.ts
-#EXTINF:-1,MOVIES 24
-http://ok2.se:8000/live/17812/17812/1772.ts
-#EXTINF:-1,TRUE MOVIES
-http://ok2.se:8000/live/17812/17812/1786.ts
-#EXTINF:-1,SKY MOVIES DISNEY
-http://ok2.se:8000/live/17812/17812/1743.ts
-#EXTINF:-1,SKY MOVIES ACTION & ADVENTURE
-http://ok2.se:8000/live/17812/17812/1738.ts
-#EXTINF:-1,SKY MOVIES COMEDY
-http://ok2.se:8000/live/17812/17812/1737.ts
-#EXTINF:-1,SKY MOVIES PREMIERE
-http://ok2.se:8000/live/17812/17812/1733.ts
-#EXTINF:-1,SKY MOVIES FAMILY
-http://ok2.se:8000/live/17812/17812/1736.ts
-#EXTINF:-1,SKY MOVIES DRAMA & ROMANCE
-http://ok2.se:8000/live/17812/17812/1779.ts
-#EXTINF:-1,SKY MOVIES THRILLER
-http://ok2.se:8000/live/17812/17812/1742.ts
-#EXTINF:-1,SKY MOVIES VILLAINS
-http://ok2.se:8000/live/17812/17812/1780.ts
-#EXTINF:-1,SKY SONY MOVIES
-http://ok2.se:8000/live/17812/17812/1771.ts
-#EXTINF:-1,GEM (AUS) - NEW
-http://ok2.se:8000/live/17812/17812/45283.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Fox Sports 1 HD SV1
+http://fpttv.tk/iptv/hplus.php?id=foxsport-1hd
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Fox Sports 1 HD SV2
+http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index2.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Fox Sports 2 HD
+http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index2.m3u8 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Fox Sports 2 T.Việt
+http://fpttv.tk/iptv/mytvnet.php?id=foxsports2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ssF8KZD.jpg" group-title="SPORT", Realmadrid TV 
+https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", MU TV HD
+http://vapi.vaders.tv/play/2589.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Chelsea TV HD
+http://vapi.vaders.tv/play/40881.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", UFC TV HD
+http://vapi.vaders.tv/play/42469.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", NBA TV HD
+http://vapi.vaders.tv/play/2788.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Gol TV HD
+http://vapi.vaders.tv/play/46466.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", WWE Network HD
+http://vapi.vaders.tv/play/3047.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Motors TV UK
+http://vapi.vaders.tv/play/40683.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Boxnation 
+http://vapi.vaders.tv/play/39646.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sky Sports F1 HD 
+http://vapi.vaders.tv/play/2483.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sky Sports Cricket HD 
+http://vapi.vaders.tv/play/2479.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sky Sports Action HD 
+http://vapi.vaders.tv/play/2480.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sky Sports Golf HD 
+http://vapi.vaders.tv/play/2481.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sky Sports Premier League HD 
+http://vapi.vaders.tv/play/2482.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", BT Sport 1 HD
+http://vapi.vaders.tv/play/2487.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", BT Sport 2 HD
+http://vapi.vaders.tv/play/2488.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", BT Sport 3 HD
+http://vapi.vaders.tv/play/2489.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sony Six
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sony ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Dsport
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226484/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", NEO Sports
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225791/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Astro Arena
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", TVRI Sports
+http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sports Golf Channel
+http://vapi.vaders.tv/play/2561.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", NBC Sports Network HD
+http://vapi.vaders.tv/play/2562.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", BeIN Sports USA HD
+http://vapi.vaders.tv/play/2563.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", ESPNews HD
+http://vapi.vaders.tv/play/2564.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", ESPN HD
+http://vapi.vaders.tv/play/2565.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", ESPN 2 HD
+http://vapi.vaders.tv/play/2566.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", ESPN U HD
+http://vapi.vaders.tv/play/2567.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Fox Sports 1 HD
+http://vapi.vaders.tv/play/2568.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Fox Sports 2 HD
+http://vapi.vaders.tv/play/2569.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sky Sports News HD
+http://vapi.vaders.tv/play/2570.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Eir Sports 1 HD
+http://vapi.vaders.tv/play/2593.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sportsnet 360 HD
+http://vapi.vaders.tv/play/2669.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sportsnet West HD
+http://vapi.vaders.tv/play/2671.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sportsnet One HD
+http://vapi.vaders.tv/play/2672.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sportsnet Ontario HD
+http://vapi.vaders.tv/play/2673.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sportsnet Pacific HD
+http://vapi.vaders.tv/play/2674.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sportsnet East HD
+http://vapi.vaders.tv/play/2694.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", NFL Network HD
+http://vapi.vaders.tv/play/2744.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", NHL Network HD
+http://vapi.vaders.tv/play/2786.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", MLB Network HD
+http://vapi.vaders.tv/play/2787.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", CBS Sports Network HD
+http://vapi.vaders.tv/play/2789.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", BT Sports ESPN HD
+http://vapi.vaders.tv/play/2790.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", TSN 1 HD
+http://vapi.vaders.tv/play/2845.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", TSN 2 HD
+http://vapi.vaders.tv/play/2846.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", TSN 3 HD
+http://vapi.vaders.tv/play/2847.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", TSN 4 HD
+http://vapi.vaders.tv/play/2848.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", TSN 5 HD
+http://vapi.vaders.tv/play/2849.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sky Sports Main Event HD
+http://vapi.vaders.tv/play/2889.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", LFC TV HD
+http://vapi.vaders.tv/play/3009.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Willow HD
+http://vapi.vaders.tv/play/3077.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", ESPN Deportes HD
+http://vapi.vaders.tv/play/3136.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sony Six HD
+http://vapi.vaders.tv/play/8259.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", EuroSport 1 HD
+http://vapi.vaders.tv/play/19293.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", EuroSport 2 HD
+http://vapi.vaders.tv/play/19294.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Racing UK HD
+http://vapi.vaders.tv/play/19295.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Premier Sports HD
+http://vapi.vaders.tv/play/19296.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", At The Races
+http://vapi.vaders.tv/play/19297.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", YES Network HD
+http://vapi.vaders.tv/play/33511.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Star Sports 1 HD
+http://vapi.vaders.tv/play/37198.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Star Sports 2 HD
+http://vapi.vaders.tv/play/37199.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Star Sports 1 Select HD
+http://vapi.vaders.tv/play/37200.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Star Sports 2 Select HD
+http://vapi.vaders.tv/play/37201.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sky Sports Mix HD
+http://vapi.vaders.tv/play/37235.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Univision Deportes HD
+http://vapi.vaders.tv/play/38911.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", SEC Network HD
+http://vapi.vaders.tv/play/39621.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sky Sports Golf
+http://vapi.vaders.tv/play/39823.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sky Sports Premier League
+http://vapi.vaders.tv/play/39824.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sky Sports News
+http://vapi.vaders.tv/play/39826.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sky Sports Mix
+http://vapi.vaders.tv/play/39827.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", BT Sports 1
+http://vapi.vaders.tv/play/39828.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", BT Sports ESPN
+http://vapi.vaders.tv/play/39831.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", PAC 12 Network HD
+http://vapi.vaders.tv/play/39848.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", PAC 12 Mountain HD
+http://vapi.vaders.tv/play/39852.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", PAC 12 Bay Area HD
+http://vapi.vaders.tv/play/39854.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Big Ten Network HD
+http://vapi.vaders.tv/play/39861.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", BeIN Sports 11 HD
+http://vapi.vaders.tv/play/40879.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", BeIN Sports 12 HD
+http://vapi.vaders.tv/play/40880.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", CSN California HD
+http://vapi.vaders.tv/play/41143.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sky Sports Football HD
+http://vapi.vaders.tv/play/42360.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sky Sports Arena HD
+http://vapi.vaders.tv/play/42361.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sky Sports Arena 
+http://vapi.vaders.tv/play/47385.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sky Sports Football
+http://vapi.vaders.tv/play/47386.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Fox Soccer Plus HD
+http://vapi.vaders.tv/play/52188.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Fox Deportes HD
+http://vapi.vaders.tv/play/52189.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Fox Sports South HD
+http://vapi.vaders.tv/play/52200.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Fox Sports South East HD
+http://vapi.vaders.tv/play/52201.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", CSN New England HD
+http://vapi.vaders.tv/play/52206.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", CSN Mid Atlantic HD
+http://vapi.vaders.tv/play/52207.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", NESN HD
+http://vapi.vaders.tv/play/52208.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", NESN Plus HD
+http://vapi.vaders.tv/play/52209.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Longhorn Network HD
+http://vapi.vaders.tv/play/52210.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", RDS HD
+http://vapi.vaders.tv/play/57579.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", TVA Sports HD
+http://vapi.vaders.tv/play/73296.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", CBS Sports HD
+http://vapi.vaders.tv/play/77169.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", RDS 2 HD
+http://vapi.vaders.tv/play/77718.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Spectrum SportsNet LA HD
+http://vapi.vaders.tv/play/77882.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Spectrum SportsNet HD
+http://vapi.vaders.tv/play/77883.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", CSN Philly HD
+http://vapi.vaders.tv/play/78564.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", MAVTV HD
+http://vapi.vaders.tv/play/79263.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Fox Footy HD
+http://vapi.vaders.tv/play/79278.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Sportsnet New York HD
+http://vapi.vaders.tv/play/79279.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Fox League HD
+http://vapi.vaders.tv/play/79281.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Ten 1 HD
+http://vapi.vaders.tv/play/79282.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Ten 2 HD
+http://vapi.vaders.tv/play/79283.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Ten 3 HD
+http://vapi.vaders.tv/play/79284.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", Ten Cricket HD
+http://vapi.vaders.tv/play/79285.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/10ExUEP.jpg" group-title="SPORT", PTV Sports
+http://vapi.vaders.tv/play/79288.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
 
-#EXTINF:0,4SEVEN | SD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/12517.m3u8
-
-#EXTINF:0,5 STAR | SD
-http://izgemma.ddns.net:8000/live/ryan/ryan/26961.m3u8
-
-#EXTINF:0,AMC | SD
-http://izgemma.ddns.net:8000/live/ryan/ryan/11339.m3u8
-
-#EXTINF:0,ANIMAL PLANET | HD
-http://izgemma.ddns.net:8000/live/ryan/ryan/9882.m3u8
-
-#EXTINF:0,BET | SD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/7618.m3u8
-
-#EXTINF:0,BLAZE | SD
-http://izgemma.ddns.net:8000/live/ryan/ryan/11877.m3u8
-
-#EXTINF:0,CBS DRAMA | SD
-http://izgemma.ddns.net:8000/live/ryan/ryan/29511.m3u8
-
-#EXTINF:0,CHALLENGE | SD
-http://izgemma.ddns.net:8000/live/ryan/ryan/21112.m3u8
-
-#EXTINF:0,CHANNEL 4 | HD
-http://izgemma.ddns.net:8000/live/ryan/ryan/33270.m3u8
-
-#EXTINF:0,CHANNEL 5 | SD
-http://izgemma.ddns.net:8000/live/ryan/ryan/13475.m3u8
-
-#EXTINF:0,COMEDY CENTRAL | HD
-http://izgemma.ddns.net:8000/live/ryan/ryan/8148.m3u8
-
-#EXTINF:0,DAVE | HD
-http://izgemma.ddns.net:8000/live/ryan/ryan/31974.m3u8
-
-#EXTINF:0,DAVE JA VU | SD
-http://izgemma.ddns.net:8000/live/ryan/ryan/27692.m3u8
-
-#EXTINF:0,DISCOVERY | HD
-http://izgemma.ddns.net:8000/live/ryan/ryan/9879.m3u8
-
-#EXTINF:0,DISCOVERY SCIENCE | SD
-http://izgemma.ddns.net:8000/live/ryan/ryan/9884.m3u8
-
-#EXTINF:0,DISCOVERY SHED | SD
-http://izgemma.ddns.net:8000/live/ryan/ryan/9238.m3u8
-
-#EXTINF:0,DISCOVERY TURBO | SD
-http://izgemma.ddns.net:8000/live/ryan/ryan/9883.m3u8
-
-#EXTINF:0,DMAX | SD
-http://izgemma.ddns.net:8000/live/ryan/ryan/33890.m3u8
-
-#EXTINF:0,DRAMA | SD
-http://izgemma.ddns.net:8000/live/ryan/ryan/9235.m3u8
-
-#EXTINF:0,FOX | HD
-http://izgemma.ddns.net:8000/live/ryan/ryan/19632.m3u8
-
-#EXTINF:0,GOLD | SD
-http://izgemma.ddns.net:8000/live/ryan/ryan/27674.m3u8
-
-#EXTINF:0,GOOD FOOD | SD
-http://izgemma.ddns.net:8000/live/ryan/ryan/8168.m3u8
-
-#EXTINF:0,HOME | SD
-http://izgemma.ddns.net:8000/live/ryan/ryan/11338.m3u8
-
-#EXTINF:0,HOME & HEALTH | SD
-http://izgemma.ddns.net:8000/live/ryan/ryan/9470.m3u8
-
-#EXTINF:0,INSIGHT | HD
-http://izgemma.ddns.net:8000/live/ryan/ryan/37161.m3u8
-
-#EXTINF:0,ITV CENTRAL | HD
-http://izgemma.ddns.net:8000/live/ryan/ryan/35123.m3u8
-
-#EXTINF:0,ITV 2 | SD
-http://izgemma.ddns.net:8000/live/ryan/ryan/10749.m3u8
-
-#EXTINF:0,ITV 3 | HD
-http://izgemma.ddns.net:8000/live/ryan/ryan/37345.m3u8
-
-#EXTINF:0,ITV 4 | HD
-http://izgemma.ddns.net:8000/live/ryan/ryan/8155.m3u8
-
-#EXTINF:0,ITV BE | HD
-http://izgemma.ddns.net:8000/live/ryan/ryan/37412.m3u8
-
-#EXTINF:0,LIFETIME | HD
-http://izgemma.ddns.net:8000/live/ryan/ryan/9233.m3u8
-
-#EXTINF:0,NATIONAL GEOGRAPHIC | HD
-http://izgemma.ddns.net:8000/live/ryan/ryan/9885.m3u8
-
-#EXTINF:0,NATIONAL GEOGRAPHIC WILD | HD
-http://izgemma.ddns.net:8000/live/ryan/ryan/29508.m3u8
-
-#EXTINF:0,PROPERTY SHOW | SD
-http://izgemma.ddns.net:8000/live/ryan/ryan/11753.m3u8
-
-#EXTINF:0,REAL LIVES | SD
-http://izgemma.ddns.net:8000/live/ryan/ryan/11342.m3u8
-
-#EXTINF:0,REALLY | SD
-http://izgemma.ddns.net:8000/live/ryan/ryan/9232.m3u8
-
-#EXTINF:0,SHOWCASE | SD
-http://izgemma.ddns.net:8000/live/ryan/ryan/11855.m3u8
-
-#EXTINF:0,SONY CHANNEL | SD
-http://izgemma.ddns.net:8000/live/ryan/ryan/9234.m3u8
-
-#EXTINF:0,SYFY | HD
-http://izgemma.ddns.net:8000/live/ryan/ryan/8150.m3u8
-
-#EXTINF:0,TG4 | SD
-http://izgemma.ddns.net:8000/live/ryan/ryan/11331.m3u8
-
-#EXTINF:0,TLC | HD
-http://izgemma.ddns.net:8000/live/ryan/ryan/8160.m3u8
-
-#EXTINF:0,UNIVERSAL | HD
-http://izgemma.ddns.net:8000/live/ryan/ryan/37160.m3u8
-
-#EXTINF:0,YESTERDAY | SD
-http://izgemma.ddns.net:8000/live/ryan/ryan/10733.m3u8
-
-#EXTINF:0,CBS | SD
-http://iptv9211.hopto.me:8000/live/nazim2/nazim2/30016.m3u8
-
-#EXTINF:0,CRIME AND INVESTIGATION | SD
-http://ipsatpro.biz:8080/live/42607/42607/1511.m3u8
-
-#EXTINF:0,DISCOVERY SHOWCASE | HD
-http://iptv9211.hopto.me:8000/live/nazim2/nazim2/29992.m3u8
-
-#EXTINF:0,FAMLY | HD
-http://ipsatpro.biz:8080/live/42607/42607/1495.m3u8
+~♥Kênh Du Lịch & Khám Phá♥~
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/buGBTGW.jpg" group-title="DU LỊCH & KHÁM PHÁ", National Geographic HD T.Việt
+http://fpttv.tk/iptv/mytvnet.php?id=ngchd
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/buGBTGW.jpg" group-title="DU LỊCH & KHÁM PHÁ", National Geographic T.Việt
+http://fpttv.tk/iptv/hplus.php?id=ngc-hd
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/0pEbc04.png" group-title="DU LỊCH & KHÁM PHÁ", BBC Earth T.Việt 
+http://fpttv.tk/iptv/hplus.php?id=bbc-e
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ezmA7U3.png" group-title="DU LỊCH & KHÁM PHÁ", BBC Lifestyle
+http://fpttv.tk/iptv/hplus.php?id=bbc-ls
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/QMFgMSa.png" group-title="DU LỊCH & KHÁM PHÁ", Discovery
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225874/01.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7YpzapM.png" group-title="DU LỊCH & KHÁM PHÁ", Discovery TURBO
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225782/01.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VG4n1Ti.png" group-title="DU LỊCH & KHÁM PHÁ", Discovery Science
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225778/01.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ZFE5ggX.jpg" group-title="DU LỊCH & KHÁM PHÁ", Discovery WORLD HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/qabfPgx.png" group-title="DU LỊCH & KHÁM PHÁ", Animal Planet HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/R2iI2Ac.png" group-title="DU LỊCH & KHÁM PHÁ", Animal Planet
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225872/01.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/BmHt6Uh.png" group-title="DU LỊCH & KHÁM PHÁ", SONY BBC EARTH HD
+http://mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/03.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/BmHt6Uh.png" group-title="DU LỊCH & KHÁM PHÁ", SONY BBC EARTH
+http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226068/03.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/1RCRYom.png" group-title="DU LỊCH & KHÁM PHÁ", TLC HD
+http://mhms9.airtel.tv/PLTV/88888888/224/3221226279/01.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/1RCRYom.png" group-title="DU LỊCH & KHÁM PHÁ", TLC 
+http://fpttv.tk/iptv/mytvnet.php?id=tlc
 
 
 
