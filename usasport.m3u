@@ -3,9 +3,6 @@ usasport.m3u
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A0RNQeF.png" group-title="INFO",LODGE TV ENGLISH
-http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://support.apple.com/content/dam/edam/applecare/images/en_US/icloud/featured-content-backup-icon-green_2x.png" group-title="INFO",= JULY 2018
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
 
