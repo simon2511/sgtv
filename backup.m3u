@@ -1,305 +1,225 @@
 # sgtv
 backup.m3u
 
-#EXTM3U
-
-#EXTINF:-1,USA: ABC HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2494.ts
-#EXTINF:-1,USA: ABC News
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2490.ts
-#EXTINF:-1,USA: ABC Spark
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2493.ts
-#EXTINF:-1,USA: AFN Family Movie
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2463.ts
-#EXTINF:-1,USA: AFN Movie
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2464.ts
-#EXTINF:-1,USA: AFN News
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2465.ts
-#EXTINF:-1,USA: AFN Prime Atlantic
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2466.ts
-#EXTINF:-1,USA: AFN Prime Pacific
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2467.ts
-#EXTINF:-1,USA: AFN Sports
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2425.ts
-#EXTINF:-1,USA: AFN Sports 2
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2424.ts
-#EXTINF:-1,USA: AFN Sports HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2426.ts
-#EXTINF:-1,USA: AL JAZEERA U.S HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2353.ts
-#EXTINF:-1,USA: AMC
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2475.ts
-#EXTINF:-1,USA: ANIMAL PLANET
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2441.ts
-#EXTINF:-1,USA: BBC WORLD NEWS
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2352.ts
-#EXTINF:-1,USA: BET
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2462.ts
-#EXTINF:-1,USA: BET HER
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2461.ts
-#EXTINF:-1,USA: Big Ten Network HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2384.ts
-#EXTINF:-1,USA: BLOOMBERG TV
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2403.ts
-#EXTINF:-1,USA: Bounce TV
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2489.ts
-#EXTINF:-1,USA: BOX OFFICE MOVIES
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2376.ts
-#EXTINF:-1,USA: Bravo HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2469.ts
-#EXTINF:-1,USA: C Toon Kids
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2381.ts
-#EXTINF:-1,USA: C-SPAN 1 HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2359.ts
-#EXTINF:-1,USA: C-SPAN 2 HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2358.ts
-#EXTINF:-1,USA: C-SPAN 3 HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2357.ts
-#EXTINF:-1,USA: CALIFORNIA MUSIC CHANNEL
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2431.ts
-#EXTINF:-1,USA: Cartoon Network HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2456.ts
-#EXTINF:-1,USA: CBS HD-US
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2483.ts
-#EXTINF:-1,USA: CBS News
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2482.ts
-#EXTINF:-1,USA: CBSN News
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2481.ts
-#EXTINF:-1,USA: Cinemax 5 Max
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2380.ts
-#EXTINF:-1,USA: Cinemax 5 Star Max
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2354.ts
-#EXTINF:-1,USA: Cinemax ActionMax
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2363.ts
-#EXTINF:-1,USA: Cinemax East
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2364.ts
-#EXTINF:-1,USA: Cinemax Moremax
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2455.ts
-#EXTINF:-1,USA: CMT HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2432.ts
-#EXTINF:-1,USA: CNBC HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2468.ts
-#EXTINF:-1,USA: CNN
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2479.ts
-#EXTINF:-1,USA: CNN HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2478.ts
-#EXTINF:-1,USA: CNN HD INTERNATIONAL
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2477.ts
-#EXTINF:-1,USA: COMEDY CENTRAL
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2454.ts
-#EXTINF:-1,USA: Crime Investigation
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2453.ts
-#EXTINF:-1,USA: CW 11 HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2480.ts
-#EXTINF:-1,USA: CW Channel 11
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2361.ts
-#EXTINF:-1,USA: DISCOVERY CHANNEL HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2446.ts
-#EXTINF:-1,USA: DISCOVERY SCIENCE HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2445.ts
-#EXTINF:-1,USA: DISCOVERY SHOWCASE
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2402.ts
-#EXTINF:-1,USA: DISCOVERY VELOCITY
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2444.ts
-#EXTINF:-1,USA: Disney Channel HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2460.ts
-#EXTINF:-1,USA: DISNEY JR HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2458.ts
-#EXTINF:-1,USA: Disney XD HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2459.ts
-#EXTINF:-1,USA: E! Network HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2414.ts
-#EXTINF:-1,USA: ESPN
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2418.ts
-#EXTINF:-1,USA: ESPN 1
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2427.ts
-#EXTINF:-1,USA: ESPN 2 HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2417.ts
-#EXTINF:-1,USA: ESPN 3 TRE
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2416.ts
-#EXTINF:-1,USA: ESPN NEWS
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2415.ts
-#EXTINF:-1,USA: EURO NEWS
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2401.ts
-#EXTINF:-1,USA: Fight Network / MMA Network
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2400.ts
-#EXTINF:-1,USA: Fight Sport 1
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2368.ts
-#EXTINF:-1,USA: Fight Sport 2
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2365.ts
-#EXTINF:-1,USA: FOOD NETWORK
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2449.ts
-#EXTINF:-1,USA: FOX DEPORTES HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2374.ts
-#EXTINF:-1,USA: FOX MOTOSPORT
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2343.ts
-#EXTINF:-1,USA: Fox News
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2484.ts
-#EXTINF:-1,USA: FOX NY
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2485.ts
-#EXTINF:-1,USA: FOX SOCCER PLUS HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2373.ts
-#EXTINF:-1,USA: FOX Sport 1
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2399.ts
-#EXTINF:-1,USA: FOX SPORTS ONE
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2398.ts
-#EXTINF:-1,USA: FOX SPORTS TWO HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2360.ts
-#EXTINF:-1,USA: FUSE HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2436.ts
-#EXTINF:-1,USA: FX HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2471.ts
-#EXTINF:-1,USA: GRIT TV MOVIES
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2397.ts
-#EXTINF:-1,USA: GSN TV
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2379.ts
-#EXTINF:-1,USA: HALLMARK HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2396.ts
-#EXTINF:-1,USA: HBO 2 COMEDY
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2395.ts
-#EXTINF:-1,USA: HBO Family HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2378.ts
-#EXTINF:-1,USA: HBO HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2394.ts
-#EXTINF:-1,USA: HBO SIGNATURE
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2393.ts
-#EXTINF:-1,USA: HBO ZONE
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2392.ts
-#EXTINF:-1,USA: HGTV HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2371.ts
-#EXTINF:-1,USA: HISTORY HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2447.ts
-#EXTINF:-1,USA: HSN YT LIVE 1080p HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2340.ts
-#EXTINF:-1,USA: KIDS READING TV
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2339.ts
-#EXTINF:-1,USA: LIFE TIME
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2391.ts
-#EXTINF:-1,USA: LIFETIME HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2448.ts
-#EXTINF:-1,USA: LMN HDTV
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2351.ts
-#EXTINF:-1,USA: MLB HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2390.ts
-#EXTINF:-1,USA: MOVIETIME
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2362.ts
-#EXTINF:-1,USA: MSNBC HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2372.ts
-#EXTINF:-1,USA: MTV 2 HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2439.ts
-#EXTINF:-1,USA: MTV HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2440.ts
-#EXTINF:-1,USA: MTV LIVE
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2438.ts
-#EXTINF:-1,USA: Music Choice 90s
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2433.ts
-#EXTINF:-1,USA: Music Choice HIP-HOP
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2435.ts
-#EXTINF:-1,USA: Music Choice RAP
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2434.ts
-#EXTINF:-1,USA: MY9 TV
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2350.ts
-#EXTINF:-1,USA: NASA TV HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2342.ts
-#EXTINF:-1,USA: NASA TV MEDIA HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2341.ts
-#EXTINF:-1,USA: NAT GEO HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2443.ts
-#EXTINF:-1,USA: NBA TV
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2369.ts
-#EXTINF:-1,USA: NBC GOLF
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2413.ts
-#EXTINF:-1,USA: NBC HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2486.ts
-#EXTINF:-1,USA: NFL Network HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2429.ts
-#EXTINF:-1,USA: NFL Network HDTV 1080i
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2349.ts
-#EXTINF:-1,USA: NFL Now
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2430.ts
-#EXTINF:-1,USA: NFL RedZone (Live on GameDay)
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2428.ts
-#EXTINF:-1,USA: NHL NETWORK
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2412.ts
-#EXTINF:-1,USA: NHLTV NETWORK HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2370.ts
-#EXTINF:-1,USA: NICK HD (kids)
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2452.ts
+#EXTINF:-1,USA: WWE HD
+http://147.135.128.132:8000/live/mercuri/mercuri/591.ts
+#EXTINF:-1,USA: Baby TV
+http://147.135.128.132:8000/live/mercuri/mercuri/8826.ts
+#EXTINF:-1,USA: BOOMERANG
+http://147.135.128.132:8000/live/mercuri/mercuri/8797.ts
+#EXTINF:-1,USA: CARTOON NETWORK
+http://147.135.128.132:8000/live/mercuri/mercuri/1552.ts
+#EXTINF:-1,USA: Cartoon Network Pacific
+http://147.135.128.132:8000/live/mercuri/mercuri/8758.ts
+#EXTINF:-1,USA: Disney Channel
+http://147.135.128.132:8000/live/mercuri/mercuri/8822.ts
+#EXTINF:-1,USA: Disney Channel Pacific
+http://147.135.128.132:8000/live/mercuri/mercuri/8786.ts
+#EXTINF:-1,USA: Disney Junior Pacific
+http://147.135.128.132:8000/live/mercuri/mercuri/8785.ts
+#EXTINF:-1,USA: Disney XD Pacific
+http://147.135.128.132:8000/live/mercuri/mercuri/8763.ts
+#EXTINF:-1,USA: Disney XD
+http://147.135.128.132:8000/live/mercuri/mercuri/8762.ts
+#EXTINF:-1,USA: Nick Jr
+http://147.135.128.132:8000/live/mercuri/mercuri/8761.ts
 #EXTINF:-1,USA: Nickelodeon
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2457.ts
-#EXTINF:-1,USA: NICKTOONS
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2451.ts
-#EXTINF:-1,USA: NRA TV
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2476.ts
-#EXTINF:-1,USA: Nursery Rhymes (Baby Songs)
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2382.ts
-#EXTINF:-1,USA: OWN HD (Oprah Winfrey TV)
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2348.ts
-#EXTINF:-1,USA: P.B.S Kids
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2383.ts
-#EXTINF:-1,USA: QVC Beauty IQ
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2338.ts
-#EXTINF:-1,USA: QVC Live
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2337.ts
-#EXTINF:-1,USA: RT DOCUMENTARY
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2388.ts
-#EXTINF:-1,USA: Showtime 2 HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2411.ts
-#EXTINF:-1,USA: Showtime Extreme HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2347.ts
-#EXTINF:-1,USA: Showtime HDTV
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2410.ts
-#EXTINF:-1,USA: Showtime Showcase
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2346.ts
-#EXTINF:-1,USA: SPIKE TV
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2472.ts
-#EXTINF:-1,USA: SportsNet One HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2409.ts
-#EXTINF:-1,USA: Starz Cinema
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2408.ts
-#EXTINF:-1,USA: Starz Comedy
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2407.ts
-#EXTINF:-1,USA: Starz East
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2406.ts
-#EXTINF:-1,USA: Starz Edge HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2405.ts
-#EXTINF:-1,USA: Starz Encore East
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2367.ts
-#EXTINF:-1,USA: Starz Encore HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2366.ts
-#EXTINF:-1,USA: Starz West
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2404.ts
-#EXTINF:-1,USA: SYFY HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2387.ts
-#EXTINF:-1,USA: TNT
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2487.ts
-#EXTINF:-1,USA: TBS
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2474.ts
-#EXTINF:-1,USA: TBS HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2473.ts
-#EXTINF:-1,USA: TENNIS HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2345.ts
-#EXTINF:-1,USA: THE WALKING DEAD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2375.ts
+http://147.135.128.132:8000/live/mercuri/mercuri/8760.ts
+#EXTINF:-1,USA: Nickelodeon Pacific
+http://147.135.128.132:8000/live/mercuri/mercuri/8759.ts
+#EXTINF:-1,USA: Universal Kids
+http://147.135.128.132:8000/live/mercuri/mercuri/8824.ts
+#EXTINF:-1,USA: A&E
+http://147.135.128.132:8000/live/mercuri/mercuri/7849.ts
+#EXTINF:-1,USA: American Heroes
+http://147.135.128.132:8000/live/mercuri/mercuri/8816.ts
+#EXTINF:-1,USA: Animal Planet
+http://147.135.128.132:8000/live/mercuri/mercuri/8634.ts
+#EXTINF:-1,USA: Animal Planet Pacific
+http://147.135.128.132:8000/live/mercuri/mercuri/8632.ts
+#EXTINF:-1,USA: BBC America HD
+http://147.135.128.132:8000/live/mercuri/mercuri/8799.ts
+#EXTINF:-1,USA: BBC World News HD
+http://147.135.128.132:8000/live/mercuri/mercuri/8798.ts
+#EXTINF:-1,USA: Cooking Channel
+http://147.135.128.132:8000/live/mercuri/mercuri/8789.ts
+#EXTINF:-1,USA: Discovery Esp
+http://147.135.128.132:8000/live/mercuri/mercuri/8643.ts
+#EXTINF:-1,USA: Discovery Familia
+http://147.135.128.132:8000/live/mercuri/mercuri/8640.ts
+#EXTINF:-1,USA: Discovery Family
+http://147.135.128.132:8000/live/mercuri/mercuri/8645.ts
+#EXTINF:-1,USA: Discovery Life
+http://147.135.128.132:8000/live/mercuri/mercuri/8644.ts
+#EXTINF:-1,USA: Discovery Pacific
+http://147.135.128.132:8000/live/mercuri/mercuri/8641.ts
+#EXTINF:-1,USA: Discovery Science
+http://147.135.128.132:8000/live/mercuri/mercuri/8639.ts
+#EXTINF:-1,USA: Discovery TLC
+http://147.135.128.132:8000/live/mercuri/mercuri/8638.ts
+#EXTINF:-1,USA: Discovery TLC Pacific
+http://147.135.128.132:8000/live/mercuri/mercuri/8637.ts
+#EXTINF:-1,USA: Discovery Velocity
+http://147.135.128.132:8000/live/mercuri/mercuri/8635.ts
+#EXTINF:-1,USA: E!
+http://147.135.128.132:8000/live/mercuri/mercuri/7848.ts
+#EXTINF:-1,USA: Food Network
+http://147.135.128.132:8000/live/mercuri/mercuri/7798.ts
+#EXTINF:-1,USA: Food Network hd
+http://147.135.128.132:8000/live/mercuri/mercuri/554.ts
+#EXTINF:-1,USA: History
+http://147.135.128.132:8000/live/mercuri/mercuri/7845.ts
+#EXTINF:-1,USA: Investigation Discovery
+http://147.135.128.132:8000/live/mercuri/mercuri/8642.ts
+#EXTINF:-1,USA: Investigation Discovery Pacific
+http://147.135.128.132:8000/live/mercuri/mercuri/8631.ts
+#EXTINF:-1,USA: Lifetime
+http://147.135.128.132:8000/live/mercuri/mercuri/7844.ts
+#EXTINF:-1,USA: Natgeo Mundo
+http://147.135.128.132:8000/live/mercuri/mercuri/7843.ts
+#EXTINF:-1,USA: Natgeo
+http://147.135.128.132:8000/live/mercuri/mercuri/7842.ts
+#EXTINF:-1,USA: Natgeo Wild
+http://147.135.128.132:8000/live/mercuri/mercuri/7841.ts
 #EXTINF:-1,USA: The Weather Channel
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2356.ts
-#EXTINF:-1,USA: TLC
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2450.ts
-#EXTINF:-1,USA: TRAVEL CHANNEL
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2442.ts
-#EXTINF:-1,USA: TRU TV
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2344.ts
-#EXTINF:-1,USA: TRUE MOVIES
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2386.ts
-#EXTINF:-1,USA: Tsn-Sport 1 HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2423.ts
-#EXTINF:-1,USA: Tsn-Sport 2 HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2422.ts
-#EXTINF:-1,USA: Tsn-Sport 3 HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2421.ts
-#EXTINF:-1,USA: Tsn-Sport 4 HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2420.ts
-#EXTINF:-1,USA: Tsn-Sport 5 HD
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2419.ts
-#EXTINF:-1,USA: TV SERIES
-http://silveriptv.net:8080/live/oxrojidz/qycuizno/2385.ts
+http://147.135.128.132:8000/live/mercuri/mercuri/846.ts
+#EXTINF:-1,USA: Travel Pacific
+http://147.135.128.132:8000/live/mercuri/mercuri/8810.ts
+#EXTINF:-1,USA: Travel
+http://147.135.128.132:8000/live/mercuri/mercuri/8809.ts
+#EXTINF:-1,USA: Travel Channel
+http://147.135.128.132:8000/live/mercuri/mercuri/7850.ts
+#EXTINF:-1,USA: My 24
+http://147.135.128.132:8000/live/mercuri/mercuri/8829.ts
+#EXTINF:-1,USA: MY45 Arizona
+http://147.135.128.132:8000/live/mercuri/mercuri/8800.ts
+#EXTINF:-1,USA: BRAVO
+http://147.135.128.132:8000/live/mercuri/mercuri/8796.ts
+#EXTINF:-1,USA: BRAVO HD
+http://147.135.128.132:8000/live/mercuri/mercuri/7832.ts
+#EXTINF:-1,USA: BTN
+http://147.135.128.132:8000/live/mercuri/mercuri/8795.ts
+#EXTINF:-1,USA: BTN HD
+http://147.135.128.132:8000/live/mercuri/mercuri/7831.ts
+#EXTINF:-1,USA: CNBC
+http://147.135.128.132:8000/live/mercuri/mercuri/8791.ts
+#EXTINF:-1,USA: CNBC World HD2
+http://147.135.128.132:8000/live/mercuri/mercuri/7827.ts
+#EXTINF:-1,USA: CNBC World
+http://147.135.128.132:8000/live/mercuri/mercuri/8790.ts
+#EXTINF:-1,USA: CNBC World HD
+http://147.135.128.132:8000/live/mercuri/mercuri/7852.ts
+#EXTINF:-1,USA: CNN
+http://147.135.128.132:8000/live/mercuri/mercuri/1589.ts
+#EXTINF:-1,USA: CNN HD
+http://147.135.128.132:8000/live/mercuri/mercuri/838.ts
+#EXTINF:-1,USA: Cozi Tv
+http://147.135.128.132:8000/live/mercuri/mercuri/8788.ts
+#EXTINF:-1,USA: Cozi Tv HD
+http://147.135.128.132:8000/live/mercuri/mercuri/7826.ts
+#EXTINF:-1,USA: Decades
+http://147.135.128.132:8000/live/mercuri/mercuri/8787.ts
+#EXTINF:-1,USA: Destination America
+http://147.135.128.132:8000/live/mercuri/mercuri/8636.ts
+#EXTINF:-1,USA: DIY
+http://147.135.128.132:8000/live/mercuri/mercuri/8779.ts
+#EXTINF:-1,USA: DW
+http://147.135.128.132:8000/live/mercuri/mercuri/724.ts
+#EXTINF:-1,USA: El Rey Network
+http://147.135.128.132:8000/live/mercuri/mercuri/7825.ts
+#EXTINF:-1,USA: Epix Hits
+http://147.135.128.132:8000/live/mercuri/mercuri/8778.ts
+#EXTINF:-1,USA: Fantasy
+http://147.135.128.132:8000/live/mercuri/mercuri/7823.ts
+#EXTINF:-1,USA: Fuse
+http://147.135.128.132:8000/live/mercuri/mercuri/7815.ts
+#EXTINF:-1,USA: Fusion
+http://147.135.128.132:8000/live/mercuri/mercuri/8771.ts
+#EXTINF:-1,USA: Fusion HD
+http://147.135.128.132:8000/live/mercuri/mercuri/7851.ts
+#EXTINF:-1,USA:Free From
+http://147.135.128.132:8000/live/mercuri/mercuri/8802.ts
+#EXTINF:-1,USA: FXX
+http://147.135.128.132:8000/live/mercuri/mercuri/8768.ts
+#EXTINF:-1,USA: FXX HD
+http://147.135.128.132:8000/live/mercuri/mercuri/7813.ts
+#EXTINF:-1,USA: FYI
+http://147.135.128.132:8000/live/mercuri/mercuri/7812.ts
+#EXTINF:-1,USA: HGTV USA
+http://147.135.128.132:8000/live/mercuri/mercuri/7795.ts
+#EXTINF:-1,USA: KTVU Plus
+http://147.135.128.132:8000/live/mercuri/mercuri/8724.ts
+#EXTINF:-1,USA: LIFETIME Movie Network
+http://147.135.128.132:8000/live/mercuri/mercuri/7807.ts
+#EXTINF:-1,USA: MSNBC
+http://147.135.128.132:8000/live/mercuri/mercuri/7806.ts
+#EXTINF:-1,USA: MSG Plus
+http://147.135.128.132:8000/live/mercuri/mercuri/7741.ts
+#EXTINF:-1,USA: MSG 2 Plus
+http://147.135.128.132:8000/live/mercuri/mercuri/7740.ts
+#EXTINF:-1,USA: MSG2
+http://147.135.128.132:8000/live/mercuri/mercuri/7738.ts
+#EXTINF:-1,USA: MSG Network
+http://147.135.128.132:8000/live/mercuri/mercuri/7739.ts
+#EXTINF:-1,USA: My  Roc
+http://147.135.128.132:8000/live/mercuri/mercuri/8825.ts
+#EXTINF:-1,USA: NESN
+http://147.135.128.132:8000/live/mercuri/mercuri/7733.ts
+#EXTINF:-1,USA: NESN Plus
+http://147.135.128.132:8000/live/mercuri/mercuri/7732.ts
+#EXTINF:-1,USA: Oprah Winfrey Network
+http://147.135.128.132:8000/live/mercuri/mercuri/8633.ts
+#EXTINF:-1,USA: OXYGEN
+http://147.135.128.132:8000/live/mercuri/mercuri/7864.ts
+#EXTINF:-1,USA: POP USA
+http://147.135.128.132:8000/live/mercuri/mercuri/7792.ts
+#EXTINF:-1,USA: USA NETWORK HD
+http://147.135.128.132:8000/live/mercuri/mercuri/7791.ts
+#EXTINF:-1,USA:pittsburgh
+http://147.135.128.132:8000/live/mercuri/mercuri/8697.ts
+#EXTINF:-1,USA: Revolt
+http://147.135.128.132:8000/live/mercuri/mercuri/7803.ts
+#EXTINF:-1,USA: RTP Portugal
+http://147.135.128.132:8000/live/mercuri/mercuri/7802.ts
+#EXTINF:-1,USA: Sprout
+http://147.135.128.132:8000/live/mercuri/mercuri/7801.ts
+#EXTINF:-1,USA: Telexitos USA
+http://147.135.128.132:8000/live/mercuri/mercuri/7771.ts
+#EXTINF:-1,USA: Universo
+http://147.135.128.132:8000/live/mercuri/mercuri/7799.ts
+#EXTINF:-1,USA:Usa Network Pacific
+http://147.135.128.132:8000/live/mercuri/mercuri/8812.ts
+#EXTINF:-1,USA: YES Network
+http://147.135.128.132:8000/live/mercuri/mercuri/7762.ts
+#EXTINF:-1,USA: We tv
+http://147.135.128.132:8000/live/mercuri/mercuri/837.ts
+#EXTINF:-1,USA: CBS NEWS HD
+http://147.135.128.132:8000/live/mercuri/mercuri/559.ts
+#EXTINF:-1,USA: Fox Business HD
+http://147.135.128.132:8000/live/mercuri/mercuri/7821.ts
+#EXTINF:-1,USA: Fox News HD
+http://147.135.128.132:8000/live/mercuri/mercuri/7819.ts
+#EXTINF:-1,USA: NBC Miami HD
+http://147.135.128.132:8000/live/mercuri/mercuri/7805.ts
+#EXTINF:-1,USA: NBC SN
+http://147.135.128.132:8000/live/mercuri/mercuri/7804.ts
+#EXTINF:-1,USA: PAC12 Network
+http://147.135.128.132:8000/live/mercuri/mercuri/7793.ts
+#EXTINF:-1,USA: CBS 2 Los Angeles CA USA
+http://147.135.128.132:8000/live/mercuri/mercuri/7780.ts
+#EXTINF:-1,USA: CBS New York HD
+http://147.135.128.132:8000/live/mercuri/mercuri/7779.ts
+#EXTINF:-1,USA: FOX New York HD
+http://147.135.128.132:8000/live/mercuri/mercuri/7777.ts
+#EXTINF:-1,USA: NBC New York USA
+http://147.135.128.132:8000/live/mercuri/mercuri/7776.ts
+#EXTINF:-1,USA: FOX Atlanta HD
+http://147.135.128.132:8000/live/mercuri/mercuri/7768.ts
+#EXTINF:-1,USA: FOX Washington HD
+http://147.135.128.132:8000/live/mercuri/mercuri/7766.ts
+#EXTINF:-1,USA: CBS Sports Network
+http://147.135.128.132:8000/live/mercuri/mercuri/7765.ts
+#EXTINF:-1,USA: NBC Los Angeles HD
+http://147.135.128.132:8000/live/mercuri/mercuri/7764.ts
+#EXTINF:-1,USA: NBC Washington HD
+http://147.135.128.132:8000/live/mercuri/mercuri/7763.ts
