@@ -2,414 +2,401 @@
 list1.m3u
 
 #EXTM3U 
-#EXTINF:-1, == SULUK IPTV ==
-https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png
+#EXTINF:-1,Suluk® → SKY SPORT 1 4K
+http://cdnv.cli.tn/iptv/ch922?code=610116485444847
 
-#EXTINF:-1,Suluk™ → TRUE SPORT HD 1
-http://139.99.38.15:443/hd-tsport1_720/index.m3u8
+#EXTINF:-1,Suluk® → SKY SPORT 2 4K
+http://cdnv.cli.tn/iptv/ch937?code=610116485444847
 
-#EXTINF:-1,Suluk™ → TRUE SPORT HD 2
-http://139.99.38.15:443/hd-tsport2_720/index.m3u8
+#EXTINF:-1,Suluk® → SKY SPORT 3 4K
+http://cdnv.cli.tn/iptv/ch914?code=610116485444847
 
-#EXTINF:-1,Suluk™ → TRUE SPORT HD 3
-http://139.99.38.15:443/hd-tsport3_720/index.m3u8
+#EXTINF:-1,Suluk® → SKY SPORT 4 4K
+http://cdnv.cli.tn/iptv/ch915?code=610116485444847
 
-#EXTINF:-1,Suluk™ → TRUE SPORT HD 4
-http://139.99.38.15:443/hd-tsport4_720/index.m3u8
+#EXTINF:-1,Suluk® → SKY SPORT 5 4K
+http://cdnv.cli.tn/iptv/ch916?code=610116485444847
 
-#EXTINF:-1,Suluk™ → SKYNET SPORT HD
-http://139.99.38.15:443/sd-skynetsportshd_720/index.m3u8
+#EXTINF:-1,Suluk® → SPORT MIX 4K
+http://cdnv.cli.tn/iptv/ch931?code=610116485444847
 
-#EXTINF:-1,Suluk™ → BEIN SPORT HD 1 TRUE
-http://139.99.38.15:443/epl-bein1_1080/index.m3u8
+#EXTINF:-1,Suluk® → SKY SPORTS 4K CRICKET
+http://vapi.vaders.tv/play/2479.m3u8?token=eyJ1c2VybmFtZSI6ImVsYW1hcnJqIiwicGFzc3dvcmQiOiJsYWtlcnMzMiJ9
 
-#EXTINF:-1,Suluk™ → BEIN SPORT HD 2 TRUE
-http://139.99.38.15:443/epl-bein2_1080/index.m3u8
+#EXTINF:-1,Suluk® → SKY SPORTS HD
+http://62.210.78.84:25461/live/i1MrIHuov2/wHmvmBEs1T/3.ts
 
-#EXTINF:-1,Suluk™ → BEIN SPORT HD 3 TRUE
-http://139.99.38.15:443/epl-bein3_1080/index.m3u8
-
-#EXTINF:-1,Suluk™ → BEIN SPORT HD 4 TRUE
-http://139.99.38.15:443/epl-bein4_1080/index.m3u8
-
-#EXTINF:-1,Suluk™ → FOX SPORT HD
-http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/174.m3u8
-
-#EXTINF:-1,Suluk™ → SKYNET SPORT 1
-http://139.99.38.15:443/sd-skynetsports1_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → SKYNET SPORT 2
-http://139.99.38.15:443/sd-skynetsports2_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → SKYNET SPORT 3
-http://139.99.38.15:443/sd-skynetsports3_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → SKYNET SPORT 4
-http://139.99.38.15:443/sd-skynetsports4_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → SKYNET SPORT 5
-http://139.99.38.15:443/sd-skynetsports5_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → SKYNET SPORT 6
-http://139.99.38.15:443/sd-skynetsports6_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → TRUE SPORT 2 SD
-http://139.99.38.15:443/sd-tsport2_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → TRUE SPORT 5 SD
-http://139.99.38.15:443/sd-tsport5_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → TRUE SPORT 6 SD
-http://139.99.38.15:443/sd-tsport6_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → TRUE SPORT 7 SD
-http://139.99.38.15:443/sd-tsport7_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → BEIN SPORT 1 TH
-http://139.99.38.15:443/epl-bein1_720/index.m3u8
-
-#EXTINF:-1,Suluk™ → BEIN SPORT 2 TH
-http://139.99.38.15:443/epl-bein2_720/index.m3u8
-
-#EXTINF:-1,Suluk™ → BEIN SPORT 3 TH
-http://139.99.38.15:443/epl-bein3_720/index.m3u8
-
-#EXTINF:-1,Suluk™ → BEIN SPORT 4 TH
-http://139.99.38.15:443/epl-bein4_720/index.m3u8
-
-#EXTINF:-1,Suluk™ → TRUE TENNIS HD
-http://139.99.38.15:443/hd-tennis_720/index.m3u8
-
-#EXTINF:-1,Suluk™ → TRUE ASN HD
-http://139.99.38.15:443/hd-sportsillustrated_720/index.m3u8
-
-#EXTINF:-1,Suluk™ → TRUE GOLF CHANNEL HD
-http://139.99.38.15:443/hd-golf_720/index.m3u8
-
-#EXTINF:-1,Suluk™ → TRUE NBA TV HD
-http://139.99.38.15:443/hd-nba_720/index.m3u8
-
-#EXTINF:-1,Suluk™ → Fight Sports HD
-http://139.99.38.15:443/hd-fightsports_720/index.m3u8
-
-#EXTINF:-1,Suluk™ → FOX SPORTS 1 HD
-http://139.99.38.15:443/hd-foxsports1_720/index.m3u8
-
-#EXTINF:-1,Suluk™ → FOX SPORTS 2 SD
-http://139.99.38.15:443/sd-foxsports2_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → FOX SPORTS 3 SD
-http://139.99.38.15:443/sd-foxsports3_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → Edge HD
-http://139.99.38.15:443/hd-edge_720/index.m3u8
-
-#EXTINF:-1,Suluk™ → UFC
-http://139.99.38.15:443/uk-skyboxoffice_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → Red Bull TV HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1,Suluk™ → BT Sport 1 HD
-http://139.99.38.15:443/uk-btsport1hd_720/index.m3u8
-
-#EXTINF:-1,Suluk™ → BT Sport 2 HD
-http://139.99.38.15:443/uk-btsport2hd_720/index.m3u8
-
-#EXTINF:-1,Suluk™ → BT Sport 3 HD
-http://139.99.38.15:443/uk-btsport3hd_720/index.m3u8
-#EXTINF:-1,Suluk™ → Sky Sport Cricket HD
-http://139.99.38.15:443/uk-skysports-cricket_720/index.m3u8
-
-#EXTINF:-1,Suluk™ → Sky Sport Football HD
-http://139.99.38.15:443/uk-skysports-football_720/index.m3u8
-
-#EXTINF:-1,Suluk™ → Sky Sport F1 HD
-http://139.99.38.15:443/uk-skysports-f1_720/index.m3u8
-
-#EXTINF:-1,Suluk™ → Sky Sport Premiere HD
-http://139.99.38.15:443/uk-skysports-epl_720/index.m3u8
-
-#EXTINF:-1,Suluk™ → Sky Sport Main Event HD
-http://139.99.38.15:443/uk-skysports-mainevent_720/index.m3u8
-
-#EXTINF:-1,Suluk™ → Sky Sport Golf HD
-http://139.99.38.15:443/uk-skysports-golf_720/index.m3u8
-
-#EXTINF:-1,Suluk™ → Sky Sport Action HD
-http://139.99.38.15:443/uk-skysports-action_720/index.m3u8
-
-#EXTINF:-1,Suluk™ → ARENA SPORT 1
-http://139.99.9.49:8084/iptvhero-inter/arenasport1.stream/chunks.m3u8
-
-#EXTINF:-1,Suluk™ → ARENA SPORT 2
-http://139.99.9.49:8084/iptvhero-inter/arenasport2.stream/chunks.m3u8
-
-#EXTINF:-1,Suluk™ → ARENA SPORT 3
-http://139.99.9.49:8084/iptvhero-inter/arenasport3.stream/chunks.m3u8
-
-#EXTINF:-1,Suluk™ → ARENA SPORT 4
-http://139.99.9.49:8084/iptvhero-inter/arenasport4.stream/chunks.m3u8
-
-#EXTINF:-1,Suluk™ → ARENA SPORT 5
-http://139.99.9.49:8084/iptvhero-inter/arenasport5.stream/chunks.m3u8
-
-#EXTINF:-1,Suluk™ → MUTV
-http://139.99.38.15:443/uk-mutv_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → Liverpool Tv
-http://139.99.38.15:443/uk-lfctv_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → Chelsea Tv
-http://139.99.38.15:443/uk-chelseatv_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → Real Madrid TV 
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
-
-#EXTINF:-1,Suluk™ → All Sports
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-
-#EXTINF:-1,Suluk™ → 3 HD
-http://139.99.38.15:443/hd-ch3_1080/index.m3u8
-
-#EXTINF:-1,Suluk™ → 3 SD
-http://139.99.38.15:443/sd-ch3digi_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → 3 FAMILY
-http://103.22.182.233:8081/source/3fam/chunks.m3u8
-
-#EXTINF:-1,Suluk™ → 5 HD
-http://139.99.38.15:443/hd-ch5_1080/index.m3u8
-
-#EXTINF:-1,Suluk™ → 7 HD
-http://139.99.38.15:443/hd-ch7_1080/index.m3u8
-
-#EXTINF:-1,Suluk™ → MCOT HD
-http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8
-
-#EXTINF:-1,Suluk™ → MCOT FAMILY
-http://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunklist.m3u8
-
-#EXTINF:-1,Suluk™ → NBT
-http://139.99.38.15:443/sd-nbt_720/index.m3u8
-
-#EXTINF:-1,Suluk™ → TPBS
-http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-
-#EXTINF:-1,Suluk™ → PPTV HD 
-http://139.99.38.15:443/hd-pptv_720/index.m3u8
-
-#EXTINF:-1,Suluk™ → MONO29
-https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1734813510.m3u8
-
-#EXTINF:-1,Suluk™ → ONE HD
-http://139.99.38.15:443/hd-gmmone_1080/index.m3u8
-
-#EXTINF:-1,Suluk™ → THAIRATH HD
-http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-
-#EXTINF:-1,Suluk™ → AMARIN HD
-http://139.99.38.15:443/hd-amarin_1080/index.m3u8
-
-#EXTINF:-1,Suluk™ → TRUE4U
-http://freedooballt1.blogdns.com:8081/iheartmovie136/00_true4u_480p/chunks.m3u8
-
-#EXTINF:-1,Suluk™ → GMM 25
-http://gmmservice.radical-enlighten.com/gmm/smil:gmm25.smil/chunklist.m3u8
-
-#EXTINF:-1,Suluk™ → WORKPOINT
-https://stream-03.sg1.dailymotion.com/48/dm/3/x6g9qjj/live-4.m3u8
-
-#EXTINF:-1,Suluk™ → BRIGHT TV
-http://live4.netdesignhost.com/brighttvlive/brighttvlive/chunklist.m3u8
-
-#EXTINF:-1,Suluk™ → NATION CHANNEL
-http://live.nationtv.tv/hls/ntv_th_hd.m3u8
-
-#EXTINF:-1,Suluk™ → NOW26
-http://nationstream.nationgroup.com/hls/th.m3u8
-
-#EXTINF:-1,Suluk™ → SPRING NEWS
-http://122.155.184.11/T1457077260/ngrp:livestream_all/chunklist.m3u8
-
-#EXTINF:-1,Suluk™ → CH8
-http://111.223.51.5/desktop/ch8_720p/playlist.m3u8
-
-#EXTINF:-1,Suluk™ → NEW TV
-http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
-
-#EXTINF:-1,Suluk™ → TNN24
-http://139.99.38.15:443/sd-tnn24_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → TNN2
-http://139.99.38.15:443/sd-tnn2_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → NEWS 1 HD
-http://news1.live14.com/stream/news1_hi.m3u8
-
-#EXTINF:-1,Suluk™ → Money Channel
-http://139.99.38.15:443/sd-money_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → BlueSky Channel
-http://live.blueskychannel.tv:1935/bluesky_live/myStream/chunklist.m3u8
-
-#EXTINF:-1,Suluk™ → True Nick Jr.
-http://139.99.38.15:443/uk-nickjr_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → True Spark Play
-http://139.99.38.15:443/sd-sparkplay_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → True Spark Jump
-http://139.99.38.15:443/sd-sparkjump_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → Disney Channel
-http://139.99.38.15:443/sd-disney_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → Disney XD
-http://139.99.38.15:443/hd-disneyxd_720/index.m3u8
-
-#EXTINF:-1,Suluk™ → CBEEBIES
-http://139.99.38.15:443/uk-cbeebieshd_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → Cartoon Network
-http://139.99.38.15:443/sd-cartoonnetwork_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → Travel Channel
-http://139.99.38.15:443/sd-travelthai_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → TRUE SELECT TV
-http://119.46.28.177/liveselect/smil:trueselect.smil/playlist.m3u8
-
-#EXTINF:-1,Suluk™ → Asianfood
-http://139.99.38.15:443/sd-asianfood_480/index.m3u8
-
-#EXTINF:-1,Suluk™ → FASHION ONE
+#EXTINF:-1,Suluk® → FTV HD
 http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
 
-#EXTINF:-1,Suluk™ → ID FASHION TV
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1,Suluk® → ASTRO SPORT 1
+http://183.89.90.254:9981/stream/channelid/2069286798?ticket=91727c34d5112beb0a9921a0677994ea029647d6&profile=pass
 
-#EXTINF:-1,Suluk™ → TLC
-http://139.99.38.15:443/sd-tlc_480/index.m3u8
+#EXTINF:-1,Suluk® → ASTRO SPORT 2
+http://183.89.90.254:9981/stream/channelid/407580676?ticket=f8f81d2c71854d036ccc682cf55645a500b91aef&profile=pass
 
-#EXTINF:-1,Suluk™ → True X-Zyte HD
-http://139.99.38.15:443/hd-xzyte_720/index.m3u8
+#EXTINF:-1,Suluk® → ASTRO SPORT 3
+http://183.89.90.254:9981/stream/channelid/459391936?ticket=d8a2b7d563f7a6de3f0a06ed610c019df7cc1464&profile=pass
 
-#EXTINF:-1,Suluk™ → ITV
-http://139.99.38.15:443/uk-itv1hd_720/index.m3u8
+#EXTINF:-1,Suluk® → SKYNET SPORT HD
+http://139.99.38.15:443/sd-skynetsportshd_720/index.m3u8
 
-#EXTINF:-1,Suluk™ → Lifetime
-http://139.99.38.15:443/hd-lifetime_720/index.m3u8
+#EXTINF:-1,Suluk® → STAR SPORTS 1 HD
+http://vapi.vaders.tv/play/37198.m3u8?token=eyJ1c2VybmFtZSI6ImVsYW1hcnJqIiwicGFzc3dvcmQiOiJsYWtlcnMzMiJ9
 
-#EXTINF:-1,Suluk™ → BBC Earth
-http://139.99.38.15:443/sd-bbcearth_720/index.m3u8
+#EXTINF:-1,Suluk® → STAR SPORTS 1 HD
+http://216.144.250.174/Star_Sport_Hd_o3/index.m3u8
 
-#EXTINF:-1,Suluk™ → BBC LifeStyle 
-http://139.99.38.15:443/sd-bbclifestyle_720/index.m3u8
+#EXTINF:-1,Suluk® → STAR SPORTS 2 HD
+http://vapi.vaders.tv/play/37199.m3u8?token=eyJ1c2VybmFtZSI6ImVsYW1hcnJqIiwicGFzc3dvcmQiOiJsYWtlcnMzMiJ9
 
-#EXTINF:-1,Suluk™ → Discovery HD
-http://27.254.63.132:8081/live/discovery.stream/chunks.m3u8
+#EXTINF:-1,Suluk® → STAR SPORTS SELECT 1
+http://vapi.vaders.tv/play/37200.m3u8?token=eyJ1c2VybmFtZSI6ImVsYW1hcnJqIiwicGFzc3dvcmQiOiJsYWtlcnMzMiJ9
 
-#EXTINF:-1,Suluk™ → Discovery 
-http://139.99.38.15:443/sd-discovery_720/index.m3u8
+#EXTINF:-1,Suluk® → STAR SPORTS SELECT 2
+http://vapi.vaders.tv/play/37201.m3u8?token=eyJ1c2VybmFtZSI6ImVsYW1hcnJqIiwicGFzc3dvcmQiOiJsYWtlcnMzMiJ9
 
-#EXTINF:-1,Suluk™ → Discovery Turbo
-http://139.99.38.15:443/uk-discoveryturbo_480/index.m3u8
+#EXTINF:-1,Suluk® → STAR SPORT SELECT 2 HD 
+http://54.36.61.6:8000/live/StarSports1/2DyM51/2.ts
 
-#EXTINF:-1,Suluk™ → Animal_planet
-http://139.99.38.15:443/sd-animalplaneteng_480/index.m3u8
+#EXTINF:-1,Suluk® → STAR SPORT SELECT 2 HD 
+http://54.36.61.6:8000/live/zee18.com/Cricket_247/2.ts
 
-#EXTINF:-1,Suluk™ → History HD
-http://139.99.38.15:443/hd-history_720/index.m3u8
+#EXTINF:-1,Suluk® → TRUE SPORT HD 1
+http://139.99.38.15:443/hd-tsport1_720/index.m3u8
 
-#EXTINF:-1,Suluk™ → H2 HD
-http://139.99.38.15:443/hd-history2_720/index.m3u8
+#EXTINF:-1,Suluk® → TRUE SPORT HD 2
+http://139.99.38.15:443/hd-tsport2_720/index.m3u8
 
-#EXTINF:-1,Suluk™ → Discovery Asia
-http://139.99.38.15:443/hd-discovery_720/index.m3u8
+#EXTINF:-1,Suluk® → TRUE SPORT HD 3
+http://139.99.38.15:443/hd-tsport3_720/index.m3u8
 
-#EXTINF:-1,Suluk™ → True Explore Life
-http://139.99.38.15:443/sd-explife_480/index.m3u8
+#EXTINF:-1,Suluk® → TRUE SPORT HD 4
+http://139.99.38.15:443/hd-tsport4_720/index.m3u8
 
-#EXTINF:-1,Suluk™ → True Explore Sci
-http://139.99.38.15:443/sd-expsci_480/index.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORT HD 1 TRUE
+http://139.99.38.15:443/epl-bein1_1080/index.m3u8
 
-#EXTINF:-1,Suluk™ → True Explore Wild
-http://139.99.38.15:443/sd-expwild_480/index.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORT HD 2 TRUE
+http://139.99.38.15:443/epl-bein2_1080/index.m3u8
 
-#EXTINF:-1,Suluk™ → VERY
-http://139.99.38.15:443/sd-very_480/index.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORT HD 3 TRUE
+http://139.99.38.15:443/epl-bein3_1080/index.m3u8
 
-#EXTINF:-1,Suluk™ → MTV LIVE
-http://139.99.38.15:443/hd-mtvlive_720/index.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORT HD 4 TRUE
+http://139.99.38.15:443/epl-bein4_1080/index.m3u8
 
+#EXTINF:-1,Suluk® → ELEVEN SPORTS 1 HD
+http://61.58.60.230:9000/live/75.m3u8
 
-#EXTINF:-1,Suluk™ → M channel
-http://27.254.142.207:1935/live/my_stream.sdp/playlist.m3u8
+#EXTINF:-1,Suluk® → ELEVEN SPORTS 2 HD
+http://61.58.60.230:9000/live/102.m3u8
 
-#EXTINF:-1,Suluk™ → Major Channel mix
-http://mvtv.dyndns.tv:1935/live/mixmajor/playlist.m3u8
+#EXTINF:-1,Suluk® → ASTRO ARENA
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
-#EXTINF:-1,Suluk™ → Channel 8
-http://usa.login.in.th:1935/ch8/ch8/chunklist_w1270697965.m3u8
+#EXTINF:-1,Suluk® → FOX SPORT HD
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/174.m3u8
 
-#EXTINF:-1,Suluk™ → Series Channel
-http://stream.rs.co.th/you-hi/index.m3u8
+#EXTINF:-1,Suluk® → BT Sport 1 HD
+http://cdnv.cli.tn/iptv/ch1828?code=610116485444847
 
-#EXTINF:-1,Suluk™ → Movies CH1
-http://27.254.149.109:8081/live/movie1.stream/playlist.m3u8
+#EXTINF:-1,Suluk® → BT Sport 2 HD
+http://cdnv.cli.tn/iptv/ch1829?code=610116485444847
 
-#EXTINF:-1,Suluk™ → Movies CH2
-http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
+#EXTINF:-1,Suluk® → BT Sport Extra HD
+http://cdnv.cli.tn/iptv/ch1830?code=610116485444847  #EXTINF:1.06812,SkyFootball
 
-#EXTINF:-1,Suluk™ → Movies CH3
-http://27.254.149.109:8081/live/upmovie.stream/chunks.m3u8
+#EXTINF:-1,Suluk® → SPORT TV 1 HD
+http://77.54.248.94:9981/stream/channelid/2135667?ticket=4728F57616F4DF9E11BFCBB9626ACC40EA0217FB&profile=pass
 
-#EXTINF:-1,Suluk™ → True Thai Film
-http://139.99.38.15:443/sd-thaifilm_480/index.m3u8
+#EXTINF:-1,Suluk® → SPORT TV 2 HD
+http://82.79.218.142:8089/sport_tv_2-
 
-#EXTINF:-1,Suluk™ → True film asia
-http://139.99.38.15:443/sd-filmasia_480/index.m3u8
+#EXTINF:-1,Suluk® → SPORT TV 3  HD
+http://82.79.218.142:8089/sport_tv_3-
 
-#EXTINF:-1,Suluk™ → True Movie Hits
-http://139.99.38.15:443/sd-moviehits_480/index.m3u8
+#EXTINF:-1,Suluk® → SPORT TV 4  HD
+http://82.79.218.142:8091/sport_tv_4-
 
-#EXTINF:-1,Suluk™ → True Series
-http://139.99.38.15:443/sd-series_480/index.m3u8
+#EXTINF:-1,Suluk® → SKYNET SPORT 1
+http://139.99.38.15:443/sd-skynetsports1_480/index.m3u8
 
-#EXTINF:-1,Suluk™ → TRUE FILM HD
-http://139.99.38.15:443/hd-tfilm_720/index.m3u8
-#EXTINF:-1,Suluk™ → True Asian Series HD
-http://139.99.38.15:443/hd-asian_720/index.m3u8
+#EXTINF:-1,Suluk® → SKYNET SPORT 2
+http://139.99.38.15:443/sd-skynetsports2_480/index.m3u8
 
-#EXTINF:-1,Suluk™ → Warner TV
-http://139.99.38.15:443/hd-warnertv_720/index.m3u8
+#EXTINF:-1,Suluk® → SKYNET SPORT 3
+http://139.99.38.15:443/sd-skynetsports3_480/index.m3u8
 
-#EXTINF:-1,Suluk™ → HBO
+#EXTINF:-1,Suluk® → SKYNET SPORT 4
+http://139.99.38.15:443/sd-skynetsports4_480/index.m3u8
+
+#EXTINF:-1,Suluk® → SKYNET SPORT 5
+http://139.99.38.15:443/sd-skynetsports5_480/index.m3u8
+
+#EXTINF:-1,Suluk® → SKYNET SPORT 6
+http://139.99.38.15:443/sd-skynetsports6_480/index.m3u8
+
+#EXTINF:-1,Suluk® → TRUE SPORT 2 SD
+http://139.99.38.15:443/sd-tsport2_480/index.m3u8
+
+#EXTINF:-1,Suluk® → TRUE SPORT 5 SD
+http://139.99.38.15:443/sd-tsport5_480/index.m3u8
+
+#EXTINF:-1,Suluk® → TRUE SPORT 6 SD
+http://139.99.38.15:443/sd-tsport6_480/index.m3u8
+
+#EXTINF:-1,Suluk® → TRUE SPORT 7 SD
+http://139.99.38.15:443/sd-tsport7_480/index.m3u8
+
+#EXTINF:-1,Suluk® → BEIN SPORT 1 TH
+http://139.99.38.15:443/epl-bein1_720/index.m3u8
+
+#EXTINF:-1,Suluk® → BEIN SPORT 2 TH
+http://139.99.38.15:443/epl-bein2_720/index.m3u8
+
+#EXTINF:-1,Suluk® → BEIN SPORT 3 TH
+http://139.99.38.15:443/epl-bein3_720/index.m3u8
+
+#EXTINF:-1,Suluk® → BEIN SPORT 4 TH
+http://139.99.38.15:443/epl-bein4_720/index.m3u8
+
+#EXTINF:-1,Suluk® → TRUE TENNIS HD
+http://139.99.38.15:443/hd-tennis_720/index.m3u8
+
+#EXTINF:-1,Suluk® → TRUE ASN HD
+http://139.99.38.15:443/hd-sportsillustrated_720/index.m3u8
+
+#EXTINF:-1,Suluk® → TRUE GOLF CHANNEL HD
+http://139.99.38.15:443/hd-golf_720/index.m3u8
+
+#EXTINF:-1,Suluk® → TRUE NBA TV HD
+http://139.99.38.15:443/hd-nba_720/index.m3u8
+
+#EXTINF:-1,Suluk® → Fight Sports HD
+http://139.99.38.15:443/hd-fightsports_720/index.m3u8
+
+#EXTINF:-1,Suluk® → FOX SPORTS 1 HD
+http://139.99.38.15:443/hd-foxsports1_720/index.m3u8
+
+#EXTINF:-1,Suluk® → FOX SPORTS 2 SD
+http://139.99.38.15:443/sd-foxsports2_480/index.m3u8
+
+#EXTINF:-1,Suluk® → FOX SPORTS 3 SD
+http://139.99.38.15:443/sd-foxsports3_480/index.m3u8
+
+#EXTINF:-1,Suluk® → Edge HD
+http://139.99.38.15:443/hd-edge_720/index.m3u8
+
+#EXTINF:-1,Suluk® → UFC
+http://139.99.38.15:443/uk-skyboxoffice_480/index.m3u8
+
+#EXTINF:-1,Suluk® → Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1,Suluk® → BT Sport 1 HD
+http://139.99.38.15:443/uk-btsport1hd_720/index.m3u8
+
+#EXTINF:-1,Suluk® → BT Sport 2 HD
+http://139.99.38.15:443/uk-btsport2hd_720/index.m3u8
+
+#EXTINF:-1,Suluk® → BT Sport 3 HD
+http://139.99.38.15:443/uk-btsport3hd_720/index.m3u8
+
+#EXTINF:-1,Suluk® → Sky Sport Football HD
+http://139.99.38.15:443/uk-skysports-football_720/index.m3u8
+
+#EXTINF:-1,Suluk® → Sky Sport F1 HD
+http://139.99.38.15:443/uk-skysports-f1_720/index.m3u8
+
+#EXTINF:-1,Suluk® → Sky Sport Premiere HD
+http://139.99.38.15:443/uk-skysports-epl_720/index.m3u8
+
+#EXTINF:-1,Suluk® → Sky Sport Main Event HD
+http://139.99.38.15:443/uk-skysports-mainevent_720/index.m3u8
+
+#EXTINF:-1,Suluk® → Sky Sport Golf HD
+http://139.99.38.15:443/uk-skysports-golf_720/index.m3u8
+
+#EXTINF:-1,Suluk® → Sky Sport Action HD
+http://139.99.38.15:443/uk-skysports-action_720/index.m3u8
+
+#EXTINF:-1,Suluk® → ARENA SPORT 1
+http://139.99.9.49:8084/iptvhero-inter/arenasport1.stream/chunks.m3u8
+
+#EXTINF:-1,Suluk® → ARENA SPORT 2
+http://139.99.9.49:8084/iptvhero-inter/arenasport2.stream/chunks.m3u8
+
+#EXTINF:-1,Suluk® → ARENA SPORT 3
+http://139.99.9.49:8084/iptvhero-inter/arenasport3.stream/chunks.m3u8
+
+#EXTINF:-1,Suluk® → ARENA SPORT 4
+http://139.99.9.49:8084/iptvhero-inter/arenasport4.stream/chunks.m3u8
+
+#EXTINF:-1,Suluk® → ARENA SPORT 5
+http://139.99.9.49:8084/iptvhero-inter/arenasport5.stream/chunks.m3u8
+
+#EXTINF:-1,Suluk® → Liverpool Tv
+http://139.99.38.15:443/uk-lfctv_480/index.m3u8
+
+#EXTINF:-1,Suluk® → All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1,Suluk® → SONY TEN 1 HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
+
+#EXTINF:-1,Suluk® → SONY TEN 2 HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
+
+#EXTINF:-1,Suluk® → SONY TEN 3 HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
+
+#EXTINF:-1,Suluk® → SONY ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+
+#EXTINF:-1,Suluk® → SONY SIX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
+
+#EXTINF:-1,Suluk® → Матч!
+http://persik.by/stream/2887/57172/276.m3u8
+
+#EXTINF:-1,Suluk® → Матч! Арена
+http://persik.by/stream/1418/252987/724.m3u8
+
+#EXTINF:-1,Suluk® → Матч! Футбол 1 HD
+http://persik.by/stream/3903/293564/10266.m3u8
+
+#EXTINF:-1,Suluk® → Матч! Футбол 2 HD
+http://persik.by/stream/3903/293564/10267.m3u8
+
+#EXTINF:-1,Suluk® → Матч! Футбол 3 HD
+http://persik.by/stream/3903/293564/10268.m3u8
+
+#EXTINF:-1,Suluk® → Матур ТВ (Уфа) HD
+http://streamer.rtcommufa.ru:1935/matur/matur1/playlist.m3u8
+
+#EXTINF:-1,Suluk® → BEIN SPORTS 1 HD
+http://80.211.189.193/live/get.php?stream=17&username=44568677836059&password=44568677836059
+
+#EXTINF:-1,Suluk® → BEIN SPORTS 2 HD
+http://80.211.189.193/live/get.php?stream=18&username=44568677836059&password=44568677836059
+
+#EXTINF:-1,Suluk® → BEIN SPORTS 3 HD
+http://80.211.189.193/live/get.php?stream=19&username=44568677836059&password=44568677836059
+
+#EXTINF:-1,Suluk® → BEIN SPORTS 4 HD
+http://80.211.189.193/live/get.php?stream=20&username=44568677836059&password=44568677836059
+
+#EXTINF:-1,Suluk® → BEIN SPORTS 5 HD
+http://80.211.189.193/live/get.php?stream=21&username=44568677836059&password=44568677836059
+
+#EXTINF:-1,Suluk® → BEIN SPORTS 6 HD
+http://80.211.189.193/live/get.php?stream=22&username=44568677836059&password=44568677836059
+
+#EXTINF:-1,Suluk® → BEIN SPORTS 7 HD
+http://80.211.189.193/live/get.php?stream=23&username=44568677836059&password=44568677836059
+
+#EXTINF:-1,Suluk® → BEIN SPORTS 8 HD
+http://80.211.189.193/live/get.php?stream=24&username=44568677836059&password=44568677836059
+
+#EXTINF:-1,Suluk® → BEIN SPORTS 9 HD
+http://80.211.189.193/live/get.php?stream=25&username=44568677836059&password=44568677836059
+
+#EXTINF:-1,Suluk® → BEIN SPORTS 10 HD
+http://80.211.189.193/live/get.php?stream=26&username=44568677836059&password=44568677836059
+
+#EXTINF:-1,Suluk® → HBO
 http://139.99.38.15:443/hd-hboeng_720/index.m3u8
 
-#EXTINF:-1,Suluk™ → SONY Channel
+#EXTINF:-1,Suluk® → SONY PIX HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
+
+#EXTINF:-1,Suluk® → SONY Channel
 http://139.99.38.15:443/hd-sonytv_720/index.m3u8
 
-#EXTINF:-1,Suluk™ → TRUE BLUE ANT
+#EXTINF:-1,Suluk® → TRUE BLUE ANT
 http://139.99.38.15:443/hd-rtlcbs_720/index.m3u8
 
-#EXTINF:-1,Suluk™ → AXN
+#EXTINF:-1,Suluk® → AXN
 http://139.99.38.15:443/hd-axn_720/index.m3u8
 
-#EXTINF:-1,Suluk™ → Fox Movies Premium HD
+#EXTINF:-1,Suluk® → Fox Movies Premium HD
 http://139.99.38.15:443/hd-foxpremium_720/index.m3u8
 
-#EXTINF:-1,Suluk™ → Fox Family HD
-http://139.99.38.15:443/hd-foxfamily_720/index.m3u8
+#EXTINF:-1,Suluk® → BALKANIKA
+http://31.41.20.14:4054
 
-#EXTINF:-1,Suluk™ → Fox Thai HD
-http://139.99.38.15:443/sd-fox_720/index.m3u8
+#EXTINF:-1,Suluk® → РЕН-ТВ
+http://91.210.24.70:88/tv_sochi_ren_tv/video.m3u8
 
-#EXTINF:-1,Suluk™ → KBS WORLD HD
-http://139.99.38.15:443/hd-kbsworld_720/index.m3u8
+#EXTINF:-1,Suluk® → РОССИЯ 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_vhig.m3u8
 
+#EXTINF:-1,Suluk® → МАТЧ!
+http://194.143.150.213:8080/udp/239.195.32.3:1234
 
+#EXTINF:-1,Suluk® → МАТЧ! HD
+http://193.93.236.121:9991/play/Match_HD/index.m3u8
+
+#EXTINF:-1,Suluk® → CCTV-1
+http://223.110.241.204:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
+
+#EXTINF:-1,Suluk® → CCTV-5
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
+
+#EXTINF:-1,Suluk® → CCTV-5+
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/
+
+#EXTINF:-1,Suluk® → UFC TV HD
+http://vapi.vaders.tv/play/42469.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+
+#EXTINF:-1,Suluk® → NBA TV HD
+http://vapi.vaders.tv/play/2788.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+
+#EXTINF:-1,Suluk® → Gol TV HD
+http://vapi.vaders.tv/play/46466.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+
+#EXTINF:-1,Suluk® → WWE Network HD
+http://vapi.vaders.tv/play/3047.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+
+#EXTINF:-1,Suluk® → Motors TV UK
+http://vapi.vaders.tv/play/40683.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+
+#EXTINF:-1,Suluk® → Boxnation 
+http://vapi.vaders.tv/play/39646.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+
+#EXTINF:-1,Suluk® → Sky Sports F1 HD 
+http://vapi.vaders.tv/play/2483.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+
+#EXTINF:-1,Suluk® → Sky Sports Action HD 
+http://vapi.vaders.tv/play/2480.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+
+#EXTINF:-1,Suluk® → Sky Sports Premier League HD 
+http://vapi.vaders.tv/play/2482.m3u8?token=eyJ1c2VybmFtZSI6ImNlY2lsMSIsInBhc3N3b3JkIjoiY2VjaWwxIn0=
+
+#EXTINF:-1,Suluk® → Fox Sports 1 HD
+http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index2.m3u8
+
+#EXTINF:-1,Suluk® → Fox Sports 2 HD
+http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index2.m3u8
+
+#EXTINF:-1,Suluk® → Dsport
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226484/index.m3u8
+
+#EXTINF:-1,Suluk® → NEO Sports
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225791/index.m3u8
+
+#EXTINF:-1,Suluk® → Astro Arena
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+
+#EXTINF:-1,Suluk® → TVRI Sports
+http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
+
+#EXTINF:-1,Suluk® → AFN SPORTS (US)
+http://163.172.15.141:9732/live?channelId=240&uid=2001&deviceUser=19040&devicePass=180917
+
+#EXTINF:-1,Suluk® → AFN SPORTS 2 (US) 
+http://163.172.15.141:9732/live?channelId=241&uid=2001&deviceUser=19040&devicePass=180917
 
 
 
