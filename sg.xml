@@ -67,13 +67,13 @@
 
 
 <item>
-<title>test1</title>               - Title tag = to item title 
+<title>test2</title>               
 <link>https://bobmovies.online/11-deadpool-online-free.html</link>                 
-<thumbnail></thumbnail>       - Thumbanil = to link for icon image 500 x 500 px (.png / .jpg format)
-<fanart></fanart>             - Fanart = to link for background 720 x 1080 px (.png / jpg format)
-<genre></genre>               - Genere = to genre of the movie or clip
-<date></date>                 - Date = to release date 
-<info></info>                 - Info = to information about the clip/movie 
+<thumbnail></thumbnail>       
+<fanart></fanart>             
+<genre></genre>               
+<date></date>                 
+<info></info>                 
 </item>
 
 
