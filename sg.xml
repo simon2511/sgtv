@@ -65,7 +65,13 @@
 <fanart>LINK TO AN IMAGE FOR BACKGROUND</fanart>
 </item>
 
- 
+ <item>
+<title>test</title>
+<link>http://ignorame</link> 
+<externallink>https://bobmovies.net/cinema-movies/ <externallink>
+<thumbnail>https://archive.org/download/si_Icon_201712/icon.png</thumbnail>  
+<fanart>LINK TO AN IMAGE FOR BACKGROUND</fanart>
+</item>
 
 
 
