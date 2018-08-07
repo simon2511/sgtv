@@ -29,7 +29,7 @@
 <title>UK/US TV </title>
 <link>http://ignorame</link> 
 <externallink>https://raw.githubusercontent.com/simon2511/sgtv/master/list1.m3u<externallink>
-<thumbnail>LINK TO AN IMAGE FOR ICON </thumbnail>  
+<thumbnail>https://archive.org/download/si_Icon_201712/icon.png  </thumbnail>  
 <fanart>LINK TO AN IMAGE FOR BACKGROUND</fanart>
 </item>
  
@@ -37,8 +37,8 @@
  <item>
 <title>Various Tv </title>
 <link>http://ignorame</link> 
-<externallink>https://raw.githubusercontent.com/simon2511/sgtv/master/list1.m3u<externallink>
-<thumbnail>LINK TO AN IMAGE FOR ICON </thumbnail>  
+<externallink>https://raw.githubusercontent.com/simon2511/sgtv/master/list3.m3u<externallink>
+<thumbnail>https://archive.org/download/si_Icon_201712/icon.png  </thumbnail>  
 <fanart>LINK TO AN IMAGE FOR BACKGROUND</fanart>
 </item>
  
@@ -52,7 +52,7 @@
 <title>VOD </title>
 <link>http://ignorame</link> 
 <externallink>https://raw.githubusercontent.com/simon2511/sgtv/master/movies.m3u<externallink>
-<thumbnail>LINK TO AN IMAGE FOR ICON </thumbnail>  
+<thumbnail>https://archive.org/download/si_Icon_201712/icon.png  </thumbnail>  
 <fanart>LINK TO AN IMAGE FOR BACKGROUND</fanart>
 </item>
  
