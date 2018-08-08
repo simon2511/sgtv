@@ -295,3 +295,126 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC144/playl
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC137/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Y2K
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC145/playlist.m3u8
+#EXTINF:0,Adult Swim
+https://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+#EXTINF:0,Adult Swim Off The Air
+http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
+#EXTINF:0,Black Jesus 24/7
+http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+#EXTINF:0,Eric Andre Show 24/7
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTINF:0,Mr. Pickles 24/7
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+#EXTINF:0,Rick and Morty 24/7
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:0,Squidbillies 24/7
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
+#EXTINF:0,Tim and Eric 24/7
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+#EXTINF:0,Venture Bros. 24/7
+http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
+#EXTINF:0,Williams Stream 24/7
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+#EXTINF:-1,HD Fashion UA
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1,ID Fashion
+http://95.67.8.22/hls/idfashion/index.m3u8
+#EXTINF:0,Public TV
+http://cdn-11.bonus-tv.ru/publictv/index.m3u8
+#EXTINF:0,World Fashion International
+http://cdn-01.bonus-tv.ru:8080/wfcint/index.m3u8
+#EXTINF:0,Action Movies
+https://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0,Amazon Today's Deals Live
+https://usher.ttvnw.net/api/lvs/hls/lvs.AmazonLiveTools-prod.958d17b0-5e50-4d81-a444-1d99885e851a.m3u8
+#EXTINF:0,BUZZR
+https://buzzr-zixi.global.ssl.fastly.net/BUZZR_HLS_TEST.m3u8?hlsid=HTTP_ID_777
+#EXTINF:0,BYUTV
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master.m3u8
+#EXTINF:0,CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:0,Law & Crime
+https://ssai.ooyala.com/hls/delta/cflive-use/out/u/yanejvyjuqpw5/111827/43OWVjZTE65GskF69ZcXWykXcnScRY5u/cn/d55a880cca4b4b0d8705ae78f89c2960.m3u8
+#EXTINF:0,Pluto Movies
+https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0,Pluto Movies 2
+https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0,Pluto TV Her
+https://stitcher.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0,SupTV
+http://91.134.238.137/live/goat/index.m3u8
+#EXTINF:0,TACH
+https://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/tach/playlist.m3u8
+#EXTINF:0,TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:0,The Shopping Channel Canada
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:0,What's On Pluto
+https://stitcher.pluto.tv/stitch/hls/channel/58e2cd77a84e99942f414e68/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0,Yes TV
+http://stream-live-edge-a01.crossroadscloud.com:8081/yestv-ont-multibit/yestv-ont-multibit/playlist.m3u8
+#EXTINF:0,PBS Kids Channel
+https://live-cdn.pbskids.org/out/u/est.m3u8
+#EXTINF:0,Steven Universe 24/7
+https://live.ponies.fr/hls/sug-hd/sug.m3u8
+#EXTINF:0,Nature Vision
+https://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/ntrnaturevision/playlist.m3u8
+#EXTINF:0,Pursuit Channel
+https://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/pursuitlive/playlist.m3u8
+#EXTINF:0,Relax.TV
+http://wse.planeta-online.tv:1935/live/channel_3/playlist.m3u8
+#EXTINF:0,NASA TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:0,NASA TV Media Channel
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+#EXTINF:0,Music Vox TV Old's Cool
+http://stream.cdn.smcloud.net/vox-t/vox_720p/playlist.m3u8
+#EXTINF:-1,Virgin Radio TV
+http://tv.105.net:1935/live/virgin1/index.m3u8
+#EXTINF:0,Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:0,H!T Music Channel
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:0,KHZTV
+http://rbc.streamguys.com/khztv/khztv/playlist.m3u8
+#EXTINF:0,Kiss TV
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-desktop.m3u8
+#EXTINF:0,Nebiset
+http://hls.nebiset.tv/nebiset.m3u8
+#EXTINF:0,Now Music TV
+http://live.aatw.simplestreamcdn.com/now/live.m3u8
+#EXTINF:0,NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
+#EXTINF:0,NRJ TV
+http://energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8
+#EXTINF:0,RitmoVision
+http://3435c1ca-lp-live.ums.ustream.tv/playlist/auditorium/channel/18739366/playlist.m3u8?token=6302570_1512075867735&appType=11&appVersion=3&ts=1512075867&chunkingType=improved&geo=US&sgn=7c5196247d694c6a813e07fc62227939ff5d171b&preferredBitrate=0&cdnHost=uhs-akamai.ustream.tv
+#EXTINF:0,1Music
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:0,Bridge TV
+https://bl.webcaster.pro/media/start/free_9d6a8624a7702dddd15b6c4fbf272152_hd/65_91554723/6b805dbede42bab6bbb6c3b829e4a31b/4639979456.m3u8
+#EXTINF:0,California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+#EXTINF:0,Channel AKA
+http://live.aatw.simplestreamcdn.com/aka/live.m3u8
+#EXTINF:0,Chilled TV
+http://live.aatw.simplestreamcdn.com/chilled/live.m3u8
+#EXTINF:0,Clubland TV
+http://live.aatw.simplestreamcdn.com/clubland/live.m3u8
+#EXTINF:0,The Country Network
+http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:0,Deluxe Music
+http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
+#EXTINF:0,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:0,Kiss TV
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-desktop.m3u8
+#EXTINF:0,Now Music TV
+http://live.aatw.simplestreamcdn.com/now/live.m3u8
+#EXTINF:0,Radio Monte Carlo TV
+http://tv.105.net/live/rmc1/playlist.m3u8
+#EXTINF:-1,RTI HD
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+#EXTINF:-1,XITE TV
+http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
+
