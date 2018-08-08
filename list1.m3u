@@ -267,3 +267,54 @@ http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/22417.ts
 http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/32137.ts
 #EXTINF:-1,World Fishing Network
 http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/32136.ts
+
+#EXTINF:-1 MUSIC CHOICE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", 90s
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC140/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Alternative
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC122/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Brits + Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC143/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Dance
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC127/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Hip Hop/R&B
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC106/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Hit List
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC100/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Indie
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC129/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Kidz Only
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC130/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Metal
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC139/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Mexicana
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC131/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Music Choice Urbana
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC128/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Pop & Country
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC132/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Pop Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC133/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Pop Latino
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC123/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", R&B/Soul
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC124/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Rap
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC125/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Rap 2K
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC141/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Rock
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC138/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Teen Beats
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC118/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Throwback Jamz
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC142/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Today's Country
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC121/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Toddler Tunes
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC144/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Tropicales
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC137/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Y2K
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC145/playlist.m3u8
