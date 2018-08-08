@@ -76,173 +76,170 @@ http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist
 #EXTINF:-1   USA CHANNELS
 
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FOX"  group-title="",FOX
+#EXTINF:-1,FOX
 http://mobilecache.streamlive.to:8081/edge/yuu6p5oaa1x4a1p/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="THE CW"  group-title="",THE CW
+#EXTINF:-1,THE CW
 http://mobilecache.streamlive.to:8081/edge/fvksu1sp51ijtyd/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TBS"  group-title="",TBS
+#EXTINF:-1,TBS
 http://mobilecache.streamlive.to:8081/edge/eg5v0vdj33ls27r/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CBS"  group-title="",CBS
+#EXTINF:-1,CBS
 http://mobilecache.streamlive.to:8081/edge/vp4q2gonwzh2dku/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ABC HD"  group-title="",ABC HD
+#EXTINF:-1,ABC HD
 http://mobilecache.streamlive.to:8081/edge/vp4q2gonwzh2dku/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TNT"  group-title="",TNT
+#EXTINF:-1,TNT
 http://mobilecache.streamlive.to:8081/edge/7uz4als3nigi0j3/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MSNBC US"  group-title="",MSNBC US
+#EXTINF:-1,MSNBC US
 http://mobilecache.streamlive.to:8081/edge/1341ujtliqndod8/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CNN"  group-title="",CNN
+#EXTINF:-1,CNN
 http://mobilecache.streamlive.to:8081/edge/rjxo8hz17q9waiq/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FOX NEWS"  group-title="",FOX NEWS
+#EXTINF:-1,FOX NEWS
 http://mobilecache.streamlive.to:8081/edge/ohn58e97er36vjr/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NICKELODEON"  group-title="",NICKELODEON
+#EXTINF:-1,NICKELODEON
 http://mobilecache.streamlive.to:8081/edge/64jaber5pjqj2cr/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FX"  group-title="",FX
+#EXTINF:-1,FX
 http://mobilecache.streamlive.to:8081/edge/ru031zebcat0lio/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DISCOVERY US"  group-title="",DISCOVERY US
+#EXTINF:-1,DISCOVERY US
 http://mobilecache.streamlive.to:8081/edge/ishyd3sopok3p27/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="LIFETIME"  group-title="",LIFETIME
+#EXTINF:-1,LIFETIME
 http://mobilecache.streamlive.to:8081/edge/7b2gr554gyyth8e/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BET"  group-title="",BET
+#EXTINF:-1,BET
 http://mobilecache.streamlive.to:8081/edge/kexkxje3nqi6dtl/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DISNEY CHANNEL"  group-title="",DISNEY CHANNEL
+#EXTINF:-1,DISNEY CHANNEL
 http://mobilecache.streamlive.to:8081/edge/2tag4dzgwof5ma2/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SPIKE TV"  group-title="",SPIKE TV
+#EXTINF:-1,SPIKE TV
 http://mobilecache.streamlive.to:8081/edge/sax2mq2alpirnww/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ESPN"  group-title="",ESPN
+#EXTINF:-1,ESPN
 http://mobilecache.streamlive.to:8081/edge/xoaaohmeuajfeyf/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ESPN2"  group-title="",ESPN2
+#EXTINF:-1,ESPN2
 http://mobilecache.streamlive.to:8081/edge/rgyus7ao2ullmbt/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="A&E"  group-title="",A&E
+#EXTINF:-1,A&E
 http://mobilecache.streamlive.to:8081/edge/tuc280rbycwnsvs/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TLC"  group-title="",TLC
+#EXTINF:-1,TLC
 http://mobilecache.streamlive.to:8081/edge/iugceoy4o6ljhck/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="USA NETWORK"  group-title="",USA NETWORK
+#EXTINF:-1,USA NETWORK
 http://mobilecache.streamlive.to:8081/edge/h5eovaj1jeegluq/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CNBC"  group-title="",CNBC
+#EXTINF:-1,CNBC
 http://mobilecache.streamlive.to:8081/edge/xssrqbmovted7h6/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="E!"  group-title="",E!
+#EXTINF:-1,E!
 http://mobilecache.streamlive.to:8081/edge/080s1qh0tnhnpcf/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MTV"  group-title="",MTV
+#EXTINF:-1,MTV
 http://mobilecache.streamlive.to:8081/edge/p0audpgrkvu6l1g/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NBC SPORTS"  group-title="",NBC SPORTS
+#EXTINF:-1,NBC SPORTS
 http://mobilecache.streamlive.to:8081/edge/0fm1lstybe4a0j4/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="VH1"  group-title="",VH1
+#EXTINF:-1,VH1
 http://mobilecache.streamlive.to:8081/edge/oeiigxxv1gbeqq9/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TV LAND"  group-title="",TV LAND
+#EXTINF:-1,TV LAND
 http://mobilecache.streamlive.to:8081/edge/7yxirr4046nk5ca/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FOOD NETWORK US"  group-title="",FOOD NETWORK US
+#EXTINF:-1,FOOD NETWORK US
 http://mobilecache.streamlive.to:8081/edge/ibnnu7537h3ax6e/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="HISTORY US"  group-title="",HISTORY US
+#EXTINF:-1,HISTORY US
 http://mobilecache.streamlive.to:8081/edge/dhp0rpd116qyyj6/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SCI FI"  group-title="",SCI FI
+#EXTINF:-1,SCI FI
 http://mobilecache.streamlive.to:8081/edge/x7uii7mll2b7lh4/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CARTOON NETWORK"  group-title="",CARTOON NETWORK
+#EXTINF:-1,CARTOON NETWORK
 http://mobilecache.streamlive.to:8081/edge/9l41fcr1sgmclej/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRAVEL CHANNEL"  group-title="",TRAVEL CHANNEL
+#EXTINF:-1,TRAVEL CHANNEL
 http://mobilecache.streamlive.to:8081/edge/4aiufk0o430qt0d/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="AMC"  group-title="",AMC
+#EXTINF:-1,AMC
 http://mobilecache.streamlive.to:8081/edge/z4cxm7zlfyqs65m/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BRAVO US"  group-title="",BRAVO US
+#EXTINF:-1,BRAVO US
 http://mobilecache.streamlive.to:8081/edge/uw433ikqnrj501l/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRU TV"  group-title="",TRU TV
+#EXTINF:-1,TRU TV
 http://mobilecache.streamlive.to:8081/edge/uhnr4161ybioa5w/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="HGTV"  group-title="",HGTV
+#EXTINF:-1,HGTV
 http://mobilecache.streamlive.to:8081/edge/gj65q2rg18tpmut/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="COMEDY CENTRAL"  group-title="",COMEDY CENTRAL
+#EXTINF:-1,COMEDY CENTRAL
 http://mobilecache.streamlive.to:8081/edge/wyw9tfxexu68p0t/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="OWN"  group-title="",OWN
+#EXTINF:-1,OWN
 http://mobilecache.streamlive.to:8081/edge/uehgy5htiasffj3/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NAT GEO US"  group-title="",NAT GEO US
+#EXTINF:-1,NAT GEO US
 http://mobilecache.streamlive.to:8081/edge/qzsfigd1y3bgbhs/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SCIENCE CHANNEL"  group-title="",SCIENCE CHANNEL
+#EXTINF:-1,SCIENCE CHANNEL
 http://mobilecache.streamlive.to:8081/edge/00t250wv1d4ltib/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ID"  group-title="",ID
+#EXTINF:-1,ID
 http://mobilecache.streamlive.to:8081/edge/yjma618cibkqxeo/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="GET TV"  group-title="",GET TV
+#EXTINF:-1,GET TV
 http://206.51.143.155:1935/live/6.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="COZI TV"  group-title="",COZI TV
+#EXTINF:-1,COZI TV
 http://206.51.143.155:1935/live/14.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="THIS TV"  group-title="",THIS TV
+#EXTINF:-1,THIS TV
 http://206.51.143.155:1935/live/15.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BOUNCE"  group-title="",BOUNCE
+#EXTINF:-1,BOUNCE
 http://206.51.143.155:1935/live/5.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TENNIS CHANNEL"  group-title="",TENNIS CHANNEL
+#EXTINF:-1,TENNIS CHANNEL
 http://mobilecache.streamlive.to:8081/edge/mv93mjgyktkkhpz/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NFL NETWORK"  group-title="",NFL NETWORK
+#EXTINF:-1,NFL NETWORK
 http://mobilecache.streamlive.to:8081/edge/zvwjh9ctt0vdlbe/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FOX SPORTS 2"  group-title="",FOX SPORTS 2
+#EXTINF:-1,FOX SPORTS 2
 http://mobilecache.streamlive.to:8081/edge/rs5opj7fo5f7io0/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BLOOMBERG"  group-title="",BLOOMBERG
+#EXTINF:-1,BLOOMBERG
 http://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="OX SPORTS"  group-title="",OX SPORTS
+#EXTINF:-1,FOX SPORTS
 http://mobilecache.streamlive.to:8081/edge/svsgthhwl6djj5h/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FOX College Sports Atlantic"  group-title="",FOX College Sports Atlantic
+#EXTINF:-1,FOX College Sports Atlantic
 http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20871.ts
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="GOLF CHANNEL"  group-title="",GOLF CHANNEL
+#EXTINF:-1,GOLF CHANNEL
 http://mobilecache.streamlive.to:8081/edge/ts6w24dx29tcwi4/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="HALLMARK"  group-title="",HALLMARK
+#EXTINF:-1,HALLMARK
 http://mobilecache.streamlive.to:8081/edge/v4ynnryunsoxzbq/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="OXYGEN"  group-title="",OXYGEN
+#EXTINF:-1,OXYGEN
 http://mobilecache.streamlive.to:8081/edge/zmt2swezlswh9nz/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DAYSTAR"  group-title="",DAYSTAR
+#EXTINF:-1,DAYSTAR
 http://bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master_1080p.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
-http://123.456.789
 
 
 
