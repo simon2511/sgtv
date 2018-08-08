@@ -1,2 +1,297 @@
 # sgtv
 fulllist.m3u
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="501" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="UK",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:-1 tvg-id="502" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/1200px-BBC_World_News_red.svg.png" group-title="UK",BBC World News
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226051/01.m3u8
+
+#EXTINF:-1 tvg-id="503" tvg-logo="https://i.imgur.com/PKF0ejC.png" group-title="UK",Arise News
+http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-id="504" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Rtenewsnownewlogo.png" group-title="IRELAND",RTE News Now
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="506" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="UK",Bloomberg TV UK
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+#EXTINF:-1 tvg-id="507" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="UK",France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-id="508" tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="UK",DW English
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:-1 tvg-id="509" tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="UK",TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1 tvg-id="510" tvg-logo="https://i.imgur.com/E2YR6Oa.png" group-title="UK",Al Jazeera English
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1 tvg-id="511" tvg-logo="https://i.imgur.com/XCBnJzR.png" group-title="UK",RT UK
+https://secure-streams.akamaized.net/rt-uk/index.m3u8
+
+#EXTINF:-1 tvg-id="512" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="UK",RT Documentary
+https://secure-streams.akamaized.net/rt-doc/index.m3u8
+ 
+#EXTINF:-1 tvg-id="515" tvg-logo="https://i.imgur.com/9gHjXmn.png" group-title="UK",NHK World
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+
+#EXTINF:-1 tvg-id="516" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="UK",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="530" tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="UK",Animal Planet
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
+
+#EXTINF:-1 tvg-id="531" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="UK",Discovery World
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
+
+#EXTINF:-1 tvg-id="536" tvg-logo="https://i.imgur.com/HCOqABQ.png" group-title="UK",London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+
+#EXTINF:-1 tvg-id="544" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="UK",TLC
+http://cshms2.airtel.tv/PLTV/88888888/224/3221226279/01.m3u8
+
+#EXTINF:-1 tvg-id="545" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RTÉ_logo.svg/229px-RTÉ_logo.svg.png" group-title="IRELAND",RTE 1
+http://akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
+
+#EXTINF:-1 tvg-id="546" tvg-logo="http://i1.irishmirror.ie/whats-on/film-news/article8736387.ece/ALTERNATES/s615/tg4-logo.jpg" group-title="IRELAND",TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+
+#EXTINF:-1 tvg-id="551" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="UK",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+ 
+#EXTINF:-1 tvg-id="552" tvg-name="" tvg-logo="https://i.imgur.com/uYEvE4q.png" group-title="UK",Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+ 
+#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/2j8tsJq.png" group-title="UK",Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+ 
+#EXTINF:-1 tvg-id="554" tvg-logo="https://i.imgur.com/OiZowUH.png" group-title="UK",Kool London Radio
+http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="560" tvg-logo="https://i.imgur.com/lhHx6by.png" group-title="UK",Jewellery Maker
+http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
+
+#EXTINF:-1   USA CHANNELS
+
+
+#EXTINF:-1,FOX
+http://mobilecache.streamlive.to:8081/edge/yuu6p5oaa1x4a1p/playlist.m3u8
+
+#EXTINF:-1,THE CW
+http://mobilecache.streamlive.to:8081/edge/fvksu1sp51ijtyd/playlist.m3u8
+
+#EXTINF:-1,TBS
+http://mobilecache.streamlive.to:8081/edge/eg5v0vdj33ls27r/playlist.m3u8
+
+#EXTINF:-1,CBS
+http://mobilecache.streamlive.to:8081/edge/vp4q2gonwzh2dku/playlist.m3u8
+
+#EXTINF:-1,ABC HD
+http://mobilecache.streamlive.to:8081/edge/vp4q2gonwzh2dku/playlist.m3u8
+
+#EXTINF:-1,TNT
+http://mobilecache.streamlive.to:8081/edge/7uz4als3nigi0j3/playlist.m3u8
+
+#EXTINF:-1,MSNBC US
+http://mobilecache.streamlive.to:8081/edge/1341ujtliqndod8/playlist.m3u8
+
+#EXTINF:-1,CNN
+http://mobilecache.streamlive.to:8081/edge/rjxo8hz17q9waiq/playlist.m3u8
+
+#EXTINF:-1,FOX NEWS
+http://mobilecache.streamlive.to:8081/edge/ohn58e97er36vjr/playlist.m3u8
+
+#EXTINF:-1,NICKELODEON
+http://mobilecache.streamlive.to:8081/edge/64jaber5pjqj2cr/playlist.m3u8
+
+#EXTINF:-1,FX
+http://mobilecache.streamlive.to:8081/edge/ru031zebcat0lio/playlist.m3u8
+
+#EXTINF:-1,DISCOVERY US
+http://mobilecache.streamlive.to:8081/edge/ishyd3sopok3p27/playlist.m3u8
+
+#EXTINF:-1,LIFETIME
+http://mobilecache.streamlive.to:8081/edge/7b2gr554gyyth8e/playlist.m3u8
+
+#EXTINF:-1,BET
+http://mobilecache.streamlive.to:8081/edge/kexkxje3nqi6dtl/playlist.m3u8
+
+#EXTINF:-1,DISNEY CHANNEL
+http://mobilecache.streamlive.to:8081/edge/2tag4dzgwof5ma2/playlist.m3u8
+
+#EXTINF:-1,SPIKE TV
+http://mobilecache.streamlive.to:8081/edge/sax2mq2alpirnww/playlist.m3u8
+
+#EXTINF:-1,ESPN
+http://mobilecache.streamlive.to:8081/edge/xoaaohmeuajfeyf/playlist.m3u8
+
+#EXTINF:-1,ESPN2
+http://mobilecache.streamlive.to:8081/edge/rgyus7ao2ullmbt/playlist.m3u8
+
+#EXTINF:-1,A&E
+http://mobilecache.streamlive.to:8081/edge/tuc280rbycwnsvs/playlist.m3u8
+
+#EXTINF:-1,TLC
+http://mobilecache.streamlive.to:8081/edge/iugceoy4o6ljhck/playlist.m3u8
+
+#EXTINF:-1,USA NETWORK
+http://mobilecache.streamlive.to:8081/edge/h5eovaj1jeegluq/playlist.m3u8
+
+#EXTINF:-1,CNBC
+http://mobilecache.streamlive.to:8081/edge/xssrqbmovted7h6/playlist.m3u8
+
+#EXTINF:-1,E!
+http://mobilecache.streamlive.to:8081/edge/080s1qh0tnhnpcf/playlist.m3u8
+
+#EXTINF:-1,MTV
+http://mobilecache.streamlive.to:8081/edge/p0audpgrkvu6l1g/playlist.m3u8
+
+#EXTINF:-1,NBC SPORTS
+http://mobilecache.streamlive.to:8081/edge/0fm1lstybe4a0j4/playlist.m3u8
+
+#EXTINF:-1,VH1
+http://mobilecache.streamlive.to:8081/edge/oeiigxxv1gbeqq9/playlist.m3u8
+
+#EXTINF:-1,TV LAND
+http://mobilecache.streamlive.to:8081/edge/7yxirr4046nk5ca/playlist.m3u8
+
+#EXTINF:-1,FOOD NETWORK US
+http://mobilecache.streamlive.to:8081/edge/ibnnu7537h3ax6e/playlist.m3u8
+
+#EXTINF:-1,HISTORY US
+http://mobilecache.streamlive.to:8081/edge/dhp0rpd116qyyj6/playlist.m3u8
+
+#EXTINF:-1,SCI FI
+http://mobilecache.streamlive.to:8081/edge/x7uii7mll2b7lh4/playlist.m3u8
+
+#EXTINF:-1,CARTOON NETWORK
+http://mobilecache.streamlive.to:8081/edge/9l41fcr1sgmclej/playlist.m3u8
+
+#EXTINF:-1,TRAVEL CHANNEL
+http://mobilecache.streamlive.to:8081/edge/4aiufk0o430qt0d/playlist.m3u8
+
+#EXTINF:-1,AMC
+http://mobilecache.streamlive.to:8081/edge/z4cxm7zlfyqs65m/playlist.m3u8
+
+#EXTINF:-1,BRAVO US
+http://mobilecache.streamlive.to:8081/edge/uw433ikqnrj501l/playlist.m3u8
+
+#EXTINF:-1,TRU TV
+http://mobilecache.streamlive.to:8081/edge/uhnr4161ybioa5w/playlist.m3u8
+
+#EXTINF:-1,HGTV
+http://mobilecache.streamlive.to:8081/edge/gj65q2rg18tpmut/playlist.m3u8
+
+#EXTINF:-1,COMEDY CENTRAL
+http://mobilecache.streamlive.to:8081/edge/wyw9tfxexu68p0t/playlist.m3u8
+
+#EXTINF:-1,OWN
+http://mobilecache.streamlive.to:8081/edge/uehgy5htiasffj3/playlist.m3u8
+
+#EXTINF:-1,NAT GEO US
+http://mobilecache.streamlive.to:8081/edge/qzsfigd1y3bgbhs/playlist.m3u8
+
+#EXTINF:-1,SCIENCE CHANNEL
+http://mobilecache.streamlive.to:8081/edge/00t250wv1d4ltib/playlist.m3u8
+
+#EXTINF:-1,ID
+http://mobilecache.streamlive.to:8081/edge/yjma618cibkqxeo/playlist.m3u8
+
+#EXTINF:-1,GET TV
+http://206.51.143.155:1935/live/6.smil/playlist.m3u8
+
+#EXTINF:-1,COZI TV
+http://206.51.143.155:1935/live/14.smil/playlist.m3u8
+
+#EXTINF:-1,THIS TV
+http://206.51.143.155:1935/live/15.smil/playlist.m3u8
+
+#EXTINF:-1,BOUNCE
+http://206.51.143.155:1935/live/5.smil/playlist.m3u8
+
+#EXTINF:-1,TENNIS CHANNEL
+http://mobilecache.streamlive.to:8081/edge/mv93mjgyktkkhpz/playlist.m3u8
+
+#EXTINF:-1,NFL NETWORK
+http://mobilecache.streamlive.to:8081/edge/zvwjh9ctt0vdlbe/playlist.m3u8
+
+#EXTINF:-1,FOX SPORTS 2
+http://mobilecache.streamlive.to:8081/edge/rs5opj7fo5f7io0/playlist.m3u8
+
+#EXTINF:-1,BLOOMBERG
+http://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+
+#EXTINF:-1,FOX SPORTS
+http://mobilecache.streamlive.to:8081/edge/svsgthhwl6djj5h/playlist.m3u8
+
+#EXTINF:-1,FOX College Sports Atlantic
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20871.ts
+
+#EXTINF:-1,GOLF CHANNEL
+http://mobilecache.streamlive.to:8081/edge/ts6w24dx29tcwi4/playlist.m3u8
+
+#EXTINF:-1,HALLMARK
+http://mobilecache.streamlive.to:8081/edge/v4ynnryunsoxzbq/playlist.m3u8
+
+#EXTINF:-1,OXYGEN
+http://mobilecache.streamlive.to:8081/edge/zmt2swezlswh9nz/playlist.m3u8
+
+#EXTINF:-1,DAYSTAR
+http://bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master_1080p.m3u8
+
+
+
+#EXTINF:-1 MUSIC CHOICE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", 90s
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC140/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Alternative
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC122/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Brits + Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC143/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Dance
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC127/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Hip Hop/R&B
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC106/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Hit List
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC100/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Indie
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC129/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Kidz Only
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC130/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Metal
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC139/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Mexicana
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC131/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Music Choice Urbana
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC128/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Pop & Country
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC132/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Pop Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC133/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Pop Latino
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC123/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", R&B/Soul
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC124/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Rap
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC125/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Rap 2K
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC141/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Rock
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC138/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Teen Beats
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC118/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Throwback Jamz
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC142/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Today's Country
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC121/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Toddler Tunes
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC144/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Tropicales
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC137/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Y2K
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC145/playlist.m3u8
