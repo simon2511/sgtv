@@ -75,198 +75,176 @@ http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist
 
 #EXTINF:-1   USA CHANNELS
 
-#EXTINF:-1,NBC
-http://mobilecache.streamlive.to:8081/edge/kjgkefh6la1di6g/playlist.m3u8
-#EXTINF:-1,FOX TV
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FOX"  group-title="",FOX
 http://mobilecache.streamlive.to:8081/edge/yuu6p5oaa1x4a1p/playlist.m3u8
-#EXTINF:-1,The CW
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="THE CW"  group-title="",THE CW
 http://mobilecache.streamlive.to:8081/edge/fvksu1sp51ijtyd/playlist.m3u8
-#EXTINF:-1,TBS
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TBS"  group-title="",TBS
 http://mobilecache.streamlive.to:8081/edge/eg5v0vdj33ls27r/playlist.m3u8
-#EXTINF:-1,CBS
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CBS"  group-title="",CBS
 http://mobilecache.streamlive.to:8081/edge/vp4q2gonwzh2dku/playlist.m3u8
-#EXTINF:-1,Telemundo
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/23368.ts
-#EXTINF:-1,QVC
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
-#EXTINF:-1,ABC HD
-http://mobilecache.streamlive.to:8081/edge/nz7l9vc5nv1og7b/playlist.m3u8
-#EXTINF:-1,Univision
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/23360.ts
-#EXTINF:-1,TNT
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ABC HD"  group-title="",ABC HD
+http://mobilecache.streamlive.to:8081/edge/vp4q2gonwzh2dku/playlist.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TNT"  group-title="",TNT
 http://mobilecache.streamlive.to:8081/edge/7uz4als3nigi0j3/playlist.m3u8
-#EXTINF:-1,MSNBC US
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MSNBC US"  group-title="",MSNBC US
 http://mobilecache.streamlive.to:8081/edge/1341ujtliqndod8/playlist.m3u8
-#EXTINF:-1,CNN
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CNN"  group-title="",CNN
 http://mobilecache.streamlive.to:8081/edge/rjxo8hz17q9waiq/playlist.m3u8
-#EXTINF:-1,FOX News
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FOX NEWS"  group-title="",FOX NEWS
 http://mobilecache.streamlive.to:8081/edge/ohn58e97er36vjr/playlist.m3u8
-#EXTINF:-1,Nickelodeon
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NICKELODEON"  group-title="",NICKELODEON
 http://mobilecache.streamlive.to:8081/edge/64jaber5pjqj2cr/playlist.m3u8
-#EXTINF:-1,FX
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FX"  group-title="",FX
 http://mobilecache.streamlive.to:8081/edge/ru031zebcat0lio/playlist.m3u8
-#EXTINF:-1,Discovery Channel
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DISCOVERY US"  group-title="",DISCOVERY US
 http://mobilecache.streamlive.to:8081/edge/ishyd3sopok3p27/playlist.m3u8
-#EXTINF:-1,Lifetime
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="LIFETIME"  group-title="",LIFETIME
 http://mobilecache.streamlive.to:8081/edge/7b2gr554gyyth8e/playlist.m3u8
-#EXTINF:-1,BET
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BET"  group-title="",BET
 http://mobilecache.streamlive.to:8081/edge/kexkxje3nqi6dtl/playlist.m3u8
-#EXTINF:-1,Disney Channel
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DISNEY CHANNEL"  group-title="",DISNEY CHANNEL
 http://mobilecache.streamlive.to:8081/edge/2tag4dzgwof5ma2/playlist.m3u8
-#EXTINF:-1,Spike TV
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SPIKE TV"  group-title="",SPIKE TV
 http://mobilecache.streamlive.to:8081/edge/sax2mq2alpirnww/playlist.m3u8
-#EXTINF:-1,ESPN
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ESPN"  group-title="",ESPN
 http://mobilecache.streamlive.to:8081/edge/xoaaohmeuajfeyf/playlist.m3u8
-#EXTINF:-1,ESPN 2
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ESPN2"  group-title="",ESPN2
 http://mobilecache.streamlive.to:8081/edge/rgyus7ao2ullmbt/playlist.m3u8
-#EXTINF:-1,A&E TV
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="A&E"  group-title="",A&E
 http://mobilecache.streamlive.to:8081/edge/tuc280rbycwnsvs/playlist.m3u8
-#EXTINF:-1,TLC
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TLC"  group-title="",TLC
 http://mobilecache.streamlive.to:8081/edge/iugceoy4o6ljhck/playlist.m3u8
-#EXTINF:-1,USA Network
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="USA NETWORK"  group-title="",USA NETWORK
 http://mobilecache.streamlive.to:8081/edge/h5eovaj1jeegluq/playlist.m3u8
-#EXTINF:-1,CNBC US
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CNBC"  group-title="",CNBC
 http://mobilecache.streamlive.to:8081/edge/xssrqbmovted7h6/playlist.m3u8
-#EXTINF:-1,E!
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="E!"  group-title="",E!
 http://mobilecache.streamlive.to:8081/edge/080s1qh0tnhnpcf/playlist.m3u8
-#EXTINF:-1,MTV
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MTV"  group-title="",MTV
 http://mobilecache.streamlive.to:8081/edge/p0audpgrkvu6l1g/playlist.m3u8
-#EXTINF:-1,NBC Sports Network
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NBC SPORTS"  group-title="",NBC SPORTS
 http://mobilecache.streamlive.to:8081/edge/0fm1lstybe4a0j4/playlist.m3u8
-#EXTINF:-1,VH1
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="VH1"  group-title="",VH1
 http://mobilecache.streamlive.to:8081/edge/oeiigxxv1gbeqq9/playlist.m3u8
-#EXTINF:-1,TCM
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14163.ts
-#EXTINF:-1,TV Land
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TV LAND"  group-title="",TV LAND
 http://mobilecache.streamlive.to:8081/edge/7yxirr4046nk5ca/playlist.m3u8
-#EXTINF:-1,Food Network US
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FOOD NETWORK US"  group-title="",FOOD NETWORK US
 http://mobilecache.streamlive.to:8081/edge/ibnnu7537h3ax6e/playlist.m3u8
-#EXTINF:-1,History
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="HISTORY US"  group-title="",HISTORY US
 http://mobilecache.streamlive.to:8081/edge/dhp0rpd116qyyj6/playlist.m3u8
-#EXTINF:-1,SyFy
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SCI FI"  group-title="",SCI FI
 http://mobilecache.streamlive.to:8081/edge/x7uii7mll2b7lh4/playlist.m3u8
-#EXTINF:-1,Cartoon Network
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CARTOON NETWORK"  group-title="",CARTOON NETWORK
 http://mobilecache.streamlive.to:8081/edge/9l41fcr1sgmclej/playlist.m3u8
-#EXTINF:-1,Travel Channel
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRAVEL CHANNEL"  group-title="",TRAVEL CHANNEL
 http://mobilecache.streamlive.to:8081/edge/4aiufk0o430qt0d/playlist.m3u8
-#EXTINF:-1,ION TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/26777.ts
-#EXTINF:-1,AMC
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="AMC"  group-title="",AMC
 http://mobilecache.streamlive.to:8081/edge/z4cxm7zlfyqs65m/playlist.m3u8
-#EXTINF:-1,Bravo US
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BRAVO US"  group-title="",BRAVO US
 http://mobilecache.streamlive.to:8081/edge/uw433ikqnrj501l/playlist.m3u8
-#EXTINF:-1,tru TV
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRU TV"  group-title="",TRU TV
 http://mobilecache.streamlive.to:8081/edge/uhnr4161ybioa5w/playlist.m3u8
-#EXTINF:-1,HGTV
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="HGTV"  group-title="",HGTV
 http://mobilecache.streamlive.to:8081/edge/gj65q2rg18tpmut/playlist.m3u8
-#EXTINF:-1,Comedy Central
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="COMEDY CENTRAL"  group-title="",COMEDY CENTRAL
 http://mobilecache.streamlive.to:8081/edge/wyw9tfxexu68p0t/playlist.m3u8
-#EXTINF:-1,Freeform
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19264.ts
-#EXTINF:-1,WGN America
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/27663.ts
-#EXTINF:-1,QVC Plus
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/1af4a53fda904f6c90a4389c8fe92dc0/manifest.m3u8
-#EXTINF:-1,OWN
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="OWN"  group-title="",OWN
 http://mobilecache.streamlive.to:8081/edge/uehgy5htiasffj3/playlist.m3u8
-#EXTINF:-1,NatGeo
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NAT GEO US"  group-title="",NAT GEO US
 http://mobilecache.streamlive.to:8081/edge/qzsfigd1y3bgbhs/playlist.m3u8
-#EXTINF:-1,FOX Business
-http://mobilecache.streamlive.to:8081/edge/difln9xgbe3lbuk/playlist.m3u8
-#EXTINF:-1,FXX
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14171.ts
-#EXTINF:-1,Science Channel
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SCIENCE CHANNEL"  group-title="",SCIENCE CHANNEL
 http://mobilecache.streamlive.to:8081/edge/00t250wv1d4ltib/playlist.m3u8
-#EXTINF:-1,Investigation Discovery
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ID"  group-title="",ID
 http://mobilecache.streamlive.to:8081/edge/yjma618cibkqxeo/playlist.m3u8
-#EXTINF:-1,Nick Jr. US
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14100.ts
-#EXTINF:-1,PBS
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14135.ts
-#EXTINF:-1,PBS Kids
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/28116.ts
-#EXTINF:-1,POP US
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20881.ts
-#EXTINF:-1,H&I US
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/29890.ts
-#EXTINF:-1,Get TV
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="GET TV"  group-title="",GET TV
 http://206.51.143.155:1935/live/6.smil/playlist.m3u8
-#EXTINF:-1,Cozi TV
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="COZI TV"  group-title="",COZI TV
 http://206.51.143.155:1935/live/14.smil/playlist.m3u8
-#EXTINF:-1,This TV
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="THIS TV"  group-title="",THIS TV
 http://206.51.143.155:1935/live/15.smil/playlist.m3u8
-#EXTINF:-1,Bounce
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BOUNCE"  group-title="",BOUNCE
 http://206.51.143.155:1935/live/5.smil/playlist.m3u8
-#EXTINF:-1,Antenna TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/29889.ts
-#EXTINF:-1,Me TV US
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34893.ts
-#EXTINF:-1,Galavision US
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/23361.ts
-#EXTINF:-1,IFC
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/30089.ts
-#EXTINF:-1,Sundance TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/21131.ts
-#EXTINF:-1,Tennis Channel
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TENNIS CHANNEL"  group-title="",TENNIS CHANNEL
 http://mobilecache.streamlive.to:8081/edge/mv93mjgyktkkhpz/playlist.m3u8
-#EXTINF:-1,NFL Network
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NFL NETWORK"  group-title="",NFL NETWORK
 http://mobilecache.streamlive.to:8081/edge/zvwjh9ctt0vdlbe/playlist.m3u8
-#EXTINF:-1,NBA TV US
-http://mobilecache.streamlive.to:8081/edge/c7yew9cgj0pq9xi/playlist.m3u8
-#EXTINF:-1,FOX Sports 2
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FOX SPORTS 2"  group-title="",FOX SPORTS 2
 http://mobilecache.streamlive.to:8081/edge/rs5opj7fo5f7io0/playlist.m3u8
-#EXTINF:-1,Bloomberg TV
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BLOOMBERG"  group-title="",BLOOMBERG
 http://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1,FOX Sports 1
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="OX SPORTS"  group-title="",OX SPORTS
 http://mobilecache.streamlive.to:8081/edge/svsgthhwl6djj5h/playlist.m3u8
-#EXTINF:-1,FOX College Sports Atlantic
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="FOX College Sports Atlantic"  group-title="",FOX College Sports Atlantic
 http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20871.ts
-#EXTINF:-1,FOX College Sports Central
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20870.ts
-#EXTINF:-1,FOX College Sports Pacific
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20869.ts
-#EXTINF:-1,Outdoor Channel
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/22432.ts
-#EXTINF:-1,Golf Channel
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="GOLF CHANNEL"  group-title="",GOLF CHANNEL
 http://mobilecache.streamlive.to:8081/edge/ts6w24dx29tcwi4/playlist.m3u8
-#EXTINF:-1,BBC America
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/25257.ts
-#EXTINF:-1,We TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/22431.ts
-#EXTINF:-1,GSN
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19335.ts
-#EXTINF:-1,Hallmark Channel
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="HALLMARK"  group-title="",HALLMARK
 http://mobilecache.streamlive.to:8081/edge/v4ynnryunsoxzbq/playlist.m3u8
-#EXTINF:-1,WTN
-http://cdn.mainstreaming.tv/live/101111/5lkpte/playlist.m3u8
-#EXTINF:-1,TBN TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/30116.ts
-#EXTINF:-1,BYU
-http://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
-#EXTINF:-1,boomerang
-http://livegroup-title="USA",.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20174.ts
-#EXTINF:-1,Sprout
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19590.ts
-#EXTINF:-1,NickToons
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14097.ts
-#EXTINF:-1,Fuse
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20874.ts
-#EXTINF:-1,Oxygen
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="OXYGEN"  group-title="",OXYGEN
 http://mobilecache.streamlive.to:8081/edge/zmt2swezlswh9nz/playlist.m3u8
-#EXTINF:-1,Disney XD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14101.ts
-#EXTINF:-1,Daystar
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DAYSTAR"  group-title="",DAYSTAR
 http://bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master_1080p.m3u8
-#EXTINF:-1,Disney Junior
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14102.ts
-#EXTINF:-1,Fusion TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20877.ts
-#EXTINF:-1,BeIN Sports US
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/22417.ts
-#EXTINF:-1,Sportsman Channel
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/32137.ts
-#EXTINF:-1,World Fishing Network
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/32136.ts
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+http://123.456.789
+
+
 
 #EXTINF:-1 MUSIC CHOICE
 
