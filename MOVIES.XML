@@ -1,4 +1,19 @@
 # sgtv
 MOVIES.XML
 
-
+<item>
+  <title>apollo 13</title>
+     <meta>
+        <content>movie</content>
+        <imdb>tt0112384</imdb>
+        <title>Apollo 13</title>
+        <year></year>
+     </meta>
+  <link>
+        <sublink>search</sublink>
+        <sublink>searchsd</sublink
+  </link>
+        <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cadVdMAJN5mu1LK7HAUqpTVGlQb.jpg</thumbnail>
+        <fanart>https://https://image.tmdb.org/t/p/w600_and_h900_bestv2/cadVdMAJN5mu1LK7HAUqpTVGlQb.jpg</fanart>
+  
+</item>
