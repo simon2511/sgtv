@@ -1,2 +1,13 @@
 # sgtv
 plugin.xml
+
+
+<dir>
+<name>MOVIES</link>
+<thumbnail></summary>
+</dir>
+
+<dir>
+<name>TV SHOWS</link>
+<thumbnail></summary>
+</dir>
