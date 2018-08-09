@@ -4,7 +4,7 @@ plugin.xml
 
 <dir>
 <name>MOVIES</link>
-<link>http://ignorame</link>   
+<link>https://raw.githubusercontent.com/simon2511/sgtv/master/MOVIES.XML</link>   
 <thumbnail></summary>
 </dir>
 
