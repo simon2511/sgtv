@@ -4,10 +4,12 @@ plugin.xml
 
 <dir>
 <name>MOVIES</link>
+<link>http://ignorame</link>   
 <thumbnail></summary>
 </dir>
 
 <dir>
 <name>TV SHOWS</link>
+<link>http://ignorame</link>  
 <thumbnail></summary>
 </dir>
