@@ -3,8 +3,6 @@ usasport.m3u
 
 #EXTM3U
 
-#EXTM3U
-
 #EXTINF:-1,BOXNATION
 http://5.189.187.55:8000/live/Fadil/skype/707.m3u8
 
@@ -88,5 +86,6 @@ http://5.189.187.55:8000/live/Fadil/skype/2706.m3u8
 
 #EXTINF:-1,FOX SPORTS 2
 http://5.189.187.55:8000/live/Fadil/skype/2859.m3u8
+
 
 
