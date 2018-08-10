@@ -39,57 +39,6 @@ http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/9445.ts
 #EXTINF:-1 tvg-id="" tvg-name="Celtic TV HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/juhldp1504257462.png/small" group-title="UK Sport",Celtic TV HD
 http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/2232.ts
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/ryypqw1462991911.png/small" group-title="Turkey",TRT 1 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/369.ts
-
-#EXTINF:-1 tvg-id="TRT 4K.tr" tvg-name="TRT 4K" tvg-logo="https://www.thelogodb.com/images/media/logonew/ryypqw1462991911.png/small" group-title="Turkey",TRT 4K HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/3409.ts
-
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vqqxus1473153936.png/small" group-title="Turkey",ATV HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/191.ts
-
-#EXTINF:-1 tvg-id="Fox.tr" tvg-name="FOX HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/um8d2j1509463340.png/small" group-title="Turkey",FOX HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/179.ts
-
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vwysvt1433332550.png/small" group-title="Turkey",SHOW HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/188.ts
-
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/txstww1433943055.png/small" group-title="Turkey",STAR HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/186.ts
-
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/pe7kf51502590265.png/small" group-title="Turkey",KANAL D HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/184.ts
-
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV 8 HD" tvg-logo="" group-title="Turkey",TV 8 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/182.ts
-
-#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV HD" tvg-logo="https://static.iptv-epg.com/tr/NTV.tr.png" group-title="Turkey",NTV HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/171.ts
-
-#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN Türk HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/qwwwxs1433945482.png/small" group-title="Turkey",CNN Türk HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/172.ts
-
-#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="HaberTürk HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yuwwpr1433426670.png/small" group-title="Turkey",HaberTürk HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/168.ts
-
-#EXTINF:-1 tvg-id="Powerturk.tr" tvg-name="POWERTÜRK HD" tvg-logo="" group-title="Turkey",POWERTÜRK HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/162.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TRT MUZIK" tvg-logo="" group-title="Turkey",TRT MUZIK
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/3396.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TÜRKÜLER TV HD" tvg-logo="" group-title="Turkey",TÜRKÜLER TV HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/372.ts
-
-#EXTINF:-1 tvg-id="KralTV.tr" tvg-name="KRAL TV HD" tvg-logo="" group-title="Turkey",KRAL TV HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/163.ts
-
-#EXTINF:-1 tvg-id="KralPop.tr" tvg-name="KRAL POP HD" tvg-logo="" group-title="Turkey",KRAL POP HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/164.ts
-
-#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-name="BEIN Sports Haber HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/60olka1504234949.png/small" group-title="Turkey",BEIN Sports Haber HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/692.ts
-
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="BEIN Sports 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/60olka1504234949.png/small" group-title="Turkey",BEIN Sports 1 HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/2704.ts
 
@@ -104,12 +53,6 @@ http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/2701.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SMARTSPOR HD" tvg-logo="" group-title="Turkey",SMARTSPOR HD
 http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/680.ts
-
-#EXTINF:-1 tvg-id="TivibuSpor.tr" tvg-name="tivibu SPOR 1 HD" tvg-logo="" group-title="Turkey",tivibu SPOR 1 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/2698.ts
-
-#EXTINF:-1 tvg-id="TivibuSpor2.tr" tvg-name="tivibu SPOR 2 HD" tvg-logo="" group-title="Turkey",tivibu SPOR 2 HD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/2697.ts
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/trytur1433451903.png/small" group-title="United States",MSNBC HD
 http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/1.ts
@@ -282,80 +225,3 @@ http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/1603.ts
 #EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 HD" tvg-logo="http://149.56.14.45/Logo/2018/qwsppt1433965260.png" group-title="DEUTSCH SPORT",Sky Sport 2 HD
 http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/1602.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORT DIGITAL UHD" tvg-logo="" group-title="DEUTSCH SPORT",DE: SPORT DIGITAL UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/148.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORT1 UHD" tvg-logo="" group-title="DEUTSCH SPORT",DE: SPORT1 UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/146.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT NEWS UHD" tvg-logo="" group-title="DEUTSCH SPORT",DE: SKY SPORT NEWS UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/149.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT  1 UHD" tvg-logo="" group-title="DEUTSCH SPORT",DE: EUROSPORT  1 UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/144.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 UHD" tvg-logo="" group-title="DEUTSCH SPORT",DE: EUROSPORT 2 UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/143.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2XTRA UHD" tvg-logo="" group-title="DEUTSCH SPORT",DE: EUROSPORT 2XTRA UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/142.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 1 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 1 UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/139.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 2 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 2 UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/136.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 3 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 3 UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/133.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 4 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 4 UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/131.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 5 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 5 UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/129.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 6 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 6 UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/127.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 7 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 7 UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/125.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 8 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 8 UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/124.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA  9 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA  9 UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/123.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 10 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 10 UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/122.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 1 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 1 UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/121.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 2 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 2 UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/116.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 3 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 3 UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/113.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 4 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 4 UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/111.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 5 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 5 UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/109.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 6 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 6 UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/108.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 7 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 7 UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/107.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 8 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 8 UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/106.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 9 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 9 UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/105.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 10 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 10 UHD
-http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/104.ts
