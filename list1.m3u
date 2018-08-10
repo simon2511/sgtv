@@ -1,5 +1,235 @@
 # sgtv
 list1.m3u
+#EXTINF:-1,UK ABC Action New
+http://134.19.181.172:8000/live/soot3/93retno/848.m3u8
+#EXTINF:-1,UK ABC New
+http://134.19.181.172:8000/live/soot3/93retno/847.m3u8
+#EXTINF:-1,UK Animal planet
+http://134.19.181.172:8000/live/soot3/93retno/925.m3u8
+#EXTINF:-1,UK BBC FOUR
+http://134.19.181.172:8000/live/soot3/93retno/639.m3u8
+#EXTINF:-1,UK BBC News
+http://134.19.181.172:8000/live/soot3/93retno/638.m3u8
+#EXTINF:-1,UK BBC One
+http://134.19.181.172:8000/live/soot3/93retno/637.m3u8
+#EXTINF:-1,UK BBC Three
+http://134.19.181.172:8000/live/soot3/93retno/636.m3u8
+#EXTINF:-1,UK BBC Two
+http://134.19.181.172:8000/live/soot3/93retno/635.m3u8
+#EXTINF:-1,UK BT Sport 1
+http://134.19.181.172:8000/live/soot3/93retno/641.m3u8
+#EXTINF:-1,UK BT Sport 2
+http://134.19.181.172:8000/live/soot3/93retno/640.m3u8
+#EXTINF:-1,UK Baby TV
+http://134.19.181.172:8000/live/soot3/93retno/1900.m3u8
+#EXTINF:-1,UK Boomerang
+http://134.19.181.172:8000/live/soot3/93retno/1056.m3u8
+#EXTINF:-1,UK Box Nation
+http://134.19.181.172:8000/live/soot3/93retno/948.m3u8
+#EXTINF:-1,UK CBS Drama
+http://134.19.181.172:8000/live/soot3/93retno/853.m3u8
+#EXTINF:-1,UK CCTV 9
+http://134.19.181.172:8000/live/soot3/93retno/1693.m3u8
+#EXTINF:-1,UK CTH Stadium 2 HD
+http://134.19.181.172:8000/live/soot3/93retno/940.m3u8
+#EXTINF:-1,UK Cartoon Network
+http://134.19.181.172:8000/live/soot3/93retno/962.m3u8
+#EXTINF:-1,UK Cartoonito
+http://134.19.181.172:8000/live/soot3/93retno/1055.m3u8
+#EXTINF:-1,UK Cbeebies HD
+http://134.19.181.172:8000/live/soot3/93retno/1993.m3u8
+#EXTINF:-1,UK Cinemax Action Max
+http://134.19.181.172:8000/live/soot3/93retno/1094.m3u8
+#EXTINF:-1,UK Cinemax HD
+http://134.19.181.172:8000/live/soot3/93retno/1093.m3u8
+#EXTINF:-1,UK Comedy Central Extra
+http://134.19.181.172:8000/live/soot3/93retno/969.m3u8
+#EXTINF:-1,UK Comedy Central UK
+http://134.19.181.172:8000/live/soot3/93retno/968.m3u8
+#EXTINF:-1,UK Crime
+http://134.19.181.172:8000/live/soot3/93retno/923.m3u8
+#EXTINF:-1,UK DTX HD
+http://134.19.181.172:8000/live/soot3/93retno/846.m3u8
+#EXTINF:-1,UK Dave
+http://134.19.181.172:8000/live/soot3/93retno/634.m3u8
+#EXTINF:-1,UK Discovery History
+http://134.19.181.172:8000/live/soot3/93retno/939.m3u8
+#EXTINF:-1,UK Discovery ID
+http://134.19.181.172:8000/live/soot3/93retno/938.m3u8
+#EXTINF:-1,UK Discovery Science
+http://134.19.181.172:8000/live/soot3/93retno/937.m3u8
+#EXTINF:-1,UK Discovery Shed
+http://134.19.181.172:8000/live/soot3/93retno/936.m3u8
+#EXTINF:-1,UK Disney Channel UK
+http://134.19.181.172:8000/live/soot3/93retno/1991.m3u8
+#EXTINF:-1,UK Disney Junior UK
+http://134.19.181.172:8000/live/soot3/93retno/960.m3u8
+#EXTINF:-1,UK Disney XD UK
+http://134.19.181.172:8000/live/soot3/93retno/1990.m3u8
+#EXTINF:-1,UK Dmax
+http://134.19.181.172:8000/live/soot3/93retno/970.m3u8
+#EXTINF:-1,UK E4
+http://134.19.181.172:8000/live/soot3/93retno/964.m3u8
+#EXTINF:-1,UK Five Star
+http://134.19.181.172:8000/live/soot3/93retno/633.m3u8
+#EXTINF:-1,UK Fox News
+http://134.19.181.172:8000/live/soot3/93retno/961.m3u8
+#EXTINF:-1,UK Fox Sport 2 HD
+http://134.19.181.172:8000/live/soot3/93retno/1090.m3u8
+#EXTINF:-1,UK Fox UK
+http://134.19.181.172:8000/live/soot3/93retno/965.m3u8
+#EXTINF:-1,UK France 24 English
+http://134.19.181.172:8000/live/soot3/93retno/1696.m3u8
+#EXTINF:-1,UK Good Food
+http://134.19.181.172:8000/live/soot3/93retno/632.m3u8
+#EXTINF:-1,UK H2
+http://134.19.181.172:8000/live/soot3/93retno/959.m3u8
+#EXTINF:-1,UK History 1
+http://134.19.181.172:8000/live/soot3/93retno/971.m3u8
+#EXTINF:-1,UK Home
+http://134.19.181.172:8000/live/soot3/93retno/631.m3u8
+#EXTINF:-1,UK ITV 1
+http://134.19.181.172:8000/live/soot3/93retno/919.m3u8
+#EXTINF:-1,UK ITV 2
+http://134.19.181.172:8000/live/soot3/93retno/920.m3u8
+#EXTINF:-1,UK ITV 3
+http://134.19.181.172:8000/live/soot3/93retno/921.m3u8
+#EXTINF:-1,UK ITV 4
+http://134.19.181.172:8000/live/soot3/93retno/922.m3u8
+#EXTINF:-1,UK ITV Be
+http://134.19.181.172:8000/live/soot3/93retno/630.m3u8
+#EXTINF:-1,UK Nat Geo UK
+http://134.19.181.172:8000/live/soot3/93retno/963.m3u8
+#EXTINF:-1,UK Nat Geo Wild UK
+http://134.19.181.172:8000/live/soot3/93retno/972.m3u8
+#EXTINF:-1,UK National Geographic
+http://134.19.181.172:8000/live/soot3/93retno/924.m3u8
+#EXTINF:-1,UK Nick Junior
+http://134.19.181.172:8000/live/soot3/93retno/628.m3u8
+#EXTINF:-1,UK Nickelodeon
+http://134.19.181.172:8000/live/soot3/93retno/627.m3u8
+#EXTINF:-1,UK Nicktoons
+http://134.19.181.172:8000/live/soot3/93retno/626.m3u8
+#EXTINF:-1,UK RTE 1
+http://134.19.181.172:8000/live/soot3/93retno/1053.m3u8
+#EXTINF:-1,UK RTE Jr
+http://134.19.181.172:8000/live/soot3/93retno/1059.m3u8
+#EXTINF:-1,UK RTE Two
+http://134.19.181.172:8000/live/soot3/93retno/1058.m3u8
+#EXTINF:-1,UK Real Lives
+http://134.19.181.172:8000/live/soot3/93retno/625.m3u8
+#EXTINF:-1,UK Setanta Sport
+http://134.19.181.172:8000/live/soot3/93retno/942.m3u8
+#EXTINF:-1,UK Sky 1
+http://134.19.181.172:8000/live/soot3/93retno/967.m3u8
+#EXTINF:-1,UK Sky 2
+http://134.19.181.172:8000/live/soot3/93retno/966.m3u8
+#EXTINF:-1,UK Sky Action
+http://134.19.181.172:8000/live/soot3/93retno/958.m3u8
+#EXTINF:-1,UK Sky Atlantic
+http://134.19.181.172:8000/live/soot3/93retno/624.m3u8
+#EXTINF:-1,UK Sky Comedy
+http://134.19.181.172:8000/live/soot3/93retno/957.m3u8
+#EXTINF:-1,UK Sky Drama
+http://134.19.181.172:8000/live/soot3/93retno/956.m3u8
+#EXTINF:-1,UK Sky Emotion HD
+http://134.19.181.172:8000/live/soot3/93retno/973.m3u8
+#EXTINF:-1,UK Sky Family
+http://134.19.181.172:8000/live/soot3/93retno/955.m3u8
+#EXTINF:-1,UK Sky Living
+http://134.19.181.172:8000/live/soot3/93retno/623.m3u8
+#EXTINF:-1,UK Sky Modern Greats
+http://134.19.181.172:8000/live/soot3/93retno/954.m3u8
+#EXTINF:-1,UK Sky Movies Disney
+http://134.19.181.172:8000/live/soot3/93retno/622.m3u8
+#EXTINF:-1,UK Sky News
+http://134.19.181.172:8000/live/soot3/93retno/621.m3u8
+#EXTINF:-1,UK Sky Premiere
+http://134.19.181.172:8000/live/soot3/93retno/953.m3u8
+#EXTINF:-1,UK Sky Sci-Fi Horror
+http://134.19.181.172:8000/live/soot3/93retno/952.m3u8
+#EXTINF:-1,UK Sky Select
+http://134.19.181.172:8000/live/soot3/93retno/951.m3u8
+#EXTINF:-1,UK Sky Showcase
+http://134.19.181.172:8000/live/soot3/93retno/950.m3u8
+#EXTINF:-1,UK Sky Sports 4
+http://134.19.181.172:8000/live/soot3/93retno/945.m3u8
+#EXTINF:-1,UK Sky Sports Arena HD
+http://134.19.181.172:8000/live/soot3/93retno/941.m3u8
+#EXTINF:-1,UK Sky Sports F1
+http://134.19.181.172:8000/live/soot3/93retno/943.m3u8
+#EXTINF:-1,UK Sky Sports Football HD
+http://134.19.181.172:8000/live/soot3/93retno/947.m3u8
+#EXTINF:-1,UK Sky Sports Mix HD
+http://134.19.181.172:8000/live/soot3/93retno/946.m3u8
+#EXTINF:-1,UK Sky Sports Premier League
+http://134.19.181.172:8000/live/soot3/93retno/944.m3u8
+#EXTINF:-1,UK Sky Thriller
+http://134.19.181.172:8000/live/soot3/93retno/949.m3u8
+#EXTINF:-1,UK TINY POP
+http://134.19.181.172:8000/live/soot3/93retno/1899.m3u8
+#EXTINF:-1,UK TV3 Ireland
+http://134.19.181.172:8000/live/soot3/93retno/1054.m3u8
+#EXTINF:-1,UK WWE US
+http://134.19.181.172:8000/live/soot3/93retno/845.m3u8
+#EXTINF:-1,USA AMC HD
+http://134.19.181.172:8000/live/soot3/93retno/1906.m3u8
+#EXTINF:-1,USA Bravo US
+http://134.19.181.172:8000/live/soot3/93retno/207.m3u8
+#EXTINF:-1,USA CHCH HD
+http://134.19.181.172:8000/live/soot3/93retno/1974.m3u8
+#EXTINF:-1,USA CNN
+http://134.19.181.172:8000/live/soot3/93retno/322.m3u8
+#EXTINF:-1,USA Cartoon Network HD
+http://134.19.181.172:8000/live/soot3/93retno/1898.m3u8
+#EXTINF:-1,USA E! Entertainment US
+http://134.19.181.172:8000/live/soot3/93retno/1962.m3u8
+#EXTINF:-1,USA ESPN 2
+http://134.19.181.172:8000/live/soot3/93retno/2003.m3u8
+#EXTINF:-1,USA ESPN U
+http://134.19.181.172:8000/live/soot3/93retno/2002.m3u8
+#EXTINF:-1,USA Fox HD
+http://134.19.181.172:8000/live/soot3/93retno/1905.m3u8
+#EXTINF:-1,USA Fox Sport 1 HD
+http://134.19.181.172:8000/live/soot3/93retno/1089.m3u8
+#EXTINF:-1,USA HBO Signature
+http://134.19.181.172:8000/live/soot3/93retno/1976.m3u8
+#EXTINF:-1,USA HBO US
+http://134.19.181.172:8000/live/soot3/93retno/1975.m3u8
+#EXTINF:-1,USA HBO Zone
+http://134.19.181.172:8000/live/soot3/93retno/1961.m3u8
+#EXTINF:-1,USA HGTV
+http://134.19.181.172:8000/live/soot3/93retno/2014.m3u8
+#EXTINF:-1,USA MSNBC
+http://134.19.181.172:8000/live/soot3/93retno/2258.m3u8
+#EXTINF:-1,USA NBA TV HD
+http://134.19.181.172:8000/live/soot3/93retno/1903.m3u8
+#EXTINF:-1,USA NBC Golf
+http://134.19.181.172:8000/live/soot3/93retno/2042.m3u8
+#EXTINF:-1,USA NFL Network HD
+http://134.19.181.172:8000/live/soot3/93retno/1908.m3u8
+#EXTINF:-1,USA NHL NETWORK
+http://134.19.181.172:8000/live/soot3/93retno/1907.m3u8
+#EXTINF:-1,USA Nicktoons
+http://134.19.181.172:8000/live/soot3/93retno/1904.m3u8
+#EXTINF:-1,USA SPIKE HD
+http://134.19.181.172:8000/live/soot3/93retno/1909.m3u8
+#EXTINF:-1,USA Showtime HD
+http://134.19.181.172:8000/live/soot3/93retno/1901.m3u8
+#EXTINF:-1,USA SyFy HD
+http://134.19.181.172:8000/live/soot3/93retno/1910.m3u8
+#EXTINF:-1,USA Tennis Channel HD
+http://134.19.181.172:8000/live/soot3/93retno/1992.m3u8
+#EXTINF:-1,USA USA Network
+http://134.19.181.172:8000/live/soot3/93retno/1911.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yyqrvu1433940918.png/small" group-title="United Kingdom",BBC 1 HD
 http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/15565.ts
 
