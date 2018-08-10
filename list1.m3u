@@ -1,5 +1,21 @@
 # sgtv
 list1.m3u
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yyqrvu1433940918.png/small" group-title="United Kingdom",BBC 1 HD
+http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/15565.ts
+
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yvrqur1433940947.png/small" group-title="United Kingdom",BBC 2 HD
+http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/15566.ts
+
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/wmomfs1515624181.png/small" group-title="United Kingdom",BBC News HD
+http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/4684.ts
+
+#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="ITV 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/wuwxss1433965997.png/small" group-title="United Kingdom",ITV 1 HD
+http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/15598.ts
+
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/xpryxw1442161772.png/small" group-title="United Kingdom",ITV 2 HD
+http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/15597.ts
+
+
 
 #EXTINF:-1 tvg-id="501" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="UK",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
