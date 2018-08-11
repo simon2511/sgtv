@@ -1,491 +1,198 @@
 # sgtv
 list1.m3u
-#EXTINF:-1,UK ABC Action New
-http://134.19.181.172:8000/live/soot3/93retno/848.m3u8
-#EXTINF:-1,UK ABC New
-http://134.19.181.172:8000/live/soot3/93retno/847.m3u8
-#EXTINF:-1,UK Animal planet
-http://134.19.181.172:8000/live/soot3/93retno/925.m3u8
-#EXTINF:-1,UK BBC FOUR
-http://134.19.181.172:8000/live/soot3/93retno/639.m3u8
-#EXTINF:-1,UK BBC News
-http://134.19.181.172:8000/live/soot3/93retno/638.m3u8
-#EXTINF:-1,UK BBC One
-http://134.19.181.172:8000/live/soot3/93retno/637.m3u8
-#EXTINF:-1,UK BBC Three
-http://134.19.181.172:8000/live/soot3/93retno/636.m3u8
-#EXTINF:-1,UK BBC Two
-http://134.19.181.172:8000/live/soot3/93retno/635.m3u8
-#EXTINF:-1,UK BT Sport 1
-http://134.19.181.172:8000/live/soot3/93retno/641.m3u8
-#EXTINF:-1,UK BT Sport 2
-http://134.19.181.172:8000/live/soot3/93retno/640.m3u8
-#EXTINF:-1,UK Baby TV
-http://134.19.181.172:8000/live/soot3/93retno/1900.m3u8
-#EXTINF:-1,UK Boomerang
-http://134.19.181.172:8000/live/soot3/93retno/1056.m3u8
-#EXTINF:-1,UK Box Nation
-http://134.19.181.172:8000/live/soot3/93retno/948.m3u8
-#EXTINF:-1,UK CBS Drama
-http://134.19.181.172:8000/live/soot3/93retno/853.m3u8
-#EXTINF:-1,UK CCTV 9
-http://134.19.181.172:8000/live/soot3/93retno/1693.m3u8
-#EXTINF:-1,UK CTH Stadium 2 HD
-http://134.19.181.172:8000/live/soot3/93retno/940.m3u8
-#EXTINF:-1,UK Cartoon Network
-http://134.19.181.172:8000/live/soot3/93retno/962.m3u8
-#EXTINF:-1,UK Cartoonito
-http://134.19.181.172:8000/live/soot3/93retno/1055.m3u8
-#EXTINF:-1,UK Cbeebies HD
-http://134.19.181.172:8000/live/soot3/93retno/1993.m3u8
-#EXTINF:-1,UK Cinemax Action Max
-http://134.19.181.172:8000/live/soot3/93retno/1094.m3u8
-#EXTINF:-1,UK Cinemax HD
-http://134.19.181.172:8000/live/soot3/93retno/1093.m3u8
-#EXTINF:-1,UK Comedy Central Extra
-http://134.19.181.172:8000/live/soot3/93retno/969.m3u8
-#EXTINF:-1,UK Comedy Central UK
-http://134.19.181.172:8000/live/soot3/93retno/968.m3u8
-#EXTINF:-1,UK Crime
-http://134.19.181.172:8000/live/soot3/93retno/923.m3u8
-#EXTINF:-1,UK DTX HD
-http://134.19.181.172:8000/live/soot3/93retno/846.m3u8
-#EXTINF:-1,UK Dave
-http://134.19.181.172:8000/live/soot3/93retno/634.m3u8
-#EXTINF:-1,UK Discovery History
-http://134.19.181.172:8000/live/soot3/93retno/939.m3u8
-#EXTINF:-1,UK Discovery ID
-http://134.19.181.172:8000/live/soot3/93retno/938.m3u8
-#EXTINF:-1,UK Discovery Science
-http://134.19.181.172:8000/live/soot3/93retno/937.m3u8
-#EXTINF:-1,UK Discovery Shed
-http://134.19.181.172:8000/live/soot3/93retno/936.m3u8
-#EXTINF:-1,UK Disney Channel UK
-http://134.19.181.172:8000/live/soot3/93retno/1991.m3u8
-#EXTINF:-1,UK Disney Junior UK
-http://134.19.181.172:8000/live/soot3/93retno/960.m3u8
-#EXTINF:-1,UK Disney XD UK
-http://134.19.181.172:8000/live/soot3/93retno/1990.m3u8
-#EXTINF:-1,UK Dmax
-http://134.19.181.172:8000/live/soot3/93retno/970.m3u8
-#EXTINF:-1,UK E4
-http://134.19.181.172:8000/live/soot3/93retno/964.m3u8
-#EXTINF:-1,UK Five Star
-http://134.19.181.172:8000/live/soot3/93retno/633.m3u8
-#EXTINF:-1,UK Fox News
-http://134.19.181.172:8000/live/soot3/93retno/961.m3u8
-#EXTINF:-1,UK Fox Sport 2 HD
-http://134.19.181.172:8000/live/soot3/93retno/1090.m3u8
-#EXTINF:-1,UK Fox UK
-http://134.19.181.172:8000/live/soot3/93retno/965.m3u8
-#EXTINF:-1,UK France 24 English
-http://134.19.181.172:8000/live/soot3/93retno/1696.m3u8
-#EXTINF:-1,UK Good Food
-http://134.19.181.172:8000/live/soot3/93retno/632.m3u8
-#EXTINF:-1,UK H2
-http://134.19.181.172:8000/live/soot3/93retno/959.m3u8
-#EXTINF:-1,UK History 1
-http://134.19.181.172:8000/live/soot3/93retno/971.m3u8
-#EXTINF:-1,UK Home
-http://134.19.181.172:8000/live/soot3/93retno/631.m3u8
-#EXTINF:-1,UK ITV 1
-http://134.19.181.172:8000/live/soot3/93retno/919.m3u8
-#EXTINF:-1,UK ITV 2
-http://134.19.181.172:8000/live/soot3/93retno/920.m3u8
-#EXTINF:-1,UK ITV 3
-http://134.19.181.172:8000/live/soot3/93retno/921.m3u8
-#EXTINF:-1,UK ITV 4
-http://134.19.181.172:8000/live/soot3/93retno/922.m3u8
-#EXTINF:-1,UK ITV Be
-http://134.19.181.172:8000/live/soot3/93retno/630.m3u8
-#EXTINF:-1,UK Nat Geo UK
-http://134.19.181.172:8000/live/soot3/93retno/963.m3u8
-#EXTINF:-1,UK Nat Geo Wild UK
-http://134.19.181.172:8000/live/soot3/93retno/972.m3u8
-#EXTINF:-1,UK National Geographic
-http://134.19.181.172:8000/live/soot3/93retno/924.m3u8
-#EXTINF:-1,UK Nick Junior
-http://134.19.181.172:8000/live/soot3/93retno/628.m3u8
-#EXTINF:-1,UK Nickelodeon
-http://134.19.181.172:8000/live/soot3/93retno/627.m3u8
-#EXTINF:-1,UK Nicktoons
-http://134.19.181.172:8000/live/soot3/93retno/626.m3u8
-#EXTINF:-1,UK RTE 1
-http://134.19.181.172:8000/live/soot3/93retno/1053.m3u8
-#EXTINF:-1,UK RTE Jr
-http://134.19.181.172:8000/live/soot3/93retno/1059.m3u8
-#EXTINF:-1,UK RTE Two
-http://134.19.181.172:8000/live/soot3/93retno/1058.m3u8
-#EXTINF:-1,UK Real Lives
-http://134.19.181.172:8000/live/soot3/93retno/625.m3u8
-#EXTINF:-1,UK Setanta Sport
-http://134.19.181.172:8000/live/soot3/93retno/942.m3u8
-#EXTINF:-1,UK Sky 1
-http://134.19.181.172:8000/live/soot3/93retno/967.m3u8
-#EXTINF:-1,UK Sky 2
-http://134.19.181.172:8000/live/soot3/93retno/966.m3u8
-#EXTINF:-1,UK Sky Action
-http://134.19.181.172:8000/live/soot3/93retno/958.m3u8
-#EXTINF:-1,UK Sky Atlantic
-http://134.19.181.172:8000/live/soot3/93retno/624.m3u8
-#EXTINF:-1,UK Sky Comedy
-http://134.19.181.172:8000/live/soot3/93retno/957.m3u8
-#EXTINF:-1,UK Sky Drama
-http://134.19.181.172:8000/live/soot3/93retno/956.m3u8
-#EXTINF:-1,UK Sky Emotion HD
-http://134.19.181.172:8000/live/soot3/93retno/973.m3u8
-#EXTINF:-1,UK Sky Family
-http://134.19.181.172:8000/live/soot3/93retno/955.m3u8
-#EXTINF:-1,UK Sky Living
-http://134.19.181.172:8000/live/soot3/93retno/623.m3u8
-#EXTINF:-1,UK Sky Modern Greats
-http://134.19.181.172:8000/live/soot3/93retno/954.m3u8
-#EXTINF:-1,UK Sky Movies Disney
-http://134.19.181.172:8000/live/soot3/93retno/622.m3u8
-#EXTINF:-1,UK Sky News
-http://134.19.181.172:8000/live/soot3/93retno/621.m3u8
-#EXTINF:-1,UK Sky Premiere
-http://134.19.181.172:8000/live/soot3/93retno/953.m3u8
-#EXTINF:-1,UK Sky Sci-Fi Horror
-http://134.19.181.172:8000/live/soot3/93retno/952.m3u8
-#EXTINF:-1,UK Sky Select
-http://134.19.181.172:8000/live/soot3/93retno/951.m3u8
-#EXTINF:-1,UK Sky Showcase
-http://134.19.181.172:8000/live/soot3/93retno/950.m3u8
-#EXTINF:-1,UK Sky Sports 4
-http://134.19.181.172:8000/live/soot3/93retno/945.m3u8
-#EXTINF:-1,UK Sky Sports Arena HD
-http://134.19.181.172:8000/live/soot3/93retno/941.m3u8
-#EXTINF:-1,UK Sky Sports F1
-http://134.19.181.172:8000/live/soot3/93retno/943.m3u8
-#EXTINF:-1,UK Sky Sports Football HD
-http://134.19.181.172:8000/live/soot3/93retno/947.m3u8
-#EXTINF:-1,UK Sky Sports Mix HD
-http://134.19.181.172:8000/live/soot3/93retno/946.m3u8
-#EXTINF:-1,UK Sky Sports Premier League
-http://134.19.181.172:8000/live/soot3/93retno/944.m3u8
-#EXTINF:-1,UK Sky Thriller
-http://134.19.181.172:8000/live/soot3/93retno/949.m3u8
-#EXTINF:-1,UK TINY POP
-http://134.19.181.172:8000/live/soot3/93retno/1899.m3u8
-#EXTINF:-1,UK TV3 Ireland
-http://134.19.181.172:8000/live/soot3/93retno/1054.m3u8
-#EXTINF:-1,UK WWE US
-http://134.19.181.172:8000/live/soot3/93retno/845.m3u8
-#EXTINF:-1,USA AMC HD
-http://134.19.181.172:8000/live/soot3/93retno/1906.m3u8
-#EXTINF:-1,USA Bravo US
-http://134.19.181.172:8000/live/soot3/93retno/207.m3u8
-#EXTINF:-1,USA CHCH HD
-http://134.19.181.172:8000/live/soot3/93retno/1974.m3u8
-#EXTINF:-1,USA CNN
-http://134.19.181.172:8000/live/soot3/93retno/322.m3u8
-#EXTINF:-1,USA Cartoon Network HD
-http://134.19.181.172:8000/live/soot3/93retno/1898.m3u8
-#EXTINF:-1,USA E! Entertainment US
-http://134.19.181.172:8000/live/soot3/93retno/1962.m3u8
-#EXTINF:-1,USA ESPN 2
-http://134.19.181.172:8000/live/soot3/93retno/2003.m3u8
-#EXTINF:-1,USA ESPN U
-http://134.19.181.172:8000/live/soot3/93retno/2002.m3u8
-#EXTINF:-1,USA Fox HD
-http://134.19.181.172:8000/live/soot3/93retno/1905.m3u8
-#EXTINF:-1,USA Fox Sport 1 HD
-http://134.19.181.172:8000/live/soot3/93retno/1089.m3u8
-#EXTINF:-1,USA HBO Signature
-http://134.19.181.172:8000/live/soot3/93retno/1976.m3u8
-#EXTINF:-1,USA HBO US
-http://134.19.181.172:8000/live/soot3/93retno/1975.m3u8
-#EXTINF:-1,USA HBO Zone
-http://134.19.181.172:8000/live/soot3/93retno/1961.m3u8
-#EXTINF:-1,USA HGTV
-http://134.19.181.172:8000/live/soot3/93retno/2014.m3u8
-#EXTINF:-1,USA MSNBC
-http://134.19.181.172:8000/live/soot3/93retno/2258.m3u8
-#EXTINF:-1,USA NBA TV HD
-http://134.19.181.172:8000/live/soot3/93retno/1903.m3u8
-#EXTINF:-1,USA NBC Golf
-http://134.19.181.172:8000/live/soot3/93retno/2042.m3u8
-#EXTINF:-1,USA NFL Network HD
-http://134.19.181.172:8000/live/soot3/93retno/1908.m3u8
-#EXTINF:-1,USA NHL NETWORK
-http://134.19.181.172:8000/live/soot3/93retno/1907.m3u8
-#EXTINF:-1,USA Nicktoons
-http://134.19.181.172:8000/live/soot3/93retno/1904.m3u8
-#EXTINF:-1,USA SPIKE HD
-http://134.19.181.172:8000/live/soot3/93retno/1909.m3u8
-#EXTINF:-1,USA Showtime HD
-http://134.19.181.172:8000/live/soot3/93retno/1901.m3u8
-#EXTINF:-1,USA SyFy HD
-http://134.19.181.172:8000/live/soot3/93retno/1910.m3u8
-#EXTINF:-1,USA Tennis Channel HD
-http://134.19.181.172:8000/live/soot3/93retno/1992.m3u8
-#EXTINF:-1,USA USA Network
-http://134.19.181.172:8000/live/soot3/93retno/1911.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yyqrvu1433940918.png/small" group-title="United Kingdom",BBC 1 HD
-http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/15565.ts
-
-#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yvrqur1433940947.png/small" group-title="United Kingdom",BBC 2 HD
-http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/15566.ts
-
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/wmomfs1515624181.png/small" group-title="United Kingdom",BBC News HD
-http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/4684.ts
-
-#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="ITV 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/wuwxss1433965997.png/small" group-title="United Kingdom",ITV 1 HD
-http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/15598.ts
-
-#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/xpryxw1442161772.png/small" group-title="United Kingdom",ITV 2 HD
-http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/15597.ts
-
-
-
-#EXTINF:-1 tvg-id="501" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="UK",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-
-#EXTINF:-1 tvg-id="502" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/1200px-BBC_World_News_red.svg.png" group-title="UK",BBC World News
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226051/01.m3u8
-
-#EXTINF:-1 tvg-id="503" tvg-logo="https://i.imgur.com/PKF0ejC.png" group-title="UK",Arise News
-http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
- 
-#EXTINF:-1 tvg-id="504" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Rtenewsnownewlogo.png" group-title="IRELAND",RTE News Now
-http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="506" tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="UK",Bloomberg TV UK
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-
-#EXTINF:-1 tvg-id="507" tvg-logo="https://i.imgur.com/j55hDLp.png" group-title="UK",France 24 English
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-
-#EXTINF:-1 tvg-id="508" tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="UK",DW English
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-
-#EXTINF:-1 tvg-id="509" tvg-logo="https://i.imgur.com/ziJEkGB.png" group-title="UK",TRT World
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-
-#EXTINF:-1 tvg-id="510" tvg-logo="https://i.imgur.com/E2YR6Oa.png" group-title="UK",Al Jazeera English
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-
-#EXTINF:-1 tvg-id="511" tvg-logo="https://i.imgur.com/XCBnJzR.png" group-title="UK",RT UK
-https://secure-streams.akamaized.net/rt-uk/index.m3u8
-
-#EXTINF:-1 tvg-id="512" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="UK",RT Documentary
-https://secure-streams.akamaized.net/rt-doc/index.m3u8
- 
-#EXTINF:-1 tvg-id="515" tvg-logo="https://i.imgur.com/9gHjXmn.png" group-title="UK",NHK World
-http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-
-#EXTINF:-1 tvg-id="516" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="UK",Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="530" tvg-logo="https://www.petful.com/wp-content/uploads/2010/12/animal-planet-logo.png" group-title="UK",Animal Planet
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
-
-#EXTINF:-1 tvg-id="531" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3dc87a1710825.5600fbeaa48e9.jpg" group-title="UK",Discovery World
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
-
-#EXTINF:-1 tvg-id="536" tvg-logo="https://i.imgur.com/HCOqABQ.png" group-title="UK",London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-
-#EXTINF:-1 tvg-id="544" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="UK",TLC
-http://cshms2.airtel.tv/PLTV/88888888/224/3221226279/01.m3u8
-
-#EXTINF:-1 tvg-id="545" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RTÉ_logo.svg/229px-RTÉ_logo.svg.png" group-title="IRELAND",RTE 1
-http://akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
-
-#EXTINF:-1 tvg-id="546" tvg-logo="http://i1.irishmirror.ie/whats-on/film-news/article8736387.ece/ALTERNATES/s615/tg4-logo.jpg" group-title="IRELAND",TG4
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-
-#EXTINF:-1 tvg-id="551" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="UK",Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
- 
-#EXTINF:-1 tvg-id="552" tvg-name="" tvg-logo="https://i.imgur.com/uYEvE4q.png" group-title="UK",Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
- 
-#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/2j8tsJq.png" group-title="UK",Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
- 
-#EXTINF:-1 tvg-id="554" tvg-logo="https://i.imgur.com/OiZowUH.png" group-title="UK",Kool London Radio
-http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="560" tvg-logo="https://i.imgur.com/lhHx6by.png" group-title="UK",Jewellery Maker
-http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
-
-#EXTINF:-1   USA CHANNELS
-
-
-#EXTINF:-1,FOX
+#EXTINF:-1,NBC
+http://mobilecache.streamlive.to:8081/edge/kjgkefh6la1di6g/playlist.m3u8
+#EXTINF:-1,FOX TV
 http://mobilecache.streamlive.to:8081/edge/yuu6p5oaa1x4a1p/playlist.m3u8
-
-#EXTINF:-1,THE CW
+#EXTINF:-1,The CW
 http://mobilecache.streamlive.to:8081/edge/fvksu1sp51ijtyd/playlist.m3u8
-
 #EXTINF:-1,TBS
 http://mobilecache.streamlive.to:8081/edge/eg5v0vdj33ls27r/playlist.m3u8
-
 #EXTINF:-1,CBS
 http://mobilecache.streamlive.to:8081/edge/vp4q2gonwzh2dku/playlist.m3u8
-
+#EXTINF:-1,Telemundo
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/23368.ts
+#EXTINF:-1,QVC
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
 #EXTINF:-1,ABC HD
-http://mobilecache.streamlive.to:8081/edge/vp4q2gonwzh2dku/playlist.m3u8
-
+http://mobilecache.streamlive.to:8081/edge/nz7l9vc5nv1og7b/playlist.m3u8
+#EXTINF:-1,Univision
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/23360.ts
 #EXTINF:-1,TNT
 http://mobilecache.streamlive.to:8081/edge/7uz4als3nigi0j3/playlist.m3u8
-
 #EXTINF:-1,MSNBC US
 http://mobilecache.streamlive.to:8081/edge/1341ujtliqndod8/playlist.m3u8
-
 #EXTINF:-1,CNN
 http://mobilecache.streamlive.to:8081/edge/rjxo8hz17q9waiq/playlist.m3u8
-
-#EXTINF:-1,FOX NEWS
+#EXTINF:-1,FOX News
 http://mobilecache.streamlive.to:8081/edge/ohn58e97er36vjr/playlist.m3u8
-
-#EXTINF:-1,NICKELODEON
+#EXTINF:-1,Nickelodeon
 http://mobilecache.streamlive.to:8081/edge/64jaber5pjqj2cr/playlist.m3u8
-
 #EXTINF:-1,FX
 http://mobilecache.streamlive.to:8081/edge/ru031zebcat0lio/playlist.m3u8
-
-#EXTINF:-1,DISCOVERY US
+#EXTINF:-1,Discovery Channel
 http://mobilecache.streamlive.to:8081/edge/ishyd3sopok3p27/playlist.m3u8
-
-#EXTINF:-1,LIFETIME
+#EXTINF:-1,Lifetime
 http://mobilecache.streamlive.to:8081/edge/7b2gr554gyyth8e/playlist.m3u8
-
 #EXTINF:-1,BET
 http://mobilecache.streamlive.to:8081/edge/kexkxje3nqi6dtl/playlist.m3u8
-
-#EXTINF:-1,DISNEY CHANNEL
+#EXTINF:-1,Disney Channel
 http://mobilecache.streamlive.to:8081/edge/2tag4dzgwof5ma2/playlist.m3u8
-
-#EXTINF:-1,SPIKE TV
+#EXTINF:-1,Spike TV
 http://mobilecache.streamlive.to:8081/edge/sax2mq2alpirnww/playlist.m3u8
-
 #EXTINF:-1,ESPN
 http://mobilecache.streamlive.to:8081/edge/xoaaohmeuajfeyf/playlist.m3u8
-
-#EXTINF:-1,ESPN2
+#EXTINF:-1,ESPN 2
 http://mobilecache.streamlive.to:8081/edge/rgyus7ao2ullmbt/playlist.m3u8
-
-#EXTINF:-1,A&E
+#EXTINF:-1,A&E TV
 http://mobilecache.streamlive.to:8081/edge/tuc280rbycwnsvs/playlist.m3u8
-
 #EXTINF:-1,TLC
 http://mobilecache.streamlive.to:8081/edge/iugceoy4o6ljhck/playlist.m3u8
-
-#EXTINF:-1,USA NETWORK
+#EXTINF:-1,USA Network
 http://mobilecache.streamlive.to:8081/edge/h5eovaj1jeegluq/playlist.m3u8
-
-#EXTINF:-1,CNBC
+#EXTINF:-1,CNBC US
 http://mobilecache.streamlive.to:8081/edge/xssrqbmovted7h6/playlist.m3u8
-
 #EXTINF:-1,E!
 http://mobilecache.streamlive.to:8081/edge/080s1qh0tnhnpcf/playlist.m3u8
-
 #EXTINF:-1,MTV
 http://mobilecache.streamlive.to:8081/edge/p0audpgrkvu6l1g/playlist.m3u8
-
-#EXTINF:-1,NBC SPORTS
+#EXTINF:-1,NBC Sports Network
 http://mobilecache.streamlive.to:8081/edge/0fm1lstybe4a0j4/playlist.m3u8
-
 #EXTINF:-1,VH1
 http://mobilecache.streamlive.to:8081/edge/oeiigxxv1gbeqq9/playlist.m3u8
-
-#EXTINF:-1,TV LAND
+#EXTINF:-1,TCM
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14163.ts
+#EXTINF:-1,TV Land
 http://mobilecache.streamlive.to:8081/edge/7yxirr4046nk5ca/playlist.m3u8
-
-#EXTINF:-1,FOOD NETWORK US
+#EXTINF:-1,Food Network US
 http://mobilecache.streamlive.to:8081/edge/ibnnu7537h3ax6e/playlist.m3u8
-
-#EXTINF:-1,HISTORY US
+#EXTINF:-1,History
 http://mobilecache.streamlive.to:8081/edge/dhp0rpd116qyyj6/playlist.m3u8
-
-#EXTINF:-1,SCI FI
+#EXTINF:-1,SyFy
 http://mobilecache.streamlive.to:8081/edge/x7uii7mll2b7lh4/playlist.m3u8
-
-#EXTINF:-1,CARTOON NETWORK
+#EXTINF:-1,Cartoon Network
 http://mobilecache.streamlive.to:8081/edge/9l41fcr1sgmclej/playlist.m3u8
-
-#EXTINF:-1,TRAVEL CHANNEL
+#EXTINF:-1,Travel Channel
 http://mobilecache.streamlive.to:8081/edge/4aiufk0o430qt0d/playlist.m3u8
-
+#EXTINF:-1,ION TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/26777.ts
 #EXTINF:-1,AMC
 http://mobilecache.streamlive.to:8081/edge/z4cxm7zlfyqs65m/playlist.m3u8
-
-#EXTINF:-1,BRAVO US
+#EXTINF:-1,Bravo US
 http://mobilecache.streamlive.to:8081/edge/uw433ikqnrj501l/playlist.m3u8
-
-#EXTINF:-1,TRU TV
+#EXTINF:-1,tru TV
 http://mobilecache.streamlive.to:8081/edge/uhnr4161ybioa5w/playlist.m3u8
-
 #EXTINF:-1,HGTV
 http://mobilecache.streamlive.to:8081/edge/gj65q2rg18tpmut/playlist.m3u8
-
-#EXTINF:-1,COMEDY CENTRAL
+#EXTINF:-1,Comedy Central
 http://mobilecache.streamlive.to:8081/edge/wyw9tfxexu68p0t/playlist.m3u8
-
+#EXTINF:-1,Freeform
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19264.ts
+#EXTINF:-1,WGN America
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/27663.ts
+#EXTINF:-1,QVC Plus
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/1af4a53fda904f6c90a4389c8fe92dc0/manifest.m3u8
 #EXTINF:-1,OWN
 http://mobilecache.streamlive.to:8081/edge/uehgy5htiasffj3/playlist.m3u8
-
-#EXTINF:-1,NAT GEO US
+#EXTINF:-1,NatGeo
 http://mobilecache.streamlive.to:8081/edge/qzsfigd1y3bgbhs/playlist.m3u8
-
-#EXTINF:-1,SCIENCE CHANNEL
+#EXTINF:-1,FOX Business
+http://mobilecache.streamlive.to:8081/edge/difln9xgbe3lbuk/playlist.m3u8
+#EXTINF:-1,FXX
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14171.ts
+#EXTINF:-1,Science Channel
 http://mobilecache.streamlive.to:8081/edge/00t250wv1d4ltib/playlist.m3u8
-
-#EXTINF:-1,ID
+#EXTINF:-1,Investigation Discovery
 http://mobilecache.streamlive.to:8081/edge/yjma618cibkqxeo/playlist.m3u8
-
-#EXTINF:-1,GET TV
+#EXTINF:-1,Nick Jr. US
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14100.ts
+#EXTINF:-1,PBS
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14135.ts
+#EXTINF:-1,PBS Kids
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/28116.ts
+#EXTINF:-1,OP US
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20881.ts
+#EXTINF:-1,H&I US
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/29890.ts
+#EXTINF:-1,Get TV
 http://206.51.143.155:1935/live/6.smil/playlist.m3u8
-
-#EXTINF:-1,COZI TV
+#EXTINF:-1,Cozi TV
 http://206.51.143.155:1935/live/14.smil/playlist.m3u8
-
-#EXTINF:-1,THIS TV
+#EXTINF:-1,This TV
 http://206.51.143.155:1935/live/15.smil/playlist.m3u8
-
-#EXTINF:-1,BOUNCE
+#EXTINF:-1,Bounce
 http://206.51.143.155:1935/live/5.smil/playlist.m3u8
-
-#EXTINF:-1,TENNIS CHANNEL
+#EXTINF:-1,Antenna TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/29889.ts
+#EXTINF:-1,Me TV US
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34893.ts
+#EXTINF:-1,Galavision US
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/23361.ts
+#EXTINF:-1,IFC
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/30089.ts
+#EXTINF:-1,Sundance TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/21131.ts
+#EXTINF:-1,Tennis Channel
 http://mobilecache.streamlive.to:8081/edge/mv93mjgyktkkhpz/playlist.m3u8
-
-#EXTINF:-1,NFL NETWORK
+#EXTINF:-1,NFL Network
 http://mobilecache.streamlive.to:8081/edge/zvwjh9ctt0vdlbe/playlist.m3u8
-
-#EXTINF:-1,FOX SPORTS 2
+#EXTINF:-1,NBA TV US
+http://mobilecache.streamlive.to:8081/edge/c7yew9cgj0pq9xi/playlist.m3u8
+#EXTINF:-1,FOX Sports 2
 http://mobilecache.streamlive.to:8081/edge/rs5opj7fo5f7io0/playlist.m3u8
-
-#EXTINF:-1,BLOOMBERG
+#EXTINF:-1,Bloomberg TV
 http://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-
-#EXTINF:-1,FOX SPORTS
+#EXTINF:-1,FOX Sports 1
 http://mobilecache.streamlive.to:8081/edge/svsgthhwl6djj5h/playlist.m3u8
-
 #EXTINF:-1,FOX College Sports Atlantic
 http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20871.ts
-
-#EXTINF:-1,GOLF CHANNEL
+#EXTINF:-1,FOX College Sports Central
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20870.ts
+#EXTINF:-1,FOX College Sports Pacific
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20869.ts
+#EXTINF:-1,Outdoor Channel
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/22432.ts
+#EXTINF:-1,Golf Channel
 http://mobilecache.streamlive.to:8081/edge/ts6w24dx29tcwi4/playlist.m3u8
-
-#EXTINF:-1,HALLMARK
+#EXTINF:-1,BBC America
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/25257.ts
+#EXTINF:-1,We TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/22431.ts
+#EXTINF:-1,GSN
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19335.ts
+#EXTINF:-1,Hallmark Channel
 http://mobilecache.streamlive.to:8081/edge/v4ynnryunsoxzbq/playlist.m3u8
-
-#EXTINF:-1,OXYGEN
+#EXTINF:-1,EWTN
+http://cdn.mainstreaming.tv/live/101111/5lkpte/playlist.m3u8
+#EXTINF:-1,TBN TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/30116.ts
+#EXTINF:-1,BYU
+http://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+#EXTINF:-1,Boomerang
+http://livegroup-title="USA",.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20174.ts
+#EXTINF:-1,Sprout
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19590.ts
+#EXTINF:-1,NickToons
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14097.ts
+#EXTINF:-1,Fuse
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20874.ts
+#EXTINF:-1,Oxygen
 http://mobilecache.streamlive.to:8081/edge/zmt2swezlswh9nz/playlist.m3u8
-
-#EXTINF:-1,DAYSTAR
+#EXTINF:-1,Disney XD
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14101.ts
+#EXTINF:-1,Daystar
 http://bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master_1080p.m3u8
+#EXTINF:-1,Disney Junior
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14102.ts
+#EXTINF:-1,Fusion TV
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20877.ts
+#EXTINF:-1,gBeIN Sports US
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/22417.ts
+#EXTINF:-1,Sportsman Channel
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/32137.ts
+#EXTINF:-1,World Fishing Network
+http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/32136.ts
+
 
 
 
