@@ -5,163 +5,62 @@ usasport.m3u
 #EXTM3U
 
 #EXTINF:-1,BOXNATION
-http://5.189.187.55:8000/live/Fadil/skype/707.m3u8
-#EXTINF:-1,MU TV HD
-http://vapi.vaders.tv/play/2589.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Chelsea TV HD
-http://vapi.vaders.tv/play/40881.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,UFC TV HD
-http://vapi.vaders.tv/play/42469.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,NBA TV HD
-http://vapi.vaders.tv/play/2788.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Gol TV HD
-http://vapi.vaders.tv/play/46466.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,WWE Network HD
-http://vapi.vaders.tv/play/3047.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Motors TV UK
-http://vapi.vaders.tv/play/40683.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Sky Sports F1 HD 
-http://vapi.vaders.tv/play/2483.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Sky Sports Cricket HD 
-http://vapi.vaders.tv/play/2479.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Sky Sports Action HD 
-http://vapi.vaders.tv/play/2480.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Sky Sports Golf HD 
-http://vapi.vaders.tv/play/2481.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Sky Sports Premier League HD 
-http://vapi.vaders.tv/play/2482.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,BT Sport 1 HD
-http://vapi.vaders.tv/play/2487.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,BT Sport 2 HD
-http://vapi.vaders.tv/play/2488.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,BT Sport 3 HD
-http://vapi.vaders.tv/play/2489.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Sports Golf Channel
-http://vapi.vaders.tv/play/2561.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,NBC Sports Network HD
-http://vapi.vaders.tv/play/2562.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,BeIN Sports USA HD
-http://vapi.vaders.tv/play/2563.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,ESPNews HD
-http://vapi.vaders.tv/play/2564.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,ESPN HD
-http://vapi.vaders.tv/play/2565.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,ESPN 2 HD
-http://vapi.vaders.tv/play/2566.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,ESPN U HD
-http://vapi.vaders.tv/play/2567.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Fox Sports 1 HD
-http://vapi.vaders.tv/play/2568.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Fox Sports 2 HD
-http://vapi.vaders.tv/play/2569.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Sky Sports News HD
-http://vapi.vaders.tv/play/2570.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Eir Sports 1 HD
-http://vapi.vaders.tv/play/2593.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Sportsnet 360 HD
-http://vapi.vaders.tv/play/2669.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Sportsnet West HD
-http://vapi.vaders.tv/play/2671.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Sportsnet One HD
-http://vapi.vaders.tv/play/2672.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Sportsnet Ontario HD
-http://vapi.vaders.tv/play/2673.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Sportsnet Pacific HD
-http://vapi.vaders.tv/play/2674.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Sportsnet East HD
-http://vapi.vaders.tv/play/2694.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,NFL Network HD
-http://vapi.vaders.tv/play/2744.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,NHL Network HD
-http://vapi.vaders.tv/play/2786.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,MLB Network HD
-http://vapi.vaders.tv/play/2787.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,CBS Sports Network HD
-http://vapi.vaders.tv/play/2789.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,BT Sports ESPN HD
-http://vapi.vaders.tv/play/2790.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,TSN 1 HD
-http://vapi.vaders.tv/play/2845.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,TSN 2 HD
-http://vapi.vaders.tv/play/2846.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,TSN 3 HD
-http://vapi.vaders.tv/play/2847.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,TSN 4 HD
-http://vapi.vaders.tv/play/2848.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,TSN 5 HD
-http://vapi.vaders.tv/play/2849.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Sky Sports Main Event HD
-http://vapi.vaders.tv/play/2889.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,LFC TV HD
-http://vapi.vaders.tv/play/3009.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Willow HD
-http://vapi.vaders.tv/play/3077.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,ESPN Deportes HD
-http://vapi.vaders.tv/play/3136.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Sony Six HD
-http://vapi.vaders.tv/play/8259.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,EuroSport 1 HD
-http://vapi.vaders.tv/play/19293.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,EuroSport 2 HD
-http://vapi.vaders.tv/play/19294.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Racing UK HD
-http://vapi.vaders.tv/play/19295.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Premier Sports HD
-http://vapi.vaders.tv/play/19296.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,At The Races
-http://vapi.vaders.tv/play/19297.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,YES Network HD
-http://vapi.vaders.tv/play/33511.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Star Sports 1 HD
-http://vapi.vaders.tv/play/37198.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Star Sports 2 HD
-http://vapi.vaders.tv/play/37199.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Star Sports 1 Select HD
-http://vapi.vaders.tv/play/37200.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Star Sports 2 Select HD
-http://vapi.vaders.tv/play/37201.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Sky Sports Mix HD
-http://vapi.vaders.tv/play/37235.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Univision Deportes HD
-http://vapi.vaders.tv/play/38911.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,SEC Network HD
-http://vapi.vaders.tv/play/39621.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Sky Sports Golf
-http://vapi.vaders.tv/play/39823.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Sky Sports Premier League
-http://vapi.vaders.tv/play/39824.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Sky Sports News
-http://vapi.vaders.tv/play/39826.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Sky Sports Mix
-http://vapi.vaders.tv/play/39827.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,BT Sports 1
-http://vapi.vaders.tv/play/39828.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,BT Sports ESPN
-http://vapi.vaders.tv/play/39831.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,PAC 12 Network HD
-http://vapi.vaders.tv/play/39848.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,PAC 12 Mountain HD
-http://vapi.vaders.tv/play/39852.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,PAC 12 Bay Area HD
-http://vapi.vaders.tv/play/39854.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Big Ten Network HD
-http://vapi.vaders.tv/play/39861.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,BeIN Sports 11 HD
-http://vapi.vaders.tv/play/40879.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,BeIN Sports 12 HD
-http://vapi.vaders.tv/play/40880.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,CSN California HD
-http://vapi.vaders.tv/play/41143.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Sky Sports Football HD
-http://vapi.vaders.tv/play/42360.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Sky Sports Arena HD
-http://vapi.vaders.tv/play/42361.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Sky Sports Arena 
-http://vapi.vaders.tv/play/47385.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Sky Sports Football
-http://vapi.vaders.tv/play/47386.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
-#EXTINF:-1,Fox Soccer Plus HD
-http://vapi.vaders.tv/play/52188.m3u8?token=eyJ1c2VybmFtZSI6Im1wZWVza2VyIiwicGFzc3dvcmQiOiJqVU5PQVRFMTIifQ==
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6397.m3u8
+
+#EXTINF:-1,BT SPORT 3
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6400.m3u8
+
+#EXTINF:-1,BT SPORT ESPN
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6401.m3u8
+
+#EXTINF:-1,BT SPORT 1
+http://5.189.187.55:8000/live/Fadil/skype/432.m3u8
+
+#EXTINF:-1,CHELSEA FC
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6408.m3u8
+
+#EXTINF:-1,EIR SPORT 1
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6421.m3u8
+
+#EXTINF:-1,MOTORS TV
+http://5.189.187.55:8000/live/Fadil/skype/3221.m3u8
+
+#EXTINF:-1,MU TV
+http://5.189.187.55:8000/live/Fadil/skype/1074.m3u8
+
+#EXTINF:-1,SKY SPORT ARENA
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4039.m3u8
+
+#EXTINF:-1,SKY SPORTS FOOTBALL
+http://5.189.187.55:8000/live/Fadil/skype/3281.m3u8
+
+#EXTINF:-1,SKY SPORTS ACTION
+http://5.189.187.55:8000/live/Fadil/skype/2757.m3u8
+
+#EXTINF:-1,SKY SPORTS ARENA
+http://5.189.187.55:8000/live/Fadil/skype/3282.m3u8
+
+#EXTINF:-1,SKY SPORTS CRICKET
+http://5.189.187.55:8000/live/Fadil/skype/2756.m3u8
+
+#EXTINF:-1,SKY SPORTS F1
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4035.m3u8
+
+#EXTINF:-1,SKY SPORTS GOLF
+http://5.189.187.55:8000/live/Fadil/skype/2758.m3u8
+
+#EXTINF:-1,SKY SPORTS MAIN EVENT
+http://5.189.187.55:8000/live/Fadil/skype/2755.m3u8
+
+#EXTINF:-1,SKY SPORTS PREMIER LEGUE
+http://regnummi.mibox.live:980/live/Jesus/Jesus/6384.m3u8
+
+#EXTINF:-1,CBS SPORTS NETWORK
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4185.m3u8
+
+#EXTINF:-1,TENNIS CHANNEL
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4133.m3u8
+
 
 
 
