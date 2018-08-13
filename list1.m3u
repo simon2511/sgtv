@@ -1,197 +1,113 @@
 # sgtv
 list1.m3u
-#EXTINF:-1,NBC
-http://mobilecache.streamlive.to:8081/edge/kjgkefh6la1di6g/playlist.m3u8
-#EXTINF:-1,FOX TV
-http://mobilecache.streamlive.to:8081/edge/yuu6p5oaa1x4a1p/playlist.m3u8
-#EXTINF:-1,The CW
-http://mobilecache.streamlive.to:8081/edge/fvksu1sp51ijtyd/playlist.m3u8
-#EXTINF:-1,TBS
-http://mobilecache.streamlive.to:8081/edge/eg5v0vdj33ls27r/playlist.m3u8
-#EXTINF:-1,CBS
-http://mobilecache.streamlive.to:8081/edge/vp4q2gonwzh2dku/playlist.m3u8
-#EXTINF:-1,Telemundo
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/23368.ts
-#EXTINF:-1,QVC
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
-#EXTINF:-1,ABC HD
-http://mobilecache.streamlive.to:8081/edge/nz7l9vc5nv1og7b/playlist.m3u8
-#EXTINF:-1,Univision
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/23360.ts
-#EXTINF:-1,TNT
-http://mobilecache.streamlive.to:8081/edge/7uz4als3nigi0j3/playlist.m3u8
-#EXTINF:-1,MSNBC US
-http://mobilecache.streamlive.to:8081/edge/1341ujtliqndod8/playlist.m3u8
-#EXTINF:-1,CNN
-http://mobilecache.streamlive.to:8081/edge/rjxo8hz17q9waiq/playlist.m3u8
-#EXTINF:-1,FOX News
-http://mobilecache.streamlive.to:8081/edge/ohn58e97er36vjr/playlist.m3u8
-#EXTINF:-1,Nickelodeon
-http://mobilecache.streamlive.to:8081/edge/64jaber5pjqj2cr/playlist.m3u8
-#EXTINF:-1,FX
-http://mobilecache.streamlive.to:8081/edge/ru031zebcat0lio/playlist.m3u8
-#EXTINF:-1,Discovery Channel
-http://mobilecache.streamlive.to:8081/edge/ishyd3sopok3p27/playlist.m3u8
-#EXTINF:-1,Lifetime
-http://mobilecache.streamlive.to:8081/edge/7b2gr554gyyth8e/playlist.m3u8
+#EXTM3U
+
+#EXTINF:-1,ALIBI
+http://5.189.187.55:8000/live/Fadil/skype/912.m3u8
+
+#EXTINF:-1,ANIMALPLANET
+http://5.189.187.55:8000/live/Fadil/skype/712.m3u8
+
 #EXTINF:-1,BET
-http://mobilecache.streamlive.to:8081/edge/kexkxje3nqi6dtl/playlist.m3u8
-#EXTINF:-1,Disney Channel
-http://mobilecache.streamlive.to:8081/edge/2tag4dzgwof5ma2/playlist.m3u8
-#EXTINF:-1,Spike TV
-http://mobilecache.streamlive.to:8081/edge/sax2mq2alpirnww/playlist.m3u8
-#EXTINF:-1,ESPN
-http://mobilecache.streamlive.to:8081/edge/xoaaohmeuajfeyf/playlist.m3u8
-#EXTINF:-1,ESPN 2
-http://mobilecache.streamlive.to:8081/edge/rgyus7ao2ullmbt/playlist.m3u8
-#EXTINF:-1,A&E TV
-http://mobilecache.streamlive.to:8081/edge/tuc280rbycwnsvs/playlist.m3u8
-#EXTINF:-1,TLC
-http://mobilecache.streamlive.to:8081/edge/iugceoy4o6ljhck/playlist.m3u8
-#EXTINF:-1,USA Network
-http://mobilecache.streamlive.to:8081/edge/h5eovaj1jeegluq/playlist.m3u8
-#EXTINF:-1,CNBC US
-http://mobilecache.streamlive.to:8081/edge/xssrqbmovted7h6/playlist.m3u8
+http://5.189.187.55:8000/live/Fadil/skype/3209.m3u8
+
+#EXTINF:-1,CBS ACTION
+http://5.189.187.55:8000/live/Fadil/skype/1148.m3u8
+
+#EXTINF:-1,CBS DRAMA
+http://5.189.187.55:8000/live/Fadil/skype/1147.m3u8
+
+#EXTINF:-1,CHANNEL 4
+http://topiptv.net:5890/live/fathi/fathi1/270.m3u8
+
+#EXTINF:-1,CHANNEL 5
+http://5.189.187.55:8000/live/Fadil/skype/446.m3u8
+
+#EXTINF:-1,COMEDY CENTRAL
+http://145.239.1.103:8000/live/Engin/Ozturk/24499.m3u8
+
+#EXTINF:-1,DAVE
+http://5.189.187.55:8000/live/Fadil/skype/437.m3u8
+
+#EXTINF:-1,DISCOVERY HISTORY
+http://5.189.187.55:8000/live/Fadil/skype/439.m3u8
+
+#EXTINF:-1,DISCOVERY SHED
+http://5.189.187.55:8000/live/Fadil/skype/3204.m3u8
+
+#EXTINF:-1,DISCOVERY TURBO
+http://5.189.187.55:8000/live/Fadil/skype/2143.m3u8
+
+#EXTINF:-1,DMAX
+http://5.189.187.55:8000/live/Fadil/skype/441.m3u8
+
+#EXTINF:-1,DRAMA
+http://5.189.187.55:8000/live/Fadil/skype/484.m3u8
+
 #EXTINF:-1,E!
-http://mobilecache.streamlive.to:8081/edge/080s1qh0tnhnpcf/playlist.m3u8
-#EXTINF:-1,MTV
-http://mobilecache.streamlive.to:8081/edge/p0audpgrkvu6l1g/playlist.m3u8
-#EXTINF:-1,NBC Sports Network
-http://mobilecache.streamlive.to:8081/edge/0fm1lstybe4a0j4/playlist.m3u8
-#EXTINF:-1,VH1
-http://mobilecache.streamlive.to:8081/edge/oeiigxxv1gbeqq9/playlist.m3u8
-#EXTINF:-1,TCM
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14163.ts
-#EXTINF:-1,TV Land
-http://mobilecache.streamlive.to:8081/edge/7yxirr4046nk5ca/playlist.m3u8
-#EXTINF:-1,Food Network US
-http://mobilecache.streamlive.to:8081/edge/ibnnu7537h3ax6e/playlist.m3u8
-#EXTINF:-1,History
-http://mobilecache.streamlive.to:8081/edge/dhp0rpd116qyyj6/playlist.m3u8
-#EXTINF:-1,SyFy
-http://mobilecache.streamlive.to:8081/edge/x7uii7mll2b7lh4/playlist.m3u8
-#EXTINF:-1,Cartoon Network
-http://mobilecache.streamlive.to:8081/edge/9l41fcr1sgmclej/playlist.m3u8
-#EXTINF:-1,Travel Channel
-http://mobilecache.streamlive.to:8081/edge/4aiufk0o430qt0d/playlist.m3u8
-#EXTINF:-1,ION TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/26777.ts
-#EXTINF:-1,AMC
-http://mobilecache.streamlive.to:8081/edge/z4cxm7zlfyqs65m/playlist.m3u8
-#EXTINF:-1,Bravo US
-http://mobilecache.streamlive.to:8081/edge/uw433ikqnrj501l/playlist.m3u8
-#EXTINF:-1,tru TV
-http://mobilecache.streamlive.to:8081/edge/uhnr4161ybioa5w/playlist.m3u8
-#EXTINF:-1,HGTV
-http://mobilecache.streamlive.to:8081/edge/gj65q2rg18tpmut/playlist.m3u8
-#EXTINF:-1,Comedy Central
-http://mobilecache.streamlive.to:8081/edge/wyw9tfxexu68p0t/playlist.m3u8
-#EXTINF:-1,Freeform
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19264.ts
-#EXTINF:-1,WGN America
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/27663.ts
-#EXTINF:-1,QVC Plus
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/1af4a53fda904f6c90a4389c8fe92dc0/manifest.m3u8
-#EXTINF:-1,OWN
-http://mobilecache.streamlive.to:8081/edge/uehgy5htiasffj3/playlist.m3u8
-#EXTINF:-1,NatGeo
-http://mobilecache.streamlive.to:8081/edge/qzsfigd1y3bgbhs/playlist.m3u8
-#EXTINF:-1,FOX Business
-http://mobilecache.streamlive.to:8081/edge/difln9xgbe3lbuk/playlist.m3u8
-#EXTINF:-1,FXX
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14171.ts
-#EXTINF:-1,Science Channel
-http://mobilecache.streamlive.to:8081/edge/00t250wv1d4ltib/playlist.m3u8
-#EXTINF:-1,Investigation Discovery
-http://mobilecache.streamlive.to:8081/edge/yjma618cibkqxeo/playlist.m3u8
-#EXTINF:-1,Nick Jr. US
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14100.ts
-#EXTINF:-1,PBS
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14135.ts
-#EXTINF:-1,PBS Kids
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/28116.ts
-#EXTINF:-1,OP US
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20881.ts
-#EXTINF:-1,H&I US
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/29890.ts
-#EXTINF:-1,Get TV
-http://206.51.143.155:1935/live/6.smil/playlist.m3u8
-#EXTINF:-1,Cozi TV
-http://206.51.143.155:1935/live/14.smil/playlist.m3u8
-#EXTINF:-1,This TV
-http://206.51.143.155:1935/live/15.smil/playlist.m3u8
-#EXTINF:-1,Bounce
-http://206.51.143.155:1935/live/5.smil/playlist.m3u8
-#EXTINF:-1,Antenna TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/29889.ts
-#EXTINF:-1,Me TV US
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/34893.ts
-#EXTINF:-1,Galavision US
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/23361.ts
-#EXTINF:-1,IFC
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/30089.ts
-#EXTINF:-1,Sundance TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/21131.ts
-#EXTINF:-1,Tennis Channel
-http://mobilecache.streamlive.to:8081/edge/mv93mjgyktkkhpz/playlist.m3u8
-#EXTINF:-1,NFL Network
-http://mobilecache.streamlive.to:8081/edge/zvwjh9ctt0vdlbe/playlist.m3u8
-#EXTINF:-1,NBA TV US
-http://mobilecache.streamlive.to:8081/edge/c7yew9cgj0pq9xi/playlist.m3u8
-#EXTINF:-1,FOX Sports 2
-http://mobilecache.streamlive.to:8081/edge/rs5opj7fo5f7io0/playlist.m3u8
-#EXTINF:-1,Bloomberg TV
-http://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1,FOX Sports 1
-http://mobilecache.streamlive.to:8081/edge/svsgthhwl6djj5h/playlist.m3u8
-#EXTINF:-1,FOX College Sports Atlantic
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20871.ts
-#EXTINF:-1,FOX College Sports Central
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20870.ts
-#EXTINF:-1,FOX College Sports Pacific
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20869.ts
-#EXTINF:-1,Outdoor Channel
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/22432.ts
-#EXTINF:-1,Golf Channel
-http://mobilecache.streamlive.to:8081/edge/ts6w24dx29tcwi4/playlist.m3u8
-#EXTINF:-1,BBC America
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/25257.ts
-#EXTINF:-1,We TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/22431.ts
-#EXTINF:-1,GSN
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19335.ts
-#EXTINF:-1,Hallmark Channel
-http://mobilecache.streamlive.to:8081/edge/v4ynnryunsoxzbq/playlist.m3u8
-#EXTINF:-1,EWTN
-http://cdn.mainstreaming.tv/live/101111/5lkpte/playlist.m3u8
-#EXTINF:-1,TBN TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/30116.ts
-#EXTINF:-1,BYU
-http://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
-#EXTINF:-1,Boomerang
-http://livegroup-title="USA",.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20174.ts
-#EXTINF:-1,Sprout
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/19590.ts
-#EXTINF:-1,NickToons
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14097.ts
-#EXTINF:-1,Fuse
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20874.ts
-#EXTINF:-1,Oxygen
-http://mobilecache.streamlive.to:8081/edge/zmt2swezlswh9nz/playlist.m3u8
-#EXTINF:-1,Disney XD
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14101.ts
-#EXTINF:-1,Daystar
-http://bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master_1080p.m3u8
-#EXTINF:-1,Disney Junior
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/14102.ts
-#EXTINF:-1,Fusion TV
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/20877.ts
-#EXTINF:-1,gBeIN Sports US
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/22417.ts
-#EXTINF:-1,Sportsman Channel
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/32137.ts
-#EXTINF:-1,World Fishing Network
-http://live.eternaltv.net:25461/live/arthurmsarthur/uf9pn3J6J7/32136.ts
+http://5.189.187.55:8000/live/Fadil/skype/3261.m3u8
+
+#EXTINF:-1,FILM 4
+http://5.189.187.55:8000/live/Fadil/skype/445.m3u8
+
+#EXTINF:-1,FOOD NETWORK
+http://5.189.187.55:8000/live/Fadil/skype/782.m3u8
+
+#EXTINF:-1,FOX
+http://5.189.187.55:8000/live/Fadil/skype/2140.m3u8
+
+#EXTINF:-1,GOLD
+http://5.189.187.55:8000/live/Fadil/skype/447.m3u8
+
+#EXTINF:-1,HORROR
+http://5.189.187.55:8000/live/Fadil/skype/2082.m3u8
+
+#EXTINF:-1,ITV HD
+http://topiptv.net:5890/live/fathi/fathi1/1080.m3u8
+
+#EXTINF:-1,ITV 2
+http://145.239.1.103:8000/live/Engin/Ozturk/24523.m3u8
+
+#EXTINF:-1,ITV BE
+http://145.239.1.103:8000/live/Engin/Ozturk/24515.m3u8
+
+#EXTINF:-1,REALLY
+http://5.189.187.55:8000/live/Fadil/skype/2139.m3u8
+
+#EXTINF:-1,SKY LIVING
+http://5.189.187.55:8000/live/Fadil/skype/453.m3u8
+
+#EXTINF:-1,MORE 4
+http://5.189.187.55:8000/live/Fadil/skype/1319.m3u8
+
+#EXTINF:-1,MU TV
+http://topiptv.net:5890/live/fathi/fathi1/3131.m3u8
+
+#EXTINF:-1,QUEST
+http://5.189.187.55:8000/live/Fadil/skype/2137.m3u8
+
+#EXTINF:-1,SKY 2
+http://topiptv.net:5890/live/fathi/fathi1/267.m3u8
+
+#EXTINF:-1,SKY ARTS
+http://5.189.187.55:8000/live/Fadil/skype/463.m3u8
+
+#EXTINF:-1,SKY 1
+http://5.189.187.55:8000/live/Fadil/skype/474.m3u8
+
+#EXTINF:-1,TLC
+http://5.189.187.55:8000/live/Fadil/skype/2338.m3u8
+
+#EXTINF:-1,TRAVEL CHANNEL
+http://topiptv.net:5890/live/fathi/fathi1/4164.m3u8
+
+#EXTINF:-1,TRU TV
+http://5.189.187.55:8000/live/Fadil/skype/2734.m3u8
+
+#EXTINF:-1,YESTERDAY
+http://5.189.187.55:8000/live/Fadil/skype/2081.m3u8
+
+
 
 
 
