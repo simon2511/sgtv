@@ -2,60 +2,6 @@
 list1.m3u
 #EXTM3U
 
-
-#EXTINF:-1,BBC 1 HD
-http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/15565.ts
-
-#EXTINF:-1,BBC 2 HD
-http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/15566.ts
-
-#EXTINF:-1,BBC News HD
-http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/4684.ts
-
-#EXTINF:-1,ITV 1 HD
-http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/15598.ts
-
-#EXTINF:-1,ITV 2 HD
-http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/15597.ts
-
-#EXTINF:-1,Sky Sports News HD
-http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/9398.ts
-
-#EXTINF:-1,Sky Sports Main Event HD
-http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/9400.ts
-
-#EXTINF:-1,Sky Sports Football HD
-http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/9402.ts
-
-#EXTINF:-1,Sky Sports Premier League HD
-http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/9397.ts
-
-#EXTINF:-1,Sky Sports Action HD
-http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/9406.ts
-
-#EXTINF:-1,Sky Sports Arena HD
-http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/9405.ts
-
-#EXTINF:-1,Sky Sports Cricket HD
-http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/9404.ts
-
-#EXTINF:-1,Sky Sports Mix HD
-http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/9399.ts
-
-#EXTINF:-1,BT Sport 1 HD
-http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/9447.ts
-
-#EXTINF:-1,BT Sport 2 HD
-http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/9446.ts
-
-#EXTINF:-1,BT Sport 3 HD
-http://epicstream.tv:7000/live/BPXXTWCXC/FNWGCNQ8EU/9445.ts
-
-
-
-
-
-
 #EXTINF:-1,ALIBI
 http://5.189.187.55:8000/live/Fadil/skype/912.m3u8
 
@@ -160,6 +106,16 @@ http://5.189.187.55:8000/live/Fadil/skype/2734.m3u8
 
 #EXTINF:-1,YESTERDAY
 http://5.189.187.55:8000/live/Fadil/skype/2081.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 
