@@ -4,63 +4,44 @@ usasport.m3u
 
 #EXTM3U
 
-#EXTINF:-1,BOXNATION
-http://regnummi.mibox.live:980/live/Jesus/Jesus/6397.m3u8
-
-#EXTINF:-1,BT SPORT 3
-http://regnummi.mibox.live:980/live/Jesus/Jesus/6400.m3u8
-
-#EXTINF:-1,BT SPORT ESPN
-http://regnummi.mibox.live:980/live/Jesus/Jesus/6401.m3u8
-
-#EXTINF:-1,BT SPORT 1
-http://5.189.187.55:8000/live/Fadil/skype/432.m3u8
-
-#EXTINF:-1,CHELSEA FC
-http://regnummi.mibox.live:980/live/Jesus/Jesus/6408.m3u8
-
-#EXTINF:-1,EIR SPORT 1
-http://regnummi.mibox.live:980/live/Jesus/Jesus/6421.m3u8
-
-#EXTINF:-1,MOTORS TV
-http://5.189.187.55:8000/live/Fadil/skype/3221.m3u8
-
-#EXTINF:-1,MU TV
-http://5.189.187.55:8000/live/Fadil/skype/1074.m3u8
-
-#EXTINF:-1,SKY SPORT ARENA
-http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4039.m3u8
-
-#EXTINF:-1,SKY SPORTS FOOTBALL
-http://5.189.187.55:8000/live/Fadil/skype/3281.m3u8
-
-#EXTINF:-1,SKY SPORTS ACTION
-http://5.189.187.55:8000/live/Fadil/skype/2757.m3u8
-
-#EXTINF:-1,SKY SPORTS ARENA
-http://5.189.187.55:8000/live/Fadil/skype/3282.m3u8
-
-#EXTINF:-1,SKY SPORTS CRICKET
-http://5.189.187.55:8000/live/Fadil/skype/2756.m3u8
-
-#EXTINF:-1,SKY SPORTS F1
-http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4035.m3u8
-
-#EXTINF:-1,SKY SPORTS GOLF
-http://5.189.187.55:8000/live/Fadil/skype/2758.m3u8
-
-#EXTINF:-1,SKY SPORTS MAIN EVENT
-http://5.189.187.55:8000/live/Fadil/skype/2755.m3u8
-
-#EXTINF:-1,SKY SPORTS PREMIER LEGUE
-http://regnummi.mibox.live:980/live/Jesus/Jesus/6384.m3u8
-
-#EXTINF:-1,CBS SPORTS NETWORK
-http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4185.m3u8
-
-#EXTINF:-1,TENNIS CHANNEL
-http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4133.m3u8
-
+#EXTINF:-1,UK:Sky_Sport_Arena_HD
+http://wavo-iptv.com:8000/live/card_xx4tsW/hratteqZ/4970.ts
+#EXTINF:-1,UK:Sky_Sport_Football_HD
+http://wavo-iptv.com:8000/live/card_xx4tsW/hratteqZ/4971.ts
+#EXTINF:-1,UK:Sky_Sport_F1_HD
+http://wavo-iptv.com:8000/live/card_xx4tsW/hratteqZ/4972.ts
+#EXTINF:-1,UK:Sky_Sport_The_Open_HD
+http://wavo-iptv.com:8000/live/card_xx4tsW/hratteqZ/4973.ts
+#EXTINF:-1,UK:Sky_Sport_1_SD
+http://wavo-iptv.com:8000/live/card_xx4tsW/hratteqZ/4989.ts
+#EXTINF:-1,UK:Sky_Sport_2_SD
+http://wavo-iptv.com:8000/live/card_xx4tsW/hratteqZ/4985.ts
+#EXTINF:-1,UK:Sky_Sport_3_SD
+http://wavo-iptv.com:8000/live/card_xx4tsW/hratteqZ/4986.ts
+#EXTINF:-1,UK:Sky_Sport_4_SD
+http://wavo-iptv.com:8000/live/card_xx4tsW/hratteqZ/4987.ts
+#EXTINF:-1,UK:Sky_Sport_5_SD
+http://wavo-iptv.com:8000/live/card_xx4tsW/hratteqZ/4988.ts
+#EXTINF:-1,UK:Sky_Sport_1
+http://wavo-iptv.com:8000/live/card_xx4tsW/hratteqZ/2646.ts
+#EXTINF:-1,UK:Sky_Sports_1_HD
+http://wavo-iptv.com:8000/live/card_xx4tsW/hratteqZ/2535.ts
+#EXTINF:-1,UK:Sky_Sport_2
+http://wavo-iptv.com:8000/live/card_xx4tsW/hratteqZ/2647.ts
+#EXTINF:-1,UK:Sky_Sports_2_HD
+http://wavo-iptv.com:8000/live/card_xx4tsW/hratteqZ/2539.ts
+#EXTINF:-1,UK:Sky_Sport_3
+http://wavo-iptv.com:8000/live/card_xx4tsW/hratteqZ/2648.ts
+#EXTINF:-1,UK:Sky_Sports_3_HD
+http://wavo-iptv.com:8000/live/card_xx4tsW/hratteqZ/2538.ts
+#EXTINF:-1,UK:Sky_Sport_4
+http://wavo-iptv.com:8000/live/card_xx4tsW/hratteqZ/2649.ts
+#EXTINF:-1,UK:Sky_Sports_4_HD
+http://wavo-iptv.com:8000/live/card_xx4tsW/hratteqZ/2537.ts
+#EXTINF:-1,UK:Sky_Sport_5
+http://wavo-iptv.com:8000/live/card_xx4tsW/hratteqZ/2650.ts
+#EXTINF:-1,UK:Sky_Sports_5_HD
+http://wavo-iptv.com:8000/live/card_xx4tsW/hratteqZ/2536.ts
 
 
 
