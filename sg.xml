@@ -6,12 +6,11 @@
 <fanart>LINK TO AN IMAGE FOR BACKGROUND</fanart>
 </item>
 
- <item>
-<title>MUSIC</title>
-<link>http://ignorame</link> 
-<externallink>https://raw.githubusercontent.com/simon2511/sgtv/master/MUSIC.m3u <externallink>
-<thumbnail>https://archive.org/download/music_icon_vector_290192/music_icon_vector_290192.png </thumbnail>  
-<fanart>LINK TO AN IMAGE FOR BACKGROUND</fanart>
+<item>
+<title>MUSIC</title>                         
+<utube>PLFgquLnL59alU5aREodnt2H3n-rS3EyIJ</utube>               
+<thumbnail></thumbnail>                 
+<fanart></fanart>                       
 </item>
  
 
