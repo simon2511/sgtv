@@ -4,21 +4,11 @@ usasport.m3u
 
 #EXTM3U
 
-#EXTINF:-1,Fox Sports 1 HD 
-http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index2.m3u8
-#EXTINF:-1,Fox Sports 2 HD
-http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index2.m3u8 
-#EXTINF:-1,AD Sport 1 HD 
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1,AD Sport 2 HD 
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,DSPORT HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8 
-#EXTINF:-1,Realmadrid TV 
-https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+
 #EXTINF:-1,MU TV HD
 http://vapi.vaders.tv/play/2589.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1,Chelsea TV HD
+#EXTINF:-1,TV HD
 http://vapi.vaders.tv/play/40881.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1,UFC TV HD
 http://vapi.vaders.tv/play/42469.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
@@ -98,7 +88,7 @@ http://vapi.vaders.tv/play/2845.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc
 http://vapi.vaders.tv/play/2846.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1,TSN 3 HD
 http://vapi.vaders.tv/play/2847.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1 ,TSN 4 HD
+#EXTINF:-1,TSN 4 HD
 http://vapi.vaders.tv/play/2848.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1,TSN 5 HD
 http://vapi.vaders.tv/play/2849.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
@@ -174,8 +164,3 @@ http://vapi.vaders.tv/play/47385.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBh
 http://vapi.vaders.tv/play/47386.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
 #EXTINF:-1,Fox Soccer Plus HD
 http://vapi.vaders.tv/play/52188.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-#EXTINF:-1,Fox Deportes HD
-http://vapi.vaders.tv/play/52189.m3u8?token=eyJ1c2VybmFtZSI6ImVwZWRyb3NhNSIsInBhc3N3b3JkIjoiZW5wcTA1MjMifQ==
-
-
-
