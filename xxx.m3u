@@ -1,139 +1,473 @@
-# sgtv
-xxx.m3u
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", ADULT 1 - ADULT 1
-http://163.172.105.230:9001/live?channelId=259&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", ADULT 2 - ADULT 2
-http://163.172.105.230:9001/live?channelId=267&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", ADULT 3 - ADULT 3
-http://163.172.105.230:9001/live?channelId=268&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", ADULT 4 - ADULT 4
-http://163.172.105.230:9001/live?channelId=269&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", ADULT 5 - ADULT 5
-http://163.172.105.230:9001/live?channelId=270&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", ADULT 6 - ADULT 6
-http://163.172.105.230:9001/live?channelId=271&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", ADULT 7 - ADULT 7
-http://163.172.105.230:9001/live?channelId=272&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", ADULT 8 - ADULT 8
-http://163.172.105.230:9001/live?channelId=273&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", ADULT 9 - ADULT 9
-http://163.172.105.230:9001/live?channelId=274&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", ADULT 10 - ADULT 10
-http://163.172.105.230:9001/live?channelId=260&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", ADULT 11 - ADULT 11
-http://163.172.105.230:9001/live?channelId=261&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", ADULT 12 - ADULT 12
-http://163.172.105.230:9001/live?channelId=262&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", ADULT 13 - ADULT 13
-http://163.172.105.230:9001/live?channelId=263&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", ADULT 14 - ADULT 14
-http://163.172.105.230:9001/live?channelId=264&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", ADULT 15 - ADULT 15
-http://163.172.105.230:9001/live?channelId=265&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", ADULT 16 - ADULT 16
-http://163.172.105.230:9001/live?channelId=266&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", ADULT 17 - ADULT 17
-http://163.172.105.230:9001/live?channelId=275&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", ADULT 18 - ADULT 18
-http://163.172.105.230:9001/live?channelId=276&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", ADULT 19 - ADULT 19
-http://163.172.105.230:9001/live?channelId=277&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", ADULT 20 - ADULT 20
-http://163.172.105.230:9001/live?channelId=278&uid=6917&deviceMac=00:1A:79:3C:CA:3F
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fDWqHly.jpg" group-title="SINH HỌC", Babestation 1
-http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/V1e7Piy.jpg" group-title="SINH HỌC", Jasmin Channel 720P
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?MWINFO
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/V1e7Piy.jpg" group-title="SINH HỌC", Jasmin TV 
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/GdCbov5.jpg" group-title="SINH HỌC", Miami TV (Mexico)
-http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/GdCbov5.jpg" group-title="SINH HỌC", Miami TV (Spain)
-http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/GdCbov5.jpg" group-title="SINH HỌC", Miami TV (USA)
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/GdCbov5.jpg" group-title="SINH HỌC", Miami TV
-http://mexicoserver.miamitvchannel.com/miamitv/smil%3amiamitvmexico/master.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ysWttE6.jpg" group-title="SINH HỌC", VISIT-X TV 720P
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8?MWINFO
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/I9zOp3q.jpg" group-title="SINH HỌC", STUDIO 66 TV 1
-http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel11/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/I9zOp3q.jpg" group-title="SINH HỌC", STUDIO 66 TV 2
-http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel12/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/I9zOp3q.jpg" group-title="SINH HỌC", STUDIO 66 TV 3
-http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel31/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/I9zOp3q.jpg" group-title="SINH HỌC", STUDIO 66 TV 4
-http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel41/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/DT00k1K.jpg" group-title="SINH HỌC", Trans
-https://www.ast.tv/stream/1/master.m3u8
+#EXTM3U
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", Brazzers Europe TV
-http://81.200.50.4/hls/Brazzers_nejtv_portable_low.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", Eroxxx TV HD
-http://81.200.50.4/hls/Eroxx_nejtv_portable_low.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", Erox TV HD
-http://81.200.50.4/hls/Erox_nejtv_portable_low.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", Hustler TV +18
-http://81.200.50.4/hls/Hustler_nejtv_portable_low.m3u8
-
-~♥Update 15/7/2018♥~
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", JASMIN TV 18 | SD
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", Bunga Bunga
-http://5.135.92.130:58143/out/u/107_1.m3u8
-
-~♥Update 28/7/2018♥~
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC",XXX: Hot Club1 HD
-http://izgemma.ddns.net:8000/live/shaun/shaun/199.ts
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC",XXX: Hot Club 6 HD
-http://izgemma.ddns.net:8000/live/shaun/shaun/200.ts
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC",XXX: SCT
-http://izgemma.ddns.net:8000/live/shaun/shaun/169.ts
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC",XXX: HOT 1
-http://izgemma.ddns.net:8000/live/shaun/shaun/13448.ts
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC",XXX: HOT 4
-http://izgemma.ddns.net:8000/live/shaun/shaun/13451.ts
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC",XXX: HOT 6
-http://izgemma.ddns.net:8000/live/shaun/shaun/13453.ts
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC",XXX: HOT 7
-http://izgemma.ddns.net:8000/live/shaun/shaun/13454.ts
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC",xxx: HOT 8
-http://izgemma.ddns.net:8000/live/shaun/shaun/13455.ts
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC",Brazzers Europe
-http://195.140.223.10:5557/Brazzers
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC",Playboy TV
-http://195.140.223.10:5557/Playboy
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC",Redlight HD
-http://195.140.223.10:5557/Redlight-HD
-
-~♥Update 2/8/2018♥~
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", Pỏn 3
-http://sg.doohdbox.com:8081/adultstv/adultch3/chunks.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", Pỏn 4
-http://sg.doohdbox.com:8081/adultstv/adultch4/chunks.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", Pỏn Brazzers
-http://sg.doohdbox.com:8081/adultstv/Brazzers/chunks.m3u8
-
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", Blue Hustler 
-http:/85.132.71.6/ru/blue/index.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", Hustler HD
-http:/85.132.71.6/ru/hust/index.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", Redlight HD
-http:/85.132.71.6/ru/red/index.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", Brazzers TV 
-http:/85.132.71.6/ru/braz/index.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/VJjHubT.png" group-title="SINH HỌC", Pink TV
-http:/85.132.71.6/ru/pink/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BRAZZERSTVEUROPE.png" group-title="SINH HỌC",BRAZZERS TV EUROPE 
-http://81.200.50.4/hls/Brazzers_nejtv_portable_low.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BUNGABUNGA.png" group-title="SINH HỌC",BUNGA BUNGA 
-http://5.135.92.130:58143/out/u/109_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DUSK.png" group-title="SINH HỌC",DUSK 
-http://usaiptv.ddns.net:9090/load/a6e4ca00bdc7/7622.mpegts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EROXX.png" group-title="SINH HỌC",EROXXX 
-http://81.200.50.4/hls/Eroxx_nejtv_portable_low.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EROXX.png" group-title="SINH HỌC",EROX 
-http://81.200.50.4/hls/Erox_nejtv_portable_low.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HUSTLERTV.png" group-title="SINH HỌC",HUSTLER TV 
-http://81.200.50.4/hls/Hustler_nejtv_portable_low.m3u8
+#EXTINF:-1,BBC One HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3038.ts
+#EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="UK | BBC One HD*" tvg-logo="https://vignette.wikia.nocookie.net/lifeonmars/images/7/70/BBC_One_logo.png/revision/latest?cb=20100610103705" group-title="Entertainment",UK | BBC One HD*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/251.ts
+#EXTINF:-1 tvg-id="BBC1Wales.uk" tvg-name="UK | (L) BBC One Wales FHD" tvg-logo="" group-title="Entertainment",UK | (L) BBC One Wales FHD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19341.ts
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="UK | BBC Two FHD" tvg-logo="" group-title="Entertainment",UK | BBC Two FHD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3416.ts
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="UK | BBC Two HD" tvg-logo="" group-title="Entertainment",UK | BBC Two HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3036.ts
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="UK | BBC Two HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/1200px-BBC_Two.svg.png" group-title="Entertainment",UK | BBC Two HD*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/250.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK | BBC Three*" tvg-logo="data:image/png;base64,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" group-title="Entertainment",UK | BBC Three*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/249.ts
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="UK | BBC Four HD" tvg-logo="" group-title="Entertainment",UK | BBC Four HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3040.ts
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="UK | BBC Four*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1200px-BBC_Four.svg.png" group-title="Entertainment",UK | BBC Four*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/248.ts
+#EXTINF:-1 tvg-id="ITV1Central.uk" tvg-name="UK | ITV 1 FHD" tvg-logo="" group-title="Entertainment",UK | ITV 1 FHD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3417.ts
+#EXTINF:-1 tvg-id="ITV1Central.uk" tvg-name="UK | ITV 1 HD" tvg-logo="" group-title="Entertainment",UK | ITV 1 HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2969.ts
+#EXTINF:-1 tvg-id="ITV1Central.uk" tvg-name="UK: ITV 1" tvg-logo="" group-title="Entertainment",UK: ITV 1
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2846.ts
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="UK | ITV1 HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="Entertainment",UK | ITV1 HD*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/247.ts
+#EXTINF:-1 tvg-id="ITV1LondonPlus1.uk" tvg-name="UK | (L) ITV 1 +1" tvg-logo="" group-title="Entertainment",UK | (L) ITV 1 +1
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19350.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK | ITV 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/ITV2_logo_2015.png/revision/latest?cb=20150812102407" group-title="Entertainment",UK | ITV 2 HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/246.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK | ITV 2 HD*" tvg-logo="" group-title="Entertainment",UK | ITV 2 HD*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2968.ts
+#EXTINF:-1 tvg-id="ITV2plus1.uk" tvg-name="UK | (L) ITV 2 +1" tvg-logo="" group-title="Entertainment",UK | (L) ITV 2 +1
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19347.ts
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK | ITV 3 HD*" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/70/ITV3.png/revision/latest?cb=20150111193532" group-title="Entertainment",UK | ITV 3 HD*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/245.ts
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="UK | ITV 3 HD" tvg-logo="" group-title="Entertainment",UK | ITV 3 HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2967.ts
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="UK | ITV 4 HD*" tvg-logo="" group-title="Entertainment",UK | ITV 4 HD*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2966.ts
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="UK | ITV Be*" tvg-logo="data:image/png;base64,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" group-title="Entertainment",UK | ITV Be*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/530.ts
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="UK | ITV Be" tvg-logo="" group-title="Entertainment",UK | ITV Be
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2965.ts
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="UK: Channel 4 FHD" tvg-logo="" group-title="Entertainment",UK: Channel 4 FHD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3418.ts
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="UK | Channel 4 HD*" tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2018/01/Channel-4-logo.jpg?resize=900%2C675&ssl=1" group-title="Entertainment",UK | Channel 4 HD*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/243.ts
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="UK | Channel 4" tvg-logo="" group-title="Entertainment",UK | Channel 4
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3013.ts
+#EXTINF:-1 tvg-id="Channel4plus1.uk" tvg-name="UK | (L) Channel 4  +1" tvg-logo="" group-title="Entertainment",UK | (L) Channel 4  +1
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19346.ts
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK | Channel 5 FHD" tvg-logo="" group-title="Entertainment",UK | Channel 5 FHD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3419.ts
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK | Channel 5 HD" tvg-logo="" group-title="Entertainment",UK | Channel 5 HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3012.ts
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK | Channel 5 SD" tvg-logo="" group-title="Entertainment",UK | Channel 5 SD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2850.ts
+#EXTINF:-1 tvg-id="Channel5plus1.uk" tvg-name="UK | (L) Channel 5 +1" tvg-logo="" group-title="Entertainment",UK | (L) Channel 5 +1
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19345.ts
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="UK | Channel 5*" tvg-logo="http://www.thetvfestival.com/website/wp-content/uploads/2017/05/Master_5_Logo_Colour1-resized-for-web-536x400.jpg" group-title="Entertainment",UK | Channel 5*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/242.ts
+#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="UK | Sky One FHD" tvg-logo="" group-title="Entertainment",UK | Sky One FHD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3420.ts
+#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="UK | Sky One HD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1084.1507584032.png" group-title="Entertainment",UK | Sky One HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/505.ts
+#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="UK | Sky One*" tvg-logo="" group-title="Entertainment",UK | Sky One*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2899.ts
+#EXTINF:-1 tvg-id="Sky2.uk" tvg-name="UK | Sky 2" tvg-logo="" group-title="Entertainment",UK | Sky 2
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2927.ts
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK | Sky Atlantic FHD" tvg-logo="" group-title="Entertainment",UK | Sky Atlantic FHD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2925.ts
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK | Sky Atlantic" tvg-logo="" group-title="Entertainment",UK | Sky Atlantic
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2924.ts
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK | Sky Atlantic HD*" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Sky_Atlantic_%28HD%29.png/revision/latest?cb=20160422203125" group-title="Entertainment",UK | Sky Atlantic HD*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/241.ts
+#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="UK | Sky Living FHD" tvg-logo="" group-title="Entertainment",UK | Sky Living FHD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3421.ts
+#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="UK | Sky Living" tvg-logo="" group-title="Entertainment",UK | Sky Living
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2901.ts
+#EXTINF:-1 tvg-id="SkyArts1.uk" tvg-name="UK | Sky Arts" tvg-logo="" group-title="Entertainment",UK | Sky Arts
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2926.ts
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK | (L) Comedy Central" tvg-logo="" group-title="Entertainment",UK | (L) Comedy Central
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19335.ts
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK | Comedy Central" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/Comedy_Central_Logo.png/revision/latest?cb=20150109120103" group-title="Entertainment",UK | Comedy Central
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/239.ts
+#EXTINF:-1 tvg-id="ComedyCentralplus1.uk" tvg-name="UK | (L) Comedy Central  +1" tvg-logo="" group-title="Entertainment",UK | (L) Comedy Central  +1
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19334.ts
+#EXTINF:-1 tvg-id="ComedyCentralplus1.uk" tvg-name="UK | Comedy Central +1" tvg-logo="" group-title="Entertainment",UK | Comedy Central +1
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3005.ts
+#EXTINF:-1 tvg-id="ComedyCentralExtra.uk" tvg-name="UK | Comedy Central Extra" tvg-logo="" group-title="Entertainment",UK | Comedy Central Extra
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3006.ts
+#EXTINF:-1 tvg-id="ComedyCentralExtra.uk" tvg-name="UK | (L) Comedy Xtra" tvg-logo="" group-title="Entertainment",UK | (L) Comedy Xtra
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19333.ts
+#EXTINF:-1 tvg-id="GoodFood.uk" tvg-name="UK | Good Food" tvg-logo="" group-title="Entertainment",UK | Good Food
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3485.ts
+#EXTINF:-1 tvg-id="SCIFI.uk" tvg-name="UK | Syfy HD" tvg-logo="" group-title="Entertainment",UK | Syfy HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2875.ts
+#EXTINF:-1 tvg-id="SCIFI.uk" tvg-name="UK | SYFY" tvg-logo="" group-title="Entertainment",UK | SYFY
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3462.ts
+#EXTINF:-1 tvg-id="SCIFI.uk" tvg-name="UK | SYFY*" tvg-logo="" group-title="Entertainment",UK | SYFY*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3461.ts
+#EXTINF:-1 tvg-id="SCIFIPlus1.uk" tvg-name="UK | (L) SYFY +1" tvg-logo="" group-title="Entertainment",UK | (L) SYFY +1
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19325.ts
+#EXTINF:-1 tvg-id="W.uk" tvg-name="UK | W HD" tvg-logo="" group-title="Entertainment",UK | W HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2865.ts
+#EXTINF:-1 tvg-id="W.uk" tvg-name="UK | W" tvg-logo="" group-title="Entertainment",UK | W
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2864.ts
+#EXTINF:-1 tvg-id="WPlus1.uk" tvg-name="UK | (L) W +1" tvg-logo="" group-title="Entertainment",UK | (L) W +1
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19324.ts
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="UK | Alibi" tvg-logo="" group-title="Entertainment",UK | Alibi
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3047.ts
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="UK | (L) Alibi" tvg-logo="" group-title="Entertainment",UK | (L) Alibi
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19344.ts
+#EXTINF:-1 tvg-id="Alibiplus1.uk" tvg-name="UK | (L) Alibi  1" tvg-logo="" group-title="Entertainment",UK | (L) Alibi  1
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19343.ts
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="UK | Gold" tvg-logo="" group-title="Entertainment",UK | Gold
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2976.ts
+#EXTINF:-1 tvg-id="GOLDPlus1.uk" tvg-name="UK | (L) Gold +1" tvg-logo="" group-title="Entertainment",UK | (L) Gold +1
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19331.ts
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="UK |  Dave*" tvg-logo="http://advanced-television.com/wp-content/uploads/2017/08/dave.jpg" group-title="Entertainment",UK |  Dave*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/510.ts
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="UK | Dave" tvg-logo="" group-title="Entertainment",UK | Dave
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3003.ts
+#EXTINF:-1 tvg-id="DaveJaVu.uk" tvg-name="UK | Dave Ja Vu" tvg-logo="" group-title="Entertainment",UK | Dave Ja Vu
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3489.ts
+#EXTINF:-1 tvg-id="DaveJaVu.uk" tvg-name="UK | Dave JaVu" tvg-logo="" group-title="Entertainment",UK | Dave JaVu
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3002.ts
+#EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="UK | Yesterday" tvg-logo="" group-title="Entertainment",UK | Yesterday
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3456.ts
+#EXTINF:-1 tvg-id="YesterdayPlus1.uk" tvg-name="UK | (L) Yesterday +1" tvg-logo="" group-title="Entertainment",UK | (L) Yesterday +1
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19323.ts
+#EXTINF:-1 tvg-id="TLC.uk" tvg-name="UK | TLC" tvg-logo="" group-title="Entertainment",UK | TLC
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2872.ts
+#EXTINF:-1 tvg-id="Spike.uk" tvg-name="UK | 5 Spike" tvg-logo="" group-title="Entertainment",UK | 5 Spike
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3463.ts
+#EXTINF:-1 tvg-id="Universal.uk" tvg-name="UK | Universal Channel" tvg-logo="" group-title="Entertainment",UK | Universal Channel
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2870.ts
+#EXTINF:-1 tvg-id="UniversalPlus1.uk" tvg-name="UK | (L) Universal+1" tvg-logo="" group-title="Entertainment",UK | (L) Universal+1
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19353.ts
+#EXTINF:-1 tvg-id="Lifetime.uk" tvg-name="UK | Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="Entertainment",UK | Lifetime
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/529.ts
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="UK | Quest" tvg-logo="" group-title="Entertainment",UK | Quest
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2934.ts
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="UK | Quest*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Quest_logo_2014.svg/1200px-Quest_logo_2014.svg.png" group-title="Entertainment",UK | Quest*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/533.ts
+#EXTINF:-1 tvg-id="QuestPlus1.uk" tvg-name="UK | (L) Quest +1" tvg-logo="" group-title="Entertainment",UK | (L) Quest +1
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19326.ts
+#EXTINF:-1 tvg-id="Drama.uk" tvg-name="UK | Drama" tvg-logo="" group-title="Entertainment",UK | Drama
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2991.ts
+#EXTINF:-1 tvg-id="E.uk" tvg-name="UK |  E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png" group-title="Entertainment",UK |  E!
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/509.ts
+#EXTINF:-1 tvg-id="E.uk" tvg-name="UK | E!" tvg-logo="" group-title="Entertainment",UK | E!
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2990.ts
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="UK | E4" tvg-logo="" group-title="Entertainment",UK | E4
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2989.ts
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="UK | E4 HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_%28channel%29_logo.svg/1073px-E4_%28channel%29_logo.svg.png" group-title="Entertainment",UK | E4 HD*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/238.ts
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="UK | More 4 HD" tvg-logo="" group-title="Entertainment",UK | More 4 HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2958.ts
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="UK | Eden" tvg-logo="" group-title="Entertainment",UK | Eden
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2987.ts
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="UK | Eden*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Eden_logo.png/200px-Eden_logo.png" group-title="Entertainment",UK | Eden*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/534.ts
+#EXTINF:-1 tvg-id="EdenPlus1.uk" tvg-name="UK | (L) Eden +1" tvg-logo="" group-title="Entertainment",UK | (L) Eden +1
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19332.ts
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="UK | MTV HD" tvg-logo="https://officialpsds.com/imageview/ry/6v/ry6v2k_large.png?1521316471" group-title="Entertainment",UK | MTV HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/1014.ts
+#EXTINF:-1 tvg-id="TrueEntertainment.uk" tvg-name="UK | True Entertainment" tvg-logo="" group-title="Entertainment",UK | True Entertainment
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3457.ts
+#EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="UK | (L)  CBS Drama" tvg-logo="" group-title="Entertainment",UK | (L)  CBS Drama
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19338.ts
+#EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="UK | CBS Drama*" tvg-logo="http://www.knotslanding.net/wp-content/uploads/2017/01/cbs.jpg" group-title="Entertainment",UK | CBS Drama*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/240.ts
+#EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="UK | CBS Drama" tvg-logo="" group-title="Entertainment",UK | CBS Drama
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3017.ts
+#EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="UK | (L) CBS Action" tvg-logo="" group-title="Entertainment",UK | (L) CBS Action
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19339.ts
+#EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="UK | CBS Action" tvg-logo="" group-title="Entertainment",UK | CBS Action
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3018.ts
+#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="UK | (L) CBS Reality" tvg-logo="" group-title="Entertainment",UK | (L) CBS Reality
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19337.ts
+#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="UK | CBS Reality" tvg-logo="" group-title="Entertainment",UK | CBS Reality
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3016.ts
+#EXTINF:-1 tvg-id="CBSReality1.uk" tvg-name="UK | (L) CBS Reality  1" tvg-logo="" group-title="Entertainment",UK | (L) CBS Reality  1
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19336.ts
+#EXTINF:-1 tvg-id="PickTV.uk" tvg-name="UK | Pick" tvg-logo="" group-title="Entertainment",UK | Pick
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2938.ts
+#EXTINF:-1 tvg-id="Home.uk" tvg-name="UK | Home" tvg-logo="" group-title="Entertainment",UK | Home
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3483.ts
+#EXTINF:-1 tvg-id="HomeandHealth.uk" tvg-name="UK | Home & Health" tvg-logo="" group-title="Entertainment",UK | Home & Health
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3482.ts
+#EXTINF:-1 tvg-id="HomeandHealthplus1.uk" tvg-name="UK | (L) Home & Health 1" tvg-logo="" group-title="Entertainment",UK | (L) Home & Health 1
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19329.ts
+#EXTINF:-1 tvg-id="TG4.ie" tvg-name="UK | TG4" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/115.1388406133.png" group-title="Entertainment",UK | TG4
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/504.ts
+#EXTINF:-1 tvg-id="RTE1.ie" tvg-name="UK | RTE 1 HD" tvg-logo="https://www.screenproducersireland.com/sites/default/files/styles/news_thumbnail/public/field/image/rte1i-logo-websize.gif?itok=yJS6Jj1n" group-title="Entertainment",UK | RTE 1 HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/235.ts
+#EXTINF:-1 tvg-id="RTE2.ie" tvg-name="UK | RTE 2 HD" tvg-logo="https://publicismedia.files.wordpress.com/2012/05/rte_two.png" group-title="Entertainment",UK | RTE 2 HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/234.ts
+#EXTINF:-1 tvg-id="4Seven.uk" tvg-name="UK | 4seven" tvg-logo="" group-title="Entertainment",UK | 4seven
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3054.ts
+#EXTINF:-1 tvg-id="4Seven.uk" tvg-name="UK | 4seven HD" tvg-logo="" group-title="Entertainment",UK | 4seven HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3052.ts
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="UK | 5 Star" tvg-logo="" group-title="Entertainment",UK | 5 Star
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3051.ts
+#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="UK | 5 Usa" tvg-logo="" group-title="Entertainment",UK | 5 Usa
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3050.ts
+#EXTINF:-1 tvg-id="FiveUSAPlus1.uk" tvg-name="UK | 5 usa +1" tvg-logo="" group-title="Entertainment",UK | 5 usa +1
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3049.ts
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="UK | 5Star" tvg-logo="" group-title="Entertainment",UK | 5Star
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3048.ts
+#EXTINF:-1 tvg-id="AMC.uk" tvg-name="UK | AMC" tvg-logo="" group-title="Entertainment",UK | AMC
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3046.ts
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-name="UK | Challenge" tvg-logo="" group-title="Entertainment",UK | Challenge
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3015.ts
+#EXTINF:-1 tvg-id="H2.uk" tvg-name="UK | H2" tvg-logo="" group-title="Entertainment",UK | H2
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2975.ts
+#EXTINF:-1 tvg-id="H2.uk" tvg-name="UK | Horror Channel" tvg-logo="" group-title="Entertainment",UK | Horror Channel
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2971.ts
+#EXTINF:-1 tvg-id="HorrorChannelPlus1.uk" tvg-name="UK | (L) Horror Channel +1" tvg-logo="" group-title="Entertainment",UK | (L) Horror Channel +1
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19328.ts
+#EXTINF:-1 tvg-id="Really.uk" tvg-name="UK | Really" tvg-logo="" group-title="Entertainment",UK | Really
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2930.ts
+#EXTINF:-1 tvg-id="UTV.uk" tvg-name="UK | UTV" tvg-logo="" group-title="Entertainment",UK | UTV
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2869.ts
+#EXTINF:-1 tvg-id="TravelChannel.uk" tvg-name="UK | Travel Channel" tvg-logo="" group-title="Entertainment",UK | Travel Channel
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3460.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK | VIirtual Betting Channel" tvg-logo="" group-title="Entertainment",UK | VIirtual Betting Channel
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/14656.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK | William Hill TV" tvg-logo="" group-title="Entertainment",UK | William Hill TV
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/14655.ts
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="UK | Betfred" tvg-logo="" group-title="Entertainment",UK | Betfred
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/14661.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK | Coral TV" tvg-logo="" group-title="Entertainment",UK | Coral TV
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/14660.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Ladbrokes TV" tvg-logo="" group-title="Entertainment",UK: Ladbrokes TV
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/14659.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK | Sheffield Steelers" tvg-logo="" group-title="Entertainment",UK | Sheffield Steelers
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/14654.ts
+#EXTINF:-1 tvg-id="BBC2NorthernIreland.uk" tvg-name="(L)BBC One NI FHD" tvg-logo="" group-title="Entertainment",(L)BBC One NI FHD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/20822.ts
+#EXTINF:-1 tvg-id="BBC1Scotland.uk" tvg-name="(L)BBC One Scot FHD" tvg-logo="" group-title="Entertainment",(L)BBC One Scot FHD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/20821.ts
+#EXTINF:-1 tvg-id="BBC1Wales.uk" tvg-name="(L)BBC One Wales FHD" tvg-logo="" group-title="Entertainment",(L)BBC One Wales FHD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/20820.ts
+#EXTINF:-1 tvg-id="ITV1Central.uk" tvg-name="(L)ITV Central West" tvg-logo="" group-title="Entertainment",(L)ITV Central West
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/20819.ts
+#EXTINF:-1 tvg-id="ITV1Granada.uk" tvg-name="(L)ITV Granada FHD" tvg-logo="" group-title="Entertainment",(L)ITV Granada FHD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/20818.ts
+#EXTINF:-1 tvg-id="ITV1London.uk" tvg-name="(L)ITV London" tvg-logo="" group-title="Entertainment",(L)ITV London
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/20817.ts
+#EXTINF:-1 tvg-id="ITV1Meridian.uk" tvg-name="(L)ITV Meridian" tvg-logo="" group-title="Entertainment",(L)ITV Meridian
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/20816.ts
+#EXTINF:-1 tvg-id="ITV1TyneTees.uk" tvg-name="(L)ITV Tyne Tees FHD" tvg-logo="" group-title="Entertainment",(L)ITV Tyne Tees FHD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/20815.ts
+#EXTINF:-1 tvg-id="ITV1Wales.uk" tvg-name="(L)ITV Wales FHD" tvg-logo="" group-title="Entertainment",(L)ITV Wales FHD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/20814.ts
+#EXTINF:-1 tvg-id="ITV1Westcountry.uk" tvg-name="(L)ITV Westcountry South West FHD" tvg-logo="" group-title="Entertainment",(L)ITV Westcountry South West FHD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/20813.ts
+#EXTINF:-1 tvg-id="ITV1Westcountry.uk" tvg-name="(L)ITV Westcountry West FHD" tvg-logo="" group-title="Entertainment",(L)ITV Westcountry West FHD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/20812.ts
+#EXTINF:-1 tvg-id="ITV1Yorkshire.uk" tvg-name="(L)ITV Yorkshire" tvg-logo="" group-title="Entertainment",(L)ITV Yorkshire
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/20811.ts
+#EXTINF:-1 tvg-id="Investigation.uk" tvg-name="UK | I.D HD" tvg-logo="" group-title="Documentary",UK | I.D HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2970.ts
+#EXTINF:-1 tvg-id="Investigationplus1.uk" tvg-name="UK | (L) I.D +1" tvg-logo="" group-title="Entertainment",UK | (L) I.D +1
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19327.ts
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="UK | Discovery History*" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/8/8e/Discovery_History_2010.png/revision/latest?cb=20101223155255" group-title="Documentary",UK | Discovery History*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/256.ts
+#EXTINF:-1 tvg-id="Investigation.uk" tvg-name="UK | Investigation Discovery HD*" tvg-logo="http://2.bp.blogspot.com/-g7kclnMAZPA/T3ClVDJR-vI/AAAAAAAAEsA/goncQjp63AI/s500/Investigation+Discovery+logo+2012.jpg" group-title="Documentary",UK | Investigation Discovery HD*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/257.ts
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="UK |  Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Documentary",UK |  Discovery Turbo
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/258.ts
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="UK | Discovery History HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/8/8e/Discovery_History_2010.png/revision/latest?cb=20101223155255" group-title="Documentary",UK | Discovery History HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/259.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="UK | Discovery Science HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/3/32/Discovery_Science_HD.png/revision/latest?cb=20140513094535" group-title="Documentary",UK | Discovery Science HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/260.ts
+#EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="UK | Crime & Investigation HD" tvg-logo="" group-title="Documentary",UK | Crime & Investigation HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3004.ts
+#EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="UK | Crime And Investigation" tvg-logo="" group-title="Documentary",UK | Crime And Investigation
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3442.ts
+#EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="UK | Crime And Investigation HD" tvg-logo="" group-title="Documentary",UK | Crime And Investigation HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3441.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="UK | Animal Planet HD" tvg-logo="" group-title="Documentary",UK | Animal Planet HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3045.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="UK | Animal Planet*" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/Animal-planet-logo.png/revision/latest?cb=20140703195542" group-title="Documentary",UK | Animal Planet*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/255.ts
+#EXTINF:-1 tvg-id="History.uk" tvg-name="UK | History FHD" tvg-logo="" group-title="Documentary",UK | History FHD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2973.ts
+#EXTINF:-1 tvg-id="History.uk" tvg-name="UK | History" tvg-logo="" group-title="Documentary",UK | History
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2972.ts
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="UK | National Geo Wild HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Documentary",UK | National Geo Wild HD*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/254.ts
+#EXTINF:-1 tvg-id="NationalGeographic.uk" tvg-name="UK | Nat Geographic HD*" tvg-logo="data:image/png;base64,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" group-title="Documentary",UK | Nat Geographic HD*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/253.ts
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="UK | Disc History" tvg-logo="" group-title="Documentary",UK | Disc History
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3001.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="UK | Disc Science" tvg-logo="" group-title="Documentary",UK | Disc Science
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3000.ts
+#EXTINF:-1 tvg-id="Discovery.uk" tvg-name="UK | Discovery Channel HD" tvg-logo="" group-title="Documentary",UK | Discovery Channel HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2999.ts
+#EXTINF:-1 tvg-id="Discovery.uk" tvg-name="UK | Discovery Channel*" tvg-logo="" group-title="Documentary",UK | Discovery Channel*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2998.ts
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="UK | Discovery Turbo" tvg-logo="" group-title="Documentary",UK | Discovery Turbo
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2996.ts
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="UK | Nat Geo Wild" tvg-logo="" group-title="Documentary",UK | Nat Geo Wild
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2945.ts
+#EXTINF:-1 tvg-id="BBC1NorthernIreland.uk" tvg-name="IRE | BBC Northern Ireland" tvg-logo="" group-title="Ireland",IRE | BBC Northern Ireland
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2863.ts
+#EXTINF:-1 tvg-id="RTE1.ie" tvg-name="IRE | RTE 1" tvg-logo="https://pbs.twimg.com/profile_images/837407755761758208/D5SCH0t2.jpg" group-title="Ireland",IRE | RTE 1
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3221.ts
+#EXTINF:-1 tvg-id="RTE2.ie" tvg-name="IRE | RTE 2" tvg-logo="https://pbs.twimg.com/profile_images/892785319434694657/Cc4Oz8lb_400x400.jpg" group-title="Ireland",IRE | RTE 2
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3220.ts
+#EXTINF:-1 tvg-id="RTEjr.uk" tvg-name="IRE | RTE JNR" tvg-logo="https://rtejr.rte.ie/wp-content/themes/rtejr-2013/img/rtejr-logo-large.jpg" group-title="Ireland",IRE | RTE JNR
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3219.ts
+#EXTINF:-1 tvg-id="3e.ie" tvg-name="IRE | 3e Ireland" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/3e_Ireland_2017.png" group-title="Ireland",IRE | 3e Ireland
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3222.ts
+#EXTINF:-1 tvg-id="TG4.ie" tvg-name="IRE | TG4" tvg-logo="https://d1og0s8nlbd0hm.cloudfront.net/images/TG4.png" group-title="Ireland",IRE | TG4
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3217.ts
+#EXTINF:-1 tvg-id="TV3.ie" tvg-name="IRE | TV3 HD" tvg-logo="http://collegetribune.ie/wp-content/uploads/2015/11/tv3-350x350.jpg" group-title="Ireland",IRE | TV3 HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3216.ts
+#EXTINF:-1 tvg-id="UTV.uk" tvg-name="IRE | UTV" tvg-logo="http://www.newstalk.com/content/000/images/000087/89813_54_news_hub_85813_656x500.jpg" group-title="Ireland",IRE | UTV
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3215.ts
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="UK | MTV" tvg-logo="" group-title="Entertainment",UK | MTV
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2954.ts
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="UK | MTV UK" tvg-logo="https://www.truenorth.tv/wp-content/uploads/2016/02/MTV-Logo-NEWS-500x455.png" group-title="Music",UK | MTV UK
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/106.ts
+#EXTINF:-1 tvg-id="MTVBase.uk" tvg-name="UK | MTV Base" tvg-logo="" group-title="Music",UK | MTV Base
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2953.ts
+#EXTINF:-1 tvg-id="MTVClassic.uk" tvg-name="UK | MTV Classics" tvg-logo="" group-title="Music",UK | MTV Classics
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2952.ts
+#EXTINF:-1 tvg-id="MTVDance.uk" tvg-name="UK | MTV Dance" tvg-logo="" group-title="Music",UK | MTV Dance
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2951.ts
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="UK | MTV Hits" tvg-logo="" group-title="Music",UK | MTV Hits
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2950.ts
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="UK | MTV Music" tvg-logo="" group-title="Music",UK | MTV Music
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2949.ts
+#EXTINF:-1 tvg-id="MTVRocks.uk" tvg-name="UK | MTV Rocks" tvg-logo="" group-title="Music",UK | MTV Rocks
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2948.ts
+#EXTINF:-1 tvg-id="MTVRocks.uk" tvg-name="UK | MTV Rocks HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/MTV_Rocks.svg" group-title="Music",UK | MTV Rocks HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/107.ts
+#EXTINF:-1 tvg-id="VH1UK.uk" tvg-name="UK | VH1" tvg-logo="" group-title="Music",UK | VH1
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2868.ts
+#EXTINF:-1 tvg-id="KissTV.uk" tvg-name="UK | KISS" tvg-logo="" group-title="Music",UK | KISS
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2962.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK | Now 80s" tvg-logo="" group-title="Music",UK | Now 80s
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2941.ts
+#EXTINF:-1 tvg-id="TJCChoice.uk" tvg-name="UK | Now 90's" tvg-logo="" group-title="Music",UK | Now 90's
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2940.ts
+#EXTINF:-1 tvg-id="Viva.uk" tvg-name="UK | ViVA" tvg-logo="" group-title="Music",UK | ViVA
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2866.ts
+#EXTINF:-1 tvg-id="Viva.uk" tvg-name="UK | Vintage TV" tvg-logo="" group-title="Music",UK | Vintage TV
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3505.ts
+#EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="UK | Box Hits" tvg-logo="" group-title="Music",UK | Box Hits
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3033.ts
+#EXTINF:-1 tvg-id="ChartshowHits.uk" tvg-name="UK | Chart Show Hits" tvg-logo="" group-title="Music",UK | Chart Show Hits
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3011.ts
+#EXTINF:-1 tvg-id="SkyMoviesPremiere.uk" tvg-name="UK | Sky Cinema Premiere HD*" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/Sky_Cinema_Premiere.png/revision/latest?cb=20160708223437" group-title="Movies",UK | Sky Cinema Premiere HD*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/1013.ts
+#EXTINF:-1 tvg-id="SkyMoviesPremiere.uk" tvg-name="UK | Sky Cinema Premier HD (main)" tvg-logo="" group-title="Movies",UK | Sky Cinema Premier HD (main)
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2912.ts
+#EXTINF:-1 tvg-id="SkyMoviesPremiere.uk" tvg-name="UK | Sky Cinema Premiere" tvg-logo="" group-title="Movies",UK | Sky Cinema Premiere
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2911.ts
+#EXTINF:-1 tvg-id="SkyMoviesPremiereplus1.uk" tvg-name="UK | Sky Cinema Premiere +1" tvg-logo="" group-title="Movies",UK | Sky Cinema Premiere +1
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3422.ts
+#EXTINF:-1 tvg-id="SkyMoviesActionThriller.uk" tvg-name="UK | Sky Cinema Action HD (L)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2b/Sky_de_cinema_action.png/revision/latest?cb=20170105095524" group-title="Movies",UK | Sky Cinema Action HD (L)
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3410.ts
+#EXTINF:-1 tvg-id="SkyMoviesActionThriller.uk" tvg-name="UK | Sky Cinema Action HD (main)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Sky_Cinema_Action_DE_Logo_2016.png" group-title="Movies",UK | Sky Cinema Action HD (main)
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/1006.ts
+#EXTINF:-1 tvg-id="SkyMoviesActionThriller.uk" tvg-name="UK | Sky Cinema Action HD*" tvg-logo="" group-title="Movies",UK | Sky Cinema Action HD*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2923.ts
+#EXTINF:-1 tvg-id="SkyMoviesComedy.uk" tvg-name="UK | Sky Cinema Comedy HD (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Sky_Cinema_Comedy_DE_Logo_2016.png" group-title="Movies",UK | Sky Cinema Comedy HD (L)
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3411.ts
+#EXTINF:-1 tvg-id="SkyMoviesComedy.uk" tvg-name="UK | Sky Cinema Comedy HD (main)" tvg-logo="" group-title="Movies",UK | Sky Cinema Comedy HD (main)
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2922.ts
+#EXTINF:-1 tvg-id="SkyMoviesComedy.uk" tvg-name="UK | Sky Cinema Comedy HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Sky_Cinema_Comedy_DE_Logo_2016.png" group-title="Movies",UK | Sky Cinema Comedy HD*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/979.ts
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK | Sky Cinema Thriller HD (L)" tvg-logo="http://epg4you.com/logos/skycinemathriller.png" group-title="Movies",UK | Sky Cinema Thriller HD (L)
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3412.ts
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK | Sky Cinema Thriller HD (main)" tvg-logo="http://epg4you.com/logos/skycinemathriller.png" group-title="Movies",UK | Sky Cinema Thriller HD (main)
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/1004.ts
+#EXTINF:-1 tvg-id="SkyMoviesFamily.uk" tvg-name="UK | Sky Cinema Family HD (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sky_Cinema_Family_DE_Logo_2016.png" group-title="Movies",UK | Sky Cinema Family HD (L)
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3409.ts
+#EXTINF:-1 tvg-id="SkyMoviesFamily.uk" tvg-name="UK | Sky Cinema Family HD" tvg-logo="data:image/png;base64,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" group-title="Movies",UK | Sky Cinema Family HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/1007.ts
+#EXTINF:-1 tvg-id="SkyMoviesFamily.uk" tvg-name="UK | Sky Cinema Family HD (main)" tvg-logo="" group-title="Movies",UK | Sky Cinema Family HD (main)
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2917.ts
+#EXTINF:-1 tvg-id="SkyMoviesFamily.uk" tvg-name="UK | Sky Cinema Family*" tvg-logo="" group-title="Movies",UK | Sky Cinema Family*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2916.ts
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="UK | Sky Cinema Hits HD (main)" tvg-logo="https://www.itv.so/uploads/images/channel_141_1500544317_poster.png" group-title="Movies",UK | Sky Cinema Hits HD (main)
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/1010.ts
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="UK | Sky Cinema Hits HD" tvg-logo="" group-title="Movies",UK | Sky Cinema Hits HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2915.ts
+#EXTINF:-1 tvg-id="SkySciFiHorror.uk" tvg-name="UK | Sky Cinema Scifi & Horror HD (L)" tvg-logo="data:image/jpeg;base64,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" group-title="Movies",UK | Sky Cinema Scifi & Horror HD (L)
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3413.ts
+#EXTINF:-1 tvg-id="SkySciFiHorror.uk" tvg-name="UK | Sky Cinema SciFi & Horror HD (main)" tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/73/184453.jpg" group-title="Movies",UK | Sky Cinema SciFi & Horror HD (main)
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/1003.ts
+#EXTINF:-1 tvg-id="SkySciFiHorror.uk" tvg-name="UK | Sky Cinema Scifi & Horror*" tvg-logo="" group-title="Movies",UK | Sky Cinema Scifi & Horror*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2910.ts
+#EXTINF:-1 tvg-id="SkySciFiHorror.uk" tvg-name="UK | Sky Cinema Scifi & Horror" tvg-logo="" group-title="Movies",UK | Sky Cinema Scifi & Horror
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2909.ts
+#EXTINF:-1 tvg-id="SkyMoviesIndie.uk" tvg-name="UK | Sky Cinema Select (main)" tvg-logo="https://media.info/i/lf/900/1507843243/1423.png" group-title="Movies",UK | Sky Cinema Select (main)
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/1002.ts
+#EXTINF:-1 tvg-id="SkyMoviesIndie.uk" tvg-name="UK | Sky Cinema Select HD (L)" tvg-logo="data:image/jpeg;base64,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L+JZgrKiopo6xgdSOLXkgWJDi3V5wiVrZXp6uOma2slEk13aTmiwtfUPQiG3QEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEGgzpleLEqYwPcWkEOY8ay1w6uUa0FfTUeZMKYXsmbUwRC5B8Ihg7bO2dqJZGbczNxHLr6gM0HabWvbts4HXY8yDyy3S5kNJCYJqcRGMb2HDwg3kugyd2lswwWETkGUTx74W+KXb1Je3UhCxcA/dIPuIvwBEK23cg/TotC2nv3g32aXJfzoNlR0mZ9NmnPTaGk3SsNejfXbzIlpqqwze3fthjbvV9l948G3n00FvogQVRuU/wDFsU+9d/rPRK10QICAgICAgICAgICAgICAgICAgICAgICAgICCO51gxN8Lfo6RjJA+7tO3hNsdQJBA12QQirjzZURup3shY2QFrpAYwdE6jsJI8wRLY1e5/LFgbsPhcHzOcHuJOi1zr3IHMEQ1eG0ua4ImQxspwyNoa0Exk2HOUS2mcMu4piGDxQyiM1TZw97QQ1uiA9uo7L2cEGBTMzbGxsbW0+ixoaP8vYBYIPTOGWcYraWje5sTqqB5dIA4NaDyW5CgB+bvq0//AK0ODdZ5yM/EGQzskEVZA1tpBcNcRrINtYs65B5LohoQc3aO9Wh1at9vFft/+aiVlYMycU8YqHNdMGDfC3xS7lsiEOyBlmqpa+vqJmBrKmQmIhwJcDI517DZqI2oJ8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIP//Z" group-title="Movies",UK | Sky Cinema Select HD (L)
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3414.ts
+#EXTINF:-1 tvg-id="SkyMoviesIndie.uk" tvg-name="UK | Sky Cinema Select HD (main)" tvg-logo="" group-title="Movies",UK | Sky Cinema Select HD (main)
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2908.ts
+#EXTINF:-1 tvg-id="SkyMoviesIndie.uk" tvg-name="UK | Sky Cinema Select" tvg-logo="" group-title="Movies",UK | Sky Cinema Select
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2843.ts
+#EXTINF:-1 tvg-id="SkyMoviesDisney.uk" tvg-name="UK: Sky Cinema Disney HD (L)" tvg-logo="https://archive.org/services/img/SkyCinemaDisney" group-title="Movies",UK: Sky Cinema Disney HD (L)
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3408.ts
+#EXTINF:-1 tvg-id="SkyMoviesDisney.uk" tvg-name="UK | Sky Cinema Disney HD (main)" tvg-logo="" group-title="Movies",UK | Sky Cinema Disney HD (main)
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2920.ts
+#EXTINF:-1 tvg-id="SkyMoviesDisney.uk" tvg-name="UK | Sky Cinema Disney*" tvg-logo="" group-title="Movies",UK | Sky Cinema Disney*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2919.ts
+#EXTINF:-1 tvg-id="SkyMoviesDisney.uk" tvg-name="UK | Sky Cinema Disney HD" tvg-logo="https://archive.org/services/img/SkyCinemaDisneyHd" group-title="Movies",UK | Sky Cinema Disney HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/1008.ts
+#EXTINF:-1 tvg-id="SkyMoviesDrama.uk" tvg-name="UK | Sky Cinema Drama & Romance" tvg-logo="" group-title="Movies",UK | Sky Cinema Drama & Romance
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2918.ts
+#EXTINF:-1 tvg-id="SkyMoviesDrama.uk" tvg-name="UK | Sky Cinema Drama & Romance HD*" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/Sky-Cinema-DRAMA-ROMANCE.png" group-title="Movies",UK | Sky Cinema Drama & Romance HD*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/980.ts
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK | Sky Cinema Greats HD (main)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/Sky_Cinema_Greats_HD.png/revision/latest?cb=20160709183219" group-title="Movies",UK | Sky Cinema Greats HD (main)
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/1009.ts
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="UK | Sky Cinema Thriller HD" tvg-logo="" group-title="Movies",UK | Sky Cinema Thriller HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2905.ts
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="UK | FILM 4 HD" tvg-logo="" group-title="Movies",UK | FILM 4 HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3542.ts
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="UK | FILM 4" tvg-logo="" group-title="Movies",UK | FILM 4
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3544.ts
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="UK | Film4" tvg-logo="" group-title="Movies",UK | Film4
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2981.ts
+#EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="UK | True Movies" tvg-logo="" group-title="Movies",UK | True Movies
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2871.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK | Movies4Men" tvg-logo="" group-title="Movies",UK | Movies4Men
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2955.ts
+#EXTINF:-1 tvg-id="TCM.uk" tvg-name="UK | TCM" tvg-logo="" group-title="Movies",UK | TCM
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3509.ts
+#EXTINF:-1 tvg-id="TCM.uk" tvg-name="UK | TCM HD" tvg-logo="" group-title="Entertainment",UK | TCM HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2874.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="UK | Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png" group-title="Kids",UK | Cartoon Network HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3021.ts
+#EXTINF:-1 tvg-id="Cartoonito.uk" tvg-name="UK | Cartoonito" tvg-logo="https://3.bp.blogspot.com/-r_zAT8_VSvA/V-TYdOxFyzI/AAAAAAAAHug/4Sdt9HUBGHM11XI1rIIcBXg6senzVsLcQCLcB/s1600/cartoonito.jpg" group-title="Kids",UK | Cartoonito
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/101.ts
+#EXTINF:-1 tvg-id="Boomerang.uk" tvg-name="UK | Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/2000px-Boomerang_2014_logo.svg.png" group-title="Kids",UK | Boomerang
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/102.ts
+#EXTINF:-1 tvg-id="Disney.uk" tvg-name="UK | Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/800px-2015_Disney_Channel_logo.svg.png" group-title="Kids",UK | Disney Channel
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/99.ts
+#EXTINF:-1 tvg-id="Disney.uk" tvg-name="UK | Disney Channel*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/800px-2015_Disney_Channel_logo.svg.png" group-title="Kids",UK | Disney Channel*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2995.ts
+#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-name="UK | Disney Junior HD" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/09/3a/c6/093ac6632dc2594250125e7f3ca11ba2.jpg" group-title="Kids",UK | Disney Junior HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2994.ts
+#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-name="UK | Disney Junior*" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/09/3a/c6/093ac6632dc2594250125e7f3ca11ba2.jpg" group-title="Kids",UK | Disney Junior*
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/100.ts
+#EXTINF:-1 tvg-id="DisneyXD.uk" tvg-name="UK | Disney XD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/2000px-Logo_Disney_XD.svg.png" group-title="Kids",UK | Disney XD HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2993.ts
+#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="UK | Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2000px-Nick_Jr._logo_2009.svg.png" group-title="Kids",UK | Nick Junior
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2942.ts
+#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="UK | Nick Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2000px-Nick_Jr._logo_2009.svg.png" group-title="Kids",UK | Nick Jr
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/97.ts
+#EXTINF:-1 tvg-id="NickJrPeppa.uk" tvg-name="UK | Nick JR Too" tvg-logo="https://assets.tvplayer.com/tvos/images/channels/516.png" group-title="Kids",UK | Nick JR Too
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2943.ts
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="UK | Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Kids",UK | Nickelodeon
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/96.ts
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="UK | Nicktoons" tvg-logo="https://vignette.wikia.nocookie.net/powerrangers/images/6/6d/Nicktoons2010UK.png/revision/latest?cb=20121231005114" group-title="Kids",UK | Nicktoons
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/94.ts
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="UK | Baby TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/BABY_TV_HD.png/revision/latest/scale-to-width-down/220?cb=20150308151948" group-title="Kids",UK | Baby TV
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/103.ts
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="UK | CBBC HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cf/Cbbc-logo.svg/revision/latest?cb=20160321230050" group-title="Kids",UK | CBBC HD
+http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3020.ts
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="UK | CBeebies HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7a/Cbeebies.svg/revision/latest/scale-to-width-down/300?cb=20091108144549" group-title="Kids",UK | CBeebies HD
