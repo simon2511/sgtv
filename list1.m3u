@@ -2,216 +2,398 @@
 list1.m3u
 #EXTM3U
 
-#EXTINF:-1,ALIBI
-http://5.189.187.55:8000/live/Fadil/skype/912.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yyqrvu1433940918.png/small" group-title="United Kingdom",BBC 1 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/15565.ts
 
-#EXTINF:-1,ANIMALPLANET
-http://5.189.187.55:8000/live/Fadil/skype/712.m3u8
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yvrqur1433940947.png/small" group-title="United Kingdom",BBC 2 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/15566.ts
 
-#EXTINF:-1,BET
-http://5.189.187.55:8000/live/Fadil/skype/3209.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/wmomfs1515624181.png/small" group-title="United Kingdom",BBC News HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/4684.ts
 
-#EXTINF:-1,CBS ACTION
-http://5.189.187.55:8000/live/Fadil/skype/1148.m3u8
+#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="ITV 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/wuwxss1433965997.png/small" group-title="United Kingdom",ITV 1 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/15598.ts
 
-#EXTINF:-1,CBS DRAMA
-http://5.189.187.55:8000/live/Fadil/skype/1147.m3u8
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/xpryxw1442161772.png/small" group-title="United Kingdom",ITV 2 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/15597.ts
 
-#EXTINF:-1,CHANNEL 4
-http://topiptv.net:5890/live/fathi/fathi1/270.m3u8
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/sxwwxv1433780905.png/small" group-title="UK Sport",Sky Sports News HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/9398.ts
 
-#EXTINF:-1,CHANNEL 5
-http://5.189.187.55:8000/live/Fadil/skype/446.m3u8
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/mp44981502554837.png/small" group-title="UK Sport",Sky Sports Main Event HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/9400.ts
 
-#EXTINF:-1,COMEDY CENTRAL
-http://145.239.1.103:8000/live/Engin/Ozturk/24499.m3u8
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/lnd1p01502554851.png/small" group-title="UK Sport",Sky Sports Football HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/9402.ts
 
-#EXTINF:-1,DAVE
-http://5.189.187.55:8000/live/Fadil/skype/437.m3u8
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/7e2lv21502554825.png/small" group-title="UK Sport",Sky Sports Premier League HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/9397.ts
 
-#EXTINF:-1,DISCOVERY HISTORY
-http://5.189.187.55:8000/live/Fadil/skype/439.m3u8
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/kf0oba1502554875.png/small" group-title="UK Sport",Sky Sports Action HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/9406.ts
 
-#EXTINF:-1,DISCOVERY SHED
-http://5.189.187.55:8000/live/Fadil/skype/3204.m3u8
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/kdr04z1502554338.png/small" group-title="UK Sport",Sky Sports Arena HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/9405.ts
 
-#EXTINF:-1,DISCOVERY TURBO
-http://5.189.187.55:8000/live/Fadil/skype/2143.m3u8
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/47d7os1502554865.png/small" group-title="UK Sport",Sky Sports Cricket HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/9404.ts
 
-#EXTINF:-1,DMAX
-http://5.189.187.55:8000/live/Fadil/skype/441.m3u8
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix HD" tvg-logo="" group-title="UK Sport",Sky Sports Mix HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/9399.ts
 
-#EXTINF:-1,DRAMA
-http://5.189.187.55:8000/live/Fadil/skype/484.m3u8
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/ruprqp1433360902.png/small" group-title="UK Sport",BT Sport 1 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/9447.ts
 
-#EXTINF:-1,E!
-http://5.189.187.55:8000/live/Fadil/skype/3261.m3u8
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vwxvty1433360911.png/small" group-title="UK Sport",BT Sport 2 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/9446.ts
 
-#EXTINF:-1,FILM 4
-http://5.189.187.55:8000/live/Fadil/skype/445.m3u8
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/j1babk1512993780.png/small" group-title="UK Sport",BT Sport 3 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/9445.ts
 
-#EXTINF:-1,FOOD NETWORK
-http://5.189.187.55:8000/live/Fadil/skype/782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Celtic TV HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/juhldp1504257462.png/small" group-title="UK Sport",Celtic TV HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/2232.ts
 
-#EXTINF:-1,FOX
-http://5.189.187.55:8000/live/Fadil/skype/2140.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/ryypqw1462991911.png/small" group-title="Turkey",TRT 1 HD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/369.ts
 
-#EXTINF:-1,GOLD
-http://5.189.187.55:8000/live/Fadil/skype/447.m3u8
+#EXTINF:-1 tvg-id="TRT 4K.tr" tvg-name="TRT 4K" tvg-logo="https://www.thelogodb.com/images/media/logonew/ryypqw1462991911.png/small" group-title="Turkey",TRT 4K HD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/3409.ts
 
-#EXTINF:-1,HORROR
-http://5.189.187.55:8000/live/Fadil/skype/2082.m3u8
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vqqxus1473153936.png/small" group-title="Turkey",ATV HD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/191.ts
 
-#EXTINF:-1,ITV HD
-http://topiptv.net:5890/live/fathi/fathi1/1080.m3u8
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="FOX HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/um8d2j1509463340.png/small" group-title="Turkey",FOX HD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/179.ts
 
-#EXTINF:-1,ITV 2
-http://145.239.1.103:8000/live/Engin/Ozturk/24523.m3u8
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/vwysvt1433332550.png/small" group-title="Turkey",SHOW HD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/188.ts
 
-#EXTINF:-1,ITV BE
-http://145.239.1.103:8000/live/Engin/Ozturk/24515.m3u8
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/txstww1433943055.png/small" group-title="Turkey",STAR HD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/186.ts
 
-#EXTINF:-1,REALLY
-http://5.189.187.55:8000/live/Fadil/skype/2139.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/pe7kf51502590265.png/small" group-title="Turkey",KANAL D HD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/184.ts
 
-#EXTINF:-1,SKY LIVING
-http://5.189.187.55:8000/live/Fadil/skype/453.m3u8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV 8 HD" tvg-logo="" group-title="Turkey",TV 8 HD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/182.ts
 
-#EXTINF:-1,MORE 4
-http://5.189.187.55:8000/live/Fadil/skype/1319.m3u8
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV HD" tvg-logo="https://static.iptv-epg.com/tr/NTV.tr.png" group-title="Turkey",NTV HD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/171.ts
 
-#EXTINF:-1,MU TV
-http://topiptv.net:5890/live/fathi/fathi1/3131.m3u8
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN Türk HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/qwwwxs1433945482.png/small" group-title="Turkey",CNN Türk HD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/172.ts
 
-#EXTINF:-1,QUEST
-http://5.189.187.55:8000/live/Fadil/skype/2137.m3u8
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="HaberTürk HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/yuwwpr1433426670.png/small" group-title="Turkey",HaberTürk HD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/168.ts
 
-#EXTINF:-1,SKY 2
-http://topiptv.net:5890/live/fathi/fathi1/267.m3u8
+#EXTINF:-1 tvg-id="Powerturk.tr" tvg-name="POWERTÜRK HD" tvg-logo="" group-title="Turkey",POWERTÜRK HD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/162.ts
 
-#EXTINF:-1,SKY ARTS
-http://5.189.187.55:8000/live/Fadil/skype/463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT MUZIK" tvg-logo="" group-title="Turkey",TRT MUZIK
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/3396.ts
 
-#EXTINF:-1,SKY 1
-http://5.189.187.55:8000/live/Fadil/skype/474.m3u8
+#EXTINF:-1 tvg-id="KralTV.tr" tvg-name="KRAL TV HD" tvg-logo="" group-title="Turkey",KRAL TV HD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/163.ts
 
-#EXTINF:-1,TLC
-http://5.189.187.55:8000/live/Fadil/skype/2338.m3u8
+#EXTINF:-1 tvg-id="KralPop.tr" tvg-name="KRAL POP HD" tvg-logo="" group-title="Turkey",KRAL POP HD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/164.ts
 
-#EXTINF:-1,TRAVEL CHANNEL
-http://topiptv.net:5890/live/fathi/fathi1/4164.m3u8
+#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-name="BEIN Sports Haber HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/60olka1504234949.png/small" group-title="Turkey",BEIN Sports Haber HD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/692.ts
 
-#EXTINF:-1,TRU TV
-http://5.189.187.55:8000/live/Fadil/skype/2734.m3u8
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="BEIN Sports 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/60olka1504234949.png/small" group-title="Turkey",BEIN Sports 1 HD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/2704.ts
 
-#EXTINF:-1,YESTERDAY
-http://5.189.187.55:8000/live/Fadil/skype/2081.m3u8
+#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="BEIN Sports 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/27h1lw1504234965.png/small" group-title="Turkey",BEIN Sports 2 HD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/2703.ts
 
+#EXTINF:-1 tvg-id="beINSports3.tr" tvg-name="BEIN Sports 3 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/gmt9nj1504235003.png/small" group-title="Turkey",BEIN Sports 3 HD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/2702.ts
 
-#EXTINF:-1 tvg-name="ABC News" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png",ABC News
-https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8
-#EXTINF:-1 tvg-name="Adult Swim" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/adultswim.png",Adult Swim
-http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
-#EXTINF:-1 tvg-name="JUCE TV" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/jucetv.png",JUCE TV
-http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8
-#EXTINF:-1 tvg-name="NASA TV" tvg-id="NASA.us" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nasatv.png",NASA TV
-https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
-#EXTINF:-1 tvg-name="CBSN" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbsn.png",CBSN
-https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
-#EXTINF:-1 tvg-name="CBN News" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png",CBN News
-http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-b.m3u8
-#EXTINF:-1 tvg-name="Bloomberg TV" tvg-id="Bloomberg.nws" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bloombergtv.png",Bloomberg TV
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-name="SBN" tvg-id="SonLife.uk" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sbn.png",SBN
-http://sonlife8-i.akamaihd.net/hls/live/585012/ch8/ch81/ch81.m3u8
-#EXTINF:-1 tvg-name="GOD TV" tvg-id="GODChannel.uk" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/godtv.png",GOD TV
-https://ooyalahd2-f.akamaihd.net/i/godtv02_delivery@17351/index_3200_av-p.m3u8
-#EXTINF:-1 tvg-name="Voice of America" tvg-id="VOA.com" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/voiceofamerica.png",Voice of America
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
-#EXTINF:-1 tvg-name="KTVU Fox 2" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktvufox2.png",KTVU Fox 2
-http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
-#EXTINF:-1 tvg-name="MSNBC" tvg-id="MSNBC.us" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/msnbc.png",MSNBC
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8
-#EXTINF:-1 tvg-name="WGN-TV" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wgntv.png",WGN-TV
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_2500_av-p.m3u8
-#EXTINF:-1 tvg-name="CMC" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cmc.png",CMC
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:-1 tvg-name="Hunt Channel" tvg-id="" group-title="IPTV-US" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/huntchannel.png",Hunt Channel
-https://nimble.huntchannel.tv:4433/abr/huntchannel/live/huntchannelhq/chunks.m3u8
-#EXTINF:-1 tvg-name="Create & Craft TV" tvg-id="CreateCraft.uk" group-title="IPTV-UK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/createandcraft.png",Create & Craft TV
-https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
-#EXTINF:-1 tvg-name="Capital TV" tvg-id="CapitalTV.uk" group-title="IPTV-UK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/capitaltv.png",Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-#EXTINF:-1 tvg-name="Heart TV" tvg-id="HeartTV.uk" group-title="IPTV-UK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hearttv.png",Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-b.m3u8
-#EXTINF:-1 tvg-name="Sky News" tvg-id="SkyNews.uk" group-title="IPTV-UK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skynews.png",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
-#EXTINF:-1 tvg-name="London Live" tvg-id="LondonLive.uk" group-title="IPTV-UK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/londonlive.png",London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+#EXTINF:-1 tvg-id="beINSports4.tr" tvg-name="BEIN Sports 4 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/akcwk91504235015.png/small" group-title="Turkey",BEIN Sports 4 HD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/2701.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="SMARTSPOR HD" tvg-logo="" group-title="Turkey",SMARTSPOR HD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/680.ts
 
+#EXTINF:-1 tvg-id="TivibuSpor.tr" tvg-name="tivibu SPOR 1 HD" tvg-logo="" group-title="Turkey",tivibu SPOR 1 HD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/2698.ts
 
+#EXTINF:-1 tvg-id="TivibuSpor2.tr" tvg-name="tivibu SPOR 2 HD" tvg-logo="" group-title="Turkey",tivibu SPOR 2 HD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/2697.ts
 
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/trytur1433451903.png/small" group-title="United States",MSNBC HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/1.ts
 
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/uyswus1433941237.png/small" group-title="United States",CNN HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/27.ts
 
+#EXTINF:-1 tvg-id="ABCBoston.us" tvg-name="ABC HD" tvg-logo="http://149.56.14.45/Logo/2018/ABC.png" group-title="US/CAN - Entertainment",ABC HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/114.ts
 
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC HD" tvg-logo="http://149.56.14.45/Logo/english/NBC-en.png" group-title="US/CAN - Entertainment",NBC HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/133.ts
 
+#EXTINF:-1 tvg-id="NBCBoston.us" tvg-name="NBC HD (WBTS Boston)" tvg-logo="http://149.56.14.45/Logo/2018/NBC.png" group-title="US/CAN - Entertainment",NBC HD (WBTS Boston)
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/10459.ts
 
+#EXTINF:-1 tvg-id="CBSBoston.us" tvg-name="CBS HD ( WBZ-TV Boston)" tvg-logo="http://149.56.14.45/Logo/2018/CBS_.png" group-title="US/CAN - Entertainment",CBS HD ( WBZ-TV Boston)
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/146.ts
 
+#EXTINF:-1 tvg-id="CBSBoston.us" tvg-name="CBS HD" tvg-logo="http://149.56.14.45/Logo/2018/CBS.png" group-title="US/CAN - Entertainment",CBS HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/8801.ts
 
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="FOX HD" tvg-logo="http://149.56.14.45/Logo/2018/xquwxv1436847349.png" group-title="US/CAN - Entertainment",FOX HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/12223.ts
 
+#EXTINF:-1 tvg-id="FOX25Boston.us" tvg-name="FOX HD [Boston]" tvg-logo="http://149.56.14.45/Logo/2018/xquwxv1436847349.png" group-title="US/CAN - Entertainment",FOX HD [Boston]
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/21.ts
 
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="FOX 43 HD" tvg-logo="http://149.56.14.45/Logo/english/fox_hd_lam-en.png" group-title="US/CAN - Entertainment",FOX 43 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/86.ts
 
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 HD Xtra" tvg-logo="https://www.thelogodb.com/images/media/logonew/xvuxxt1474667338.png/small" group-title="Germany",Eurosport 2 HD Xtra
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/142.ts
 
+#EXTINF:-1 tvg-id="beINLaLiga.es" tvg-name="BEIN Sports La Liga HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/6dhxi81505469184.png/small" group-title="Spain",BEIN Sports La Liga HD
+http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/16861.ts
 
+#EXTINF:-1 tvg-id="MovistarPartidazo.es" tvg-name="Movistar Partidazo HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/ef6gds1485607342.png/small" group-title="Spain",Movistar Partidazo HD
+http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/17141.ts
 
-#EXTINF:-1 MUSIC CHOICE
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="NBC Sports Network HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/qtyvux1433327014.png/small" group-title="Premier League",NBC Sports Network HD
+http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/17200.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", 90s
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC140/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Alternative
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC122/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Brits + Hits
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC143/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Dance
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC127/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Hip Hop/R&B
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC106/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Hit List
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC100/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Indie
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC129/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Kidz Only
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC130/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Metal
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC139/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Mexicana
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC131/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Music Choice Urbana
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC128/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Pop & Country
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC132/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Pop Hits
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC133/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Pop Latino
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC123/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", R&B/Soul
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC124/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Rap
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC125/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Rap 2K
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC141/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Rock
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC138/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Teen Beats
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC118/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Throwback Jamz
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC142/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Today's Country
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/VC-MC121/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Toddler Tunes
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC144/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Tropicales
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC137/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="Music Choice", Y2K
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/VC-MC145/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Gold Premier League 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/9tl8z81513075058.png/small" group-title="Premier League",NBC Sports Gold Premier League 1 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/12910.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Gold Premier League 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/9tl8z81513075058.png/small" group-title="Premier League",NBC Sports Gold Premier League 2 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/12909.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Gold Premier League 3 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/9tl8z81513075058.png/small" group-title="Premier League",NBC Sports Gold Premier League 3 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/12908.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Gold Premier League 4 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/9tl8z81513075058.png/small" group-title="Premier League",NBC Sports Gold Premier League 4 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/12907.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Gold Premier League 5 HD" tvg-logo="http://149.56.14.45/Logo/sports/nbc_extra_time5.png" group-title="Premier League",NBC Sports Gold Premier League 5 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/12906.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Gold Premier League 6 HD" tvg-logo="" group-title="Premier League",NBC Sports Gold Premier League 6 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/12905.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Gold Premier League 7 HD" tvg-logo="" group-title="Premier League",NBC Sports Gold Premier League 7 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/12904.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 1 HD" tvg-logo="" group-title="MLB",MLB 1 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/13655.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 2 HD" tvg-logo="" group-title="MLB",MLB 2 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/13656.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 3 HD" tvg-logo="" group-title="MLB",MLB 3 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/13657.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 4 HD" tvg-logo="" group-title="MLB",MLB 4 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/13658.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 5 HD" tvg-logo="" group-title="MLB",MLB 5 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/13659.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 6 HD" tvg-logo="" group-title="MLB",MLB 6 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/13660.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 7 HD" tvg-logo="" group-title="MLB",MLB 7 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/13661.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 8 HD" tvg-logo="" group-title="MLB",MLB 8 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/13662.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 9 HD" tvg-logo="" group-title="MLB",MLB 9 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/13663.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 10 HD" tvg-logo="" group-title="MLB",MLB 10 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/13648.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 11 HD" tvg-logo="" group-title="MLB",MLB 11 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/13649.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 12 HD" tvg-logo="" group-title="MLB",MLB 12 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/13650.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 13 HD" tvg-logo="" group-title="MLB",MLB 13 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/13651.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 14 HD" tvg-logo="" group-title="MLB",MLB 14 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/13652.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 15 HD" tvg-logo="" group-title="MLB",MLB 15 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/13653.ts
+
+#EXTINF:-1 tvg-id="MLB1" tvg-name="MLB 16 HD" tvg-logo="" group-title="MLB",MLB 16 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/13654.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="-= NFL GAMEDAY =-" tvg-logo="" group-title="Sports Pass",-= NFL GAMEDAY =-
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/6745.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL REDZONE" tvg-logo="http://149.56.14.45/Logo/2018/swppwq1434505673.png" group-title="Sports Pass",NFL REDZONE
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/4401.ts
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL NETWORK HD" tvg-logo="http://149.56.14.45/Logo/2018/yptxsp1478034120.png" group-title="Sports",NFL NETWORK HD
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/62.ts
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="USA : NFL NOW HD" tvg-logo="http://167.114.64.174/Logo/nfl/NFL-Now-1.png" group-title="Sports",USA : NFL NOW HD
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/61.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 1 : Patriots @ Eagles" tvg-logo="" group-title="Sports Pass",NFL 1 : Patriots @ Eagles
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15851.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 2 :" tvg-logo="" group-title="Sports Pass",NFL 2 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15859.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 3 :" tvg-logo="" group-title="Sports Pass",NFL 3 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15860.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 4 :" tvg-logo="" group-title="Sports Pass",NFL 4 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15861.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 5 :" tvg-logo="" group-title="Sports Pass",NFL 5 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15862.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 6 :" tvg-logo="" group-title="Sports Pass",NFL 6 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15863.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 7 :" tvg-logo="" group-title="Sports Pass",NFL 7 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15864.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 8 :" tvg-logo="" group-title="Sports Pass",NFL 8 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15865.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 9 :" tvg-logo="" group-title="Sports Pass",NFL 9 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15866.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 10 :" tvg-logo="" group-title="Sports Pass",NFL 10 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15852.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 11 :" tvg-logo="" group-title="Sports Pass",NFL 11 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15853.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 12 :" tvg-logo="" group-title="Sports Pass",NFL 12 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15854.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 13 :" tvg-logo="" group-title="Sports Pass",NFL 13 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15855.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 14 :" tvg-logo="" group-title="Sports Pass",NFL 14 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15856.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 15 :" tvg-logo="" group-title="Sports Pass",NFL 15 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15857.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL 16 :" tvg-logo="" group-title="Sports Pass",NFL 16 :
+http://epicstream.ddns.net:80/live/BPXXTWCXC/FNWGCNQ8EU/15858.ts
+
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN Sports 1 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/60olka1504234949.png/small" group-title="beIN Sports",beIN Sports 1 HD
+http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/30.ts
+
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beIN Sports 2 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/27h1lw1504234965.png/small" group-title="beIN Sports",beIN Sports 2 HD
+http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/31.ts
+
+#EXTINF:-1 tvg-id="beINSports11.qa" tvg-name="beIN Sports 11 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/o4qaz91504235090.png/small" group-title="beIN Sports",beIN Sports 11 HD
+http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/40.ts
+
+#EXTINF:-1 tvg-id="beINSports12.qa" tvg-name="beIN Sports 12 HD" tvg-logo="https://www.thelogodb.com/images/media/logonew/kgyxt91504235101.png/small" group-title="beIN Sports",beIN Sports 12 HD
+http://bestbuyiptv.link:6969/live/lenz_dimo@yahoo.de/cojexsH5C7/41.ts
+
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News UHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/sxwwxv1433780905.png/small" group-title="4K",Sky Sports News UHD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/15752.ts
+
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event UHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/mp44981502554837.png/small" group-title="4K",Sky Sports Main Event UHD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/15754.ts
+
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football UHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/lnd1p01502554851.png/small" group-title="4K",Sky Sports Football UHD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/15756.ts
+
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League UHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/7e2lv21502554825.png/small" group-title="4K",Sky Sports Premier League UHD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/15751.ts
+
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action UHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/kf0oba1502554875.png/small" group-title="4K",Sky Sports Action UHD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/15760.ts
+
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena UHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/kdr04z1502554338.png/small" group-title="4K",Sky Sports Arena UHD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/15759.ts
+
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket UHD" tvg-logo="https://www.thelogodb.com/images/media/logonew/47d7os1502554865.png/small" group-title="4K",Sky Sports Cricket UHD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/15758.ts
+
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix UHD" tvg-logo="" group-title="4K",Sky Sports Mix UHD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/15753.ts
+
+#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 HD" tvg-logo="http://149.56.14.45/Logo/2018/u3ecdo1486570408.png" group-title="DEUTSCH SPORT",Sky Bundesliga 1 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/1612.ts
+
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 HD" tvg-logo="http://149.56.14.45/Logo/2018/xpwqxy1433965242.png" group-title="DEUTSCH SPORT",Sky Sport 1 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/1603.ts
+
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 HD" tvg-logo="http://149.56.14.45/Logo/2018/qwsppt1433965260.png" group-title="DEUTSCH SPORT",Sky Sport 2 HD
+http://epicstream.ddns.net/live/BPXXTWCXC/FNWGCNQ8EU/1602.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT DIGITAL UHD" tvg-logo="" group-title="DEUTSCH SPORT",DE: SPORT DIGITAL UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/148.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORT1 UHD" tvg-logo="" group-title="DEUTSCH SPORT",DE: SPORT1 UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/146.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT NEWS UHD" tvg-logo="" group-title="DEUTSCH SPORT",DE: SKY SPORT NEWS UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/149.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT  1 UHD" tvg-logo="" group-title="DEUTSCH SPORT",DE: EUROSPORT  1 UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/144.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 UHD" tvg-logo="" group-title="DEUTSCH SPORT",DE: EUROSPORT 2 UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/143.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2XTRA UHD" tvg-logo="" group-title="DEUTSCH SPORT",DE: EUROSPORT 2XTRA UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/142.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 1 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 1 UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/139.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 2 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 2 UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/136.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 3 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 3 UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/133.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 4 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 4 UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/131.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 5 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 5 UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/129.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 6 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 6 UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/127.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 7 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 7 UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/125.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 8 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 8 UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/124.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA  9 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA  9 UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/123.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY BUNDESLIGA 10 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY BUNDESLIGA 10 UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/122.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 1 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 1 UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/121.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 2 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 2 UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/116.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 3 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 3 UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/113.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 4 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 4 UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/111.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 5 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 5 UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/109.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 6 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 6 UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/108.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 7 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 7 UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/107.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 8 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 8 UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/106.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 9 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 9 UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/105.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT 10 UHD" tvg-logo="" group-title="DEUTSCH SPORT",SKY SPORT 10 UHD
+http://49euroiptv.xyz:8080/live/lenz_dimo@yahoo.de/x7fdM2X9d0/104.ts
