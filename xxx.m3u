@@ -4,537 +4,513 @@
 
 #EXTM3U
 
-#EXTINF:-1,BBC One HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/251.ts
-
-#EXTINF:-1,BBC One Wales FHD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19341.ts
-
-#EXTINF:-1,BBC Two HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3036.ts
-
-#EXTINF:-1,BBC Two HD*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/250.ts
-
-#EXTINF:-1,BBC Three
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/249.ts
-
-#EXTINF:-1,BBC Four HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3040.ts
-
-#EXTINF:-1,BBC Four*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/248.ts
-
-#EXTINF:-1,ITV 1 FHD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3417.ts
-
-#EXTINF:-1,ITV 1 HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2969.ts
-
-#EXTINF:-1,ITV 1
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2846.ts
-
-#EXTINF:-1,ITV1 HD*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/247.ts
-
-#EXTINF:-1,ITV 1 +1
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19350.ts
-
-#EXTINF:-1,ITV 2 HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/246.ts
-
-#EXTINF:-1,ITV 2 HD*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2968.ts
-
-#EXTINF:-1,ITV 2 +1
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19347.ts
-
-#EXTINF:-1,ITV 3 HD*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/245.ts
-
-#EXTINF:-1,ITV 3 HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2967.ts
-
-#EXTINF:-1,ITV 4 HD*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2966.ts
-
-#EXTINF:-1,ITV Be*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/530.ts
-
-#EXTINF:-1,ITV Be
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2965.ts
-
-#EXTINF:-1,Channel 4 FHD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3418.ts
-
-#EXTINF:-1,Channel 4 HD*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/243.ts
-
-#EXTINF:-1,Channel 4
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3013.ts
-
-#EXTINF:-1,Channel 4+1
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19346.ts
-
-#EXTINF:-1,Channel 5 FHD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3419.ts
-
-#EXTINF:-1,Channel 5 HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3012.ts
-
-#EXTINF:-1,Channel 5 SD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2850.ts
-
-#EXTINF:-1,Channel 5+1
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19345.ts
-
-#EXTINF:-1,Channel 5*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/242.ts
-
-#EXTINF:-1,Sky One FHD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3420.ts
-
-#EXTINF:-1,Sky One HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/505.ts
-
-#EXTINF:-1,Sky One*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2899.ts
-
-#EXTINF:-1,Sky 2
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2927.ts
-
-#EXTINF:-1,Sky Atlantic FHD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2925.ts
-
-#EXTINF:-1,Sky Atlantic
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2924.ts
-
-#EXTINF:-1,Sky Atlantic HD*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/241.ts
-
-#EXTINF:-1,Sky Living FHD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3421.ts
-
-#EXTINF:-1,Sky Living
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2901.ts
-
-#EXTINF:-1,Sky Arts
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2926.ts
-
-#EXTINF:-1,Comedy Central
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19335.ts
-
-#EXTINF:-1,Comedy Central
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/239.ts
-
-#EXTINF:-1,Comedy Central +1
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19334.ts
-
-#EXTINF:-1,Comedy Central Extra
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3006.ts
-
-#EXTINF:-1,Comedy Xtra
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19333.ts
-
-#EXTINF:-1,Good Food
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3485.ts
-
-#EXTINF:-1,Syfy HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2875.ts
-
-#EXTINF:-1,SYFY
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3462.ts
-
-#EXTINF:-1,SYFY*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3461.ts
-
-#EXTINF:-1,SYFY +1
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19325.ts
-
-#EXTINF:-1,W HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2865.ts
-
-#EXTINF:-1,W
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2864.ts
-
-#EXTINF:-1,W +1
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19324.ts
-
-#EXTINF:-1,Alibi
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3047.ts
-
-#EXTINF:-1,Gold
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2976.ts
-
-#EXTINF:-1,Gold +1
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19331.ts
-
-#EXTINF:-1,Dave*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/510.ts
-
-#EXTINF:-1,Dave
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3003.ts
-
-#EXTINF:-1,Dave Ja Vu
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3489.ts
-
-#EXTINF:-1,Yesterday
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3456.ts
-
-#EXTINF:-1,Yesterday +1
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19323.ts
-
-#EXTINF:-1,TLC
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2872.ts
-
-#EXTINF:-1,5 Spike
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3463.ts
-
-#EXTINF:-1,Universal Channel
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2870.ts
-
-#EXTINF:-1,Universal+1
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19353.ts
-
-#EXTINF:-1,Lifetime
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/529.ts
-
-#EXTINF:-1,Quest
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2934.ts
-
-#EXTINF:-1,Quest*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/533.ts
-
-#EXTINF:-1,Quest +1
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19326.ts
-
-#EXTINF:-1,Drama
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2991.ts
-
-#EXTINF:-1,E!
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/509.ts
-
-#EXTINF:-1,E4
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2989.ts
-
-#EXTINF:-1,E4 HD*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/238.ts
-
-#EXTINF:-1,More 4 HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2958.ts
-
-#EXTINF:-1,Eden
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2987.ts
-
-#EXTINF:-1,Eden*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/534.ts
-
-#EXTINF:-1,Eden +1
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19332.ts
-
-#EXTINF:-1,MTV HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/1014.ts
-
-#EXTINF:-1,True Entertainment
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3457.ts
-
-#EXTINF:-1,CBS Drama
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19338.ts
-
-#EXTINF:-1,CBS Drama*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/240.ts
-
-#EXTINF:-1,CBS Action
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19339.ts
-
-#EXTINF:-1,CBS Reality
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19337.ts
-
-#EXTINF:-1,Pick
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2938.ts
-
-#EXTINF:-1,Home
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3483.ts
-
-#EXTINF:-1,Home & Health
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3482.ts
-
-#EXTINF:-1,Home & Health + 1
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19329.ts
-
-#EXTINF:-1,TG4
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/504.ts
-
-#EXTINF:-1,RTE 1 HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/235.ts
-
-#EXTINF:-1,RTE 2 HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/234.ts
-
-#EXTINF:-1,4seven
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3054.ts
-
-#EXTINF:-1,4seven HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3052.ts
-
-#EXTINF:-1,5 Star
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3051.ts
-
-#EXTINF:-1,5 Usa
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3050.ts
-
-#EXTINF:-1,5 usa +1
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3049.ts
-
-#EXTINF:-1,AMC
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3046.ts
-
-#EXTINF:-1,Challenge
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3015.ts
-
-#EXTINF:-1,H2
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2975.ts
-
-#EXTINF:-1,Horror Channel
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2971.ts
-
-#EXTINF:-1,Horror Channel +1
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19328.ts
-
-#EXTINF:-1,Really
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2930.ts
-
-#EXTINF:-1,UTV
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2869.ts
-
-#EXTINF:-1,Travel Channel
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3460.ts
-
-#EXTINF:-1,BBC One Wales FHD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/20820.ts
-
-#EXTINF:-1,I.D HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2970.ts
-
-#EXTINF:-1,I.D +1
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/19327.ts
-
-#EXTINF:-1,Discovery History*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/256.ts
-
-#EXTINF:-1,Investigation Discovery HD*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/257.ts
-
-#EXTINF:-1,Discovery Turbo
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/258.ts
-
-#EXTINF:-1,Discovery History HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/259.ts
-
-#EXTINF:-1,Discovery Science HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/260.ts
-
-#EXTINF:-1,Crime & Investigation HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3004.ts
-
-#EXTINF:-1,Animal Planet HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3045.ts
-
-#EXTINF:-1,Animal Planet*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/255.ts
-
-#EXTINF:-1,History FHD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2973.ts
-
-#EXTINF:-1,National Geo Wild HD*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/254.ts
-
-#EXTINF:-1,Nat Geographic HD*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/253.ts
-
-#EXTINF:-1,MTV
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2954.ts
-
-#EXTINF:-1,MTV UK
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/106.ts
-
-#EXTINF:-1,MTV Base
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2953.ts
-
-#EXTINF:-1,MTV Classics
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2952.ts
-
-#EXTINF:-1,MTV Dance
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2951.ts
-
-#EXTINF:-1,MTV Hits
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2950.ts
-
-#EXTINF:-1,MTV Music
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2949.ts
-
-#EXTINF:-1,MTV Rocks
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2948.ts
-
-#EXTINF:-1,MTV Rocks HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/107.ts
-
-#EXTINF:-1,VH1
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2868.ts
-
-#EXTINF:-1,KISS
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2962.ts
-
-#EXTINF:-1,Now 80s
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2941.ts
-
-#EXTINF:-1,Now 90's
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2940.ts
-
-#EXTINF:-1,ViVA
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2866.ts
-
-#EXTINF:-1,Vintage TV
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3505.ts
-
-#EXTINF:-1,Box Hits
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3033.ts
-
-#EXTINF:-1,Chart Show Hits
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3011.ts
-
-#EXTINF:-1,Sky Cinema Premiere HD*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/1013.ts
-
-#EXTINF:-1,Sky Cinema Premier HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2912.ts
-
-#EXTINF:-1,Sky Cinema Premiere +1
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3422.ts
-
-#EXTINF:-1,Sky Cinema Action HD 
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3410.ts
-
-#EXTINF:-1,Sky Cinema Action HD 
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/1006.ts
-
-#EXTINF:-1,Sky Cinema Action HD*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2923.ts
-
-#EXTINF:-1,Sky Cinema Comedy HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3411.ts
-
-#EXTINF:-1,Sky Cinema Comedy HD 
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2922.ts
-
-#EXTINF:-1,Sky Cinema Thriller HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/1004.ts
-
-#EXTINF:-1,Sky Cinema Family HD 
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3409.ts
-
-#EXTINF:-1,Sky Cinema Family HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/1007.ts
-
-#EXTINF:-1,Sky Cinema Family HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2917.ts
-
-#EXTINF:-1,Sky Cinema Hits HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/1010.ts
-
-#EXTINF:-1,Sky Cinema SciFi & Horror HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/1003.ts
-
-#EXTINF:-1,Sky Cinema Scifi & Horror*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2910.ts
-
-#EXTINF:-1,Sky Cinema Select
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/1002.ts
-
-#EXTINF:-1,Sky Cinema Select HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2908.ts
-
-#EXTINF:-1,Sky Cinema Select
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2843.ts
-
-#EXTINF:-1,Sky Cinema Disney HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3408.ts
-
-#EXTINF:-1,Sky Cinema Disney HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2920.ts
-
-#EXTINF:-1,Sky Cinema Drama & Romance
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2918.ts
-
-#EXTINF:-1,Sky Cinema Drama & Romance HD*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/980.ts
-
-#EXTINF:-1,Sky Cinema Greats HD 
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/1009.ts
-
-#EXTINF:-1,Sky Cinema Thriller HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2905.ts
-
-#EXTINF:-1,FILM 4 HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3542.ts
-
-#EXTINF:-1,FILM 4
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3544.ts
-
-#EXTINF:-1,True Movies
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2871.ts
-
-#EXTINF:-1,Movies4Men
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2955.ts
-
-#EXTINF:-1,TCM
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3509.ts
-
-#EXTINF:-1,TCM HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2874.ts
-
-#EXTINF:-1,Cartoon Network HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3021.ts
-
-#EXTINF:-1,Cartoonito
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/101.ts
-
-#EXTINF:-1,Boomerang
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/102.ts
-
-#EXTINF:-1,Disney Channel
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/99.ts
-
-#EXTINF:-1,Disney Channel*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2995.ts
-
-#EXTINF:-1,Disney Junior HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2994.ts
-
-#EXTINF:-1,Disney Junior*
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/100.ts
-
-#EXTINF:-1,Disney XD HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2993.ts
-
-#EXTINF:-1,Nick Junior
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2942.ts
-
-#EXTINF:-1,Nick Jr
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/97.ts
-
-#EXTINF:-1,Nick JR Too
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/2943.ts
-
-#EXTINF:-1,Nickelodeon
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/96.ts
-
-#EXTINF:-1,Nicktoons
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/94.ts
-
-#EXTINF:-1,Baby TV
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/103.ts
-
-#EXTINF:-1,CBBC HD
-http://bigstreams.tk:25461/live/localb-33/GdFlqwJnLd/3020.ts
-
+#EXTINF:0 group-title="(UK) United Kingdom",5 SPIKE | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37420.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",5SPIKE | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/9237.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",A1 TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/35119.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AASTHA | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11322.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ABN TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11337.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ABSOLUTE 80 | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/12583.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ABU DHABI TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11881.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AHLEBAIT TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11364.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AHLULBAYT TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11373.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AL ARABIYA | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/12594.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AL JAZEERA | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11078.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AL JAZEERA | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/2032.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ALAZEERA QATAR | SD (UK)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18841.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ALAZEERA QATAR | SD (UK)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18841.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ALB | SD (UK)
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/14767.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ALIBI | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37384.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ALIBI | SD (UK)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/631.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ANIMAL PLANET | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/9882.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ANIMAL PLANET | HD (UK)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4690.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ANIMAL PLANET | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/17219.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ANIMAL PLANET | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/2013.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ANIMAL PLANET | SD (UK)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/630.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ANIMAL-PLANET | HD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1361.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",APLUS TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11357.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ASIA TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11306.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ASIA TV UPDATED | SD (UK)
+http://50.7.198.170:8081/PB/BRITASIA/playlist.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ASIANET PLUS | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37678.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ATN BANGLA | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11363.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BEN TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11341.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BEN TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37465.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BLAZE | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11877.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BOLIVIATV VIVO | SD (UK)
+http://titiroq.xyz:25461/live/Saad55/Saad55/12887.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CAPILATL TV | SD (UK)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18848.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CAPILATL TV | SD (UK)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18848.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CAPITAL TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11742.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS ACTION | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/29513.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS ACTION | SD (UK)
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2205.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS ACTION | SD (UK)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/1608.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS DRAMA | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/2004.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS REALITY | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/9004.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS REALITY | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/29512.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS REALITY | SD (UK)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2204.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CBS REALITY | SD (UK)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/1606.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CGTN | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11883.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHALLENGE | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/21112.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL 4 | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/33270.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL 4 | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/2795.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL 44 | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/12595.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL 5 | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/31973.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHANNELS 24 | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11356.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHSTV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11858.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CITV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37158.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CLUBLAND TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11736.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",COLORS | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/14139.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",COLORS | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/14143.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",COMEDY CENTRAL | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/2003.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",COUNTRY NETWORK | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37292.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CRIME INVESTIGATION | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/10743.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DAVE | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/31974.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DAVE | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37383.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DAVE JA VU | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/27692.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/9879.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY | HD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1892.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY HISTORY | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/10126.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY HISTORY | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1929.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY INVESTIGATION | HD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1891.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY SCIENCE | HD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1362.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY SHED | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/9238.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY SHED | SD (UK)
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/8047.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY TURBO | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/9883.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY TURBO | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1930.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DMAX | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/33890.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",DRAMA | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/9235.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",E! ENTERTAINMENT | SD (UK)
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/8063.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EDEN | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/9984.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EMAN CHANNEL | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11745.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ENS ALJAZEERA | SD (UK)
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/13764.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ENS DW | SD (UK)
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/13755.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FASHION | HD (UK)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18118.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FASHION | HD (UK)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18118.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FILM 4 | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/21369.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FINE LIVING | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37338.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FLOWTV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11854.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FOOD NETWORK | SD (UK)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/570.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FORCES TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11898.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FOX | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/19632.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FOX | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37399.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FOX | SD (UK)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/632.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FRANCE 24 | SD (UK)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13599.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FRANCE 24 | SD (UK)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/13599.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FRONT RUNNER | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11859.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FRONT RUNNER 2 | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11372.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",GARV PUNJAB LIVE | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37676.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",GEO KAHANI | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11294.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",GEO KAHANI | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/2009.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",GEO TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11295.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",GEO TV | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/2011.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",GLORY TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11367.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",GOLD | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/27674.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",GOLD | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/36517.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",GOOD FOOD | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/8168.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HEART TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11274.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HEART TV | SD (UK)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13600.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HEART TV | SD (UK)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4731.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HIDAYAT TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11758.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HISTORY | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/10738.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HOME & HEALTH | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/9470.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HORROR CHANNEL | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11872.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HORSE & COUNTRY | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11365.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HUM EUROPE | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11297.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",HUM MASALA | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/14127.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ID FASHION | SD (UK)
+http://95.67.8.22/hls/idfashion/index.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",INSIGHT | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37161.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",INSPIRATION TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11892.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ION TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/23005.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",IQRA BANGLA | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11759.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",IQRA TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/12582.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/26573.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 2 | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/10749.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 3 | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37345.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 3 | HD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1343.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 3 | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37341.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV 4 | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37342.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV BE | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37412.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV CENTRAL | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/35123.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV GRANADA | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/36958.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV1 | HD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/2000.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV2 | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/8153.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ITV2 | HD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1999.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",JUS PUNJABI | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/21852.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",KANSHI TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11354.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",KTV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/6296.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",LIFETIME | HD (UK)
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/8075.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",LIVE | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11344.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",LIVE | SD (UK)
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",LONDEN LIVE | SD (UK)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18849.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",LONDEN LIVE | SD (UK)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18849.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",LOVEWORLD-TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11863.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MADANI CHANNEL | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11777.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MATV NATIONAL | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/22527.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MORE 4 | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/22411.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MTA-MUSLIM TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11902.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MUSLIM | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11910.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MUSLIM TV | SD (UK)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22078.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MUSLIM TV | SD (UK)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22078.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MY CHANNEL | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11735.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NAT GEO WILD | HD (UK)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4732.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NAT GEO WILD | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1360.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NAT GEOGRAPHIC | HD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1932.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NATIONAL GEOGRAPHIC | HD (UK)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4733.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NATIONAL GEOGRAPHIC WILD | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/29508.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NDTV 24X7 | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/13469.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NEW VISION TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11749.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NOLLYWOOD | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11885.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NOOR TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11740.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",NOW 80S | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11752.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",OLIVE TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11353.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PCNE CHINESE | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11901.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PEACE TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/14128.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PEACE TV | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/3020.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PEACETV URDU | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11879.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PICK TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/9229.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PICK TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/29514.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PROPELLER TV | SD (UK)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22079.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PROPELLER TV | SD (UK)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22079.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PROPERTY SHOW | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11753.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PTC PUNJABI | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11737.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PTV GLOBAL | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11756.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PTV PRIME | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11880.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",QUEST | SD (UK)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/1605.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",REAL LIVES | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11342.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",REALLY | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/9232.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",REALLY | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37422.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RECORD TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11738.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",REVELATION TV | SD (UK)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22077.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",REVELATION TV | SD (UK)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22077.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RISHTEY | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11298.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ROK | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11867.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RT DOCUMENTARY | SD (UK)
+https://secure-streams.akamaized.net/rt-doc/index.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RT VIVO | SD (UK)
+http://titiroq.xyz:25461/live/123412341234/123412341234/12865.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RTE 1 | HD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1992.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RTE 2 | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11334.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RTE 2 | HD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1991.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RTE 2 | SD (UK)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2207.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RTE ONE | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37162.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RUSSIA DOCUMENT | SD (UK)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21070.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RUSSIA DOCUMENT | SD (UK)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21070.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RUSSIA TODAY | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11326.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RUSSIA TODAY | SD (UK)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21071.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RUSSIA TODAY | SD (UK)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21071.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SAFEER TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/12598.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SAMAA | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11287.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SAMAA | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/4003.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SANGAT | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11743.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SANSKAR | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/35121.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SHOWCASE | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11855.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SIKH CHANNEL | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11862.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY 1 | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/27675.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY 2 | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/14195.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ACTION | HD (UK)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4687.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ARTS | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/8156.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ARTS | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37392.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ARTS | SD (UK)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4686.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ATLANTIC | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/8144.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ATLANTIC | HD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1359.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ATLANTIC | HD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/4359.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ATLANTIC | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/27098.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY COMEDY | HD (UK)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4684.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY GREATS | HD (UK)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4688.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY LIVING | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/8143.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY LIVING | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1986.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ONE | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11349.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY ONE | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/3703.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SCFI/HORHD | SD (UK)
+http://149.202.197.230:8000/live/7N3OS6CBPc/ZiOQlNv5wf/4689.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SONLIFE | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11849.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SONY TV | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11308.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SPIKE | SD (UK)
+http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2201.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",STAR BHARAT | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/22412.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",STAR GOLD | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11321.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",STAR LIFE OK | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11300.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",STAR PLUS | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11286.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",STAR PLUS | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37932.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",STAR PLUS | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11301.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",STAR UTSAV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/21854.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SYFY | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/8150.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SYFY | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37390.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TAKBEER | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11750.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TALKING PICTURES | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11747.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TG4 | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11331.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TG4 | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/1976.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",THANE | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/30019.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TIMES NOW | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11899.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TJC | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/12586.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TJC CHOICE | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/12585.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TLC | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/8160.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TRAVEL CHANNEL | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11370.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TV 99 | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11909.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",UNIVERSAL | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37160.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",UNIVERSAL CHANNEL | SD (UK)
+http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/8057.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",URDU1 EUROPE | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/35120.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",VENUS TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11757.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",VINTAGE TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11283.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",VOX AFRICA | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11793.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",VTV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/35122.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",WAIRARAPA TV | SD (UK)
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20376.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",WAIRARAPA TV | SD (UK)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20376.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",WORD NETWORK | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11893.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",WWE NETWORK | HD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37719.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",YANGA | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/37941.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",YESTERDAY | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/10733.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",YESTERDAY | SD (UK)
+http://163.172.44.143:9998/live/live:akincimedia2016/WuvFts8I3e/185.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ZEE TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11312.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ZEE TV | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/21845.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ZEE TV | SD (UK)
+http://163.172.62.63:8000/live/fazeel/fazeel/3788.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ZING | SD (UK)
+http://188.93.238.184:8000/live/ryan/ryan/11314.m3u8
