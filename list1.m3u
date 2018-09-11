@@ -1,699 +1,431 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Action UK" tvg-logo="http://pici.life/uk/SkyAction.uk.png" group-title="United Kingdom",Sky Movies Action UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6558.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Comedy UK" tvg-logo="http://pici.life/uk/SkyComedy.uk.png" group-title="United Kingdom",Sky Movies Comedy UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6557.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Drama UK" tvg-logo="http://pici.life/uk/SkyDrama.uk.png" group-title="United Kingdom",Sky Movies Drama UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6556.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Family UK" tvg-logo="http://pici.life/uk/SkyFamily.uk.png" group-title="United Kingdom",Sky Movies Family UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6555.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Modern Greats UK" tvg-logo="http://pici.life/uk/SkyGreats.uk.png" group-title="United Kingdom",Sky Movies Modern Greats UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6554.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Premiere UK" tvg-logo="http://pici.life/uk/SkyPremiere.uk.png" group-title="United Kingdom",Sky Movies Premiere UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6553.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Scifi Horror UK" tvg-logo="http://pici.life/uk/SkySciFiHorror.uk.png" group-title="United Kingdom",Sky Movies Scifi Horror UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6552.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Select UK" tvg-logo="http://pici.life/uk/SkySelect.uk.png" group-title="United Kingdom",Sky Movies Select UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6551.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Movies Showcase UK" tvg-logo="http://pici.life/uk/Showcase.uk.png" group-title="United Kingdom",Sky Movies Showcase UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6550.ts
-#EXTINF:-1 tvg-id="SkyCrimeThriller.uk" tvg-name="Sky Movies Thriller UK" tvg-logo="http://pici.life/uk/SkyCrimeThriller.uk.png" group-title="United Kingdom",Sky Movies Thriller UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6549.ts
-#EXTINF:-1 tvg-id="Showcase.uk" tvg-name="Movies Showcase UK" tvg-logo="http://pici.life/lg/UK/showcase.png" group-title="United Kingdom",Movies Showcase UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15904.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Box Office 3D UK" tvg-logo="" group-title="United Kingdom",Sky Cinema Box Office 3D UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/13849.ts
-#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="Sky Witness UK" tvg-logo="http://pici.life/skyliving.png" group-title="United Kingdom",Sky Witness UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/7912.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Witness +1 UK" tvg-logo="" group-title="United Kingdom",Sky Witness +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15692.ts
-#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="Sky Witness HD UK" tvg-logo="http://pici.life/uk/SkyLiving.uk.png" group-title="United Kingdom",Sky Witness HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6559.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky One UK" tvg-logo="" group-title="United Kingdom",Sky One UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6547.ts
-#EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="True Movies UK" tvg-logo="http://pici.life/uk/TrueMovies.uk.png" group-title="United Kingdom",True Movies UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6524.ts
-#EXTINF:-1 tvg-id="" tvg-name="True Movies 2 UK" tvg-logo="http://pici.life/uk/TrueMovies.uk.png" group-title="United Kingdom",True Movies 2 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6523.ts
-#EXTINF:-1 tvg-id="" tvg-name="Movies 4 Men UK" tvg-logo="http://pici.life/uk/Movies4Men.uk.png" group-title="United Kingdom",Movies 4 Men UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6579.ts
-#EXTINF:-1 tvg-id="Movies4Men.uk" tvg-name="Movies4Men +1 UK" tvg-logo="http://pici.life/lg/UK/movies4menplus1.png" group-title="United Kingdom",Movies4Men +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15820.ts
-#EXTINF:-1 tvg-id="SonyMovies.uk" tvg-name="Sony Movies UK" tvg-logo="" group-title="United Kingdom",Sony Movies UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9528.ts
-#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film 4 UK" tvg-logo="http://pici.life/uk/Film4.uk.png" group-title="United Kingdom",Film 4 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6607.ts
-#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film 4 HD UK" tvg-logo="" group-title="United Kingdom",Film 4 HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15746.ts
-#EXTINF:-1 tvg-id="TCM.uk" tvg-name="TCM HD UK" tvg-logo="" group-title="United Kingdom",TCM HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9511.ts
-#EXTINF:-1 tvg-id="" tvg-name="TCM HD English Lang UK" tvg-logo="" group-title="United Kingdom",TCM HD English Lang UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9510.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Box Office 1 FHD UK" tvg-logo="" group-title="United Kingdom",Sky Cinema Box Office 1 FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15878.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Box Office 2 FHD UK" tvg-logo="" group-title="United Kingdom",Sky Cinema Box Office 2 FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15879.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Box Office 4 FHD UK" tvg-logo="" group-title="United Kingdom",Sky Cinema Box Office 4 FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15893.ts
-#EXTINF:-1 tvg-id="SkyAction.uk" tvg-name="Sky Movies Action & Adventure HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Action & Adventure HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15720.ts
-#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="Sky Movies Comedy HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Comedy HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15719.ts
-#EXTINF:-1 tvg-id="SkyDisney.uk" tvg-name="Sky Movies Disney HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Disney HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15717.ts
-#EXTINF:-1 tvg-id="SkyDrama.uk" tvg-name="Sky Movies Drama & Romance HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Drama & Romance HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15716.ts
-#EXTINF:-1 tvg-id="SkyFamily.uk" tvg-name="Sky Movies Family HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Family HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15715.ts
-#EXTINF:-1 tvg-id="SkyPremierePlus1.uk" tvg-name="Sky Movies Premiere +1 HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Premiere +1 HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15714.ts
-#EXTINF:-1 tvg-id="SkyPremiere.uk" tvg-name="Sky Movies Premiere HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Premiere HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15713.ts
-#EXTINF:-1 tvg-id="SkySciFiHorror.uk" tvg-name="Sky Movies Sci-Fi & Horror HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Sci-Fi & Horror HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15712.ts
-#EXTINF:-1 tvg-id="SkySelect.uk" tvg-name="Sky Movies Select HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Select HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15711.ts
-#EXTINF:-1 tvg-id="SkyCrimeThriller.uk" tvg-name="Sky Movies Thriller HD UK" tvg-logo="" group-title="United Kingdom",Sky Movies Thriller HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15718.ts
-#EXTINF:-1 tvg-id="SonyMovies.uk" tvg-name="Sony Movies +1 UK" tvg-logo="http://pici.life/lg/UK/sonymoviesplus1.png" group-title="United Kingdom",Sony Movies +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15896.ts
-#EXTINF:-1 tvg-id="" tvg-name="TCM +1 UK" tvg-logo="http://pici.life/lg/UK/tcmplus1.png" group-title="United Kingdom",TCM +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15882.ts
-#EXTINF:-1 tvg-id="TCM.uk" tvg-name="TCM UK" tvg-logo="http://pici.life/lg/UK/tcm.png" group-title="United Kingdom",TCM UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15883.ts
-#EXTINF:-1 tvg-id="" tvg-name="True Movies +1 UK" tvg-logo="http://pici.life/lg/UK/truemovies.png" group-title="United Kingdom",True Movies +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15874.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sony Sab UK" tvg-logo="http://pici.life/lg/UK/sonysab.png" group-title="United Kingdom",Sony Sab UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15895.ts
-#EXTINF:-1 tvg-id="" tvg-name="Colors TV UK" tvg-logo="" group-title="United Kingdom",Colors TV UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/16881.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tru +1 UK" tvg-logo="" group-title="United Kingdom",Tru +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15857.ts
-#EXTINF:-1 tvg-id="" tvg-name="------- UK News -------" tvg-logo="" group-title="United Kingdom",------- UK News -------
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15574.ts
-#EXTINF:-1 tvg-id="" tvg-name="ABC News UK" tvg-logo="" group-title="United Kingdom",ABC News UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9535.ts
-#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera News FHD UK" tvg-logo="" group-title="United Kingdom",Al Jazeera News FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9531.ts
-#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News UK" tvg-logo="http://pici.life/uk/BBCWorldNews.uk.png" group-title="United Kingdom",BBC World News UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6655.ts
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News HD UK" tvg-logo="http://pici.life/lg/UK/bbcnewshd.png" group-title="United Kingdom",BBC News HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15790.ts
-#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="Bloomberg UK" tvg-logo="http://pici.life/uk/BloombergTV.uk.png" group-title="United Kingdom",Bloomberg UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6652.ts
-#EXTINF:-1 tvg-id="" tvg-name="CCTV News UK" tvg-logo="http://pici.life/lg/UK/cctvnews.png" group-title="United Kingdom",CCTV News UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15779.ts
-#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="CNBC Europe UK" tvg-logo="" group-title="United Kingdom",CNBC Europe UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9534.ts
-#EXTINF:-1 tvg-id="" tvg-name="CNN FHD UK" tvg-logo="http://pici.life/uk/CNN.uk.png" group-title="United Kingdom",CNN FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6630.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox News UK" tvg-logo="http://pici.life/uk/FOXNews.uk.png" group-title="United Kingdom",Fox News UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6602.ts
-#EXTINF:-1 tvg-id="" tvg-name="France 24 English UK" tvg-logo="" group-title="United Kingdom",France 24 English UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9532.ts
-#EXTINF:-1 tvg-id="" tvg-name="NHK World News HD UK" tvg-logo="" group-title="United Kingdom",NHK World News HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9530.ts
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News UK" tvg-logo="http://pici.life/uk/SkyNews.uk.png" group-title="United Kingdom",Sky News UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6548.ts
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News FHD UK" tvg-logo="http://pici.life/lg/UK/skynews.png" group-title="United Kingdom",Sky News FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15898.ts
-#EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="Euronews UK" tvg-logo="" group-title="United Kingdom",Euronews UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9545.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTE News Now UK" tvg-logo="" group-title="United Kingdom",RTE News Now UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9503.ts
-#EXTINF:-1 tvg-id="" tvg-name="------- UK Documentary -------" tvg-logo="" group-title="United Kingdom",------- UK Documentary -------
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/16206.ts
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet UK" tvg-logo="http://pici.life/uk/AnimalPlanet.uk.png" group-title="United Kingdom",Animal Planet UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6662.ts
-#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="Animal Planet +1 UK" tvg-logo="http://pici.life/lg/UK/animalplanet.png" group-title="United Kingdom",Animal Planet +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15851.ts
-#EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="Crime & Investigation UK" tvg-logo="http://pici.life/uk/CrimeAndInvestigationNetwork.uk.png" group-title="United Kingdom",Crime & Investigation UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6627.ts
-#EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="Crime & Investigation FHD UK" tvg-logo="" group-title="United Kingdom",Crime & Investigation FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/12865.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel UK" tvg-logo="http://pici.life/uk/DiscoveryChannel.uk.png" group-title="United Kingdom",Discovery Channel UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6625.ts
-#EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="Discovery Channel HD UK" tvg-logo="" group-title="United Kingdom",Discovery Channel HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15763.ts
-#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="Discovery History UK" tvg-logo="http://pici.life/uk/DiscoveryHistory.uk.png" group-title="United Kingdom",Discovery History UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6624.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery History +1 UK" tvg-logo="" group-title="United Kingdom",Discovery History +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15762.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation UK" tvg-logo="http://pici.life/uk/InvestigationDiscovery.uk.png" group-title="United Kingdom",Discovery Investigation UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6623.ts
-#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="Discovery Science UK" tvg-logo="http://pici.life/uk/DiscoveryScience.uk.png" group-title="United Kingdom",Discovery Science UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6622.ts
-#EXTINF:-1 tvg-id="DiscoveryShed.uk" tvg-name="Discovery Shed UK" tvg-logo="http://pici.life/uk/DiscoveryShed.uk.png" group-title="United Kingdom",Discovery Shed UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6621.ts
-#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo UK" tvg-logo="http://pici.life/uk/DiscoveryTurbo.uk.png" group-title="United Kingdom",Discovery Turbo UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6620.ts
-#EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="Investigation Discovery UK" tvg-logo="" group-title="United Kingdom",Investigation Discovery UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9521.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health +1 UK" tvg-logo="" group-title="United Kingdom",Discovery Home & Health +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15761.ts
-#EXTINF:-1 tvg-id="History2.uk" tvg-name="H2 UK" tvg-logo="http://pici.life/uk/H2.uk.PNG" group-title="United Kingdom",H2 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6596.ts
-#EXTINF:-1 tvg-id="HistoryChannel.uk" tvg-name="History FHD UK" tvg-logo="http://pici.life/uk/HistoryChannel.uk.png" group-title="United Kingdom",History FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6597.ts
-#EXTINF:-1 tvg-id="Home.uk" tvg-name="Home UK" tvg-logo="" group-title="United Kingdom",Home UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9513.ts
-#EXTINF:-1 tvg-id="" tvg-name="Home +1 UK" tvg-logo="http://pici.life/lg/UK/homeplus1.png" group-title="United Kingdom",Home +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15836.ts
-#EXTINF:-1 tvg-id="HomeandHealth.uk" tvg-name="Home and Health UK" tvg-logo="http://pici.life/uk/HomeandHealth.uk.png" group-title="United Kingdom",Home and Health UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6594.ts
-#EXTINF:-1 tvg-id="" tvg-name="Home&Health +1 UK" tvg-logo="" group-title="United Kingdom",Home&Health +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15835.ts
-#EXTINF:-1 tvg-id="HorseAndCountry.uk" tvg-name="Horse & Country UK" tvg-logo="" group-title="United Kingdom",Horse & Country UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9525.ts
-#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="National Geographic UK" tvg-logo="http://pici.life/uk/NatGeo.uk.png" group-title="United Kingdom",National Geographic UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6574.ts
-#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="National Geographic HD UK" tvg-logo="http://pici.life/pta/nationalgeographichd.png" group-title="United Kingdom",National Geographic HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15811.ts
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild UK" tvg-logo="http://pici.life/uk/NatGeoWild.uk.png" group-title="United Kingdom",National Geographic Wild UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6573.ts
-#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="National Geographic Wild HD UK" tvg-logo="http://pici.life/lg/UK/natgeowildhd.png" group-title="United Kingdom",National Geographic Wild HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15810.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nautical Channel FHD UK" tvg-logo="" group-title="United Kingdom",Nautical Channel FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9524.ts
-#EXTINF:-1 tvg-id="" tvg-name="RT Documentary UK" tvg-logo="" group-title="United Kingdom",RT Documentary UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/11454.ts
-#EXTINF:-1 tvg-id="TLC.uk" tvg-name="TLC Europe UK" tvg-logo="http://pici.life/lg/UK/tlc_3.png" group-title="United Kingdom",TLC Europe UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15877.ts
-#EXTINF:-1 tvg-id="" tvg-name="TLC +1 UK" tvg-logo="http://pici.life/lg/UK/tlcplus1.png" group-title="United Kingdom",TLC +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15848.ts
-#EXTINF:-1 tvg-id="TravelChannel.uk" tvg-name="Travel Channel UK" tvg-logo="http://pici.life/uk/TravelChannel.uk.png" group-title="United Kingdom",Travel Channel UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6526.ts
-#EXTINF:-1 tvg-id="TravelChannel.uk" tvg-name="Travel Channel HD UK" tvg-logo="" group-title="United Kingdom",Travel Channel HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9517.ts
-#EXTINF:-1 tvg-id="" tvg-name="Travel Channel +1 UK" tvg-logo="http://pici.life/lg/UK/travelchannelplus1.png" group-title="United Kingdom",Travel Channel +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15849.ts
-#EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="ID Europe UK" tvg-logo="http://pici.life/lg/UK/investigationdiscovery.png" group-title="United Kingdom",ID Europe UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15833.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID +1 UK" tvg-logo="http://pici.life/lg/UK/investigationdiscoveryplus1.png" group-title="United Kingdom",ID +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15834.ts
-#EXTINF:-1 tvg-id="" tvg-name="------- UK Entertainment -------" tvg-logo="" group-title="United Kingdom",------- UK Entertainment -------
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15573.ts
-#EXTINF:-1 tvg-id="BBCAlba.uk" tvg-name="BBC Alba UK" tvg-logo="" group-title="United Kingdom",BBC Alba UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9549.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBC Entertainment UK" tvg-logo="" group-title="United Kingdom",BBC Entertainment UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9548.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBC One Northern Ireland UK" tvg-logo="" group-title="United Kingdom",BBC One Northern Ireland UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9552.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBC One Scotland UK" tvg-logo="" group-title="United Kingdom",BBC One Scotland UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9553.ts
-#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC One Scotland FHD UK" tvg-logo="http://pici.life/lg/UK/bbconehd.png" group-title="United Kingdom",BBC One Scotland FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15789.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBC Two Scotland UK" tvg-logo="" group-title="United Kingdom",BBC Two Scotland UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9551.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBC One Wales UK" tvg-logo="" group-title="United Kingdom",BBC One Wales UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9554.ts
-#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="BBC Parliament UK" tvg-logo="" group-title="United Kingdom",BBC Parliament UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9546.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBC Red Button UK" tvg-logo="" group-title="United Kingdom",BBC Red Button UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9547.ts
-#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC 1 UK" tvg-logo="http://pici.life/uk/BBC1.uk.png" group-title="United Kingdom",BBC 1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6659.ts
-#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC 1 HD UK" tvg-logo="" group-title="United Kingdom",BBC 1 HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15741.ts
-#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC 1 FHD UK" tvg-logo="" group-title="United Kingdom",BBC 1 FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15742.ts
-#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC 2 UK" tvg-logo="http://pici.life/uk/BBC2.uk.png" group-title="United Kingdom",BBC 2 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6658.ts
-#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC 2 HD UK" tvg-logo="" group-title="United Kingdom",BBC 2 HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15740.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBC 3 UK" tvg-logo="http://pici.life/uk/BBCNews.uk.png" group-title="United Kingdom",BBC 3 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6657.ts
-#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="BBC 4 UK" tvg-logo="http://pici.life/uk/BBC4.uk.png" group-title="United Kingdom",BBC 4 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6656.ts
-#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="BBC 4 HD UK" tvg-logo="" group-title="United Kingdom",BBC 4 HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15739.ts
-#EXTINF:-1 tvg-id="BET.uk" tvg-name="Bet UK" tvg-logo="http://pici.life/uk/BET.uk.png" group-title="United Kingdom",Bet UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6654.ts
-#EXTINF:-1 tvg-id="BikeChannel.uk" tvg-name="Bike UK" tvg-logo="http://pici.life/uk/BikeChannel.uk.png" group-title="United Kingdom",Bike UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6653.ts
-#EXTINF:-1 tvg-id="Blaze.uk" tvg-name="Blaze UK" tvg-logo="" group-title="United Kingdom",Blaze UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15786.ts
-#EXTINF:-1 tvg-id="" tvg-name="Box Hits UK" tvg-logo="" group-title="United Kingdom",Box Hits UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15785.ts
-#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="Box Nation UK" tvg-logo="http://pici.life/lg/UK/boxnation.png" group-title="United Kingdom",Box Nation UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15783.ts
-#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="BoxNation FHD UK" tvg-logo="http://pici.life/uk/BoxNation.uk.png" group-title="United Kingdom",BoxNation FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6650.ts
-#EXTINF:-1 tvg-id="" tvg-name="BOX Upfront UK" tvg-logo="http://pici.life/boxupfront.png" group-title="United Kingdom",BOX Upfront UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15784.ts
-#EXTINF:-1 tvg-id="" tvg-name="British Muslim UK" tvg-logo="http://pici.life/lg/UK/britishmuslim.png" group-title="United Kingdom",British Muslim UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15782.ts
-#EXTINF:-1 tvg-id="CapitalTV.uk" tvg-name="Capital TV UK" tvg-logo="" group-title="United Kingdom",Capital TV UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/11459.ts
-#EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="CBS Action UK" tvg-logo="http://pici.life/uk/CBSAction.uk.png" group-title="United Kingdom",CBS Action UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6636.ts
-#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC UK" tvg-logo="" group-title="United Kingdom",CBBC UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15737.ts
-#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC FHD UK" tvg-logo="" group-title="United Kingdom",CBBC FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9550.ts
-#EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="CBS Drama UK" tvg-logo="http://pici.life/uk/CBSDrama.uk.png" group-title="United Kingdom",CBS Drama UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6635.ts
-#EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="CBS Reality UK" tvg-logo="http://pici.life/uk/CBSReality.uk.png" group-title="United Kingdom",CBS Reality UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6634.ts
-#EXTINF:-1 tvg-id="" tvg-name="CBS Reality +1 UK" tvg-logo="http://pici.life/lg/UK/cbsrealityplus1.png" group-title="United Kingdom",CBS Reality +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15780.ts
-#EXTINF:-1 tvg-id="Challenge.uk" tvg-name="Challenge UK" tvg-logo="" group-title="United Kingdom",Challenge UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9556.ts
-#EXTINF:-1 tvg-id="" tvg-name="Challenge +1 FHD UK" tvg-logo="" group-title="United Kingdom",Challenge +1 FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9555.ts
-#EXTINF:-1 tvg-id="ChannelAka.uk" tvg-name="Channel Aka UK" tvg-logo="" group-title="United Kingdom",Channel Aka UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9508.ts
-#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 UK" tvg-logo="http://pici.life/uk/Channel4.uk.png" group-title="United Kingdom",Channel 4 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6633.ts
-#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 HD UK" tvg-logo="http://pici.life/lg/UK/channel4hd.png" group-title="United Kingdom",Channel 4 HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15776.ts
-#EXTINF:-1 tvg-id="" tvg-name="Channel 4 +1 London UK" tvg-logo="http://pici.life/lg/UK/channel4plus1.png" group-title="United Kingdom",Channel 4 +1 London UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15777.ts
-#EXTINF:-1 tvg-id="" tvg-name="Channels 24 UK" tvg-logo="http://pici.life/lg/UK/channels24.png" group-title="United Kingdom",Channels 24 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15775.ts
-#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5 FHD UK" tvg-logo="http://pici.life/uk/Channel5.uk.png" group-title="United Kingdom",Channel 5 FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6632.ts
-#EXTINF:-1 tvg-id="" tvg-name="Channel 5 +1 UK" tvg-logo="" group-title="United Kingdom",Channel 5 +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/11463.ts
-#EXTINF:-1 tvg-id="" tvg-name="Chelsea FC UK" tvg-logo="http://pici.life/uk/ChelseaTV.uk.png" group-title="United Kingdom",Chelsea FC UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6631.ts
-#EXTINF:-1 tvg-id="" tvg-name="Christmas 24 UK" tvg-logo="http://pici.life/uk/Movies24.uk.png" group-title="United Kingdom",Christmas 24 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6576.ts
-#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="Comedy Central FHD UK" tvg-logo="http://pici.life/uk/ComedyCentral.uk.png" group-title="United Kingdom",Comedy Central FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6629.ts
-#EXTINF:-1 tvg-id="ComedyCentralExtra.uk" tvg-name="Comedy Central Extra +1 UK" tvg-logo="http://pici.life/lg/UK/comedycentralextraplus1.png" group-title="United Kingdom",Comedy Central Extra +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15855.ts
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Extra UK" tvg-logo="http://pici.life/lg/UK/comedycentralextra.png" group-title="United Kingdom",Comedy Extra UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15856.ts
-#EXTINF:-1 tvg-id="ComedyCentralExtra.uk" tvg-name="Comedy Central Xtra UK" tvg-logo="http://pici.life/uk/ComedyCentralExtra.uk.png" group-title="United Kingdom",Comedy Central Xtra UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6628.ts
-#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation HD UK" tvg-logo="" group-title="United Kingdom",Crime Investigation HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15766.ts
-#EXTINF:-1 tvg-id="" tvg-name="Crime investigation +1 UK" tvg-logo="http://pici.life/lg/UK/crimeplusinvestigation.png" group-title="United Kingdom",Crime investigation +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15852.ts
-#EXTINF:-1 tvg-id="Dave.uk" tvg-name="Dave UK" tvg-logo="http://pici.life/uk/Dave.uk.png" group-title="United Kingdom",Dave UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6626.ts
-#EXTINF:-1 tvg-id="Dave.uk" tvg-name="Dave HD UK" tvg-logo="" group-title="United Kingdom",Dave HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15765.ts
-#EXTINF:-1 tvg-id="DaveJaVu.uk" tvg-name="Dave ja vu UK" tvg-logo="" group-title="United Kingdom",Dave ja vu UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15764.ts
-#EXTINF:-1 tvg-id="DiscoveryDMAX.uk" tvg-name="Dmax UK" tvg-logo="http://pici.life/uk/DiscoveryDMAX.uk.png" group-title="United Kingdom",Dmax UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6615.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dmax +1 UK" tvg-logo="" group-title="United Kingdom",Dmax +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15757.ts
-#EXTINF:-1 tvg-id="" tvg-name="Docubox HD UK" tvg-logo="" group-title="United Kingdom",Docubox HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/11342.ts
-#EXTINF:-1 tvg-id="Drama.uk" tvg-name="Drama UK" tvg-logo="http://pici.life/uk/Drama.uk.png" group-title="United Kingdom",Drama UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6614.ts
-#EXTINF:-1 tvg-id="EEntertainment.uk" tvg-name="E! UK" tvg-logo="" group-title="United Kingdom",E! UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9516.ts
-#EXTINF:-1 tvg-id="E4.uk" tvg-name="E4 UK" tvg-logo="http://pici.life/uk/E4.uk.png" group-title="United Kingdom",E4 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6613.ts
-#EXTINF:-1 tvg-id="E4.uk" tvg-name="E4 HD UK" tvg-logo="" group-title="United Kingdom",E4 HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15754.ts
-#EXTINF:-1 tvg-id="" tvg-name="E4+1 UK" tvg-logo="" group-title="United Kingdom",E4+1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/11462.ts
-#EXTINF:-1 tvg-id="Eden.uk" tvg-name="Eden UK" tvg-logo="" group-title="United Kingdom",Eden UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9518.ts
-#EXTINF:-1 tvg-id="Eden.uk" tvg-name="Eden HD UK" tvg-logo="" group-title="United Kingdom",Eden HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15753.ts
-#EXTINF:-1 tvg-id="FineLivingEurope.uk" tvg-name="Fine Living UK" tvg-logo="" group-title="United Kingdom",Fine Living UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15745.ts
-#EXTINF:-1 tvg-id="" tvg-name="Five UK" tvg-logo="http://pici.life/uk/FiveUSA.uk.png" group-title="United Kingdom",Five UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6606.ts
-#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network UK" tvg-logo="" group-title="United Kingdom",Food Network UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6601.ts
-#EXTINF:-1 tvg-id="" tvg-name="Food Network +1 UK" tvg-logo="" group-title="United Kingdom",Food Network +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15743.ts
-#EXTINF:-1 tvg-id="FOX.uk" tvg-name="Fox UK" tvg-logo="http://pici.life/uk/FOX.uk.png" group-title="United Kingdom",Fox UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6604.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Crime UK" tvg-logo="" group-title="United Kingdom",Fox Crime UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6603.ts
-#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="Gold UK" tvg-logo="http://pici.life/uk/GOLD.uk.png" group-title="United Kingdom",Gold UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6599.ts
-#EXTINF:-1 tvg-id="GoodFood.uk" tvg-name="Good Food UK" tvg-logo="http://pici.life/uk/GoodFood.uk.png" group-title="United Kingdom",Good Food UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6598.ts
-#EXTINF:-1 tvg-id="HeartTV.uk" tvg-name="Heart TV UK" tvg-logo="" group-title="United Kingdom",Heart TV UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/11455.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hillsong Channel UK" tvg-logo="" group-title="United Kingdom",Hillsong Channel UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/14174.ts
-#EXTINF:-1 tvg-id="HorrorChannel.uk" tvg-name="Horror Channel UK" tvg-logo="http://pici.life/uk/HorrorChannel.uk.png" group-title="United Kingdom",Horror Channel UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6595.ts
-#EXTINF:-1 tvg-id="" tvg-name="Islam Channel BH UK" tvg-logo="http://pici.life/islamchannel.png" group-title="United Kingdom",Islam Channel BH UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/11043.ts
-#EXTINF:-1 tvg-id="" tvg-name="Irish TV UK" tvg-logo="" group-title="United Kingdom",Irish TV UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6593.ts
-#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="ITV 1 UK" tvg-logo="http://pici.life/uk/ITV1Anglia.uk.png" group-title="United Kingdom",ITV 1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6592.ts
-#EXTINF:-1 tvg-id="" tvg-name="ITV 1 HD UK" tvg-logo="" group-title="United Kingdom",ITV 1 HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15734.ts
-#EXTINF:-1 tvg-id="" tvg-name="ITV 1 FHD UK" tvg-logo="" group-title="United Kingdom",ITV 1 FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15731.ts
-#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2 UK" tvg-logo="http://pici.life/uk/ITV2.uk.png" group-title="United Kingdom",ITV 2 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6591.ts
-#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2 HD UK" tvg-logo="" group-title="United Kingdom",ITV 2 HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15729.ts
-#EXTINF:-1 tvg-id="" tvg-name="ITV 2 +1 UK" tvg-logo="" group-title="United Kingdom",ITV 2 +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15730.ts
-#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV 3 UK" tvg-logo="http://pici.life/uk/ITV3.uk.png" group-title="United Kingdom",ITV 3 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6590.ts
-#EXTINF:-1 tvg-id="" tvg-name="ITV 3 HD UK" tvg-logo="" group-title="United Kingdom",ITV 3 HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15727.ts
-#EXTINF:-1 tvg-id="" tvg-name="ITV 3 +1 UK" tvg-logo="" group-title="United Kingdom",ITV 3 +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15728.ts
-#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4 UK" tvg-logo="http://pici.life/uk/ITV4.uk.png" group-title="United Kingdom",ITV 4 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6589.ts
-#EXTINF:-1 tvg-id="" tvg-name="ITV 4 HD UK" tvg-logo="" group-title="United Kingdom",ITV 4 HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15724.ts
-#EXTINF:-1 tvg-id="" tvg-name="ITV 4 FHD UK" tvg-logo="" group-title="United Kingdom",ITV 4 FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15725.ts
-#EXTINF:-1 tvg-id="" tvg-name="ITV 4 +1 UK" tvg-logo="" group-title="United Kingdom",ITV 4 +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15726.ts
-#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITV Be UK" tvg-logo="http://pici.life/uk/ITVBe.uk.png" group-title="United Kingdom",ITV Be UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6588.ts
-#EXTINF:-1 tvg-id="" tvg-name="ITV Be HD UK" tvg-logo="" group-title="United Kingdom",ITV Be HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15732.ts
-#EXTINF:-1 tvg-id="" tvg-name="ITV Be +1 UK" tvg-logo="" group-title="United Kingdom",ITV Be +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15723.ts
-#EXTINF:-1 tvg-id="ITVEncore.uk" tvg-name="ITV Encore UK" tvg-logo="http://pici.life/uk/ITVEncore.uk.png" group-title="United Kingdom",ITV Encore UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6587.ts
-#EXTINF:-1 tvg-id="" tvg-name="ITV Encore HD UK" tvg-logo="" group-title="United Kingdom",ITV Encore HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15722.ts
-#EXTINF:-1 tvg-id="" tvg-name="ITV Box Office (Only During the Events) FHD UK" tvg-logo="" group-title="United Kingdom",ITV Box Office (Only During the Events) FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/12863.ts
-#EXTINF:-1 tvg-id="Lifetime.uk" tvg-name="Lifetime UK" tvg-logo="http://pici.life/uk/Lifetime.uk.png" group-title="United Kingdom",Lifetime UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6585.ts
-#EXTINF:-1 tvg-id="Lifetime.uk" tvg-name="Lifetime HD UK" tvg-logo="http://pici.life/lg/UK/lifetimehd.png" group-title="United Kingdom",Lifetime HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15825.ts
-#EXTINF:-1 tvg-id="LondonLive.uk" tvg-name="London Live UK" tvg-logo="http://pici.life/uk/LondonLive.uk.png" group-title="United Kingdom",London Live UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6583.ts
-#EXTINF:-1 tvg-id="" tvg-name="More 4 UK" tvg-logo="http://pici.life/uk/More4.uk.png" group-title="United Kingdom",More 4 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6581.ts
-#EXTINF:-1 tvg-id="More4.uk" tvg-name="More4 HD UK" tvg-logo="http://pici.life/lg/UK/more4hd.png" group-title="United Kingdom",More4 HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15821.ts
-#EXTINF:-1 tvg-id="" tvg-name="More4 +1 UK" tvg-logo="http://pici.life/lg/UK/more4plus1.png" group-title="United Kingdom",More4 +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15822.ts
-#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV UK" tvg-logo="http://pici.life/lg/UK/mutv.png" group-title="United Kingdom",MUTV UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15813.ts
-#EXTINF:-1 tvg-id="My5.uk" tvg-name="My5 UK" tvg-logo="http://pici.life/uk/My5.uk.png" group-title="United Kingdom",My5 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6575.ts
-#EXTINF:-1 tvg-id="" tvg-name="PBS America UK" tvg-logo="" group-title="United Kingdom",PBS America UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9514.ts
-#EXTINF:-1 tvg-id="PickTV.uk" tvg-name="Pick TV UK" tvg-logo="http://pici.life/uk/PickTV.uk.png" group-title="United Kingdom",Pick TV UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6569.ts
-#EXTINF:-1 tvg-id="Pop.uk" tvg-name="POP UK" tvg-logo="http://pici.life/lg/UK/pop.png" group-title="United Kingdom",POP UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15800.ts
-#EXTINF:-1 tvg-id="Quest.uk" tvg-name="Quest UK" tvg-logo="http://pici.life/uk/Quest.uk.png" group-title="United Kingdom",Quest UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6567.ts
-#EXTINF:-1 tvg-id="Quest.uk" tvg-name="Quest HD UK" tvg-logo="http://pici.life/lg/UK/quest.png" group-title="United Kingdom",Quest HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15797.ts
-#EXTINF:-1 tvg-id="" tvg-name="Quest +1 UK" tvg-logo="http://pici.life/lg/UK/questplus1.png" group-title="United Kingdom",Quest +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15796.ts
-#EXTINF:-1 tvg-id="Quest.uk" tvg-name="Quest Red UK" tvg-logo="http://pici.life/lg/UK/quest.png" group-title="United Kingdom",Quest Red UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15847.ts
-#EXTINF:-1 tvg-id="" tvg-name="Quest Red +1 UK" tvg-logo="http://pici.life/lg/UK/questplus1.png" group-title="United Kingdom",Quest Red +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15846.ts
-#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="Racing UK" tvg-logo="http://pici.life/uk/RacingUK.uk.png" group-title="United Kingdom",Racing UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6566.ts
-#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="Racing HD UK" tvg-logo="http://pici.life/lg/UK/racinguk.png" group-title="United Kingdom",Racing HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15795.ts
-#EXTINF:-1 tvg-id="RealLives.uk" tvg-name="Real Lives UK" tvg-logo="http://pici.life/uk/RealLives.uk.png" group-title="United Kingdom",Real Lives UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6564.ts
-#EXTINF:-1 tvg-id="Really.uk" tvg-name="Really UK" tvg-logo="http://pici.life/uk/Really.uk.png" group-title="United Kingdom",Really UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6565.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rok TV UK" tvg-logo="http://pici.life/roktv.png" group-title="United Kingdom",Rok TV UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/7827.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTE 1 UK" tvg-logo="" group-title="United Kingdom",RTE 1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6563.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTE 1 HD UK" tvg-logo="http://pici.life/lg/UK/rteone.png" group-title="United Kingdom",RTE 1 HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15908.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTE 2 UK" tvg-logo="" group-title="United Kingdom",RTE 2 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6562.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTE 2 HD UK" tvg-logo="http://pici.life/lg/UK/rte2.png" group-title="United Kingdom",RTE 2 HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15794.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTE One HD IE UK" tvg-logo="" group-title="United Kingdom",RTE One HD IE UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9505.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTE Two HD IE UK" tvg-logo="" group-title="United Kingdom",RTE Two HD IE UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9504.ts
-#EXTINF:-1 tvg-id="" tvg-name="S4C UK" tvg-logo="" group-title="United Kingdom",S4C UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9512.ts
-#EXTINF:-1 tvg-id="" tvg-name="S4C HD UK" tvg-logo="http://pici.life/s4c.png" group-title="United Kingdom",S4C HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15853.ts
-#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="Sky 1 UK" tvg-logo="" group-title="United Kingdom",Sky 1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15721.ts
-#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="Sky 1 HD UK" tvg-logo="http://pici.life/lg/UK/sky1hd_2.png" group-title="United Kingdom",Sky 1 HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15902.ts
-#EXTINF:-1 tvg-id="Sky2.uk" tvg-name="Sky 2 UK" tvg-logo="http://pici.life/uk/Sky2.uk.png" group-title="United Kingdom",Sky 2 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6532.ts
-#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="Sky Arts HD UK" tvg-logo="http://pici.life/lg/UK/skyartshd_2.png" group-title="United Kingdom",Sky Arts HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15901.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Arts 1 FHD UK" tvg-logo="http://pici.life/uk/SkyArts.uk.png" group-title="United Kingdom",Sky Arts 1 FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6561.ts
-#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="Sky Atlantic HD UK" tvg-logo="http://pici.life/lg/UK/skyatlantic.png" group-title="United Kingdom",Sky Atlantic HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15900.ts
-#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="Sky Atlantic FHD UK" tvg-logo="http://pici.life/uk/SkyAtlantic.uk.png" group-title="United Kingdom",Sky Atlantic FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6560.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sony Channel UK" tvg-logo="" group-title="United Kingdom",Sony Channel UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9529.ts
-#EXTINF:-1 tvg-id="SonyEntertainmentTV.uk" tvg-name="Sony HD UK" tvg-logo="http://pici.life/lg/UK/sonychannel_2.png" group-title="United Kingdom",Sony HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15897.ts
-#EXTINF:-1 tvg-id="Spike.uk" tvg-name="Spike UK" tvg-logo="http://pici.life/uk/Spike.uk.png" group-title="United Kingdom",Spike UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6531.ts
-#EXTINF:-1 tvg-id="STV.uk" tvg-name="STV UK" tvg-logo="" group-title="United Kingdom",STV UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9557.ts
-#EXTINF:-1 tvg-id="STV.uk" tvg-name="STV HD UK" tvg-logo="http://pici.life/lg/UK/stv.png" group-title="United Kingdom",STV HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15854.ts
-#EXTINF:-1 tvg-id="STV.uk" tvg-name="STV East UK" tvg-logo="http://pici.life/lg/UK/stv.png" group-title="United Kingdom",STV East UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15892.ts
-#EXTINF:-1 tvg-id="Syfy.uk" tvg-name="Syfy UK" tvg-logo="http://pici.life/uk/Syfy.uk.png" group-title="United Kingdom",Syfy UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6530.ts
-#EXTINF:-1 tvg-id="Syfy.uk" tvg-name="Syfy HD UK" tvg-logo="http://pici.life/lg/UK/syfyhd_2.png" group-title="United Kingdom",Syfy HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15886.ts
-#EXTINF:-1 tvg-id="" tvg-name="TG 4 UK" tvg-logo="" group-title="United Kingdom",TG 4 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6529.ts
-#EXTINF:-1 tvg-id="" tvg-name="TG4 HD UK" tvg-logo="" group-title="United Kingdom",TG4 HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15881.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Vault UK" tvg-logo="" group-title="United Kingdom",The Vault UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6528.ts
-#EXTINF:-1 tvg-id="TLC.uk" tvg-name="TLC UK" tvg-logo="http://pici.life/uk/TLC.uk.png" group-title="United Kingdom",TLC UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6527.ts
-#EXTINF:-1 tvg-id="Tinypop.uk" tvg-name="Tiny Pop UK" tvg-logo="" group-title="United Kingdom",Tiny Pop UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9523.ts
-#EXTINF:-1 tvg-id="TrueEntertainment.uk" tvg-name="True Entertainment UK" tvg-logo="http://pici.life/uk/TrueEntertainment.uk.png" group-title="United Kingdom",True Entertainment UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6525.ts
-#EXTINF:-1 tvg-id="" tvg-name="True Ent +1 UK" tvg-logo="http://pici.life/lg/UK/trueentertainmentplus1.png" group-title="United Kingdom",True Ent +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15875.ts
-#EXTINF:-1 tvg-id="TrueCrime.uk" tvg-name="True Crime UK" tvg-logo="" group-title="United Kingdom",True Crime UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9526.ts
-#EXTINF:-1 tvg-id="" tvg-name="True Crime +1 UK" tvg-logo="http://pici.life/lg/UK/truecrimeplus1.png" group-title="United Kingdom",True Crime +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15876.ts
-#EXTINF:-1 tvg-id="" tvg-name="True Drama UK" tvg-logo="" group-title="United Kingdom",True Drama UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/11457.ts
-#EXTINF:-1 tvg-id="TruTV.uk" tvg-name="Tru TV UK" tvg-logo="" group-title="United Kingdom",Tru TV UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9527.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV3 HD UK" tvg-logo="http://pici.life/lg/UK/tv3.png" group-title="United Kingdom",TV3 HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15872.ts
-#EXTINF:-1 tvg-id="" tvg-name="UTV HD UK" tvg-logo="http://pici.life/lg/UK/utv.png" group-title="United Kingdom",UTV HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15865.ts
-#EXTINF:-1 tvg-id="W.uk" tvg-name="W Ireland UK" tvg-logo="http://pici.life/lg/UK/w.png" group-title="United Kingdom",W Ireland UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15861.ts
-#EXTINF:-1 tvg-id="" tvg-name="William Hill TV UK" tvg-logo="" group-title="United Kingdom",William Hill TV UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15860.ts
-#EXTINF:-1 tvg-id="" tvg-name="William Hill TV2 UK" tvg-logo="" group-title="United Kingdom",William Hill TV2 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/50140.ts
-#EXTINF:-1 tvg-id="YourTV.uk" tvg-name="Your TV UK" tvg-logo="http://pici.life/lg/UK/yourtv.png" group-title="United Kingdom",Your TV UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15858.ts
-#EXTINF:-1 tvg-id="Universal.uk" tvg-name="Universal UK" tvg-logo="http://pici.life/uk/Universal.uk.png" group-title="United Kingdom",Universal UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6520.ts
-#EXTINF:-1 tvg-id="" tvg-name="Universal +1 UK" tvg-logo="http://pici.life/lg/UK/universalchannelplus1.png" group-title="United Kingdom",Universal +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15869.ts
-#EXTINF:-1 tvg-id="Universal.uk" tvg-name="Universal HD UK" tvg-logo="http://pici.life/lg/UK/universalhd.png" group-title="United Kingdom",Universal HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15868.ts
-#EXTINF:-1 tvg-id="Universal.uk" tvg-name="Universal Ireland UK" tvg-logo="http://pici.life/lg/UK/universalchannel.png" group-title="United Kingdom",Universal Ireland UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15867.ts
-#EXTINF:-1 tvg-id="" tvg-name="UTV UK" tvg-logo="http://pici.life/lg/UK/utv.png" group-title="United Kingdom",UTV UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15866.ts
-#EXTINF:-1 tvg-id="VICELAND.uk" tvg-name="Viceland HD UK" tvg-logo="" group-title="United Kingdom",Viceland HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/13219.ts
-#EXTINF:-1 tvg-id="VintageTV.uk" tvg-name="Vintage TV UK" tvg-logo="" group-title="United Kingdom",Vintage TV UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9507.ts
-#EXTINF:-1 tvg-id="W.uk" tvg-name="W UK" tvg-logo="http://pici.life/uk/W.uk.png" group-title="United Kingdom",W UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6518.ts
-#EXTINF:-1 tvg-id="W.uk" tvg-name="W HD UK" tvg-logo="http://pici.life/lg/UK/whd.png" group-title="United Kingdom",W HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15862.ts
-#EXTINF:-1 tvg-id="" tvg-name="W +1 UK" tvg-logo="http://pici.life/lg/UK/wplus1.png" group-title="United Kingdom",W +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15863.ts
-#EXTINF:-1 tvg-id="" tvg-name="Watch UK" tvg-logo="" group-title="United Kingdom",Watch UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6517.ts
-#EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="Yesterday UK" tvg-logo="http://pici.life/uk/Yesterday.uk.png" group-title="United Kingdom",Yesterday UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6516.ts
-#EXTINF:-1 tvg-id="" tvg-name="Yesterday +1 UK" tvg-logo="http://pici.life/lg/UK/yesterdayplus1.png" group-title="United Kingdom",Yesterday +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15859.ts
-#EXTINF:-1 tvg-id="" tvg-name="3E Ireland UK" tvg-logo="" group-title="United Kingdom",3E Ireland UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15699.ts
-#EXTINF:-1 tvg-id="4Seven.uk" tvg-name="4 Seven UK" tvg-logo="" group-title="United Kingdom",4 Seven UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15697.ts
-#EXTINF:-1 tvg-id="" tvg-name="5 STAR  1 UK" tvg-logo="" group-title="United Kingdom",5 STAR  1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15696.ts
-#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="5 USA UK" tvg-logo="http://pici.life/uk/5star.uk.png" group-title="United Kingdom",5 USA UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6664.ts
-#EXTINF:-1 tvg-id="" tvg-name="5 USA +1 UK" tvg-logo="" group-title="United Kingdom",5 USA +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15695.ts
-#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="Alibi UK" tvg-logo="" group-title="United Kingdom",Alibi UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15693.ts
-#EXTINF:-1 tvg-id="" tvg-name="3E UK" tvg-logo="" group-title="United Kingdom",3E UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6667.ts
-#EXTINF:-1 tvg-id="4Seven.uk" tvg-name="4Seven UK" tvg-logo="http://pici.life/uk/4Seven.uk.png" group-title="United Kingdom",4Seven UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6666.ts
-#EXTINF:-1 tvg-id="5star.uk" tvg-name="5 Star UK" tvg-logo="http://pici.life/uk/5star.uk.png" group-title="United Kingdom",5 Star UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6665.ts
-#EXTINF:-1 tvg-id="" tvg-name="5 Star +1 UK" tvg-logo="" group-title="United Kingdom",5 Star +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/11461.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD UK" tvg-logo="" group-title="United Kingdom",AMC HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9515.ts
-#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="Alibi HD UK" tvg-logo="http://pici.life/uk/Alibi.uk.png" group-title="United Kingdom",Alibi HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6663.ts
-#EXTINF:-1 tvg-id="ChartShow.uk" tvg-name="Chart Show TV UK" tvg-logo="http://pici.life/lg/UK/chartshowtv.png" group-title="United Kingdom",Chart Show TV UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15774.ts
-#EXTINF:-1 tvg-id="" tvg-name="Chartshow Hits UK" tvg-logo="" group-title="United Kingdom",Chartshow Hits UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15773.ts
-#EXTINF:-1 tvg-id="" tvg-name="Chilled TV UK" tvg-logo="" group-title="United Kingdom",Chilled TV UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15771.ts
-#EXTINF:-1 tvg-id="CITV.uk" tvg-name="CITV UK" tvg-logo="" group-title="United Kingdom",CITV UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15770.ts
-#EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="Clubland TV UK" tvg-logo="" group-title="United Kingdom",Clubland TV UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15769.ts
-#EXTINF:-1 tvg-id="Kerrang.uk" tvg-name="Kerrang TV UK" tvg-logo="http://pici.life/lg/UK/kerrang.png" group-title="United Kingdom",Kerrang TV UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15827.ts
-#EXTINF:-1 tvg-id="KissTV.uk" tvg-name="Kiss UK" tvg-logo="http://pici.life/lg/UK/kiss.png" group-title="United Kingdom",Kiss UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15826.ts
-#EXTINF:-1 tvg-id="Magic.uk" tvg-name="Magic UK" tvg-logo="http://pici.life/magictv.png" group-title="United Kingdom",Magic UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15824.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sangat UK" tvg-logo="http://pici.life/lg/UK/sangat.png" group-title="United Kingdom",Sangat UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15906.ts
-#EXTINF:-1 tvg-id="Scuzz.uk" tvg-name="Scuzz UK" tvg-logo="http://pici.life/lg/UK/scuzz.png" group-title="United Kingdom",Scuzz UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15905.ts
-#EXTINF:-1 tvg-id="" tvg-name="Takbeer TV UK" tvg-logo="http://pici.life/lg/UK/takbeertv.png" group-title="United Kingdom",Takbeer TV UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15885.ts
-#EXTINF:-1 tvg-id="" tvg-name="TBN UK" tvg-logo="http://pici.life/lg/UK/tbnuk.png" group-title="United Kingdom",TBN UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15884.ts
-#EXTINF:-1 tvg-id="TheBox.uk" tvg-name="The Box UK" tvg-logo="http://pici.life/boxtv.png" group-title="United Kingdom",The Box UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15880.ts
-#EXTINF:-1 tvg-id="" tvg-name="------- UK Music -------" tvg-logo="" group-title="United Kingdom",------- UK Music -------
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/16208.ts
-#EXTINF:-1 tvg-id="4Music.uk" tvg-name="4 Music UK" tvg-logo="" group-title="United Kingdom",4 Music UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15698.ts
-#EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV UK" tvg-logo="http://pici.life/lg/UK/mtv.png" group-title="United Kingdom",MTV UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15819.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV +1 UK" tvg-logo="" group-title="United Kingdom",MTV +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9542.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD UK" tvg-logo="" group-title="United Kingdom",MTV Live HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9540.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live UK" tvg-logo="" group-title="United Kingdom",MTV Live UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9543.ts
-#EXTINF:-1 tvg-id="MTVBase.uk" tvg-name="MTV Base HD UK" tvg-logo="http://pici.life/lg/UK/mtvbase.png" group-title="United Kingdom",MTV Base HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15818.ts
-#EXTINF:-1 tvg-id="MTVBase.uk" tvg-name="MTV Base UK" tvg-logo="" group-title="United Kingdom",MTV Base UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9537.ts
-#EXTINF:-1 tvg-id="MTVDance.uk" tvg-name="MTV Dance HD UK" tvg-logo="http://pici.life/lg/UK/mtvdance.png" group-title="United Kingdom",MTV Dance HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15817.ts
-#EXTINF:-1 tvg-id="MTVDance.uk" tvg-name="MTV Dance UK" tvg-logo="" group-title="United Kingdom",MTV Dance UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9541.ts
-#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="MTV Hits HD UK" tvg-logo="http://pici.life/lg/UK/mtvhits.png" group-title="United Kingdom",MTV Hits HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15816.ts
-#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="MTV Hits UK" tvg-logo="http://pici.life/uk/MTVHits.uk.png" group-title="United Kingdom",MTV Hits UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6578.ts
-#EXTINF:-1 tvg-id="MTVRocks.uk" tvg-name="MTV Rocks HD UK" tvg-logo="http://pici.life/lg/UK/mtvrocks.png" group-title="United Kingdom",MTV Rocks HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15845.ts
-#EXTINF:-1 tvg-id="MTVRocks.uk" tvg-name="MTV Rocks UK" tvg-logo="" group-title="United Kingdom",MTV Rocks UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9539.ts
-#EXTINF:-1 tvg-id="MTVClassic.uk" tvg-name="MTV Classic UK" tvg-logo="" group-title="United Kingdom",MTV Classic UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9538.ts
-#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="MTV Music UK" tvg-logo="http://pici.life/uk/MTVMusic.uk.png" group-title="United Kingdom",MTV Music UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6577.ts
-#EXTINF:-1 tvg-id="VH1.uk" tvg-name="VH1 UK" tvg-logo="http://pici.life/uk/VH1.uk.png" group-title="United Kingdom",VH1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6519.ts
-#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic UK" tvg-logo="" group-title="United Kingdom",VH1 Classic UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9509.ts
-#EXTINF:-1 tvg-id="Viva.uk" tvg-name="Viva UK" tvg-logo="" group-title="United Kingdom",Viva UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9506.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTE Jr UK" tvg-logo="" group-title="United Kingdom",RTE Jr UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9501.ts
-#EXTINF:-1 tvg-id="" tvg-name="UTV IE UK" tvg-logo="" group-title="United Kingdom",UTV IE UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9502.ts
-#EXTINF:-1 tvg-id="" tvg-name="------- UK Family -------" tvg-logo="" group-title="United Kingdom",------- UK Family -------
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15572.ts
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV UK" tvg-logo="http://pici.life/uk/BabyTV.uk.png" group-title="United Kingdom",Baby TV UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6660.ts
-#EXTINF:-1 tvg-id="Boomerang.uk" tvg-name="Boomerang UK" tvg-logo="http://pici.life/uk/Boomerang.uk.png" group-title="United Kingdom",Boomerang UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6651.ts
-#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="Cartoon Network UK" tvg-logo="http://pici.life/uk/CartoonNetwork.uk.png" group-title="United Kingdom",Cartoon Network UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6638.ts
-#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="Cartoon Network HD UK" tvg-logo="http://pici.life/lg/UK/cartoonnetworkhd.png" group-title="United Kingdom",Cartoon Network HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15781.ts
-#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies FHD UK" tvg-logo="http://pici.life/uk/CBeebies.uk.png" group-title="United Kingdom",CBeebies FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6637.ts
-#EXTINF:-1 tvg-id="DisneyXD.uk" tvg-name="Disney XD FHD UK" tvg-logo="http://pici.life/uk/DisneyXD.uk.png" group-title="United Kingdom",Disney XD FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6617.ts
-#EXTINF:-1 tvg-id="DisneyChannel.uk" tvg-name="Disney Channel UK" tvg-logo="http://pici.life/uk/DisneyChannel.uk.png" group-title="United Kingdom",Disney Channel UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6619.ts
-#EXTINF:-1 tvg-id="DisneyChannel.uk" tvg-name="Disney Channel HD UK" tvg-logo="" group-title="United Kingdom",Disney Channel HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15758.ts
-#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-name="Disney Junior HD UK" tvg-logo="" group-title="United Kingdom",Disney Junior HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15756.ts
-#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-name="Disney Junior FHD UK" tvg-logo="http://pici.life/uk/DisneyJunior.uk.png" group-title="United Kingdom",Disney Junior FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6618.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nick Junior UK" tvg-logo="http://pici.life/uk/NickJunior.uk.png" group-title="United Kingdom",Nick Junior UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6571.ts
-#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="Nick Jr. UK" tvg-logo="http://pici.life/lg/UK/nickjr.png" group-title="United Kingdom",Nick Jr. UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15807.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nick JR +1 UK" tvg-logo="" group-title="United Kingdom",Nick JR +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/11452.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr  1 UK" tvg-logo="http://pici.life/lg/UK/nickjrplus1.png" group-title="United Kingdom",Nick Jr  1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15806.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr Peppa UK" tvg-logo="http://pici.life/lg/UK/nickjrpeppa.png" group-title="United Kingdom",Nick Jr Peppa UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15808.ts
-#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="Nickelodeon UK" tvg-logo="http://pici.life/uk/Nickelodeon.uk.png" group-title="United Kingdom",Nickelodeon UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6572.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon +1 UK" tvg-logo="" group-title="United Kingdom",Nickelodeon +1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/11453.ts
-#EXTINF:-1 tvg-id="Cartoonito.uk" tvg-name="Cartoonito UK" tvg-logo="http://pici.life/uk/Cartoonito.uk.png" group-title="United Kingdom",Cartoonito UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6639.ts
-#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nicktoons UK" tvg-logo="http://pici.life/uk/Nicktoons.uk.png" group-title="United Kingdom",Nicktoons UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6570.ts
-#EXTINF:-1 tvg-id="SkyDisney.uk" tvg-name="Sky Movies Disney UK" tvg-logo="http://pici.life/skymoviesdisney.png" group-title="United Kingdom",Sky Movies Disney UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/7913.ts
-#EXTINF:-1 tvg-id="CNN.uk" tvg-name="CNN HD UK" tvg-logo="" group-title="United Kingdom",CNN HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15768.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTE Jr HD UK" tvg-logo="" group-title="United Kingdom",RTE Jr HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15793.ts
-#EXTINF:-1 tvg-id="" tvg-name="Betfred TV UK" tvg-logo="" group-title="United Kingdom",Betfred TV UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/50149.ts
-#EXTINF:-1 tvg-id="" tvg-name="Chart Show Hits UK" tvg-logo="" group-title="United Kingdom",Chart Show Hits UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/50151.ts
-#EXTINF:-1 tvg-id="" tvg-name="Coral TV 1 UK" tvg-logo="" group-title="United Kingdom",Coral TV 1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/50148.ts
-#EXTINF:-1 tvg-id="" tvg-name="Coral TV 2 UK" tvg-logo="" group-title="United Kingdom",Coral TV 2 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/50147.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ladbrokes TV UK" tvg-logo="" group-title="United Kingdom",Ladbrokes TV UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/50146.ts
-#EXTINF:-1 tvg-id="" tvg-name="Paddy Power TV 1 UK" tvg-logo="" group-title="United Kingdom",Paddy Power TV 1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/50145.ts
-#EXTINF:-1 tvg-id="" tvg-name="Paddy Power TV 3 UK" tvg-logo="" group-title="United Kingdom",Paddy Power TV 3 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/50144.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sheffield Steelers TV UK" tvg-logo="" group-title="United Kingdom",Sheffield Steelers TV UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/50150.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIS Europe UK" tvg-logo="" group-title="United Kingdom",SIS Europe UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/16625.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIS One UK" tvg-logo="" group-title="United Kingdom",SIS One UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/50143.ts
-#EXTINF:-1 tvg-id="" tvg-name="SIS Two UK" tvg-logo="" group-title="United Kingdom",SIS Two UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/50142.ts
-#EXTINF:-1 tvg-id="" tvg-name="Starz TV UK" tvg-logo="" group-title="United Kingdom",Starz TV UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/50152.ts
-#EXTINF:-1 tvg-id="" tvg-name="Vice UK" tvg-logo="" group-title="United Kingdom",Vice UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/50153.ts
-#EXTINF:-1 tvg-id="" tvg-name="Virtual Betting Channel UK" tvg-logo="" group-title="United Kingdom",Virtual Betting Channel UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/50141.ts
+#EXTM3U
+
+#EXTINF:-1, CVMTV
+https://na-us-ne6.secdn.net/iddigital-channel/play/smil:output.smil/chunklist_w1647331980_b2000000_t64SEQ=.m3u8
+#EXTINF:0 tvg-id="AE.ca" group-title="USA",A&E
+http://vapi.vaders.tv/play/2463.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="ext" group-title="USA",ABC (Opt-1)
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",ABC (Opt-2)
+http://vapi.vaders.tv/play/2435.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="ABCNews.al" group-title="USA",ABC News
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Action Movies
+http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="ext" group-title="USA",Adventure TV
+http://stitcher.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="ext" group-title="USA",After School Cartoons
+http://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=0cc9f1f1-724b-489f-b1dd-61b832b70b78&deviceId=-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="ext" group-title="USA",AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",American Heros Channel
+http://vapi.vaders.tv/play/74790.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="ext" group-title="USA",American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:0 tvg-id="AMC.uk" group-title="USA",AMC
+http://vapi.vaders.tv/play/2436.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="ext" group-title="USA",AMGTV
+rtmp://cp212391.live.edgefcs.net:1935/live/T02027-amgtv@120244
+#EXTINF:0 tvg-id="ext" group-title="USA",Animal Planet (Opt-1)
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Animal Planet (Opt-2)
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Animal Planet (Opt-3)
+http://vapi.vaders.tv/play/2437.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="AXSTV.us" group-title="USA",AXS TV
+http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:0 tvg-id="BET.uk" group-title="USA",BET
+http://vapi.vaders.tv/play/8246.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="BTN.us" group-title="USA",Big Ten Network
+http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Black Cinema
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0 tvg-id="Bloomberg.nws" group-title="USA",Bloomberg TV
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="USA",Boomerang
+http://vapi.vaders.tv/play/79269.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="ext" group-title="USA",Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:0 tvg-id="BRAVO!.ca" group-title="USA",Bravo
+http://vapi.vaders.tv/play/2438.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="ext" group-title="USA",Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Buzzr (Opt-1)
+https://buzzr-zixi.global.ssl.fastly.net/BUZZR_HLS/BUZZR_SRC_primary-BUZZR_PLUTO_2400-zyNt8Qt1T7.m3u8?hlsid=HTTP_ID_777&starttime=20180720T201407.634947
+#EXTINF:0 tvg-id="ext" group-title="USA",Buzzr (Opt-2)
+https://buzzr-zixi.global.ssl.fastly.net/BUZZR_HLS.m3u8?hlsid=HTTP_ID_777
+#EXTINF:0 tvg-id="BYUtv.us" group-title="USA",BYUtv
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+#EXTINF:0 tvg-id="CSPAN2.us" group-title="USA",C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Cars
+http://stitcher.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="ext" group-title="USA",Cartoon Network (Dual)
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",CBS (Opt-1)
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",CBS (Opt-2)
+http://vapi.vaders.tv/play/2440.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="ext" group-title="USA",CBS News (Opt-1)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",CBS News (Opt-2)
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="USA",CBS Sports HQ
+https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:0 tvg-id="ext" group-title="USA",Celebrity Page TV
+https://stream.thegateway.app/CelebrityPage/CPN/CelebrityPage/HLS_720p/chunks.m3u8?ref=celebritypage.com
+#EXTINF:0 tvg-id="ext" group-title="USA",CGTN America
+http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Channel 7
+http://radio.7chan.org:8000/CH7
+#EXTINF:0 tvg-id="ext" group-title="USA",Charge! (Geo)
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Cheddar
+https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Cheddar Big News
+https://wowzaprod124-i.akamaihd.net/hls/live/505691/261805b7/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Classic Movies
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0 tvg-id="ext" group-title="USA",Classic Toons TV
+http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=5b8dde6c-ee63-40c0-8a6c-81595c7a920c&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="ext" group-title="USA",Classic TV
+http://stitcher.pluto.tv/stitch/hls/channel/55383613c0b860c11a631e36/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="ext" group-title="USA",Classic TV 4U
+https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
+#EXTINF:0 tvg-id="CNBC.ca" group-title="USA",CNBC
+http://stitcher.pluto.tv/stitch/hls/channel/57ebfd64f70792b24b5bd9a6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="CNN.ca" group-title="USA",CNN (Opt-1)
+https://2202.janjuaplayer.com:8088/live/cnn_livestreaming/playlist.m3u8?id=71202&wowzasessionid=3388320812&pk=5c2d33e2b5e3afb493144209fb99b190f5301014e17bd335f2c0d616f2b4edc8
+#EXTINF:0 tvg-id="CNN.ca" group-title="USA",CNN (Opt-2)
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="CNN.ca" group-title="USA",CNN (Opt-3)
+http://vapi.vaders.tv/play/2442.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="ext" group-title="USA",Combat Go
+http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="USA",Comedy Central
+http://vapi.vaders.tv/play/2443.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="ext" group-title="USA",Comet TV
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+#EXTINF:0 tvg-id="CookingChannelSD.ca" group-title="USA",Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Crime Network
+http://stitcher.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="ext" group-title="USA",Discovery Channel (Opt-1)
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Discovery Channel (Opt-2)
+http://103.242.13.90:5555/udp/239.4.2.19:10000
+#EXTINF:0 tvg-id="ext" group-title="USA",Discovery Channel (Opt-3)
+http://vapi.vaders.tv/play/2445.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="DisneyChannel.ca" group-title="USA",Disney Channel
+http://vapi.vaders.tv/play/8197.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="DisneyJrSD.ca" group-title="USA",Disney Jr
+http://vapi.vaders.tv/play/39421.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="DisneyXDSD.ca" group-title="USA",Disney XD
+http://vapi.vaders.tv/play/2762.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="ext" group-title="USA",District Knowledge Network
+http://video.oct.dc.gov/out/u/96_4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Ditty TV
+https://desktop.dittytv.com/live/dittytv.stream_desktop/chunklist_w1540160005.m3u8
+#EXTINF:0 tvg-id="DIYNetworkHD.us" group-title="USA",DIY Network
+http://vapi.vaders.tv/play/40663.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="ext" group-title="USA",DocuTV
+http://stitcher.pluto.tv/stitch/hls/channel/5695441df3ed8937070b1ac6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="ext" group-title="USA",El Rey Network
+http://vapi.vaders.tv/play/38912.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="ext" group-title="USA",ESPN (Opt-1)
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",ESPN (Opt-2)
+http://vapi.vaders.tv/play/2565.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="ext" group-title="USA",ESPN 2 (Opt-1)
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="USA",ESPN 2 (Opt-2)
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="EVINE.us" group-title="USA",Evine
+https://aos01-evine.secure.footprint.net/evine/dirty/Evine_Dirty_VIDEO_1_2064000.m3u8
+#EXTINF:0 tvg-id="boec" group-title="USA",Fight
+http://stitcher.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="ext" group-title="USA",Flashback TV
+https://dcunilive28-lh.akamaihd.net/i/dclive_1@533390/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Flicks of Fury
+https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0 tvg-id="FoodNetwork.eu" group-title="USA",Food Network
+http://vapi.vaders.tv/play/2913.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="ext" group-title="USA",Food TV
+http://stitcher.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="FX.uk" group-title="USA",Fox
+http://vapi.vaders.tv/play/2448.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="FoxBusinessNetwork.us" group-title="USA",Fox Business Network
+http://fbntve-i.akamaihd.net/hls/live/200667/fbntve/HD.m3u8
+#EXTINF:0 tvg-id="FOXNewsChannel.us" group-title="USA",Fox News Channel
+http://fnctve-i.akamaihd.net/hls/live/200669/fnctve/HD.m3u8
+#EXTINF:0 tvg-id="FoxSports.tr" group-title="USA",Fox Sports
+http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="FOXSportsRacing.ca" group-title="USA",Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:0 tvg-id="FYI.ca" group-title="USA",FYI
+http://vapi.vaders.tv/play/56458.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="GAMESHOWNETWORK.ca" group-title="USA",Game Show Network
+http://vapi.vaders.tv/play/39847.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="ext" group-title="USA",Garland TV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Glory Kickboxing
+http://stitcher.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="ext" group-title="USA",Gravitas Movies
+http://stitcher.pluto.tv/stitch/hls/channel/59120e45877eeb3760b3d9da/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="ext" group-title="USA",Greenbelt TV
+http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
+#EXTINF:0 tvg-id="Hallmark.us" group-title="USA",Hallmark Channel
+http://vapi.vaders.tv/play/2453.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="HallmarkMovies-Mysteries.us" group-title="USA",Hallmark Movies & Mysteries
+http://vapi.vaders.tv/play/39629.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="ext" group-title="USA",HBO (Asia)
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+#EXTINF:0 tvg-id="ext" group-title="USA",HBO 2 (Dual)
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",HBO Hits (Asia)
+http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Heavy Metal Television
+http://70.166.99.93:1935/hmtv/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Her
+http://stitcher.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="HGTV.ca" group-title="USA",HGTV
+http://vapi.vaders.tv/play/2454.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="HISTORY.ca" group-title="USA",History
+http://vapi.vaders.tv/play/2915.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="ext" group-title="USA",Hive
+http://stitcher.pluto.tv/stitch/hls/channel/580814179dfdf1f4141f78f5/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="ext" group-title="USA",Horror 24/7
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0 tvg-id="ext" group-title="USA",House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",HSN
+https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",HSN 2
+https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Hunt Channel
+https://nimble.huntchannel.tv/abr/huntchannel/live/huntchannelhq/chunks.m3u8
+#EXTINF:0 tvg-id="IFC.us" group-title="USA",IFC
+http://vapi.vaders.tv/play/2773.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="ext" group-title="USA",IGN
+http://stitcher.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="ext" group-title="USA",Impact Wrestling
+http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="ext" group-title="USA",IndieWave
+https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:0 tvg-id="Investigation.uk" group-title="USA",Investigation Discovery
+http://vapi.vaders.tv/play/7941.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="ext" group-title="USA",Jupiter Broadcasting
+http://jblive.videocdn.scaleengine.net/jb-live/play/jblive.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Kids TV
+http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="ext" group-title="USA",Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Law & Crime
+https://ssai.ooyala.com/hls/delta/ll-live-virginia/out/u/229ymkag04945/111827/43OWVjZTE65GskF69ZcXWykXcnScRY5u/cn/d55a880cca4b4b0d8705ae78f89c2960.m3u8?tagurl=aHR0cHM6Ly9wdWJhZHMuZy5kb3VibGVjbGljay5uZXQvZ2FtcGFkL2xpdmUvYWRzP3N6PTQwMHgzMDAmaXU9LzMzMTczNDc4L0xhd0FuZENyaW1lX1ZpZGVvcGxheWVyX0xpdmVzdHJlYW0maW1wbD1zJmdkZnBfcmVxPTEmZW52PXZwJm91dHB1dD12YXN0JnVudmlld2VkX3Bvc2l0aW9uX3N0YXJ0PTEmdXJsPVtyZWZlcnJlcl91cmxdJmRlc2NyaXB0aW9uX3VybD1bZGVzY3JpcHRpb25fdXJsXSZjb3JyZWxhdG9yPVt0aW1lc3RhbXBd&ssai_guid=c9d2c682-2327-4535-ad16-2905234a77d8&player_params=%7B%22pcode%22:%22gyYWwyOidzrLbbOg-bDRL_5wcBGb%22,%22playerBrandingId%22:%22ea3d937c8f814fbaa675338240f835a8%22%7D
+#EXTINF:0 tvg-id="LIFETIMESD.ca" group-title="USA",Lifetime
+http://vapi.vaders.tv/play/2465.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="Lifetime.us" group-title="USA",Lifetime Movie Network
+http://vapi.vaders.tv/play/16705.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="ext" group-title="USA",LittleThings
+http://stitcher.pluto.tv/stitch/hls/channel/5984cbeaa0fc957e6e9195ab/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="ext" group-title="USA",Man Up
+http://stitcher.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="ext" group-title="USA",Metro Cable Network
+http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
+#EXTINF:0 tvg-id="metv.il" group-title="USA",MeTV
+http://atlas.its.virginia.edu:8088/hls/m3u8/METV.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Miami TV
+http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",MLB Network (Opt-1)
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",MLB Network (Opt-2)
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Movee 4U
+https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
+#EXTINF:0 tvg-id="MSNBC.ca" group-title="USA",MSNBC SD
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
+#EXTINF:0 tvg-id="MSNBC.ca" group-title="USA",MSNBC HD
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Music Choice Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",MY9
+http://161.0.157.9/PLTV/88888888/224/3221226727/03.m3u8
+#EXTINF:0 tvg-id="NASATV.us" group-title="USA",NASA TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",NASA TV Media
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="USA",Nat Geo Wild
+http://vapi.vaders.tv/play/50910.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="USA",National Geographic
+http://vapi.vaders.tv/play/39029.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="ext" group-title="USA",NatureVision TV
+https://feed00.pluto.tv/feed03/ngrp:nature.vision.stream_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",NBC (Opt-1)
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",NBC (Opt-2)
+http://vapi.vaders.tv/play/2455.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="ext" group-title="USA",NBC News
+http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+#EXTINF:0 tvg-id="ext" group-title="USA",New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",News 24/7
+http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+#EXTINF:0 tvg-id="NFLNetwork.ca" group-title="USA",NFL Network
+http://vapi.vaders.tv/play/2744.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="NFLNetwork.mx" group-title="USA",NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:0 tvg-id="NHLNetwork.us" group-title="USA",NHL Network
+http://vapi.vaders.tv/play/2786.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="Nickelodeon.ca" group-title="USA",Nickelodeon
+http://vapi.vaders.tv/play/2460.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="ext" group-title="USA",Oprah Winfrey Network
+http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/4296k/index.m3u8
+#EXTINF:0 tvg-id="PBS.uk" group-title="USA",PBS
+http://vapi.vaders.tv/play/2774.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="ext" group-title="USA",PBS Kids (Geo)
+https://live-cdn.pbskids.org/out/u/aim/wttw.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",PGCPS
+http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Pluto TV Movies 1
+https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0 tvg-id="ext" group-title="USA",Pluto TV Movies 2
+http://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="pop.uk" group-title="USA",Pop
+https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",PopSugar
+http://stitcher.pluto.tv/stitch/hls/channel/561721d6ada51f8004c4b474/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="ext" group-title="USA",QVC (Opt-1)
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/cd5bfeab75a34ba18301490388fd4daa/manifest.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",QVC (Opt-2)
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+#EXTINF:0 tvg-id="QVC2.us" group-title="USA",QVC 2
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/1af4a53fda904f6c90a4389c8fe92dc0/manifest.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Radio U 88.7 Colombus
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/rightbrainmedia-live-109/radioutv1/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Real News
+https://infowarslive-lh.akamaihd.net/i/RealNews_1@561924/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Red Bull TV (Opt-1)
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Red Bull TV (Opt-2)
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Red Bull TV (Opt-3)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Rev'n
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",RiffTrax
+http://stitcher.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="RussiaToday.uk" group-title="USA",RT America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Science Channel (Opt-1)
+http://80.80.160.168/live/9/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Science Channel (Opt-2)
+http://vapi.vaders.tv/play/54628.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="ext" group-title="USA",Science TV
+http://stitcher.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="ShopLC.us" group-title="USA",Shop LC
+https://dpfbqenlgkzdh.cloudfront.net/shoplc_backup/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",ShoutFactoryTV
+http://stitcher.pluto.tv/stitch/hls/channel/55a6a3275616b6240c26f393/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="Showtime.no" group-title="USA",Showtime
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Sky News America
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Sony Movie Channel (Opt-1)
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Sony Movie Channel (Opt-2)
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:0 tvg-id="24dok" group-title="USA",TBS
+http://vapi.vaders.tv/play/2461.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="ext" group-title="USA",Temple TV
+http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",THC
+http://stitcher.pluto.tv/stitch/hls/channel/5633f71888576f124c834ef4/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:0 tvg-id="ext" group-title="USA",TLC (Opt-1)
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",TLC (Opt-2)
+http://vapi.vaders.tv/play/2777.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
+#EXTINF:0 tvg-id="tnt" group-title="USA",TNT
+http://vapi.vaders.tv/play/2459.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="TravelChannel.uk" group-title="USA",Travel Channel
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:0 tvg-id="TruTV.uk" group-title="USA",TruTV
+http://vapi.vaders.tv/play/2466.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
+#EXTINF:0 tvg-id="ext" group-title="USA",TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",UN Web TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_1@575439/master.m3u8
+#EXTINF:0 tvg-id="VH1.eur" group-title="USA",VH1
+http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
+#EXTINF:0 tvg-id="ext" group-title="USA",WarRoom
+https://infowarslive-lh.akamaihd.net/i/WarRoom_1@561925/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",WGN-TV News Chicago
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",WHOH TV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:0 tvg-id="AssembleeNationale.ca" group-title="CANADA",Assemblee Nationale du Quebec
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="CanalSavoir.ca" group-title="CANADA",Canal Savoir
+http://stream.canalsavoir.tv/livestream/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CBC Television
+http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CBC News (VOD)
+http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CBC News Network (Geo)
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CHCH
+https://bcovlive-a.akamaihd.net/2dbd90e2a7a84a8c91dd7e73dd12e1cb/us-west-2/5644964886001/profile_2/chunklist.m3u8
+#EXTINF:0 tvg-id="CPAC.ca" group-title="CANADA",CPAC
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CPAC Francais
+http://bcoveliveios-i.akamaihd.net/hls/live/248520/1242843915001_2/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CTV News Live 1
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CTV News Live 2
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CTV News Live 3
+http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANADA",CTV News Live 4
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
+#EXTINF:0 tvg-id="SPACE.ca" group-title="CANADA",Space
+http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANADA",Tele-Quebec
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
+#EXTINF:0 tvg-id="TheShoppingChannel.ca" group-title="CANADA",The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANADA",NTV Newfoundland
+http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Black Jesus
+http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
