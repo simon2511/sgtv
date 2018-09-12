@@ -4,133 +4,39 @@ usasport.m3u
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 FHD UK" tvg-logo="http://pici.life/uk/SkySportsF1.uk.png" group-title="United Kingdom",Sky Sports F1 FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6535.ts
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 HD UK" tvg-logo="https://pici.life/lg/UK/Sky%20Sports%20F1%20HD%20UK.png" group-title="United Kingdom",Sky Sports F1 HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15708.ts
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 UK" tvg-logo="http://pici.life/uk/SkySportsF1.uk.png" group-title="United Kingdom",Sky Sports F1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6536.ts
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix HD UK" tvg-logo="http://pici.life/uk/SkySportsMix.uk.png" group-title="United Kingdom",Sky Sports Mix HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/7925.ts
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix UK" tvg-logo="http://pici.life/uk/SkySportsMix.uk.png" group-title="United Kingdom",Sky Sports Mix UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6534.ts
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix 1 UK" tvg-logo="http://pici.life/skysportsmix.png" group-title="United Kingdom",Sky Sports Mix 1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/7919.ts
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News FHD UK" tvg-logo="" group-title="United Kingdom",Sky Sports News FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15702.ts
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News HD UK" tvg-logo="https://pici.life/lg/UK/Sky-Sports-News-HD%20UK.png" group-title="United Kingdom",Sky Sports News HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15701.ts
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News UK" tvg-logo="http://pici.life/uk/SkySportsNews.uk.png" group-title="United Kingdom",Sky Sports News UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6533.ts
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action FHD UK" tvg-logo="http://pici.life/skysportsaction.png" group-title="United Kingdom",Sky Sports Action FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/7920.ts
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action HD UK" tvg-logo="http://pici.life/uk/SkySportsAction.uk.png" group-title="United Kingdom",Sky Sports Action HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/7927.ts
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena FHD UK" tvg-logo="" group-title="United Kingdom",Sky Sports Arena FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15710.ts
-#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena HD UK" tvg-logo="http://pici.life/uk/SkySportsArena.uk.png" group-title="United Kingdom",Sky Sports Arena HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/7926.ts
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports cricket FHD UK" tvg-logo="" group-title="United Kingdom",Sky Sports cricket FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15709.ts
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket HD UK" tvg-logo="http://pici.life/skysportscricket.png" group-title="United Kingdom",Sky Sports Cricket HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/7929.ts
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket UK" tvg-logo="http://pici.life/uk/SkySportsCricket.uk.png" group-title="United Kingdom",Sky Sports Cricket UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/7922.ts
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football FHD UK" tvg-logo="" group-title="United Kingdom",Sky Sports Football FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15707.ts
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football HD UK" tvg-logo="http://pici.life/skysportsfootball.png" group-title="United Kingdom",Sky Sports Football HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/7930.ts
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football UK" tvg-logo="" group-title="United Kingdom",Sky Sports Football UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15706.ts
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf FHD UK" tvg-logo="" group-title="United Kingdom",Sky Sports Golf FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15705.ts
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf UK" tvg-logo="https://pici.life/lg/UK/Sky%20Sports%20Golf_%20UK.png" group-title="United Kingdom",Sky Sports Golf UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9536.ts
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf HD UK" tvg-logo="" group-title="United Kingdom",Sky Sports Golf HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15704.ts
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event FHD UK" tvg-logo="" group-title="United Kingdom",Sky Sports Main Event FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15703.ts
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD UK" tvg-logo="http://pici.life/skysportsmainevet.png" group-title="United Kingdom",Sky Sports Main Event HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/7932.ts
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event UK" tvg-logo="http://pici.life/uk/SkySportsMainEvent.uk.png" group-title="United Kingdom",Sky Sports Main Event UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/7924.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League FHD UK" tvg-logo="http://pici.life/uk/SkySportsPremiereLeague.uk.png" group-title="United Kingdom",Sky Sports Premier League FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/7923.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League HD UK" tvg-logo="http://pici.life/skysport1.png" group-title="United Kingdom",Sky Sports Premier League HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/7931.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League UK" tvg-logo="https://pici.life/lg/UK/Sky%20Sports%20Premier%20League%20UK.png" group-title="United Kingdom",Sky Sports Premier League UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15700.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports The Open FHD UK" tvg-logo="http://pici.life/skysportstheopen.png" group-title="United Kingdom",Sky Sports The Open FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/7928.ts
-#EXTINF:-1 tvg-id="SkySportsTheOpen.uk" tvg-name="Sky Sports The Open UK" tvg-logo="http://pici.life/uk/SkySportsTheOpen.uk.png" group-title="United Kingdom",Sky Sports The Open UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/7921.ts
-#EXTINF:-1 tvg-id="SkySportsBoxOffice.uk" tvg-name="Sky Sports Box Office (Live During Events Only) UK" tvg-logo="" group-title="United Kingdom",Sky Sports Box Office (Live During Events Only) UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9153.ts
-#EXTINF:-1 tvg-id="SkySportsBoxOffice.uk" tvg-name="Sky Box Office Sport FHD UK" tvg-logo="" group-title="United Kingdom",Sky Box Office Sport FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15828.ts
-#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="Premier Sports HD UK" tvg-logo="http://pici.life/premiersports.png" group-title="United Kingdom",Premier Sports HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/7915.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eir Sport 1 UK" tvg-logo="https://pici.life/lg/UK/EIR Sport 1 UK.png" group-title="United Kingdom",Eir Sport 1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6612.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eir Sport 2 UK" tvg-logo="https://pici.life/lg/UK/EIR%20Sport%202%20UK.png" group-title="United Kingdom",Eir Sport 2 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6611.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN UK" tvg-logo="" group-title="United Kingdom",ESPN UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6610.ts
-#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="Eurosport 1 UK" tvg-logo="http://pici.life/uk/Eurosport1.uk.png" group-title="United Kingdom",Eurosport 1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6609.ts
-#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="Eurosport 2 UK" tvg-logo="http://pici.life/uk/Eurosport2.uk.png" group-title="United Kingdom",Eurosport 2 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6608.ts
-#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="Premier Sports UK" tvg-logo="http://pici.life/uk/PremierSports.uk.png" group-title="United Kingdom",Premier Sports UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6568.ts
-#EXTINF:-1 tvg-id="MotorsTV.uk" tvg-name="Motors TV HD UK" tvg-logo="http://pici.life/uk/MotorsTV.uk.png" group-title="United Kingdom",Motors TV HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6580.ts
-#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV FHD UK" tvg-logo="" group-title="United Kingdom",MUTV FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/12852.ts
-#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV HD UK" tvg-logo="https://pici.life/lg/UK/MUTV%20HD%20UK.png" group-title="United Kingdom",MUTV HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6582.ts
-#EXTINF:-1 tvg-id="LiverpoolFCTV.uk" tvg-name="Liverpool FC UK" tvg-logo="http://pici.life/uk/LiverpoolFCTV.uk.png" group-title="United Kingdom",Liverpool FC UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6584.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rangers FC TV (Live for Matches) UK" tvg-logo="http://pici.life/rangerstvuk.png" group-title="United Kingdom",Rangers FC TV (Live for Matches) UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/7826.ts
-#EXTINF:-1 tvg-id="" tvg-name="Celtic FC TV  FHD (Live for Matches) UK" tvg-logo="http://pici.life/celtictv.png" group-title="United Kingdom",Celtic FC TV  FHD (Live for Matches) UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/7825.ts
-#EXTINF:-1 tvg-id="ChelseaTV.uk" tvg-name="Chelsea TV HD UK" tvg-logo="https://pici.life/lg/UK/Chelsea%20TV%20UK.png" group-title="United Kingdom",Chelsea TV HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15772.ts
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 HD UK" tvg-logo="http://pici.life/uk/BTSport1.uk.png" group-title="United Kingdom",BT Sport 1 HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6649.ts
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sports 1 UK" tvg-logo="http://pici.life/uk/BTSport1.uk.png" group-title="United Kingdom",BT Sports 1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6646.ts
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 FHD UK" tvg-logo="http://pici.life/uk/BTSport2.uk.png" group-title="United Kingdom",BT Sport 2 FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6648.ts
-#EXTINF:-1 tvg-id="" tvg-name="BT Sports 2 UK" tvg-logo="http://pici.life/uk/BTSport2.uk.png" group-title="United Kingdom",BT Sports 2 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6645.ts
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sports 3 FHD UK" tvg-logo="http://pici.life/uk/BTSport3.uk.png" group-title="United Kingdom",BT Sports 3 FHD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6647.ts
-#EXTINF:-1 tvg-id="" tvg-name="BT Sports 3 UK" tvg-logo="http://pici.life/uk/BTSport3.uk.png" group-title="United Kingdom",BT Sports 3 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6644.ts
-#EXTINF:-1 tvg-id="BTSportX1.uk" tvg-name="BT Sport Extra 1 UK" tvg-logo="http://pici.life/uk/BTSportX1.uk.png" group-title="United Kingdom",BT Sport Extra 1 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6641.ts
-#EXTINF:-1 tvg-id="BTSportX2.uk" tvg-name="BT Sport Extra 2 UK" tvg-logo="http://pici.life/uk/BTSportX2.uk.png" group-title="United Kingdom",BT Sport Extra 2 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6640.ts
-#EXTINF:-1 tvg-id="BTSportX3.uk" tvg-name="BT Sport Extra 3 UK" tvg-logo="http://pici.life/btsport3extra.png" group-title="United Kingdom",BT Sport Extra 3 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/7918.ts
-#EXTINF:-1 tvg-id="BTSportX4.uk" tvg-name="BT Sport Extra 4 UK" tvg-logo="http://pici.life/btsport4extra.png" group-title="United Kingdom",BT Sport Extra 4 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/7917.ts
-#EXTINF:-1 tvg-id="BTSportX5.uk" tvg-name="BT Sport Extra 5 UK" tvg-logo="http://pici.life/btsportextra.png" group-title="United Kingdom",BT Sport Extra 5 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/7916.ts
-#EXTINF:-1 tvg-id="BTSportX6.uk" tvg-name="BT Sport Extra 6 UK" tvg-logo="" group-title="United Kingdom",BT Sport Extra 6 UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/9544.ts
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport Europe UK" tvg-logo="" group-title="United Kingdom",BT Sport Europe UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6642.ts
-#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="BT Sport ESPN HD UK" tvg-logo="" group-title="United Kingdom",BT Sport ESPN HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15738.ts
-#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="BT Sport ESPN UK" tvg-logo="http://pici.life/uk/BTSportESPN.uk.png" group-title="United Kingdom",BT Sport ESPN UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6643.ts
-#EXTINF:-1 tvg-id="AtTheRaces.uk" tvg-name="At The Races UK" tvg-logo="http://pici.life/uk/AtTheRaces.uk.png" group-title="United Kingdom",At The Races UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/6661.ts
-#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="Eurosport 1 HD UK" tvg-logo="" group-title="United Kingdom",Eurosport 1 HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15736.ts
-#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="Eurosport 2 HD UK" tvg-logo="" group-title="United Kingdom",Eurosport 2 HD UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15735.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fight Sports UK" tvg-logo="" group-title="United Kingdom",Fight Sports UK
-http://iptv.rent:8080/live/5qooyv0o2b/bffsbsz0yb/15747.ts
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",SKY SPORT PREMIER LEAGUE
+http://62.210.99.158:80/live?channelId=133&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",SKY SPORT PREMIER LEAGUE HD
+http://62.210.99.158:80/live?channelId=133&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",SKY SPORT F1
+http://163.172.106.121:9001/live?channelId=133&deviceMac=00:1A:79:3C:C9:56&uid=11905
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",SKY SPORT F1 HD
+http://163.172.106.121:9001/live?channelId=134&deviceMac=00:1A:79:3C:C9:56&uid=11905
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",FOOTBALL
+http://62.210.99.158:80/live?channelId=125&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",FOOTBALL HD
+http://62.210.99.158:80/live?channelId=126&uid=2454&deviceMac=00:1A:79:3C:C9:29
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",TEN 1 HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",TEN 2 HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/05.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",TEN 3 HD
+http://mhms6.airtel.tv/wh7f454c46tw2828204960_1272463506/PLTV/88888888/224/3221226330/04.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",SONY ESPN HD
+http://cshms4.airtel.tv/wh7f454c46tw3044125113_1979135345/PLTV/88888888/224/3221226076/05.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",SONY SIX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",ELEVEN SP. 1 HD
+http://61.58.60.230:9000/live/75.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",ELEVEN SP. 2 HD
+http://61.58.60.230:9000/live/102.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",ELEVEN SP. 4 HD
+http://145.129.238.137:7000/play/a00i
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",MATCH! HD
+http://46.8.159.250:44489/channel48.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",MATCH! FOOTBALL 1
+http://persik.by/stream/3903/293564/10266.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",MATCH! FOOTBALL 2
+http://persik.by/stream/3903/293564/10267.m3u8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",MATCH! FOOTBALL 3
+http://persik.by/stream/3903/293564/10268.m3u8
