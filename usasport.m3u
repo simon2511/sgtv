@@ -4,39 +4,99 @@ usasport.m3u
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",SKY SPORT PREMIER LEAGUE
-http://62.210.99.158:80/live?channelId=133&uid=2454&deviceMac=00:1A:79:3C:C9:29
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",SKY SPORT PREMIER LEAGUE HD
-http://62.210.99.158:80/live?channelId=133&uid=2454&deviceMac=00:1A:79:3C:C9:29
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",SKY SPORT F1
-http://163.172.106.121:9001/live?channelId=133&deviceMac=00:1A:79:3C:C9:56&uid=11905
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",SKY SPORT F1 HD
-http://163.172.106.121:9001/live?channelId=134&deviceMac=00:1A:79:3C:C9:56&uid=11905
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",FOOTBALL
-http://62.210.99.158:80/live?channelId=125&uid=2454&deviceMac=00:1A:79:3C:C9:29
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",FOOTBALL HD
-http://62.210.99.158:80/live?channelId=126&uid=2454&deviceMac=00:1A:79:3C:C9:29
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",TEN 1 HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",TEN 2 HD
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/05.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",TEN 3 HD
-http://mhms6.airtel.tv/wh7f454c46tw2828204960_1272463506/PLTV/88888888/224/3221226330/04.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",SONY ESPN HD
-http://cshms4.airtel.tv/wh7f454c46tw3044125113_1979135345/PLTV/88888888/224/3221226076/05.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",SONY SIX HD
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",ELEVEN SP. 1 HD
-http://61.58.60.230:9000/live/75.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",ELEVEN SP. 2 HD
-http://61.58.60.230:9000/live/102.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",ELEVEN SP. 4 HD
-http://145.129.238.137:7000/play/a00i
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",MATCH! HD
-http://46.8.159.250:44489/channel48.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",MATCH! FOOTBALL 1
-http://persik.by/stream/3903/293564/10266.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",MATCH! FOOTBALL 2
-http://persik.by/stream/3903/293564/10267.m3u8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/njgflwk0t/ENTERT.png" group-title="SPORT",MATCH! FOOTBALL 3
-http://persik.by/stream/3903/293564/10268.m3u8
+#EXTINF:-1,BT Sport Europe UK 
+http://portal.simiptv.com:8001/live/1/2/21944.ts 
+
+#EXTINF:-1,BT Sports 3 UK 
+http://portal.simiptv.com:8001/live/1/2/21951.ts 
+
+#EXTINF:-1,BT Sports 3 FHD UK 
+http://portal.simiptv.com:8001/live/1/2/21952.ts 
+
+#EXTINF:-1,(UK) BT Sport 1 >HD< 
+http://portal.simiptv.com:8001/live/1/2/21956.ts 
+
+#EXTINF:-1,BT Sport ESPN UK 
+http://portal.simiptv.com:8001/live/1/2/21942.ts 
+
+#EXTINF:-1,BT Sport ESPN HD UK 
+http://portal.simiptv.com:8001/live/1/2/21943.ts 
+
+#EXTINF:-1,BT Sport 2 FHD UK 
+http://portal.simiptv.com:8001/live/1/2/21954.ts 
+
+#EXTINF:-1,BT Sport ESPN UK 
+http://portal.simiptv.com:8001/live/1/2/21942.ts 
+
+#EXTINF:-1,BT Sport ESPN HD UK 
+http://portal.simiptv.com:8001/live/1/2/21943.ts 
+
+#EXTINF:-1,BT Sport 2 FHD UK 
+http://portal.simiptv.com:8001/live/1/2/21954.ts 
+
+#EXTINF:-1,Sky Atlantic >HD<-UK 
+http://portal.simiptv.com:8001/live/1/2/15501.ts 
+
+#EXTINF:-1,Sky Sports The Open FHD (UK) 
+http://portal.simiptv.com:8001/live/1/2/21961.ts 
+
+#EXTINF:-1,SkySp HD-UK 
+http://portal.simiptv.com:8001/live/1/2/21962.ts 
+
+#EXTINF:-1,Sky Sports Premier League FHD (UK) 
+http://portal.simiptv.com:8001/live/1/2/21964.ts 
+
+#EXTINF:-1,(UK) Sky Sports News >FHD< 
+http://portal.simiptv.com:8001/live/1/2/21983.ts 
+
+
+#EXTINF:-1,(UK) Sky Sports Main Event >FHD< 
+http://portal.simiptv.com:8001/live/1/2/21967.ts 
+
+#EXTINF:-1,Sky Sports Golf FHD (UK) 
+http://portal.simiptv.com:8001/live/1/2/21969.ts 
+
+#EXTINF:-1,(UK) Sky Sports Football >HD< 
+http://portal.simiptv.com:8001/live/1/2/21972.ts 
+
+#EXTINF:-1,Sky Sports F1 
+http://portal.simiptv.com:8001/live/1/2/21987.ts 
+
+#EXTINF:-1,Sky Sports Box Office (Live During Events Only) UK 
+http://portal.simiptv.com:8001/live/1/2/21959.ts 
+
+#EXTINF:-1,SkySp Arena SD-UK 
+http://portal.simiptv.com:8001/live/1/2/21978.ts 
+
+#EXTINF:-1,(UK) Sky Sports Action >FHD< 
+http://portal.simiptv.com:8001/live/1/2/21980.ts
+
+#EXTINF:-1,Box Nation HD-UK 
+http://portal.simiptv.com:8001/live/1/2/14465.ts 
+
+#EXTINF:-1,Vip:Sport| ITV Box Office (uk) 
+http://portal.simiptv.com:8001/live/1/2/21078.ts 
+
+#EXTINF:-1,Sport-UK: PPV 1 (Live During Events Only) 
+http://portal.simiptv.com:8001/live/1/2/21330.ts 
+
+#EXTINF:-1,BT Sport 1 >HD< (UK) 
+http://portal.simiptv.com:8001/live/1/2/18598.ts 
+
+#EXTINF:-1,BT Sport 2 >HD< (UK) 
+http://portal.simiptv.com:8001/live/1/2/18600.ts 
+
+#EXTINF:-1,BT Sport 3 >HD< (UK) 
+http://portal.simiptv.com:8001/live/1/2/18601.ts 
+
+#EXTINF:-1,BT Sport ESPN >FHD< (UK) 
+http://portal.simiptv.com:8001/live/1/2/18602.ts 
+
+#EXTINF:-1,Eurosport 1 >HD<(UK) 
+http://portal.simiptv.com:8001/live/1/2/15550.ts 
+
+#EXTINF:-1,Sport | Eurosport 2 (UK) 
+http://portal.simiptv.com:8001/live/1/2/15549.ts 
+
+#EXTINF:-1,(UK) HORSE & COUNTRY (SP) 
+http://portal.simiptv.com:8001/live/1/2/15407.ts
