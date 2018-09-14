@@ -1,431 +1,545 @@
 
 #EXTM3U
 
-#EXTM3U
 
-#EXTINF:-1, CVMTV
-https://na-us-ne6.secdn.net/iddigital-channel/play/smil:output.smil/chunklist_w1647331980_b2000000_t64SEQ=.m3u8
-#EXTINF:0 tvg-id="AE.ca" group-title="USA",A&E
-http://vapi.vaders.tv/play/2463.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="ext" group-title="USA",ABC (Opt-1)
-http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",ABC (Opt-2)
-http://vapi.vaders.tv/play/2435.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="ABCNews.al" group-title="USA",ABC News
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Action Movies
-http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="ext" group-title="USA",Adventure TV
-http://stitcher.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="ext" group-title="USA",After School Cartoons
-http://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=0cc9f1f1-724b-489f-b1dd-61b832b70b78&deviceId=-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="ext" group-title="USA",AKC TV
-https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",American Heros Channel
-http://vapi.vaders.tv/play/74790.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",American Horrors
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:0 tvg-id="AMC.uk" group-title="USA",AMC
-http://vapi.vaders.tv/play/2436.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="ext" group-title="USA",AMGTV
-rtmp://cp212391.live.edgefcs.net:1935/live/T02027-amgtv@120244
-#EXTINF:0 tvg-id="ext" group-title="USA",Animal Planet (Opt-1)
-http://80.80.160.168/live/1/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Animal Planet (Opt-2)
-http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Animal Planet (Opt-3)
-http://vapi.vaders.tv/play/2437.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="AXSTV.us" group-title="USA",AXS TV
-http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Beach TV - 30A
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Beach TV - Panama City
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Beach TV - Pawleys Island
-http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:0 tvg-id="BET.uk" group-title="USA",BET
-http://vapi.vaders.tv/play/8246.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="BTN.us" group-title="USA",Big Ten Network
-http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Black Cinema
-https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:0 tvg-id="Bloomberg.nws" group-title="USA",Bloomberg TV
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:0 tvg-id="Boomerang.uk" group-title="USA",Boomerang
-http://vapi.vaders.tv/play/79269.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="ext" group-title="USA",Bowie TV
-http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
-#EXTINF:0 tvg-id="BRAVO!.ca" group-title="USA",Bravo
-http://vapi.vaders.tv/play/2438.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="ext" group-title="USA",Buffalo TV
-http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Buzzr (Opt-1)
-https://buzzr-zixi.global.ssl.fastly.net/BUZZR_HLS/BUZZR_SRC_primary-BUZZR_PLUTO_2400-zyNt8Qt1T7.m3u8?hlsid=HTTP_ID_777&starttime=20180720T201407.634947
-#EXTINF:0 tvg-id="ext" group-title="USA",Buzzr (Opt-2)
-https://buzzr-zixi.global.ssl.fastly.net/BUZZR_HLS.m3u8?hlsid=HTTP_ID_777
-#EXTINF:0 tvg-id="BYUtv.us" group-title="USA",BYUtv
-https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",C-SPAN
-http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
-#EXTINF:0 tvg-id="CSPAN2.us" group-title="USA",C-SPAN 2
-http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",C-SPAN 3
-http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Cars
-http://stitcher.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="ext" group-title="USA",Cartoon Network (Dual)
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",CBS (Opt-1)
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",CBS (Opt-2)
-http://vapi.vaders.tv/play/2440.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",CBS News (Opt-1)
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",CBS News (Opt-2)
-https://www.cbsnews.com/common/video/dai_prod.m3u8
-#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="USA",CBS Sports HQ
-https://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:0 tvg-id="ext" group-title="USA",Celebrity Page TV
-https://stream.thegateway.app/CelebrityPage/CPN/CelebrityPage/HLS_720p/chunks.m3u8?ref=celebritypage.com
-#EXTINF:0 tvg-id="ext" group-title="USA",CGTN America
-http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Channel 7
-http://radio.7chan.org:8000/CH7
-#EXTINF:0 tvg-id="ext" group-title="USA",Charge! (Geo)
-https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Cheddar
-https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Cheddar Big News
-https://wowzaprod124-i.akamaihd.net/hls/live/505691/261805b7/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Classic Arts Showcase
-https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Classic Movies
-https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:0 tvg-id="ext" group-title="USA",Classic Toons TV
-http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=5b8dde6c-ee63-40c0-8a6c-81595c7a920c&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="ext" group-title="USA",Classic TV
-http://stitcher.pluto.tv/stitch/hls/channel/55383613c0b860c11a631e36/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="ext" group-title="USA",Classic TV 4U
-https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
-#EXTINF:0 tvg-id="CNBC.ca" group-title="USA",CNBC
-http://stitcher.pluto.tv/stitch/hls/channel/57ebfd64f70792b24b5bd9a6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="CNN.ca" group-title="USA",CNN (Opt-1)
-https://2202.janjuaplayer.com:8088/live/cnn_livestreaming/playlist.m3u8?id=71202&wowzasessionid=3388320812&pk=5c2d33e2b5e3afb493144209fb99b190f5301014e17bd335f2c0d616f2b4edc8
-#EXTINF:0 tvg-id="CNN.ca" group-title="USA",CNN (Opt-2)
-http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="CNN.ca" group-title="USA",CNN (Opt-3)
-http://vapi.vaders.tv/play/2442.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",Combat Go
-http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="USA",Comedy Central
-http://vapi.vaders.tv/play/2443.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",Comet TV
-http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
-#EXTINF:0 tvg-id="CookingChannelSD.ca" group-title="USA",Cooking Channel
-http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Crime Network
-http://stitcher.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="ext" group-title="USA",Discovery Channel (Opt-1)
-http://80.80.160.168/live/8/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Discovery Channel (Opt-2)
-http://103.242.13.90:5555/udp/239.4.2.19:10000
-#EXTINF:0 tvg-id="ext" group-title="USA",Discovery Channel (Opt-3)
-http://vapi.vaders.tv/play/2445.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="DisneyChannel.ca" group-title="USA",Disney Channel
-http://vapi.vaders.tv/play/8197.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="DisneyJrSD.ca" group-title="USA",Disney Jr
-http://vapi.vaders.tv/play/39421.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="DisneyXDSD.ca" group-title="USA",Disney XD
-http://vapi.vaders.tv/play/2762.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",District Knowledge Network
-http://video.oct.dc.gov/out/u/96_4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Ditty TV
-https://desktop.dittytv.com/live/dittytv.stream_desktop/chunklist_w1540160005.m3u8
-#EXTINF:0 tvg-id="DIYNetworkHD.us" group-title="USA",DIY Network
-http://vapi.vaders.tv/play/40663.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",DocuTV
-http://stitcher.pluto.tv/stitch/hls/channel/5695441df3ed8937070b1ac6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="ext" group-title="USA",El Rey Network
-http://vapi.vaders.tv/play/38912.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",ESPN (Opt-1)
-http://80.80.160.168/live/6/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",ESPN (Opt-2)
-http://vapi.vaders.tv/play/2565.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="ext" group-title="USA",ESPN 2 (Opt-1)
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:0 tvg-id="ESPN2.mx" group-title="USA",ESPN 2 (Opt-2)
-http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="EVINE.us" group-title="USA",Evine
-https://aos01-evine.secure.footprint.net/evine/dirty/Evine_Dirty_VIDEO_1_2064000.m3u8
-#EXTINF:0 tvg-id="boec" group-title="USA",Fight
-http://stitcher.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="ext" group-title="USA",Flashback TV
-https://dcunilive28-lh.akamaihd.net/i/dclive_1@533390/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Flicks of Fury
-https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:0 tvg-id="FoodNetwork.eu" group-title="USA",Food Network
-http://vapi.vaders.tv/play/2913.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="ext" group-title="USA",Food TV
-http://stitcher.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="FX.uk" group-title="USA",Fox
-http://vapi.vaders.tv/play/2448.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="FoxBusinessNetwork.us" group-title="USA",Fox Business Network
-http://fbntve-i.akamaihd.net/hls/live/200667/fbntve/HD.m3u8
-#EXTINF:0 tvg-id="FOXNewsChannel.us" group-title="USA",Fox News Channel
-http://fnctve-i.akamaihd.net/hls/live/200669/fnctve/HD.m3u8
-#EXTINF:0 tvg-id="FoxSports.tr" group-title="USA",Fox Sports
-http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="FOXSportsRacing.ca" group-title="USA",Fox Sports Racing
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:0 tvg-id="FYI.ca" group-title="USA",FYI
-http://vapi.vaders.tv/play/56458.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="GAMESHOWNETWORK.ca" group-title="USA",Game Show Network
-http://vapi.vaders.tv/play/39847.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",Garland TV
-http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Glory Kickboxing
-http://stitcher.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="ext" group-title="USA",Gravitas Movies
-http://stitcher.pluto.tv/stitch/hls/channel/59120e45877eeb3760b3d9da/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="ext" group-title="USA",Greenbelt TV
-http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
-#EXTINF:0 tvg-id="Hallmark.us" group-title="USA",Hallmark Channel
-http://vapi.vaders.tv/play/2453.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="HallmarkMovies-Mysteries.us" group-title="USA",Hallmark Movies & Mysteries
-http://vapi.vaders.tv/play/39629.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",HBO (Asia)
-http://218.202.220.2:5000/nn_live.ts?id=HBO
-#EXTINF:0 tvg-id="ext" group-title="USA",HBO 2 (Dual)
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",HBO Hits (Asia)
-http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Heavy Metal Television
-http://70.166.99.93:1935/hmtv/myStream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Her
-http://stitcher.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="HGTV.ca" group-title="USA",HGTV
-http://vapi.vaders.tv/play/2454.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="HISTORY.ca" group-title="USA",History
-http://vapi.vaders.tv/play/2915.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="ext" group-title="USA",Hive
-http://stitcher.pluto.tv/stitch/hls/channel/580814179dfdf1f4141f78f5/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="ext" group-title="USA",Horror 24/7
-https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:0 tvg-id="ext" group-title="USA",House of Representatives
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",HSN
-https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",HSN 2
-https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Hunt Channel
-https://nimble.huntchannel.tv/abr/huntchannel/live/huntchannelhq/chunks.m3u8
-#EXTINF:0 tvg-id="IFC.us" group-title="USA",IFC
-http://vapi.vaders.tv/play/2773.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",IGN
-http://stitcher.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="ext" group-title="USA",Impact Wrestling
-http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="ext" group-title="USA",IndieWave
-https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",InfoWars
-http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
-#EXTINF:0 tvg-id="Investigation.uk" group-title="USA",Investigation Discovery
-http://vapi.vaders.tv/play/7941.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="ext" group-title="USA",Jupiter Broadcasting
-http://jblive.videocdn.scaleengine.net/jb-live/play/jblive.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",KBVR TV
-http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Key TV
-http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Kids TV
-http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="ext" group-title="USA",Kool TV
-http://173.199.158.79:1935/roku/myStream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Law & Crime
-https://ssai.ooyala.com/hls/delta/ll-live-virginia/out/u/229ymkag04945/111827/43OWVjZTE65GskF69ZcXWykXcnScRY5u/cn/d55a880cca4b4b0d8705ae78f89c2960.m3u8?tagurl=aHR0cHM6Ly9wdWJhZHMuZy5kb3VibGVjbGljay5uZXQvZ2FtcGFkL2xpdmUvYWRzP3N6PTQwMHgzMDAmaXU9LzMzMTczNDc4L0xhd0FuZENyaW1lX1ZpZGVvcGxheWVyX0xpdmVzdHJlYW0maW1wbD1zJmdkZnBfcmVxPTEmZW52PXZwJm91dHB1dD12YXN0JnVudmlld2VkX3Bvc2l0aW9uX3N0YXJ0PTEmdXJsPVtyZWZlcnJlcl91cmxdJmRlc2NyaXB0aW9uX3VybD1bZGVzY3JpcHRpb25fdXJsXSZjb3JyZWxhdG9yPVt0aW1lc3RhbXBd&ssai_guid=c9d2c682-2327-4535-ad16-2905234a77d8&player_params=%7B%22pcode%22:%22gyYWwyOidzrLbbOg-bDRL_5wcBGb%22,%22playerBrandingId%22:%22ea3d937c8f814fbaa675338240f835a8%22%7D
-#EXTINF:0 tvg-id="LIFETIMESD.ca" group-title="USA",Lifetime
-http://vapi.vaders.tv/play/2465.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="Lifetime.us" group-title="USA",Lifetime Movie Network
-http://vapi.vaders.tv/play/16705.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="ext" group-title="USA",LittleThings
-http://stitcher.pluto.tv/stitch/hls/channel/5984cbeaa0fc957e6e9195ab/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="ext" group-title="USA",Man Up
-http://stitcher.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="ext" group-title="USA",Metro Cable Network
-http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
-#EXTINF:0 tvg-id="metv.il" group-title="USA",MeTV
-http://atlas.its.virginia.edu:8088/hls/m3u8/METV.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Miami TV
-http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",MLB Network (Opt-1)
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",MLB Network (Opt-2)
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Movee 4U
-https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
-#EXTINF:0 tvg-id="MSNBC.ca" group-title="USA",MSNBC SD
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
-#EXTINF:0 tvg-id="MSNBC.ca" group-title="USA",MSNBC HD
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Music Choice Play
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",MY9
-http://161.0.157.9/PLTV/88888888/224/3221226727/03.m3u8
-#EXTINF:0 tvg-id="NASATV.us" group-title="USA",NASA TV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",NASA TV Media
-http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
-#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="USA",Nat Geo Wild
-http://vapi.vaders.tv/play/50910.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="USA",National Geographic
-http://vapi.vaders.tv/play/39029.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="ext" group-title="USA",NatureVision TV
-https://feed00.pluto.tv/feed03/ngrp:nature.vision.stream_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",NBC (Opt-1)
-http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",NBC (Opt-2)
-http://vapi.vaders.tv/play/2455.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="ext" group-title="USA",NBC News
-http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-#EXTINF:0 tvg-id="ext" group-title="USA",New Orleans TV
-http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Newsmax TV
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",News 24/7
-http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-#EXTINF:0 tvg-id="NFLNetwork.ca" group-title="USA",NFL Network
-http://vapi.vaders.tv/play/2744.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="NFLNetwork.mx" group-title="USA",NFL Now
-https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
-#EXTINF:0 tvg-id="NHLNetwork.us" group-title="USA",NHL Network
-http://vapi.vaders.tv/play/2786.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="Nickelodeon.ca" group-title="USA",Nickelodeon
-http://vapi.vaders.tv/play/2460.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="ext" group-title="USA",Oprah Winfrey Network
-http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/4296k/index.m3u8
-#EXTINF:0 tvg-id="PBS.uk" group-title="USA",PBS
-http://vapi.vaders.tv/play/2774.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",PBS Kids (Geo)
-https://live-cdn.pbskids.org/out/u/aim/wttw.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",PGCPS
-http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Pluto TV Movies 1
-https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:0 tvg-id="ext" group-title="USA",Pluto TV Movies 2
-http://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="pop.uk" group-title="USA",Pop
-https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",PopSugar
-http://stitcher.pluto.tv/stitch/hls/channel/561721d6ada51f8004c4b474/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="ext" group-title="USA",QVC (Opt-1)
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/cd5bfeab75a34ba18301490388fd4daa/manifest.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",QVC (Opt-2)
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
-#EXTINF:0 tvg-id="QVC2.us" group-title="USA",QVC 2
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/1af4a53fda904f6c90a4389c8fe92dc0/manifest.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Radio U 88.7 Colombus
-http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/rightbrainmedia-live-109/radioutv1/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Real News
-https://infowarslive-lh.akamaihd.net/i/RealNews_1@561924/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Red Bull TV (Opt-1)
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Red Bull TV (Opt-2)
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Red Bull TV (Opt-3)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Rev'n
-http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",RiffTrax
-http://stitcher.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="RussiaToday.uk" group-title="USA",RT America
-https://secure-streams.akamaized.net/rt-usa/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Science Channel (Opt-1)
-http://80.80.160.168/live/9/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Science Channel (Opt-2)
-http://vapi.vaders.tv/play/54628.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="ext" group-title="USA",Science TV
-http://stitcher.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="ShopLC.us" group-title="USA",Shop LC
-https://dpfbqenlgkzdh.cloudfront.net/shoplc_backup/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",ShoutFactoryTV
-http://stitcher.pluto.tv/stitch/hls/channel/55a6a3275616b6240c26f393/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="Showtime.no" group-title="USA",Showtime
-http://80.80.160.168/live/7/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Sky News America
-http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Sony Movie Channel (Opt-1)
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Sony Movie Channel (Opt-2)
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",Southeastern Channel
-http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",TBD
-http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-#EXTINF:0 tvg-id="24dok" group-title="USA",TBS
-http://vapi.vaders.tv/play/2461.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",Temple TV
-http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",THC
-http://stitcher.pluto.tv/stitch/hls/channel/5633f71888576f124c834ef4/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:0 tvg-id="ext" group-title="USA",TLC (Opt-1)
-http://80.80.160.168/live/2/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",TLC (Opt-2)
-http://vapi.vaders.tv/play/2777.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0==
-#EXTINF:0 tvg-id="tnt" group-title="USA",TNT
-http://vapi.vaders.tv/play/2459.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="TravelChannel.uk" group-title="USA",Travel Channel
-http://80.80.160.168/live/3/live.m3u8
-#EXTINF:0 tvg-id="TruTV.uk" group-title="USA",TruTV
-http://vapi.vaders.tv/play/2466.m3u8?token=eyJ1c2VybmFtZSI6ImdvZGlzbG92ZTE3IiwicGFzc3dvcmQiOiIxN2VyaWNyb3NlIn0=
-#EXTINF:0 tvg-id="ext" group-title="USA",TSTV
-http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",TVW
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",TVW-2
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",UN Web TV
-https://bcliveunivsecure-lh.akamaihd.net/i/un150_1@575439/master.m3u8
-#EXTINF:0 tvg-id="VH1.eur" group-title="USA",VH1
-http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
-#EXTINF:0 tvg-id="ext" group-title="USA",WarRoom
-https://infowarslive-lh.akamaihd.net/i/WarRoom_1@561925/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",WGN-TV News Chicago
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",WHOH TV
-http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:0 tvg-id="AssembleeNationale.ca" group-title="CANADA",Assemblee Nationale du Quebec
-http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="CanalSavoir.ca" group-title="CANADA",Canal Savoir
-http://stream.canalsavoir.tv/livestream/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANADA",CBC Television
-http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANADA",CBC News (VOD)
-http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANADA",CBC News Network (Geo)
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANADA",CHCH
-https://bcovlive-a.akamaihd.net/2dbd90e2a7a84a8c91dd7e73dd12e1cb/us-west-2/5644964886001/profile_2/chunklist.m3u8
-#EXTINF:0 tvg-id="CPAC.ca" group-title="CANADA",CPAC
-http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANADA",CPAC Francais
-http://bcoveliveios-i.akamaihd.net/hls/live/248520/1242843915001_2/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANADA",CTV News Live 1
-http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANADA",CTV News Live 2
-http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANADA",CTV News Live 3
-http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANADA",CTV News Live 4
-http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
-#EXTINF:0 tvg-id="SPACE.ca" group-title="CANADA",Space
-http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANADA",Tele-Quebec
-https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
-#EXTINF:0 tvg-id="TheShoppingChannel.ca" group-title="CANADA",The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANADA",NTV Newfoundland
-http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",[AS] Black Jesus
-http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+#EXTINF:-1,5 USA +1 >HD<(UK) 
+http://portal.simiptv.com:8001/live/1/2/22482.ts 
+
+#EXTINF:-1,(UK) Alibi FHD 
+http://portal.simiptv.com:8001/live/1/2/15604.ts 
+
+#EXTINF:-1,(UK) Animal Planet (SD/HD)
+ http://portal.simiptv.com:8001/live/1/2/15603.ts 
+
+#EXTINF:-1,(UK) Al Jazeera News >FHD< 
+http://portal.simiptv.com:8001/live/1/2/15430.ts 
+
+#EXTINF:-1,BBC One London (UK) 
+http://portal.simiptv.com:8001/live/1/2/23510.ts 
+
+#EXTINF:-1,(UK) BBC One Scotland (FHD) 
+http://portal.simiptv.com:8001/live/1/2/15600.ts 
+
+#EXTINF:-1,BBC Two (HD) -UK 
+http://portal.simiptv.com:8001/live/1/2/15599.ts 
+
+#EXTINF:-1,(UK) BBC Three HD 
+http://portal.simiptv.com:8001/live/1/2/15598.ts 
+
+#EXTINF:-1,BBC Four (HD)-UK 
+http://portal.simiptv.com:8001/live/1/2/15597.ts 
+
+#EXTINF:-1,(UK) BBC Parliament 
+http://portal.simiptv.com:8001/live/1/2/15423.ts 
+
+#EXTINF:-1,(UK) BBC World News 
+http://portal.simiptv.com:8001/live/1/2/15596.ts 
+
+#EXTINF:-1,(UK) BBC Red Button 
+http://portal.simiptv.com:8001/live/1/2/15422.ts 
+
+#EXTINF:-1,(UK) Baby TV 
+http://portal.simiptv.com:8001/live/1/2/15601.ts 
+
+#EXTINF:-1,(UK) Boomerang >HD< 
+http://portal.simiptv.com:8001/live/1/2/15592.ts 
+
+#EXTINF:-1,(UK) Box Office Movies 1 >FHD< 
+http://portal.simiptv.com:8001/live/1/2/16472.ts 
+
+#EXTINF:-1,BT Sport Europe UK 
+http://portal.simiptv.com:8001/live/1/2/21944.ts 
+
+#EXTINF:-1,BT Sports 3 UK 
+http://portal.simiptv.com:8001/live/1/2/21951.ts 
+
+#EXTINF:-1,BT Sports 3 FHD UK 
+http://portal.simiptv.com:8001/live/1/2/21952.ts 
+
+#EXTINF:-1,UK | Channel Aka 
+http://portal.simiptv.com:8001/live/1/2/15416.ts 
+
+#EXTINF:-1,(UK) Capital Radio Tv 
+http://portal.simiptv.com:8001/live/1/2/22483.ts 
+
+#EXTINF:-1,(UK) Channel 4+1 (HD) 
+http://portal.simiptv.com:8001/live/1/2/22475.ts 
+
+#EXTINF:-1,(UK) Channel 5 (HD) 
+http://portal.simiptv.com:8001/live/1/2/22476.ts 
+
+#EXTINF:-1,Comedy Central (SD)-UK 
+http://portal.simiptv.com:8001/live/1/2/15570.ts 
+
+#EXTINF:-1,(UK) Comedy Central Extra +1 (SD) 
+http://portal.simiptv.com:8001/live/1/2/22477.ts 
+
+#EXTINF:-1,(UK) E! 
+http://portal.simiptv.com:8001/live/1/2/15414.ts 
+
+#EXTINF:-1,(UK) E4 
+http://portal.simiptv.com:8001/live/1/2/15554.ts 
+
+#EXTINF:-1,UK: E4+1 (HD) 
+http://portal.simiptv.com:8001/live/1/2/22478.ts 
+
+#EXTINF:-1,UK : France 24 English 
+http://portal.simiptv.com:8001/live/1/2/15411.ts 
+
+#EXTINF:-1,(UK) 4Seven 
+http://portal.simiptv.com:8001/live/1/2/15607.ts 
+
+#EXTINF:-1,(UK) Good Food 
+http://portal.simiptv.com:8001/live/1/2/15539.ts 
+
+#EXTINF:-1,(UK) History Channel 
+http://portal.simiptv.com:8001/live/1/2/15537.ts 
+
+#EXTINF:-1,(UK ) History 2 HD 
+http://portal.simiptv.com:8001/live/1/2/15410.ts 
+
+#EXTINF:-1,(UK) Investigation Discovery HD 
+http://portal.simiptv.com:8001/live/1/2/15406.ts 
+
+#EXTINF:-1,(UK) More 4 
+http://portal.simiptv.com:8001/live/1/2/15522.ts 
+
+#EXTINF:-1,(UK) MTV Classic
+http://portal.simiptv.com:8001/live/1/2/15376.ts 
+
+#EXTINF:-1,MTV Rocks-UK 
+http://portal.simiptv.com:8001/live/1/2/15399.ts 
+
+#EXTINF:-1,(UK) National Geographic (HD) 
+http://portal.simiptv.com:8001/live/1/2/15515.ts 
+
+#EXTINF:-1,(UK) Nicktoons 
+http://portal.simiptv.com:8001/live/1/2/15511.ts 
+
+#EXTINF:-1,(UK) NHK World News 
+http://portal.simiptv.com:8001/live/1/2/15397.ts 
+
+#EXTINF:-1,(UK) BT Sport 1 >HD< 
+http://portal.simiptv.com:8001/live/1/2/21956.ts 
+
+#EXTINF:-1,BT Sport ESPN UK 
+http://portal.simiptv.com:8001/live/1/2/21942.ts 
+
+#EXTINF:-1,BT Sport ESPN HD UK 
+http://portal.simiptv.com:8001/live/1/2/21943.ts 
+
+#EXTINF:-1,BT Sport 2 FHD UK 
+http://portal.simiptv.com:8001/live/1/2/21954.ts 
+
+#EXTINF:-1,Sky Atlantic >HD<-UK 
+http://portal.simiptv.com:8001/live/1/2/15501.ts 
+
+#EXTINF:-1,Sky Sports The Open FHD (UK) 
+http://portal.simiptv.com:8001/live/1/2/21961.ts 
+
+#EXTINF:-1,SkySp HD-UK 
+http://portal.simiptv.com:8001/live/1/2/21962.ts 
+
+#EXTINF:-1,Sky Sports Premier League FHD (UK) 
+http://portal.simiptv.com:8001/live/1/2/21964.ts 
+
+#EXTINF:-1,(UK) Sky Sports News >FHD< 
+http://portal.simiptv.com:8001/live/1/2/21983.ts 
+
+
+#EXTINF:-1,(UK) Sky Sports Main Event >FHD< 
+http://portal.simiptv.com:8001/live/1/2/21967.ts 
+
+#EXTINF:-1,Sky Sports Golf FHD (UK) 
+http://portal.simiptv.com:8001/live/1/2/21969.ts 
+
+#EXTINF:-1,(UK) Sky Sports Football >HD< 
+http://portal.simiptv.com:8001/live/1/2/21972.ts 
+
+#EXTINF:-1,Sky Sports F1 
+http://portal.simiptv.com:8001/live/1/2/21987.ts 
+
+#EXTINF:-1,Sky Sports Box Office (Live During Events Only) UK 
+http://portal.simiptv.com:8001/live/1/2/21959.ts 
+
+#EXTINF:-1,SkySp Arena SD-UK 
+http://portal.simiptv.com:8001/live/1/2/21978.ts 
+
+#EXTINF:-1,(UK) Sky Sports Action >FHD< 
+http://portal.simiptv.com:8001/live/1/2/21980.ts 
+
+#EXTINF:-1,Sky Movies Sci-fi & Horror-UK 
+http://portal.simiptv.com:8001/live/1/2/13283.ts 
+
+#EXTINF:-1,(UK) Sky Movies Drama & Romance 
+http://portal.simiptv.com:8001/live/1/2/13289.ts 
+
+#EXTINF:-1,(UK) Sky Movies Crime &Thriller 
+http://portal.simiptv.com:8001/live/1/2/13291.ts 
+
+#EXTINF:-1,(UK) Sky Movies Comedy 
+http://portal.simiptv.com:8001/live/1/2/13292.ts 
+
+#EXTINF:-1,(UK) Sky Movies Action & Adventure 
+http://portal.simiptv.com:8001/live/1/2/13294.ts 
+
+#EXTINF:-1,UK_Sky Boxoffice 3D >HD< 
+http://portal.simiptv.com:8001/live/1/2/21101.ts 
+
+#EXTINF:-1,UK_ Sky Boxoffice 1 >HD< 
+http://portal.simiptv.com:8001/live/1/2/21102.ts 
+
+#EXTINF:-1,UK_Sky Boxoffice 2>FHD< 
+http://portal.simiptv.com:8001/live/1/2/21096.ts 
+
+#EXTINF:-1,(UK) Sky Cinema Boxoffice 3 
+http://portal.simiptv.com:8001/live/1/2/21098.ts 
+
+#EXTINF:-1,SyFy -UK 
+http://portal.simiptv.com:8001/live/1/2/15471.ts 
+
+#EXTINF:-1,(UK) SONY CHANNEL 
+http://portal.simiptv.com:8001/live/1/2/15387.ts 
+
+#EXTINF:-1,(UK) Sky Cinema Boxoffice 4 
+http://portal.simiptv.com:8001/live/1/2/21095.ts 
+
+#EXTINF:-1,UK : SONY MOVIES 
+http://portal.simiptv.com:8001/live/1/2/15386.ts 
+
+#EXTINF:-1,(UK) Sony Crime Channel2. 
+http://portal.simiptv.com:8001/live/1/2/15380.ts 
+
+#EXTINF:-1,Nat Geo Wild-UK 
+http://portal.simiptv.com:8001/live/1/2/15409.ts 
+
+#EXTINF:-1,(UK) CBS Reality (HD) 
+http://portal.simiptv.com:8001/live/1/2/15575.ts 
+
+#EXTINF:-1,(UK) Yesterday 
+http://portal.simiptv.com:8001/live/1/2/15457.ts 
+
+#EXTINF:-1,(UK) Watch 
+http://portal.simiptv.com:8001/live/1/2/15458.ts 
+
+#EXTINF:-1,(UK) Virgin Radio 
+http://portal.simiptv.com:8001/live/1/2/15375.ts 
+
+#EXTINF:-1,(UK) VH1 Classic 
+http://portal.simiptv.com:8001/live/1/2/15377.ts 
+
+#EXTINF:-1,(UK) VH1 >HD< 
+http://portal.simiptv.com:8001/live/1/2/15460.ts 
+
+#EXTINF:-1,UK | UTV 
+http://portal.simiptv.com:8001/live/1/2/15378.ts 
+
+#EXTINF:-1,Universal Channel-UK 
+http://portal.simiptv.com:8001/live/1/2/15461.ts 
+
+#EXTINF:-1,UK | TruTV 
+http://portal.simiptv.com:8001/live/1/2/15379.ts 
+
+#EXTINF:-1,(UK) True Entertainment 
+http://portal.simiptv.com:8001/live/1/2/15466.ts 
+
+#EXTINF:-1,(UK) True Movies +1 
+http://portal.simiptv.com:8001/live/1/2/15381.ts 
+
+#EXTINF:-1,(UK) Travel Channel >HD< 
+http://portal.simiptv.com:8001/live/1/2/15467.ts 
+
+#EXTINF:-1,(UK) TLC 
+http://portal.simiptv.com:8001/live/1/2/15468.ts 
+
+#EXTINF:-1,(UK) STV 
+http://portal.simiptv.com:8001/live/1/2/15385.ts 
+
+#EXTINF:-1,(UK) Spike 
+http://portal.simiptv.com:8001/live/1/2/15472.ts 
+
+#EXTINF:-1,Sky One-UK 
+http://portal.simiptv.com:8001/live/1/2/15488.ts 
+
+#EXTINF:-1,SKY LIVING (HD)-UK 
+http://portal.simiptv.com:8001/live/1/2/15449.ts 
+
+#EXTINF:-1,(UK) Sky Arts 1 
+http://portal.simiptv.com:8001/live/1/2/15502.ts 
+
+#EXTINF:-1,(UK) Sky 2 
+http://portal.simiptv.com:8001/live/1/2/15473.ts 
+
+#EXTINF:-1,(UK) Scuzz 
+http://portal.simiptv.com:8001/live/1/2/15389.ts 
+
+#EXTINF:-1,UK | S4C 
+http://portal.simiptv.com:8001/live/1/2/15390.ts 
+
+#EXTINF:-1,(UK) RT News >HD< 
+http://portal.simiptv.com:8001/live/1/2/15395.ts 
+
+#EXTINF:-1,(UK) Really 
+http://portal.simiptv.com:8001/live/1/2/15505.ts 
+
+#EXTINF:-1,(UK) Quest 
+http://portal.simiptv.com:8001/live/1/2/15508.ts 
+
+#EXTINF:-1,UK | Pick TV 
+http://portal.simiptv.com:8001/live/1/2/15510.ts 
+
+#EXTINF:-1,(UK) Sky Cinema Boxoffice 5 
+http://portal.simiptv.com:8001/live/1/2/13285.ts 
+
+#EXTINF:-1,(UK) Lifetime 
+http://portal.simiptv.com:8001/live/1/2/15526.ts 
+
+#EXTINF:-1,(UK) ITV 4 (HD) 
+http://portal.simiptv.com:8001/live/1/2/15530.ts 
+
+#EXTINF:-1,(UK) ITV 3 (FHD) 
+http://portal.simiptv.com:8001/live/1/2/15531.ts 
+
+#EXTINF:-1,UK | Irish TV 
+http://portal.simiptv.com:8001/live/1/2/15534.ts 
+
+#EXTINF:-1,(UK) Home + >HD< 
+http://portal.simiptv.com:8001/live/1/2/15536.ts 
+
+#EXTINF:-1,(UK) Home 
+http://portal.simiptv.com:8001/live/1/2/15408.ts 
+
+#EXTINF:-1,UK | H2 
+http://portal.simiptv.com:8001/live/1/2/15538.ts 
+
+#EXTINF:-1,(UK) Sky Cinema Family 
+http://portal.simiptv.com:8001/live/1/2/13287.ts 
+
+#EXTINF:-1,(UK) Sky Cinema Select 
+http://portal.simiptv.com:8001/live/1/2/13282.ts 
+
+#EXTINF:-1,(UK) Real Lives 
+http://portal.simiptv.com:8001/live/1/2/15506.ts 
+
+#EXTINF:-1,UK : TV3 Plus 1 
+http://portal.simiptv.com:8001/live/1/2/15462.ts 
+
+#EXTINF:-1,TV3 >HD-UK
+http://portal.simiptv.com:8001/live/1/2/15463.ts
+
+#EXTINF:-1,(UK) True Movies 1
+http://portal.simiptv.com:8001/live/1/2/15465.ts
+
+
+#EXTINF:-1,(UK) SKY News >HD< 
+http://portal.simiptv.com:8001/live/1/2/15489.ts 
+
+#EXTINF:-1,(UK) RTÉ2 >HD< 
+http://portal.simiptv.com:8001/live/1/2/15503.ts 
+
+#EXTINF:-1,(UKI) RTE News Now 
+http://portal.simiptv.com:8001/live/1/2/15393.ts 
+
+#EXTINF:-1,(UK) Nickelodeon >HD< 
+http://portal.simiptv.com:8001/live/1/2/15512.ts 
+
+#EXTINF:-1,(UK) Nick Junior 
+http://portal.simiptv.com:8001/live/1/2/15513.ts 
+
+#EXTINF:-1,(UK) MTV Music 
+http://portal.simiptv.com:8001/live/1/2/15517.ts 
+
+#EXTINF:-1,(UK) MTV Hits 
+http://portal.simiptv.com:8001/live/1/2/15518.ts 
+
+#EXTINF:-1,MTV Classic-UK 
+http://portal.simiptv.com:8001/live/1/2/15402.ts 
+
+#EXTINF:-1,(UK) MTV +1 
+http://portal.simiptv.com:8001/live/1/2/15404.ts 
+
+#EXTINF:-1,(UK) Movies 4 Men 
+http://portal.simiptv.com:8001/live/1/2/15519.ts 
+
+#EXTINF:-1,(UK) Sky Cinema Premiere +1 
+http://portal.simiptv.com:8001/live/1/2/15520.ts
+
+ #EXTINF:-1,(UK) Disney XD 
+http://portal.simiptv.com:8001/live/1/2/15527.ts 
+
+#EXTINF:-1,(UK) ITV Encore (HD) 
+http://portal.simiptv.com:8001/live/1/2/15528.ts 
+
+#EXTINF:-1,(UK) ITV Be (HD) 
+http://portal.simiptv.com:8001/live/1/2/15529.ts 
+
+#EXTINF:-1,(UK) ITV 2 (HD) 
+http://portal.simiptv.com:8001/live/1/2/15532.ts 
+
+#EXTINF:-1,ITV 1 (HD)-UK 
+http://portal.simiptv.com:8001/live/1/2/15533.ts 
+
+#EXTINF:-1,(UK) SKY Fine Living (FHD) 
+http://portal.simiptv.com:8001/live/1/2/22481.ts 
+
+#EXTINF:-1,Gold (SD/HD)-UK 
+http://portal.simiptv.com:8001/live/1/2/15540.ts 
+
+#EXTINF:-1,(UK) Food Network (HD) 
+http://portal.simiptv.com:8001/live/1/2/15545.ts 
+
+#EXTINF:-1,(UK) Film 4 
+http://portal.simiptv.com:8001/live/1/2/15548.ts 
+
+#EXTINF:-1,(UK) TCM Movies (HD) 
+http://portal.simiptv.com:8001/live/1/2/15383.ts 
+
+#EXTINF:-1,Tiny Pop-(uk) 
+http://portal.simiptv.com:8001/live/1/2/15382.ts 
+
+#EXTINF:-1,MTV Dance-UK 
+http://portal.simiptv.com:8001/live/1/2/15405.ts 
+
+#EXTINF:-1,(UK) FOX News 
+http://portal.simiptv.com:8001/live/1/2/15542.ts 
+
+#EXTINF:-1,(UK) FOX Crime 
+http://portal.simiptv.com:8001/live/1/2/15543.ts 
+
+#EXTINF:-1,(UK) Five >HD< 
+http://portal.simiptv.com:8001/live/1/2/15547.ts 
+
+#EXTINF:-1,(UK) Eden 
+http://portal.simiptv.com:8001/live/1/2/15413.ts 
+
+#EXTINF:-1,(UK) Drama 
+http://portal.simiptv.com:8001/live/1/2/15555.ts 
+
+#EXTINF:-1,(UK) Dmax 
+http://portal.simiptv.com:8001/live/1/2/15556.ts 
+
+#EXTINF:-1,(UK) Disney Junior >HD< 
+http://portal.simiptv.com:8001/live/1/2/15559.ts 
+
+#EXTINF:-1,UK) Discovery Turbo 
+http://portal.simiptv.com:8001/live/1/2/15561.ts 
+
+#EXTINF:-1,(UK) Discovery History 
+http://portal.simiptv.com:8001/live/1/2/15565.ts 
+
+#EXTINF:-1,(UK) Discovery Channel (FHD) 
+http://portal.simiptv.com:8001/live/1/2/15566.ts 
+
+#EXTINF:-1,Dave (SD)-UK 
+http://portal.simiptv.com:8001/live/1/2/15567.ts 
+
+#EXTINF:-1,(UK) Comedy Central Xtra 
+http://portal.simiptv.com:8001/live/1/2/15569.ts 
+
+#EXTINF:-1,Liverpool FC (UK) 
+http://portal.simiptv.com:8001/live/1/2/15525.ts 
+
+#EXTINF:-1,(UK) Channel 5 (SD) 
+http://portal.simiptv.com:8001/live/1/2/15573.ts 
+
+#EXTINF:-1,Channel 4 (SD/HD)-UK 
+http://portal.simiptv.com:8001/live/1/2/15574.ts 
+
+#EXTINF:-1,(UK) Challenge 
+http://portal.simiptv.com:8001/live/1/2/15418.ts 
+
+#EXTINF:-1,(UK) Cbeebies 
+http://portal.simiptv.com:8001/live/1/2/15578.ts 
+
+#EXTINF:-1,UK | CBBC 
+http://portal.simiptv.com:8001/live/1/2/15419.ts 
+
+#EXTINF:-1,(UK) Cartoonito 
+http://portal.simiptv.com:8001/live/1/2/15579.ts 
+
+#EXTINF:-1,(UK) Disney Channel >HD< 
+http://portal.simiptv.com:8001/live/1/2/15560.ts 
+
+#EXTINF:-1,(UK) Discovery Shed (HD/SD) 
+http://portal.simiptv.com:8001/live/1/2/15562.ts 
+
+#EXTINF:-1,(UK) Discovery Science (HD) 
+http://portal.simiptv.com:8001/live/1/2/15563.ts 
+
+#EXTINF:-1,(UK) Crime & Investigation (FHD) 
+http://portal.simiptv.com:8001/live/1/2/15568.ts 
+
+#EXTINF:-1,CNBC Europe-UK 
+http://portal.simiptv.com:8001/live/1/2/15415.ts 
+
+#EXTINF:-1,(UK) CBS Action (SD) 
+http://portal.simiptv.com:8001/live/1/2/15577.ts 
+
+#EXTINF:-1,(UK) Cartoon Network 
+http://portal.simiptv.com:8001/live/1/2/15580.ts 
+
+#EXTINF:-1,(UK) Motors TV 
+http://portal.simiptv.com:8001/live/1/2/15521.ts 
+
+#EXTINF:-1,(UK) Bet 
+http://portal.simiptv.com:8001/live/1/2/15595.ts 
+
+#EXTINF:-1,Box Nation HD-UK 
+http://portal.simiptv.com:8001/live/1/2/14465.ts 
+
+#EXTINF:-1,(UK) ROK TV 
+http://portal.simiptv.com:8001/live/1/2/15454.ts 
+
+#EXTINF:-1,UK:WB MOVIES 
+http://portal.simiptv.com:8001/live/1/2/15594.ts 
+
+#EXTINF:-1,(UK) PBS America 
+http://portal.simiptv.com:8001/live/1/2/15396.ts 
+
+#EXTINF:-1,BT Sports 2 UK 
+http://portal.simiptv.com:8001/live/1/2/21953.ts 
+
+#EXTINF:-1,(UK) LOONEY TUNES FHD 
+http://portal.simiptv.com:8001/live/1/2/21928.ts 
+
+#EXTINF:-1,(UK) Box Office Movies 2 >FHD< 
+http://portal.simiptv.com:8001/live/1/2/13284.ts 
+
+#EXTINF:-1,(UK) Quest Red /SD
+http://portal.simiptv.com:8001/live/1/2/22480.ts 
+
+#EXTINF:-1,BBO Cinema (UK) 
+http://portal.simiptv.com:8001/live/1/2/23696.ts 
+
+#EXTINF:-1,BBC ONE (UK) 
+http://portal.simiptv.com:8001/live/1/2/25915.ts 
+
+#EXTINF:-1,PPV EVENT ITV BOXOFFICE 
+http://portal.simiptv.com:8001/live/1/2/21702.ts 
+
+#EXTINF:-1,Vip:Sport| ITV Box Office (uk) 
+http://portal.simiptv.com:8001/live/1/2/21078.ts 
+
+#EXTINF:-1,Sport-UK: PPV 1 (Live During Events Only) 
+http://portal.simiptv.com:8001/live/1/2/21330.ts 
+
+#EXTINF:-1,BT Sport 1 >HD< (UK) 
+http://portal.simiptv.com:8001/live/1/2/18598.ts 
+
+#EXTINF:-1,BT Sport 2 >HD< (UK) 
+http://portal.simiptv.com:8001/live/1/2/18600.ts 
+
+#EXTINF:-1,BT Sport 3 >HD< (UK) 
+http://portal.simiptv.com:8001/live/1/2/18601.ts 
+
+#EXTINF:-1,BT Sport ESPN >FHD< (UK) 
+http://portal.simiptv.com:8001/live/1/2/18602.ts 
+
+#EXTINF:-1,Eurosport 1 >HD<(UK) 
+http://portal.simiptv.com:8001/live/1/2/15550.ts 
+
+#EXTINF:-1,Sport | Eurosport 2 (UK) 
+http://portal.simiptv.com:8001/live/1/2/15549.ts 
+
+#EXTINF:-1,(UK) HORSE & COUNTRY (SP) 
+http://portal.simiptv.com:8001/live/1/2/15407.ts
