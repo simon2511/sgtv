@@ -47,15 +47,6 @@ http://portal.simiptv.com:8001/live/1/2/15592.ts
 #EXTINF:-1,(UK) Box Office Movies 1 >FHD< 
 http://portal.simiptv.com:8001/live/1/2/16472.ts 
 
-#EXTINF:-1,BT Sport Europe UK 
-http://portal.simiptv.com:8001/live/1/2/21944.ts 
-
-#EXTINF:-1,BT Sports 3 UK 
-http://portal.simiptv.com:8001/live/1/2/21951.ts 
-
-#EXTINF:-1,BT Sports 3 FHD UK 
-http://portal.simiptv.com:8001/live/1/2/21952.ts 
-
 #EXTINF:-1,UK | Channel Aka 
 http://portal.simiptv.com:8001/live/1/2/15416.ts 
 
@@ -119,54 +110,9 @@ http://portal.simiptv.com:8001/live/1/2/15511.ts
 #EXTINF:-1,(UK) NHK World News 
 http://portal.simiptv.com:8001/live/1/2/15397.ts 
 
-#EXTINF:-1,(UK) BT Sport 1 >HD< 
-http://portal.simiptv.com:8001/live/1/2/21956.ts 
-
-#EXTINF:-1,BT Sport ESPN UK 
-http://portal.simiptv.com:8001/live/1/2/21942.ts 
-
-#EXTINF:-1,BT Sport ESPN HD UK 
-http://portal.simiptv.com:8001/live/1/2/21943.ts 
-
-#EXTINF:-1,BT Sport 2 FHD UK 
-http://portal.simiptv.com:8001/live/1/2/21954.ts 
 
 #EXTINF:-1,Sky Atlantic >HD<-UK 
 http://portal.simiptv.com:8001/live/1/2/15501.ts 
-
-#EXTINF:-1,Sky Sports The Open FHD (UK) 
-http://portal.simiptv.com:8001/live/1/2/21961.ts 
-
-#EXTINF:-1,SkySp HD-UK 
-http://portal.simiptv.com:8001/live/1/2/21962.ts 
-
-#EXTINF:-1,Sky Sports Premier League FHD (UK) 
-http://portal.simiptv.com:8001/live/1/2/21964.ts 
-
-#EXTINF:-1,(UK) Sky Sports News >FHD< 
-http://portal.simiptv.com:8001/live/1/2/21983.ts 
-
-
-#EXTINF:-1,(UK) Sky Sports Main Event >FHD< 
-http://portal.simiptv.com:8001/live/1/2/21967.ts 
-
-#EXTINF:-1,Sky Sports Golf FHD (UK) 
-http://portal.simiptv.com:8001/live/1/2/21969.ts 
-
-#EXTINF:-1,(UK) Sky Sports Football >HD< 
-http://portal.simiptv.com:8001/live/1/2/21972.ts 
-
-#EXTINF:-1,Sky Sports F1 
-http://portal.simiptv.com:8001/live/1/2/21987.ts 
-
-#EXTINF:-1,Sky Sports Box Office (Live During Events Only) UK 
-http://portal.simiptv.com:8001/live/1/2/21959.ts 
-
-#EXTINF:-1,SkySp Arena SD-UK 
-http://portal.simiptv.com:8001/live/1/2/21978.ts 
-
-#EXTINF:-1,(UK) Sky Sports Action >FHD< 
-http://portal.simiptv.com:8001/live/1/2/21980.ts 
 
 #EXTINF:-1,Sky Movies Sci-fi & Horror-UK 
 http://portal.simiptv.com:8001/live/1/2/13283.ts 
@@ -523,23 +469,3 @@ http://portal.simiptv.com:8001/live/1/2/21078.ts
 #EXTINF:-1,Sport-UK: PPV 1 (Live During Events Only) 
 http://portal.simiptv.com:8001/live/1/2/21330.ts 
 
-#EXTINF:-1,BT Sport 1 >HD< (UK) 
-http://portal.simiptv.com:8001/live/1/2/18598.ts 
-
-#EXTINF:-1,BT Sport 2 >HD< (UK) 
-http://portal.simiptv.com:8001/live/1/2/18600.ts 
-
-#EXTINF:-1,BT Sport 3 >HD< (UK) 
-http://portal.simiptv.com:8001/live/1/2/18601.ts 
-
-#EXTINF:-1,BT Sport ESPN >FHD< (UK) 
-http://portal.simiptv.com:8001/live/1/2/18602.ts 
-
-#EXTINF:-1,Eurosport 1 >HD<(UK) 
-http://portal.simiptv.com:8001/live/1/2/15550.ts 
-
-#EXTINF:-1,Sport | Eurosport 2 (UK) 
-http://portal.simiptv.com:8001/live/1/2/15549.ts 
-
-#EXTINF:-1,(UK) HORSE & COUNTRY (SP) 
-http://portal.simiptv.com:8001/live/1/2/15407.ts
