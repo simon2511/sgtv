@@ -1,7 +1,7 @@
 # sgtv
 list3.m3u
 
-#EXTM3U
+#EXTM3U8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1HqD2qdlDL._RI_.jpg" group-title="MOVIES",12 Strong (2018)
 https://bobmovies.net/hl/12.Strong.2018hd.m3u8
