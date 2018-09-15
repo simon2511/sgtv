@@ -1,10 +1,4 @@
-<item>
-<title>ADULT</title>
-<link>http://ignorame</link> 
-<externallink>https://raw.githubusercontent.com/simon2511/sgtv/master/xxx.m3u8 <externallink>
-<thumbnail>https://archive.org/download/si_Icon_201712/icon.png</thumbnail>  
-<fanart>LINK TO AN IMAGE FOR BACKGROUND</fanart>
-</item>
+
 
  
  <item>
@@ -41,7 +35,13 @@
  
  
 
- 
+<item>
+<title>ADULT</title>
+<link>http://ignorame</link> 
+<externallink>https://raw.githubusercontent.com/simon2511/sgtv/master/xxx.m3u8 <externallink>
+<thumbnail>https://archive.org/download/si_Icon_201712/icon.png</thumbnail>  
+<fanart>LINK TO AN IMAGE FOR BACKGROUND</fanart>
+</item> 
 
 
 
