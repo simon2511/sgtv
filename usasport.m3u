@@ -4,99 +4,345 @@ usasport.m3u
 
 #EXTM3U
 
-#EXTINF:-1,BT Sport Europe UK 
-http://portal.simiptv.com:8001/live/1/2/21944.ts 
+#EXTINF:-1,USA TSN 1HD
+http://188.93.238.184:8000/live/snet/snet/37793.ts
+#EXTINF:-1,USA TSN 2HD
+http://188.93.238.184:8000/live/snet/snet/37792.ts
+#EXTINF:-1,USA TSN 3HD
+http://188.93.238.184:8000/live/snet/snet/37795.ts
+#EXTINF:-1,USA TSN 4HD
+http://188.93.238.184:8000/live/snet/snet/37790.ts
+#EXTINF:-1,USA TSN 5HD
+http://188.93.238.184:8000/live/snet/snet/37791.ts
+#EXTINF:-1,USA SportsNet 360
+http://188.93.238.184:8000/live/snet/snet/37794.ts
+#EXTINF:-1,US CBS Sports
+http://188.93.238.184:8000/live/snet/snet/37815.ts
+#EXTINF:-1,US FOX SPORTS 1 HD
+http://188.93.238.184:8000/live/snet/snet/37800.ts
+#EXTINF:-1,US FOX SPORTS 2 HD
+http://188.93.238.184:8000/live/snet/snet/37811.ts
+#EXTINF:-1,US Sports Net Ontario HD
+http://188.93.238.184:8000/live/snet/snet/37814.ts
+#EXTINF:-1,US Sports Net World HD
+http://188.93.238.184:8000/live/snet/snet/37812.ts
+#EXTINF:-1,UK@ Sky Sports Main Event HD
+http://188.93.238.184:8000/live/snet/snet/36512.ts
+#EXTINF:-1,UK@ Sky Sports Main Event SD
+http://188.93.238.184:8000/live/snet/snet/37954.ts
+#EXTINF:-1,UK@ Sky Sports Main Event (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/36513.ts
+#EXTINF:-1,UK@ Sky Sports Main Event (Backup-2)
+http://188.93.238.184:8000/live/snet/snet/37826.ts
+#EXTINF:-1,UK@ Sky Sports Prem Lge HD
+http://188.93.238.184:8000/live/snet/snet/36514.ts
+#EXTINF:-1,UK@ Sky Sports Prem Lge (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/13633.ts
+#EXTINF:-1,UK@ Sky Sports Football HD
+http://188.93.238.184:8000/live/snet/snet/12451.ts
+#EXTINF:-1,UK@ Sky Sports Football (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/37400.ts
+#EXTINF:-1,UK@ Sky Sports Football (Backup-2)
+http://188.93.238.184:8000/live/snet/snet/36511.ts
+#EXTINF:-1,UK@ Sky Sports Cricket HD
+http://188.93.238.184:8000/live/snet/snet/37955.ts
+#EXTINF:-1,UK@ Sky Sports Cricket (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/16599.ts
+#EXTINF:-1,UK@ Sky Sports F1 HD
+http://188.93.238.184:8000/live/snet/snet/9721.ts
+#EXTINF:-1,UK@ Sky Sports F1(Backup-1)
+http://188.93.238.184:8000/live/snet/snet/9722.ts
+#EXTINF:-1,UK@ Sky Sports Arena HD
+http://188.93.238.184:8000/live/snet/snet/11911.ts
+#EXTINF:-1,UK@ Sky Sports Arena (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/37294.ts
+#EXTINF:-1,UK@ Sky Sports Arena (Backup-2)
+http://188.93.238.184:8000/live/snet/snet/37834.ts
+#EXTINF:-1,UK@ Sky Sports News HQ
+http://188.93.238.184:8000/live/snet/snet/9725.ts
+#EXTINF:-1,UK@ Sky Sports News (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/37299.ts
+#EXTINF:-1,UK@Sky Sports Golf HD
+http://188.93.238.184:8000/live/snet/snet/37569.ts
+#EXTINF:-1,UK@ Sky Sports Golf (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/32594.ts
+#EXTINF:-1,UK@ Sky Sports Golf (Backup-2)
+http://188.93.238.184:8000/live/snet/snet/37836.ts
+#EXTINF:-1,UK@ Sky Sports Action HD
+http://188.93.238.184:8000/live/snet/snet/36509.ts
+#EXTINF:-1,UK@ Sky Sports Action (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/36510.ts
+#EXTINF:-1,UK@ Sky Sports Mix HD
+http://188.93.238.184:8000/live/snet/snet/9723.ts
+#EXTINF:-1,UK@ Sky Sports Mix (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/29507.ts
+#EXTINF:-1,UK@ Eurosport 1 HD
+http://188.93.238.184:8000/live/snet/snet/29815.ts
+#EXTINF:-1,UK@ Eurosport 2 HD
+http://188.93.238.184:8000/live/snet/snet/10763.ts
+#EXTINF:-1,UK@ BT Sport 1 HD
+http://188.93.238.184:8000/live/snet/snet/36515.ts
+#EXTINF:-1,UK@ BT Sport 1 (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/32859.ts
+#EXTINF:-1,UK@ BT Sport 1 (Backup-2)
+http://188.93.238.184:8000/live/snet/snet/37155.ts
+#EXTINF:-1,UK@ BT Sport 2 HD
+http://188.93.238.184:8000/live/snet/snet/37956.ts
+#EXTINF:-1,UK@ BT Sport 2 (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/37153.ts
+#EXTINF:-1,UK@ BT Sport 2 (Backup-2)
+http://188.93.238.184:8000/live/snet/snet/36508.ts
+#EXTINF:-1,UK@ BT Sport 3 HD
+http://188.93.238.184:8000/live/snet/snet/32931.ts
+#EXTINF:-1,UK@ BT Sport 3 (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/32223.ts
+#EXTINF:-1,UK@ BT Sport 3 (Backup-2)
+http://188.93.238.184:8000/live/snet/snet/37839.ts
+#EXTINF:-1,UK@ BT Sport Espn HD
+http://188.93.238.184:8000/live/snet/snet/10759.ts
+#EXTINF:-1,UK@ BT Sport Espn (Backup-1)
+http://188.93.238.184:8000/live/snet/snet/10760.ts
+#EXTINF:-1,UK@ BT Sport Espn (Backup-2)
+http://188.93.238.184:8000/live/snet/snet/37841.ts
+#EXTINF:-1,MY@ .Astro Sports
+http://188.93.238.184:8000/live/snet/snet/36505.ts
+#EXTINF:-1,MY@ .SkyNet Sports 1
+http://188.93.238.184:8000/live/snet/snet/36504.ts
+#EXTINF:-1,MY@ .SkyNet Sports 2
+http://188.93.238.184:8000/live/snet/snet/36503.ts
+#EXTINF:-1,MY@ .SkyNet Sports 3
+http://188.93.238.184:8000/live/snet/snet/36502.ts
+#EXTINF:-1,MY@ .SkyNet Sports 4
+http://188.93.238.184:8000/live/snet/snet/36501.ts
+#EXTINF:-1,MY@ .SkyNet Sports 5
+http://188.93.238.184:8000/live/snet/snet/36500.ts
+#EXTINF:-1,MY@ .SkyNet Sports 6
+http://188.93.238.184:8000/live/snet/snet/36499.ts
 
-#EXTINF:-1,BT Sports 3 UK 
-http://portal.simiptv.com:8001/live/1/2/21951.ts 
+#EXTINF:-1,beIN SPORTS NEWS
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/171.ts
+#EXTINF:-1,beIN SPORTS HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/172.ts
+#EXTINF:-1,beIN SPORTS 1HD 1080
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/173.ts
+#EXTINF:-1,beIN SPORTS 2HD 1080
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/174.ts
+#EXTINF:-1,beIN SPORTS 3HD 1080
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/175.ts
+#EXTINF:-1,beIN SPORTS 4HD 1080
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/176.ts
+#EXTINF:-1,beIN SPORTS 5HD 1080
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/177.ts
+#EXTINF:-1,beIN SPORTS 6HD 1080
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/178.ts
+#EXTINF:-1,beIN SPORTS 7HD 1080
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/179.ts
+#EXTINF:-1,beIN SPORTS 8HD 1080
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/180.ts
+#EXTINF:-1,beIN SPORTS 9HD 1080
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/181.ts
+#EXTINF:-1,beIN SPORTS 10HD 1080
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/182.ts
+#EXTINF:-1,beIN SPORTS 11 HD 1080
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/183.ts
+#EXTINF:-1,beIN SPORTS 12 HD 1080
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/184.ts
+#EXTINF:-1,WWE HD
+http://osniptv.homeip.net:25461/live/dokpal/cisco2006/142.ts
 
-#EXTINF:-1,BT Sports 3 FHD UK 
-http://portal.simiptv.com:8001/live/1/2/21952.ts 
-
-#EXTINF:-1,(UK) BT Sport 1 >HD< 
-http://portal.simiptv.com:8001/live/1/2/21956.ts 
-
-#EXTINF:-1,BT Sport ESPN UK 
-http://portal.simiptv.com:8001/live/1/2/21942.ts 
-
-#EXTINF:-1,BT Sport ESPN HD UK 
-http://portal.simiptv.com:8001/live/1/2/21943.ts 
-
-#EXTINF:-1,BT Sport 2 FHD UK 
-http://portal.simiptv.com:8001/live/1/2/21954.ts 
-
-#EXTINF:-1,BT Sport ESPN UK 
-http://portal.simiptv.com:8001/live/1/2/21942.ts 
-
-#EXTINF:-1,BT Sport ESPN HD UK 
-http://portal.simiptv.com:8001/live/1/2/21943.ts 
-
-#EXTINF:-1,BT Sport 2 FHD UK 
-http://portal.simiptv.com:8001/live/1/2/21954.ts 
-
-#EXTINF:-1,Sky Atlantic >HD<-UK 
-http://portal.simiptv.com:8001/live/1/2/15501.ts 
-
-#EXTINF:-1,Sky Sports The Open FHD (UK) 
-http://portal.simiptv.com:8001/live/1/2/21961.ts 
-
-#EXTINF:-1,SkySp HD-UK 
-http://portal.simiptv.com:8001/live/1/2/21962.ts 
-
-#EXTINF:-1,Sky Sports Premier League FHD (UK) 
-http://portal.simiptv.com:8001/live/1/2/21964.ts 
-
-#EXTINF:-1,(UK) Sky Sports News >FHD< 
-http://portal.simiptv.com:8001/live/1/2/21983.ts 
-
-
-#EXTINF:-1,(UK) Sky Sports Main Event >FHD< 
-http://portal.simiptv.com:8001/live/1/2/21967.ts 
-
-#EXTINF:-1,Sky Sports Golf FHD (UK) 
-http://portal.simiptv.com:8001/live/1/2/21969.ts 
-
-#EXTINF:-1,(UK) Sky Sports Football >HD< 
-http://portal.simiptv.com:8001/live/1/2/21972.ts 
-
-#EXTINF:-1,Sky Sports F1 
-http://portal.simiptv.com:8001/live/1/2/21987.ts 
-
-#EXTINF:-1,Sky Sports Box Office (Live During Events Only) UK 
-http://portal.simiptv.com:8001/live/1/2/21959.ts 
-
-#EXTINF:-1,SkySp Arena SD-UK 
-http://portal.simiptv.com:8001/live/1/2/21978.ts 
-
-#EXTINF:-1,(UK) Sky Sports Action >FHD< 
-http://portal.simiptv.com:8001/live/1/2/21980.ts
-
-#EXTINF:-1,Box Nation HD-UK 
-http://portal.simiptv.com:8001/live/1/2/14465.ts 
-
-#EXTINF:-1,Vip:Sport| ITV Box Office (uk) 
-http://portal.simiptv.com:8001/live/1/2/21078.ts 
-
-#EXTINF:-1,Sport-UK: PPV 1 (Live During Events Only) 
-http://portal.simiptv.com:8001/live/1/2/21330.ts 
-
-#EXTINF:-1,BT Sport 1 >HD< (UK) 
-http://portal.simiptv.com:8001/live/1/2/18598.ts 
-
-#EXTINF:-1,BT Sport 2 >HD< (UK) 
-http://portal.simiptv.com:8001/live/1/2/18600.ts 
-
-#EXTINF:-1,BT Sport 3 >HD< (UK) 
-http://portal.simiptv.com:8001/live/1/2/18601.ts 
-
-#EXTINF:-1,BT Sport ESPN >FHD< (UK) 
-http://portal.simiptv.com:8001/live/1/2/18602.ts 
-
-#EXTINF:-1,Eurosport 1 >HD<(UK) 
-http://portal.simiptv.com:8001/live/1/2/15550.ts 
-
-#EXTINF:-1,Sport | Eurosport 2 (UK) 
-http://portal.simiptv.com:8001/live/1/2/15549.ts 
-
-#EXTINF:-1,(UK) HORSE & COUNTRY (SP) 
-http://portal.simiptv.com:8001/live/1/2/15407.ts
+#EXTINF:-1,BEIN_SPORT_1_MINI_512K
+http://novaiptv.info:80/live/mohammed/ahmed/1644.ts
+#EXTINF:-1,BEIN_SPORT_2_MINI_512K
+http://novaiptv.info:80/live/mohammed/ahmed/1645.ts
+#EXTINF:-1,BEIN_SPORT_3_MINI_512K
+http://novaiptv.info:80/live/mohammed/ahmed/1646.ts
+#EXTINF:-1,BEIN_SPORT_4_MINI_512K
+http://novaiptv.info:80/live/mohammed/ahmed/1647.ts
+#EXTINF:-1,BEIN_SPORT_5_MINI_512K
+http://novaiptv.info:80/live/mohammed/ahmed/1648.ts
+#EXTINF:-1,BEIN_SPORT_6_MINI_512K
+http://novaiptv.info:80/live/mohammed/ahmed/1649.ts
+#EXTINF:-1,BEIN_SPORT_7_MINI_512K
+http://novaiptv.info:80/live/mohammed/ahmed/1650.ts
+#EXTINF:-1,BEIN_SPORT_8_MINI_512K
+http://novaiptv.info:80/live/mohammed/ahmed/1651.ts
+#EXTINF:-1,BEIN_SPORT_9_MINI_512K
+http://novaiptv.info:80/live/mohammed/ahmed/1652.ts
+#EXTINF:-1,BEIN_SPORT_10_MINI_512K
+http://novaiptv.info:80/live/mohammed/ahmed/1653.ts
+#EXTINF:-1,BEIN_SPORT_1_LOW_1M
+http://novaiptv.info:80/live/mohammed/ahmed/1634.ts
+#EXTINF:-1,BEIN_SPORT_2_LOW_1M
+http://novaiptv.info:80/live/mohammed/ahmed/1635.ts
+#EXTINF:-1,BEIN_SPORT_3_LOW_1M
+http://novaiptv.info:80/live/mohammed/ahmed/1636.ts
+#EXTINF:-1,BEIN_SPORT_4_LOW_1M
+http://novaiptv.info:80/live/mohammed/ahmed/1637.ts
+#EXTINF:-1,BEIN_SPORT_5_LOW_1M
+http://novaiptv.info:80/live/mohammed/ahmed/1638.ts
+#EXTINF:-1,BEIN_SPORT_6_LOW_1M
+http://novaiptv.info:80/live/mohammed/ahmed/1639.ts
+#EXTINF:-1,BEIN_SPORT_7_LOW_1M
+http://novaiptv.info:80/live/mohammed/ahmed/1640.ts
+#EXTINF:-1,BEIN_SPORT_8_LOW_1M
+http://novaiptv.info:80/live/mohammed/ahmed/1641.ts
+#EXTINF:-1,BEIN_SPORT_9_LOW_1M
+http://novaiptv.info:80/live/mohammed/ahmed/1642.ts
+#EXTINF:-1,BEIN_SPORT_10_LOW_1M
+http://novaiptv.info:80/live/mohammed/ahmed/1643.ts
+#EXTINF:-1,BEIN_SPORT_1_SD_2M
+http://novaiptv.info:80/live/mohammed/ahmed/1612.ts
+#EXTINF:-1,BEIN_SPORT_2_SD_2M
+http://novaiptv.info:80/live/mohammed/ahmed/1613.ts
+#EXTINF:-1,BEIN_SPORT_3_SD_2M
+http://novaiptv.info:80/live/mohammed/ahmed/1614.ts
+#EXTINF:-1,BEIN_SPORT_4_SD_2M
+http://novaiptv.info:80/live/mohammed/ahmed/1615.ts
+#EXTINF:-1,BEIN_SPORT_5_SD_2M
+http://novaiptv.info:80/live/mohammed/ahmed/1616.ts
+#EXTINF:-1,BEIN_SPORT_6_SD_2M
+http://novaiptv.info:80/live/mohammed/ahmed/1617.ts
+#EXTINF:-1,BEIN_SPORT_7_SD_2M
+http://novaiptv.info:80/live/mohammed/ahmed/1618.ts
+#EXTINF:-1,BEIN_SPORT_8_SD_2M
+http://novaiptv.info:80/live/mohammed/ahmed/1619.ts
+#EXTINF:-1,BEIN_SPORT_9_SD_2M
+http://novaiptv.info:80/live/mohammed/ahmed/1620.ts
+#EXTINF:-1,BEIN_SPORT_10_SD_2M
+http://novaiptv.info:80/live/mohammed/ahmed/1621.ts
+#EXTINF:-1,BEIN_SPORT_1_NANO_2M
+http://novaiptv.info:80/live/mohammed/ahmed/1624.ts
+#EXTINF:-1,BEIN_SPORT_2_NANO_2M
+http://novaiptv.info:80/live/mohammed/ahmed/1625.ts
+#EXTINF:-1,BEIN_SPORT_3_NANO_2M
+http://novaiptv.info:80/live/mohammed/ahmed/1626.ts
+#EXTINF:-1,BEIN_SPORT_4_NANO_2M
+http://novaiptv.info:80/live/mohammed/ahmed/1627.ts
+#EXTINF:-1,BEIN_SPORT_5_NANO_2M
+http://novaiptv.info:80/live/mohammed/ahmed/1628.ts
+#EXTINF:-1,BEIN_SPORT_6_NANO_2M
+http://novaiptv.info:80/live/mohammed/ahmed/1629.ts
+#EXTINF:-1,BEIN_SPORT_7_NANO_2M
+http://novaiptv.info:80/live/mohammed/ahmed/1630.ts
+#EXTINF:-1,BEIN_SPORT_8_NANO_2M
+http://novaiptv.info:80/live/mohammed/ahmed/1631.ts
+#EXTINF:-1,BEIN_SPORT_9_NANO_2M
+http://novaiptv.info:80/live/mohammed/ahmed/1632.ts
+#EXTINF:-1,BEIN_SPORT_10_NANO_2M
+http://novaiptv.info:80/live/mohammed/ahmed/1633.ts
+#EXTINF:-1,BEIN_SPORT_1_4K_4M
+http://novaiptv.info:80/live/mohammed/ahmed/1590.ts
+#EXTINF:-1,BEIN_SPORT_2_4K_4M
+http://novaiptv.info:80/live/mohammed/ahmed/1591.ts
+#EXTINF:-1,BEIN_SPORT_3_4K_4M
+http://novaiptv.info:80/live/mohammed/ahmed/1592.ts
+#EXTINF:-1,BEIN_SPORT_4_4K_4M
+http://novaiptv.info:80/live/mohammed/ahmed/1593.ts
+#EXTINF:-1,BEIN_SPORT_5_4K_4M
+http://novaiptv.info:80/live/mohammed/ahmed/1594.ts
+#EXTINF:-1,BEIN_SPORT_6_4K_4M
+http://novaiptv.info:80/live/mohammed/ahmed/1595.ts
+#EXTINF:-1,BEIN_SPORT_7_4K_4M
+http://novaiptv.info:80/live/mohammed/ahmed/1596.ts
+#EXTINF:-1,BEIN_SPORT_8_4K_4M
+http://novaiptv.info:80/live/mohammed/ahmed/1597.ts
+#EXTINF:-1,BEIN_SPORT_9_4K_4M
+http://novaiptv.info:80/live/mohammed/ahmed/1598.ts
+#EXTINF:-1,BEIN_SPORT_10_4K_4M
+http://novaiptv.info:80/live/mohammed/ahmed/1599.ts
+#EXTINF:-1,BEIN_SPORT_1_PURE_4/8M
+http://novaiptv.info:80/live/mohammed/ahmed/1602.ts
+#EXTINF:-1,BEIN_SPORT_2_PURE_4/8M
+http://novaiptv.info:80/live/mohammed/ahmed/1603.ts
+#EXTINF:-1,BEIN_SPORT_3_PURE_4/8M
+http://novaiptv.info:80/live/mohammed/ahmed/1604.ts
+#EXTINF:-1,BEIN_SPORT_4_PURE_4/8M
+http://novaiptv.info:80/live/mohammed/ahmed/1605.ts
+#EXTINF:-1,BEIN_SPORT_5_PURE_4/8M
+http://novaiptv.info:80/live/mohammed/ahmed/1606.ts
+#EXTINF:-1,BEIN_SPORT_6_PURE_4/8M
+http://novaiptv.info:80/live/mohammed/ahmed/1607.ts
+#EXTINF:-1,BEIN_SPORT_7_PURE_4/8M
+http://novaiptv.info:80/live/mohammed/ahmed/1608.ts
+#EXTINF:-1,BEIN_SPORT_8_PURE_4/8M
+http://novaiptv.info:80/live/mohammed/ahmed/1609.ts
+#EXTINF:-1,BEIN_SPORT_9_PURE_4/8M
+http://novaiptv.info:80/live/mohammed/ahmed/1610.ts
+#EXTINF:-1,BEIN_SPORT_10_PURE_4/8M
+http://novaiptv.info:80/live/mohammed/ahmed/1611.ts
+#EXTINF:-1,Beout_Q_1_HD
+http://novaiptv.info:80/live/mohammed/ahmed/6022.ts
+#EXTINF:-1,Beout_Q_2_HD
+http://novaiptv.info:80/live/mohammed/ahmed/6021.ts
+#EXTINF:-1,Beout_Q_3_HD
+http://novaiptv.info:80/live/mohammed/ahmed/6020.ts
+#EXTINF:-1,Beout_Q_4_HD
+http://novaiptv.info:80/live/mohammed/ahmed/6019.ts
+#EXTINF:-1,Beout_Q_5_HD
+http://novaiptv.info:80/live/mohammed/ahmed/6018.ts
+#EXTINF:-1,Beout_Q_6_HD
+http://novaiptv.info:80/live/mohammed/ahmed/6017.ts
+#EXTINF:-1,Beout_Q_7_HD
+http://novaiptv.info:80/live/mohammed/ahmed/6016.ts
+#EXTINF:-1,Beout_Q_8_HD
+http://novaiptv.info:80/live/mohammed/ahmed/6015.ts
+#EXTINF:-1,AD_SPORT_1
+http://novaiptv.info:80/live/mohammed/ahmed/3984.ts
+#EXTINF:-1,AD_SPORT_2
+http://novaiptv.info:80/live/mohammed/ahmed/3985.ts
+#EXTINF:-1,AD_SPORT_3_HD
+http://novaiptv.info:80/live/mohammed/ahmed/3986.ts
+#EXTINF:-1,AD_SPORT_3_low
+http://novaiptv.info:80/live/mohammed/ahmed/3987.ts
+#EXTINF:-1,AD_SPORT_3_sd
+http://novaiptv.info:80/live/mohammed/ahmed/3988.ts
+#EXTINF:-1,OSN_Sports_Action_1_HD
+http://novaiptv.info:80/live/mohammed/ahmed/5543.ts
+#EXTINF:-1,OSN_Sports_Action_2_HD
+http://novaiptv.info:80/live/mohammed/ahmed/5542.ts
+#EXTINF:-1,OSN_Sports_3_HD
+http://novaiptv.info:80/live/mohammed/ahmed/5546.ts
+#EXTINF:-1,OSN_Sports_4_HD
+http://novaiptv.info:80/live/mohammed/ahmed/5545.ts
+#EXTINF:-1,OSN_Sports_5_HD
+http://novaiptv.info:80/live/mohammed/ahmed/5544.ts
+#EXTINF:-1,OSN_Sports_Cricket_HD
+http://novaiptv.info:80/live/mohammed/ahmed/5541.ts
+#EXTINF:-1,OSN_Food_Network_HD
+http://novaiptv.info:80/live/mohammed/ahmed/5555.ts
+#EXTINF:-1,OSN_Wwe_HD
+http://novaiptv.info:80/live/mohammed/ahmed/1684.ts
+#EXTINF:-1,[PO] Sport_Tv_1
+http://novaiptv.info:80/live/mohammed/ahmed/2146.ts
+#EXTINF:-1,[PO] Sport_Tv_2
+http://novaiptv.info:80/live/mohammed/ahmed/2147.ts
+#EXTINF:-1,[PO] Sport_Tv_3
+http://novaiptv.info:80/live/mohammed/ahmed/2154.ts
+#EXTINF:-1,TR:Beinsport1
+http://novaiptv.info:80/live/mohammed/ahmed/4448.ts
+#EXTINF:-1,TR:Beinsport2
+http://novaiptv.info:80/live/mohammed/ahmed/4447.ts
+#EXTINF:-1,TR:Beinsport3
+http://novaiptv.info:80/live/mohammed/ahmed/4446.ts
+#EXTINF:-1,NL:FoxSport1
+http://novaiptv.info:80/live/mohammed/ahmed/4482.ts
+#EXTINF:-1,NL:FoxSport2
+http://novaiptv.info:80/live/mohammed/ahmed/4481.ts
+#EXTINF:-1,NL:FoxSport3
+http://novaiptv.info:80/live/mohammed/ahmed/4480.ts
+#EXTINF:-1,NL:FoxSport4
+http://novaiptv.info:80/live/mohammed/ahmed/4479.ts
+#EXTINF:-1,NL:FoxSport5
+http://novaiptv.info:80/live/mohammed/ahmed/4478.ts
+#EXTINF:-1,NL:FoxSport6
+http://novaiptv.info:80/live/mohammed/ahmed/4477.ts
+#EXTINF:-1,NL:Ziggo Sport.Voetba
+http://novaiptv.info:80/live/mohammed/ahmed/4476.ts
+#EXTINF:-1,NL:Ziggo.Sport
+http://novaiptv.info:80/live/mohammed/ahmed/4475.ts
+#EXTINF:-1,NL:Ziggo.Sport.Golf
+http://novaiptv.info:80/live/mohammed/ahmed/4474.ts
+#EXTINF:-1,NL:Ziggo.Sport.Racing
+http://novaiptv.info:80/live/mohammed/ahmed/4473.ts
+#EXTINF:-1,NL:Ziggo.Sport.Select
+http://novaiptv.info:80/live/mohammed/ahmed/4472.ts
