@@ -2,470 +2,171 @@
 #EXTM3U
 
 
-#EXTINF:-1,5 USA +1 >HD<(UK) 
-http://portal.simiptv.com:8001/live/1/2/22482.ts 
-
-#EXTINF:-1,(UK) Alibi FHD 
-http://portal.simiptv.com:8001/live/1/2/15604.ts 
-
-#EXTINF:-1,(UK) Animal Planet (SD/HD)
- http://portal.simiptv.com:8001/live/1/2/15603.ts 
-
-#EXTINF:-1,(UK) Al Jazeera News >FHD< 
-http://portal.simiptv.com:8001/live/1/2/15430.ts 
-
-#EXTINF:-1,BBC One London (UK) 
-http://portal.simiptv.com:8001/live/1/2/23510.ts 
-
-#EXTINF:-1,(UK) BBC One Scotland (FHD) 
-http://portal.simiptv.com:8001/live/1/2/15600.ts 
-
-#EXTINF:-1,BBC Two (HD) -UK 
-http://portal.simiptv.com:8001/live/1/2/15599.ts 
-
-#EXTINF:-1,(UK) BBC Three HD 
-http://portal.simiptv.com:8001/live/1/2/15598.ts 
-
-#EXTINF:-1,BBC Four (HD)-UK 
-http://portal.simiptv.com:8001/live/1/2/15597.ts 
-
-#EXTINF:-1,(UK) BBC Parliament 
-http://portal.simiptv.com:8001/live/1/2/15423.ts 
-
-#EXTINF:-1,(UK) BBC World News 
-http://portal.simiptv.com:8001/live/1/2/15596.ts 
-
-#EXTINF:-1,(UK) BBC Red Button 
-http://portal.simiptv.com:8001/live/1/2/15422.ts 
-
-#EXTINF:-1,(UK) Baby TV 
-http://portal.simiptv.com:8001/live/1/2/15601.ts 
-
-#EXTINF:-1,(UK) Boomerang >HD< 
-http://portal.simiptv.com:8001/live/1/2/15592.ts 
-
-#EXTINF:-1,(UK) Box Office Movies 1 >FHD< 
-http://portal.simiptv.com:8001/live/1/2/16472.ts 
-
-#EXTINF:-1,UK | Channel Aka 
-http://portal.simiptv.com:8001/live/1/2/15416.ts 
-
-#EXTINF:-1,(UK) Capital Radio Tv 
-http://portal.simiptv.com:8001/live/1/2/22483.ts 
-
-#EXTINF:-1,(UK) Channel 4+1 (HD) 
-http://portal.simiptv.com:8001/live/1/2/22475.ts 
-
-#EXTINF:-1,(UK) Channel 5 (HD) 
-http://portal.simiptv.com:8001/live/1/2/22476.ts 
-
-#EXTINF:-1,Comedy Central (SD)-UK 
-http://portal.simiptv.com:8001/live/1/2/15570.ts 
-
-#EXTINF:-1,(UK) Comedy Central Extra +1 (SD) 
-http://portal.simiptv.com:8001/live/1/2/22477.ts 
-
-#EXTINF:-1,(UK) E! 
-http://portal.simiptv.com:8001/live/1/2/15414.ts 
-
-#EXTINF:-1,(UK) E4 
-http://portal.simiptv.com:8001/live/1/2/15554.ts 
-
-#EXTINF:-1,UK: E4+1 (HD) 
-http://portal.simiptv.com:8001/live/1/2/22478.ts 
-
-#EXTINF:-1,UK : France 24 English 
-http://portal.simiptv.com:8001/live/1/2/15411.ts 
-
-#EXTINF:-1,(UK) 4Seven 
-http://portal.simiptv.com:8001/live/1/2/15607.ts 
-
-#EXTINF:-1,(UK) Good Food 
-http://portal.simiptv.com:8001/live/1/2/15539.ts 
-
-#EXTINF:-1,(UK) History Channel 
-http://portal.simiptv.com:8001/live/1/2/15537.ts 
-
-#EXTINF:-1,(UK ) History 2 HD 
-http://portal.simiptv.com:8001/live/1/2/15410.ts 
-
-#EXTINF:-1,(UK) Investigation Discovery HD 
-http://portal.simiptv.com:8001/live/1/2/15406.ts 
-
-#EXTINF:-1,(UK) More 4 
-http://portal.simiptv.com:8001/live/1/2/15522.ts 
-
-#EXTINF:-1,(UK) MTV Classic
-http://portal.simiptv.com:8001/live/1/2/15376.ts 
-
-#EXTINF:-1,MTV Rocks-UK 
-http://portal.simiptv.com:8001/live/1/2/15399.ts 
-
-#EXTINF:-1,(UK) National Geographic (HD) 
-http://portal.simiptv.com:8001/live/1/2/15515.ts 
-
-#EXTINF:-1,(UK) Nicktoons 
-http://portal.simiptv.com:8001/live/1/2/15511.ts 
-
-#EXTINF:-1,(UK) NHK World News 
-http://portal.simiptv.com:8001/live/1/2/15397.ts 
-
-
-#EXTINF:-1,Sky Atlantic >HD<-UK 
-http://portal.simiptv.com:8001/live/1/2/15501.ts 
-
-#EXTINF:-1,Sky Movies Sci-fi & Horror-UK 
-http://portal.simiptv.com:8001/live/1/2/13283.ts 
-
-#EXTINF:-1,(UK) Sky Movies Drama & Romance 
-http://portal.simiptv.com:8001/live/1/2/13289.ts 
-
-#EXTINF:-1,(UK) Sky Movies Crime &Thriller 
-http://portal.simiptv.com:8001/live/1/2/13291.ts 
-
-#EXTINF:-1,(UK) Sky Movies Comedy 
-http://portal.simiptv.com:8001/live/1/2/13292.ts 
-
-#EXTINF:-1,(UK) Sky Movies Action & Adventure 
-http://portal.simiptv.com:8001/live/1/2/13294.ts 
-
-#EXTINF:-1,UK_Sky Boxoffice 3D >HD< 
-http://portal.simiptv.com:8001/live/1/2/21101.ts 
-
-#EXTINF:-1,UK_ Sky Boxoffice 1 >HD< 
-http://portal.simiptv.com:8001/live/1/2/21102.ts 
-
-#EXTINF:-1,UK_Sky Boxoffice 2>FHD< 
-http://portal.simiptv.com:8001/live/1/2/21096.ts 
-
-#EXTINF:-1,(UK) Sky Cinema Boxoffice 3 
-http://portal.simiptv.com:8001/live/1/2/21098.ts 
-
-#EXTINF:-1,SyFy -UK 
-http://portal.simiptv.com:8001/live/1/2/15471.ts 
-
-#EXTINF:-1,(UK) SONY CHANNEL 
-http://portal.simiptv.com:8001/live/1/2/15387.ts 
-
-#EXTINF:-1,(UK) Sky Cinema Boxoffice 4 
-http://portal.simiptv.com:8001/live/1/2/21095.ts 
-
-#EXTINF:-1,UK : SONY MOVIES 
-http://portal.simiptv.com:8001/live/1/2/15386.ts 
-
-#EXTINF:-1,(UK) Sony Crime Channel2. 
-http://portal.simiptv.com:8001/live/1/2/15380.ts 
-
-#EXTINF:-1,Nat Geo Wild-UK 
-http://portal.simiptv.com:8001/live/1/2/15409.ts 
-
-#EXTINF:-1,(UK) CBS Reality (HD) 
-http://portal.simiptv.com:8001/live/1/2/15575.ts 
-
-#EXTINF:-1,(UK) Yesterday 
-http://portal.simiptv.com:8001/live/1/2/15457.ts 
-
-#EXTINF:-1,(UK) Watch 
-http://portal.simiptv.com:8001/live/1/2/15458.ts 
-
-#EXTINF:-1,(UK) Virgin Radio 
-http://portal.simiptv.com:8001/live/1/2/15375.ts 
-
-#EXTINF:-1,(UK) VH1 Classic 
-http://portal.simiptv.com:8001/live/1/2/15377.ts 
-
-#EXTINF:-1,(UK) VH1 >HD< 
-http://portal.simiptv.com:8001/live/1/2/15460.ts 
-
-#EXTINF:-1,UK | UTV 
-http://portal.simiptv.com:8001/live/1/2/15378.ts 
-
-#EXTINF:-1,Universal Channel-UK 
-http://portal.simiptv.com:8001/live/1/2/15461.ts 
-
-#EXTINF:-1,UK | TruTV 
-http://portal.simiptv.com:8001/live/1/2/15379.ts 
-
-#EXTINF:-1,(UK) True Entertainment 
-http://portal.simiptv.com:8001/live/1/2/15466.ts 
-
-#EXTINF:-1,(UK) True Movies +1 
-http://portal.simiptv.com:8001/live/1/2/15381.ts 
-
-#EXTINF:-1,(UK) Travel Channel >HD< 
-http://portal.simiptv.com:8001/live/1/2/15467.ts 
-
-#EXTINF:-1,(UK) TLC 
-http://portal.simiptv.com:8001/live/1/2/15468.ts 
-
-#EXTINF:-1,(UK) STV 
-http://portal.simiptv.com:8001/live/1/2/15385.ts 
-
-#EXTINF:-1,(UK) Spike 
-http://portal.simiptv.com:8001/live/1/2/15472.ts 
-
-#EXTINF:-1,Sky One-UK 
-http://portal.simiptv.com:8001/live/1/2/15488.ts 
-
-#EXTINF:-1,SKY LIVING (HD)-UK 
-http://portal.simiptv.com:8001/live/1/2/15449.ts 
-
-#EXTINF:-1,(UK) Sky Arts 1 
-http://portal.simiptv.com:8001/live/1/2/15502.ts 
-
-#EXTINF:-1,(UK) Sky 2 
-http://portal.simiptv.com:8001/live/1/2/15473.ts 
-
-#EXTINF:-1,(UK) Scuzz 
-http://portal.simiptv.com:8001/live/1/2/15389.ts 
-
-#EXTINF:-1,UK | S4C 
-http://portal.simiptv.com:8001/live/1/2/15390.ts 
-
-#EXTINF:-1,(UK) RT News >HD< 
-http://portal.simiptv.com:8001/live/1/2/15395.ts 
-
-#EXTINF:-1,(UK) Really 
-http://portal.simiptv.com:8001/live/1/2/15505.ts 
-
-#EXTINF:-1,(UK) Quest 
-http://portal.simiptv.com:8001/live/1/2/15508.ts 
-
-#EXTINF:-1,UK | Pick TV 
-http://portal.simiptv.com:8001/live/1/2/15510.ts 
-
-#EXTINF:-1,(UK) Sky Cinema Boxoffice 5 
-http://portal.simiptv.com:8001/live/1/2/13285.ts 
-
-#EXTINF:-1,(UK) Lifetime 
-http://portal.simiptv.com:8001/live/1/2/15526.ts 
-
-#EXTINF:-1,(UK) ITV 4 (HD) 
-http://portal.simiptv.com:8001/live/1/2/15530.ts 
-
-#EXTINF:-1,(UK) ITV 3 (FHD) 
-http://portal.simiptv.com:8001/live/1/2/15531.ts 
-
-#EXTINF:-1,UK | Irish TV 
-http://portal.simiptv.com:8001/live/1/2/15534.ts 
-
-#EXTINF:-1,(UK) Home + >HD< 
-http://portal.simiptv.com:8001/live/1/2/15536.ts 
-
-#EXTINF:-1,(UK) Home 
-http://portal.simiptv.com:8001/live/1/2/15408.ts 
-
-#EXTINF:-1,UK | H2 
-http://portal.simiptv.com:8001/live/1/2/15538.ts 
-
-#EXTINF:-1,(UK) Sky Cinema Family 
-http://portal.simiptv.com:8001/live/1/2/13287.ts 
-
-#EXTINF:-1,(UK) Sky Cinema Select 
-http://portal.simiptv.com:8001/live/1/2/13282.ts 
-
-#EXTINF:-1,(UK) Real Lives 
-http://portal.simiptv.com:8001/live/1/2/15506.ts 
-
-#EXTINF:-1,UK : TV3 Plus 1 
-http://portal.simiptv.com:8001/live/1/2/15462.ts 
-
-#EXTINF:-1,TV3 >HD-UK
-http://portal.simiptv.com:8001/live/1/2/15463.ts
-
-#EXTINF:-1,(UK) True Movies 1
-http://portal.simiptv.com:8001/live/1/2/15465.ts
-
-
-#EXTINF:-1,(UK) SKY News >HD< 
-http://portal.simiptv.com:8001/live/1/2/15489.ts 
-
-#EXTINF:-1,(UK) RTÉ2 >HD< 
-http://portal.simiptv.com:8001/live/1/2/15503.ts 
-
-#EXTINF:-1,(UKI) RTE News Now 
-http://portal.simiptv.com:8001/live/1/2/15393.ts 
-
-#EXTINF:-1,(UK) Nickelodeon >HD< 
-http://portal.simiptv.com:8001/live/1/2/15512.ts 
-
-#EXTINF:-1,(UK) Nick Junior 
-http://portal.simiptv.com:8001/live/1/2/15513.ts 
-
-#EXTINF:-1,(UK) MTV Music 
-http://portal.simiptv.com:8001/live/1/2/15517.ts 
-
-#EXTINF:-1,(UK) MTV Hits 
-http://portal.simiptv.com:8001/live/1/2/15518.ts 
-
-#EXTINF:-1,MTV Classic-UK 
-http://portal.simiptv.com:8001/live/1/2/15402.ts 
-
-#EXTINF:-1,(UK) MTV +1 
-http://portal.simiptv.com:8001/live/1/2/15404.ts 
-
-#EXTINF:-1,(UK) Movies 4 Men 
-http://portal.simiptv.com:8001/live/1/2/15519.ts 
-
-#EXTINF:-1,(UK) Sky Cinema Premiere +1 
-http://portal.simiptv.com:8001/live/1/2/15520.ts
-
- #EXTINF:-1,(UK) Disney XD 
-http://portal.simiptv.com:8001/live/1/2/15527.ts 
-
-#EXTINF:-1,(UK) ITV Encore (HD) 
-http://portal.simiptv.com:8001/live/1/2/15528.ts 
-
-#EXTINF:-1,(UK) ITV Be (HD) 
-http://portal.simiptv.com:8001/live/1/2/15529.ts 
-
-#EXTINF:-1,(UK) ITV 2 (HD) 
-http://portal.simiptv.com:8001/live/1/2/15532.ts 
-
-#EXTINF:-1,ITV 1 (HD)-UK 
-http://portal.simiptv.com:8001/live/1/2/15533.ts 
-
-#EXTINF:-1,(UK) SKY Fine Living (FHD) 
-http://portal.simiptv.com:8001/live/1/2/22481.ts 
-
-#EXTINF:-1,Gold (SD/HD)-UK 
-http://portal.simiptv.com:8001/live/1/2/15540.ts 
-
-#EXTINF:-1,(UK) Food Network (HD) 
-http://portal.simiptv.com:8001/live/1/2/15545.ts 
-
-#EXTINF:-1,(UK) Film 4 
-http://portal.simiptv.com:8001/live/1/2/15548.ts 
-
-#EXTINF:-1,(UK) TCM Movies (HD) 
-http://portal.simiptv.com:8001/live/1/2/15383.ts 
-
-#EXTINF:-1,Tiny Pop-(uk) 
-http://portal.simiptv.com:8001/live/1/2/15382.ts 
-
-#EXTINF:-1,MTV Dance-UK 
-http://portal.simiptv.com:8001/live/1/2/15405.ts 
-
-#EXTINF:-1,(UK) FOX News 
-http://portal.simiptv.com:8001/live/1/2/15542.ts 
-
-#EXTINF:-1,(UK) FOX Crime 
-http://portal.simiptv.com:8001/live/1/2/15543.ts 
-
-#EXTINF:-1,(UK) Five >HD< 
-http://portal.simiptv.com:8001/live/1/2/15547.ts 
-
-#EXTINF:-1,(UK) Eden 
-http://portal.simiptv.com:8001/live/1/2/15413.ts 
-
-#EXTINF:-1,(UK) Drama 
-http://portal.simiptv.com:8001/live/1/2/15555.ts 
-
-#EXTINF:-1,(UK) Dmax 
-http://portal.simiptv.com:8001/live/1/2/15556.ts 
-
-#EXTINF:-1,(UK) Disney Junior >HD< 
-http://portal.simiptv.com:8001/live/1/2/15559.ts 
-
-#EXTINF:-1,UK) Discovery Turbo 
-http://portal.simiptv.com:8001/live/1/2/15561.ts 
-
-#EXTINF:-1,(UK) Discovery History 
-http://portal.simiptv.com:8001/live/1/2/15565.ts 
-
-#EXTINF:-1,(UK) Discovery Channel (FHD) 
-http://portal.simiptv.com:8001/live/1/2/15566.ts 
-
-#EXTINF:-1,Dave (SD)-UK 
-http://portal.simiptv.com:8001/live/1/2/15567.ts 
-
-#EXTINF:-1,(UK) Comedy Central Xtra 
-http://portal.simiptv.com:8001/live/1/2/15569.ts 
-
-#EXTINF:-1,Liverpool FC (UK) 
-http://portal.simiptv.com:8001/live/1/2/15525.ts 
-
-#EXTINF:-1,(UK) Channel 5 (SD) 
-http://portal.simiptv.com:8001/live/1/2/15573.ts 
-
-#EXTINF:-1,Channel 4 (SD/HD)-UK 
-http://portal.simiptv.com:8001/live/1/2/15574.ts 
-
-#EXTINF:-1,(UK) Challenge 
-http://portal.simiptv.com:8001/live/1/2/15418.ts 
-
-#EXTINF:-1,(UK) Cbeebies 
-http://portal.simiptv.com:8001/live/1/2/15578.ts 
-
-#EXTINF:-1,UK | CBBC 
-http://portal.simiptv.com:8001/live/1/2/15419.ts 
-
-#EXTINF:-1,(UK) Cartoonito 
-http://portal.simiptv.com:8001/live/1/2/15579.ts 
-
-#EXTINF:-1,(UK) Disney Channel >HD< 
-http://portal.simiptv.com:8001/live/1/2/15560.ts 
-
-#EXTINF:-1,(UK) Discovery Shed (HD/SD) 
-http://portal.simiptv.com:8001/live/1/2/15562.ts 
-
-#EXTINF:-1,(UK) Discovery Science (HD) 
-http://portal.simiptv.com:8001/live/1/2/15563.ts 
-
-#EXTINF:-1,(UK) Crime & Investigation (FHD) 
-http://portal.simiptv.com:8001/live/1/2/15568.ts 
-
-#EXTINF:-1,CNBC Europe-UK 
-http://portal.simiptv.com:8001/live/1/2/15415.ts 
-
-#EXTINF:-1,(UK) CBS Action (SD) 
-http://portal.simiptv.com:8001/live/1/2/15577.ts 
-
-#EXTINF:-1,(UK) Cartoon Network 
-http://portal.simiptv.com:8001/live/1/2/15580.ts 
-
-#EXTINF:-1,(UK) Motors TV 
-http://portal.simiptv.com:8001/live/1/2/15521.ts 
-
-#EXTINF:-1,(UK) Bet 
-http://portal.simiptv.com:8001/live/1/2/15595.ts 
-
-#EXTINF:-1,Box Nation HD-UK 
-http://portal.simiptv.com:8001/live/1/2/14465.ts 
-
-#EXTINF:-1,(UK) ROK TV 
-http://portal.simiptv.com:8001/live/1/2/15454.ts 
-
-#EXTINF:-1,UK:WB MOVIES 
-http://portal.simiptv.com:8001/live/1/2/15594.ts 
-
-#EXTINF:-1,(UK) PBS America 
-http://portal.simiptv.com:8001/live/1/2/15396.ts 
-
-#EXTINF:-1,BT Sports 2 UK 
-http://portal.simiptv.com:8001/live/1/2/21953.ts 
-
-#EXTINF:-1,(UK) LOONEY TUNES FHD 
-http://portal.simiptv.com:8001/live/1/2/21928.ts 
-
-#EXTINF:-1,(UK) Box Office Movies 2 >FHD< 
-http://portal.simiptv.com:8001/live/1/2/13284.ts 
-
-#EXTINF:-1,(UK) Quest Red /SD
-http://portal.simiptv.com:8001/live/1/2/22480.ts 
-
-#EXTINF:-1,BBO Cinema (UK) 
-http://portal.simiptv.com:8001/live/1/2/23696.ts 
-
-#EXTINF:-1,BBC ONE (UK) 
-http://portal.simiptv.com:8001/live/1/2/25915.ts 
-
-#EXTINF:-1,PPV EVENT ITV BOXOFFICE 
-http://portal.simiptv.com:8001/live/1/2/21702.ts 
-
-#EXTINF:-1,Vip:Sport| ITV Box Office (uk) 
-http://portal.simiptv.com:8001/live/1/2/21078.ts 
-
-#EXTINF:-1,Sport-UK: PPV 1 (Live During Events Only) 
-http://portal.simiptv.com:8001/live/1/2/21330.ts 
-
+#EXTINF:-1,BBC One North West
+http://188.93.238.184:8000/live/snet/snet/37861.ts
+#EXTINF:-1,BBC ONE West Midlands
+http://188.93.238.184:8000/live/snet/snet/37460.ts
+#EXTINF:-1,BBC Two HD
+http://188.93.238.184:8000/live/snet/snet/31971.ts
+#EXTINF:-1,BBC Two (Backup)
+http://188.93.238.184:8000/live/snet/snet/27023.ts
+#EXTINF:-1,ITV HD
+http://188.93.238.184:8000/live/snet/snet/26573.ts
+#EXTINF:-1,ITV Central HD
+http://188.93.238.184:8000/live/snet/snet/35123.ts
+#EXTINF:-1,ITV Granada HD
+http://188.93.238.184:8000/live/snet/snet/36958.ts
+#EXTINF:-1,Channel 4 HD
+http://188.93.238.184:8000/live/snet/snet/33270.ts
+#EXTINF:-1,Channel 4 (Backup)
+http://188.93.238.184:8000/live/snet/snet/37413.ts
+#EXTINF:-1,Channel 5 HD
+http://188.93.238.184:8000/live/snet/snet/31973.ts
+#EXTINF:-1,Channel 5 (Backup)
+http://188.93.238.184:8000/live/snet/snet/29192.ts
+#EXTINF:-1,ITV2 HD
+http://188.93.238.184:8000/live/snet/snet/8153.ts
+#EXTINF:-1,ITV 2 (Backup)
+http://188.93.238.184:8000/live/snet/snet/37340.ts
+#EXTINF:-1,ITV3 HD
+http://188.93.238.184:8000/live/snet/snet/8154.ts
+#EXTINF:-1,ITV 3 HD
+http://188.93.238.184:8000/live/snet/snet/37345.ts
+#EXTINF:-1,ITV 3 (backup)
+http://188.93.238.184:8000/live/snet/snet/37341.ts
+#EXTINF:-1,ITV 4 HD
+http://188.93.238.184:8000/live/snet/snet/8155.ts
+#EXTINF:-1,ITV 4
+http://188.93.238.184:8000/live/snet/snet/11346.ts
+#EXTINF:-1,ITV 4 (Backup)
+http://188.93.238.184:8000/live/snet/snet/37342.ts
+#EXTINF:-1,Home
+http://188.93.238.184:8000/live/snet/snet/11338.ts
+#EXTINF:-1,Property Show
+http://188.93.238.184:8000/live/snet/snet/11753.ts
+#EXTINF:-1,My Channel
+http://188.93.238.184:8000/live/snet/snet/11735.ts
+#EXTINF:-1,Showcase
+http://188.93.238.184:8000/live/snet/snet/11855.ts
+#EXTINF:-1,VOX Africa
+http://188.93.238.184:8000/live/snet/snet/11793.ts
+#EXTINF:-1,ABN TV
+http://188.93.238.184:8000/live/snet/snet/11337.ts
+#EXTINF:-1,Food Network
+http://188.93.238.184:8000/live/snet/snet/11335.ts
+#EXTINF:-1,RTE 2 HD
+http://188.93.238.184:8000/live/snet/snet/11334.ts
+#EXTINF:-1,TG4
+http://188.93.238.184:8000/live/snet/snet/11331.ts
+#EXTINF:-1,Ahlebait TV
+http://188.93.238.184:8000/live/snet/snet/11364.ts
+#EXTINF:-1,Ahlulbayt TV
+http://188.93.238.184:8000/live/snet/snet/11373.ts
+#EXTINF:-1,ATN Bangla UK
+http://188.93.238.184:8000/live/snet/snet/11363.ts
+#EXTINF:-1,BBC World News
+http://188.93.238.184:8000/live/snet/snet/11327.ts
+#EXTINF:-1,BEN TV
+http://188.93.238.184:8000/live/snet/snet/11341.ts
+#EXTINF:-1,Blaze
+http://188.93.238.184:8000/live/snet/snet/11877.ts
+#EXTINF:-1,Talking Pictures
+http://188.93.238.184:8000/live/snet/snet/11747.ts
+#EXTINF:-1,Record TV
+http://188.93.238.184:8000/live/snet/snet/11738.ts
+#EXTINF:-1,Forces TV
+http://188.93.238.184:8000/live/snet/snet/11898.ts
+#EXTINF:-1,London Live
+http://188.93.238.184:8000/live/snet/snet/11344.ts
+#EXTINF:-1,ITV 2
+http://188.93.238.184:8000/live/snet/snet/10749.ts
+#EXTINF:-1,Bloomberg News
+http://188.93.238.184:8000/live/snet/snet/10925.ts
+#EXTINF:-1,BBC News HD
+http://188.93.238.184:8000/live/snet/snet/10964.ts
+#EXTINF:-1,CNBC News
+http://188.93.238.184:8000/live/snet/snet/11016.ts
+#EXTINF:-1,NHK World News HD
+http://188.93.238.184:8000/live/snet/snet/11075.ts
+#EXTINF:-1,Euronews
+http://188.93.238.184:8000/live/snet/snet/11076.ts
+#EXTINF:-1,RT HD
+http://188.93.238.184:8000/live/snet/snet/11748.ts
+#EXTINF:-1,Al Jazeera Eng HD
+http://188.93.238.184:8000/live/snet/snet/11078.ts
+#EXTINF:-1,CNC World
+http://188.93.238.184:8000/live/snet/snet/11853.ts
+#EXTINF:-1,Channels 24
+http://188.93.238.184:8000/live/snet/snet/11356.ts
+#EXTINF:-1,CNN HD
+http://188.93.238.184:8000/live/snet/snet/11074.ts
+#EXTINF:-1,Star Media Peppa Pig
+http://188.93.238.184:8000/live/snet/snet/37748.ts
+#EXTINF:-1,Disney Channel HD.
+http://188.93.238.184:8000/live/snet/snet/12652.ts
+#EXTINF:-1,Disney XD HD
+http://188.93.238.184:8000/live/snet/snet/11381.ts
+#EXTINF:-1,Disney Jnr HD
+http://188.93.238.184:8000/live/snet/snet/12651.ts
+#EXTINF:-1,Nick Jr
+http://188.93.238.184:8000/live/snet/snet/11379.ts
+#EXTINF:-1,Nicktoons
+http://188.93.238.184:8000/live/snet/snet/11391.ts
+#EXTINF:-1,Nick Jr too
+http://188.93.238.184:8000/live/snet/snet/36599.ts
+#EXTINF:-1,Cartoonito
+http://188.93.238.184:8000/live/snet/snet/37290.ts
+#EXTINF:-1,Boomerang HD
+http://188.93.238.184:8000/live/snet/snet/32934.ts
+#EXTINF:-1,Nickelodeon HD
+http://188.93.238.184:8000/live/snet/snet/12654.ts
+#EXTINF:-1,Cartoon Network HD.
+http://188.93.238.184:8000/live/snet/snet/32933.ts
+#EXTINF:-1,Citv
+http://188.93.238.184:8000/live/snet/snet/37158.ts
+#EXTINF:-1,CBBC
+http://188.93.238.184:8000/live/snet/snet/11385.ts
+#EXTINF:-1,Cbeebies HD
+http://188.93.238.184:8000/live/snet/snet/11387.ts
+#EXTINF:-1,Baby TV
+http://188.93.238.184:8000/live/snet/snet/11383.ts
+#EXTINF:-1,MTV Live HD
+http://188.93.238.184:8000/live/snet/snet/34608.ts
+#EXTINF:-1,MTV Music HD
+http://188.93.238.184:8000/live/snet/snet/37343.ts
+#EXTINF:-1,MTV Dance HD
+http://188.93.238.184:8000/live/snet/snet/37427.ts
+#EXTINF:-1,MTV Hits HD
+http://188.93.238.184:8000/live/snet/snet/11268.ts
+#EXTINF:-1,MTV Base HD
+http://188.93.238.184:8000/live/snet/snet/29485.ts
+#EXTINF:-1,MTV Rocks HD
+http://188.93.238.184:8000/live/snet/snet/11271.ts
+#EXTINF:-1,MTV Classic HD
+http://188.93.238.184:8000/live/snet/snet/11264.ts
+#EXTINF:-1,VH1
+http://188.93.238.184:8000/live/snet/snet/36957.ts
+#EXTINF:-1,VH1 Classic
+http://188.93.238.184:8000/live/snet/snet/37401.ts
+#EXTINF:-1,Heart TV
+http://188.93.238.184:8000/live/snet/snet/11274.ts
+#EXTINF:-1,4 Music
+http://188.93.238.184:8000/live/snet/snet/37280.ts
+#EXTINF:-1,Capital TV
+http://188.93.238.184:8000/live/snet/snet/11742.ts
+#EXTINF:-1,Channel AKA
+http://188.93.238.184:8000/live/snet/snet/11282.ts
+#EXTINF:-1,Clubland TV
+http://188.93.238.184:8000/live/snet/snet/11736.ts
+#EXTINF:-1,M2O Music
+http://188.93.238.184:8000/live/snet/snet/37461.ts
+#EXTINF:-1,NOW 80s..
+http://188.93.238.184:8000/live/snet/snet/11752.ts
+#EXTINF:-1,Vintage TV
+http://188.93.238.184:8000/live/snet/snet/11283.ts
+#EXTINF:-1,Country Network
+http://188.93.238.184:8000/live/snet/snet/37292.ts
+#EXTINF:-1,Keep It Country
+http://188.93.238.184:8000/live/snet/snet/11861.ts
+#EXTINF:-1,UTV Ireland
+http://188.93.238.184:8000/live/snet/snet/11343.ts
