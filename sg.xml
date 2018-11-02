@@ -2,9 +2,9 @@
 
  
  <item>
-<title>IPTV</title>
+<title>World IPTV</title>
 <link>http://ignorame</link> 
-<externallink>https://raw.githubusercontent.com/simon2511/sgtv/master/list1.m3u <externallink>
+<externallink>https://raw.githubusercontent.com/djpl86/iptv/master/Downloads/iptv_list.m3u <externallink>
 <thumbnail>https://archive.org/download/si_Icon_201712/icon.png</thumbnail>  
 <fanart>LINK TO AN IMAGE FOR BACKGROUND</fanart>
 </item>
@@ -13,35 +13,10 @@
  
 
  
- 
- <item>
-<title>SPORT</title>
-<link>http://ignorame</link> 
-<externallink>https://raw.githubusercontent.com/simon2511/sgtv/master/usasport.m3u<externallink>
-<thumbnail>https://archive.org/download/SGSPORT/SG%20SPORT.png</thumbnail>  
-<fanart>LINK TO AN IMAGE FOR BACKGROUND</fanart>
-</item>
 
  
  
- <item>
-<title>VOD </title>
-<link>http://ignorame</link> 
-<externallink>https://raw.githubusercontent.com/simon2511/sgtv/master/list3.m3u<externallink>
-<thumbnail>https://archive.org/download/IPTV2_201808/IPTV2.png  </thumbnail>  
-<fanart>LINK TO AN IMAGE FOR BACKGROUND</fanart>
-</item>
- 
- 
- 
 
-<item>
-<title>ADULT</title>
-<link>http://ignorame</link> 
-<externallink>https://raw.githubusercontent.com/simon2511/sgtv/master/xxx.m3u8 <externallink>
-<thumbnail>https://archive.org/download/si_Icon_201712/icon.png</thumbnail>  
-<fanart>LINK TO AN IMAGE FOR BACKGROUND</fanart>
-</item> 
 
 
 
